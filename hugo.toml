@@ -1,0 +1,71 @@
+baseURL = 'https://www.buergerenergie-boesingen.de'
+languageCode = 'de'
+title = 'Bürgerenergie Bösingen i.G.'
+theme = 'hugo-theme-cleanwhite'
+copyright = 'Bürgerenergie Bösingen i.G.'
+
+#frontpage pagination
+paginate = 10
+
+enableRobotsTXT = true
+buildFuture = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+home = ["HTML", "RSS"]
+
+[params]
+	header_image = "img/buergerenergie-hero.webp"
+	slogan = "Energie für Bösinger Bürger"
+	SEOTitle = "Bürgerenergie Bösingen i.G.."
+	SEODescription = "Bürgerenergie 78662 Bösingen - Bürgerenergiegenossenschaft in Gründung"
+	SEOKeywords = "Bürgerenergie, Energie, Klimaschutz, 78662 Bösingen"
+	description = "Bürgerenergiegenossenschaft in Gründung"
+	author = "Bürgerenergie Bösingen i.G."
+	keywords = "Bürgerenergie, Energie, Genossenschaft"
+
+	logo = ""
+	favicon = "/favicon.ico"
+
+	custom_css = ["css/buergerenergie.css"]
+
+	image_404 = "img/404-bg.jpg"
+	omit_categories = true
+
+	# Sidebar settings
+	sidebar_about_description = ""
+	sidebar_avatar = "img/logo-buergerenergie-boesingen.png"
+
+	featured_tags = false
+	featured_condition_size = 1
+
+	friends = false
+	bookmarks = false
+	about_me = true
+	
+	# Termine-Filterung: Wie viele Tage zurück sollen Termine angezeigt werden?
+	termine_days_back = 4
+
+	[[params.additional_menus]]
+	title = "Neuigkeiten"
+	href = "/neuigkeiten"
+
+	[[params.additional_menus]]
+	title = "Termine"
+	href = "/termine"
+
+	[[params.additional_menus]]
+	title = "Dokumente"
+	href = "/dokumente"
+
+	[[params.additional_menus]]
+	title = "Impressum"
+	href = "/impressum"
+
+	[params.social]
+	rss = true
+	email = "info@buergerenergie-boesingen.de"

@@ -1,0 +1,25 @@
+{{ define "main" }}
+<article>
+    <div class="container">
+        <div class="row">
+            <!-- Post Container -->
+            <div class="col-lg-8 col-lg-offset-1 col-md-8 col-md-offset-1 col-sm-12 col-xs-12 post-container">
+                <h1>{{ .Title }}</h1>
+                <p class="text-muted">{{ .Date.Format "02.01.2006" }}</p>
+                
+                {{ if .Params.tags }}
+                <div style="margin: 20px 0;">
+                    {{ range .Params.tags }}
+                    <span class="label" style="background-color: #2c5530; margin-right: 5px;">{{ . }}</span>
+                    {{ end }}
+                </div>
+                {{ end }}
+                
+                {{ .Content }}
+            </div>
+            
+            {{ partial "sidebar.html" . }}
+        </div>
+    </div>
+</article>
+{{ end }}

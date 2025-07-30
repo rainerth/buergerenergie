@@ -1,0 +1,50 @@
+{{ define "main" }}
+<article>
+    <div class="container">
+        <div class="row">
+            <!-- Post Container -->
+            <div class="col-lg-8 col-lg-offset-1 col-md-8 col-md-offset-1 col-sm-12 col-xs-12 post-container">
+                
+                <!-- Post Content -->
+                <header>
+                    <h1>{{ .Title }}</h1>
+                    <p class="text-muted">
+                        <i class="fa fa-calendar"></i> {{ .Date.Format "02.01.2006, 15:04" }} Uhr
+                        {{ if .Params.author }}
+                            <br><i class="fa fa-user"></i> {{ .Params.author }}
+                        {{ end }}
+                        {{ if .Params.location }}
+                            <br><i class="fa fa-map-marker"></i> {{ .Params.location }}
+                        {{ end }}
+                    </p>
+                </header>
+
+                <hr>
+
+                <!-- Content -->
+                {{ .Content }}
+
+                <!-- Navigation -->
+                <hr>
+                <div class="row">
+                    <div class="col-xs-6">
+                        {{ with .PrevInSection }}
+                        <a href="{{ .Permalink }}" class="btn btn-outline-secondary">&larr; {{ .Title }}</a>
+                        {{ end }}
+                    </div>
+                    <div class="col-xs-6 text-right">
+                        {{ with .NextInSection }}
+                        <a href="{{ .Permalink }}" class="btn btn-outline-secondary">{{ .Title }} &rarr;</a>
+                        {{ end }}
+                    </div>
+                </div>
+                
+                <br>
+                <p><a href="/neuigkeiten/">&larr; Zurück zu allen Neuigkeiten</a></p>
+            </div>
+            
+            {{ partial "sidebar.html" . }}
+        </div>
+    </div>
+</article>
+{{ end }}

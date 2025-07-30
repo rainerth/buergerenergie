@@ -1,0 +1,5 @@
+<!-- layouts/shortcodes/address.html -->
+<address class="{{ .Get "class" | default "address-block" }}">
+	{{ .Inner | markdownify | safeHTML }}
+  </address>
+  

@@ -1,0 +1,144 @@
+/* NaturAktiv Custom Styles */
+
+/* Nature-inspired color palette */
+:root {
+  --nature-green: #2d5016;
+  --nature-light-green: #4a7c1b;
+  --nature-accent: #8bc34a;
+  --nature-brown: #5d4e37;
+  --nature-blue: #4682b4;
+}
+
+/* Header customizations */
+.intro-header .post-heading h1 {
+  color: var(--nature-green);
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+
+.intro-header .post-heading .subheading {
+  color: var(--nature-brown);
+  font-weight: 500;
+}
+
+/* Navigation */
+.navbar-custom {
+  background-color: rgba(45, 80, 22, 0.95);
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .nav li a {
+  color: #ffffff;
+}
+
+.navbar-custom .nav li a:hover {
+  color: var(--nature-accent);
+}
+
+/* Content styling */
+.post-container h1, .post-container h2, .post-container h3 {
+  color: var(--nature-green);
+}
+
+.post-container h2 {
+  border-bottom: 2px solid var(--nature-accent);
+  padding-bottom: 5px;
+}
+
+/* Links */
+a {
+  color: var(--nature-blue);
+}
+
+a:hover {
+  color: var(--nature-light-green);
+}
+
+/* Status badge for "in Gründung" */
+.status-badge {
+  background-color: var(--nature-accent);
+  color: white;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+/* Special styling for contact information */
+.contact-info {
+  background-color: #f8f9fa;
+  border-left: 4px solid var(--nature-accent);
+  padding: 15px;
+  margin: 20px 0;
+}
+
+/* Document links styling */
+.document-list {
+  list-style: none;
+  padding: 0;
+}
+
+.document-list li {
+  margin: 10px 0;
+  padding: 10px;
+  background-color: #f0f8e8;
+  border-radius: 5px;
+  border-left: 4px solid var(--nature-accent);
+}
+
+.document-list li:hover {
+  background-color: #e8f5d8;
+}
+
+/* Mobile Navigation Fix */
+@media only screen and (max-width: 767px) {
+  .navbar-default .navbar-collapse {
+    background: var(--nature-green) !important;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  
+  .navbar-default .navbar-collapse .nav li a {
+    color: #ffffff !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  
+  .navbar-default .navbar-collapse .nav li a:hover,
+  .navbar-default .navbar-collapse .nav li a:focus {
+    color: var(--nature-accent) !important;
+    background-color: rgba(255, 255, 255, 0.1) !important;
+  }
+  
+  .navbar-default .navbar-collapse .nav li a:active {
+    background-color: rgba(255, 255, 255, 0.2) !important;
+  }
+  
+  /* Hamburger Menu Button Fix */
+  .navbar-default .navbar-toggle {
+    background-color: var(--nature-green) !important;
+    border: 1px solid rgba(255, 255, 255, 0.3) !important;
+  }
+  
+  .navbar-default .navbar-toggle:hover,
+  .navbar-default .navbar-toggle:focus {
+    background-color: var(--nature-light-green) !important;
+  }
+  
+  .navbar-default .navbar-toggle:active {
+    background-color: var(--nature-light-green) !important;
+  }
+  
+  .navbar-default .navbar-toggle .icon-bar {
+    background-color: #ffffff !important;
+  }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .intro-header .post-heading h1 {
+    font-size: 2.5em;
+  }
+  
+  .intro-header .post-heading .subheading {
+    font-size: 1.2em;
+  }
+}
