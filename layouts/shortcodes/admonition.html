@@ -1,0 +1,20 @@
+<!-- layouts/shortcodes/admonition.html -->
+{{/*
+	Admonition Shortcode for Hugo
+	Usage:
+	{{< admonition type="note" title="Hinweis">}}
+		Dein Text hier
+	{{< /admonition>}}
+	Parameters:
+	- type: note, warning, tip, important, danger (default: note)
+	- title: Freier Titel (optional, default aus type)
+*/}}
+{{ $type := .Get "type" | default "note" | lower }}
+{{ $title := .Get "title" | default (printf "%s" (title $type)) }}
+
+<div class="admonition admonition-{{ $type }}">
+	<div class="admonition-header">{{ $title }}</div>
+	<div class="admonition-content">
+		{{ .Inner | markdownify }}
+	</div>
+</div>

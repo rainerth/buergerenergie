@@ -1,0 +1,43 @@
+{{ define "main" }}
+<article>
+    <div class="container">
+        <div class="row">
+            <!-- Post Container -->
+            <div class="col-lg-8 col-lg-offset-1 col-md-8 col-md-offset-1 col-sm-12 col-xs-12 post-container">
+                <h1>{{ .Title }}</h1>
+                {{ .Content }}
+                
+                <hr>
+                
+                {{/* Grenzdatum berechnen - konfigurierbare Tage zurück ab Build-Zeit */}}
+                {{ $cutoff := now.AddDate 0 0 -4 }}
+                {{/* Alle Termine-Seiten auf >= cutoff filtern */}}
+                {{ $events := where (where site.RegularPages "Section" "termine") "Date" "ge" $cutoff }}
+                {{/* Sortieren nach Datum aufsteigend (chronologisch) */}}
+                {{ $events = sort $events "Date" "asc" }}
+                {{ range $events }}
+                <div style="margin-bottom: 30px; border-left: 4px solid #2c5530; padding-left: 15px;">
+                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                    <p class="text-muted">
+                        <i class="fa fa-calendar"></i> {{ .Date.Format "02.01.2006, 15:04" }} Uhr
+                        {{ with .Params.location }}
+                        <br><i class="fa fa-map-marker"></i> {{ . }}
+                        {{ end }}
+                    </p>
+                    {{ if .Summary }}
+                        <p>{{ .Summary }}</p>
+                    {{ else }}
+                        <p>{{ .Content | truncate 200 }}</p>
+                    {{ end }}
+                    <a href="{{ .Permalink }}">Details →</a>
+                </div>
+                {{ end }}
+                
+                {{ template "_internal/pagination.html" . }}
+            </div>
+            
+            {{ partial "sidebar.html" . }}
+        </div>
+    </div>
+</article>
+{{ end }}

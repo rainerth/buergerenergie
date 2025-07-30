@@ -1,0 +1,104 @@
+<!-- Sidebar Container -->
+<div class="col-lg-3 col-lg-offset-0 col-md-3 col-md-offset-0 col-sm-12 col-xs-12 sidebar-container">
+    <!-- Short About -->
+    {{ if .Site.Params.about_me }}
+    <section class="visible-md visible-lg">
+        <div class="short-about">
+            {{ with .Site.Params.sidebar_avatar }}
+            <a href="{{ "/" | relLangURL }}">
+               <img src="{{ . | relURL }}" alt="avatar" style="cursor: pointer" />
+            </a>
+            {{ end }}
+            {{ with .Site.Params.sidebar_about_description }}
+                <p>{{ . | safeHTML }}</p>
+            {{ end }}
+           <!-- SNS Link -->
+           <ul class="list-inline">
+               {{ if .Site.Params.social.email }}
+               <li>
+                   <a href="mailto:{{ .Site.Params.social.email }}">
+                      <span class="fa-stack fa-lg">
+                          <i class="fa fa-circle fa-stack-2x"></i>
+                          <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                      </span>
+                   </a>
+               </li>
+               {{ end }}
+           </ul>
+        </div>
+    </section>
+    {{ end }}
+
+    <!-- Neuigkeiten -->
+    <section>
+        <hr class="hidden-sm hidden-xs">
+        <h5><a href="/neuigkeiten/">NEUIGKEITEN</a></h5>
+        <ul class="list-unstyled">
+            {{/* Nur Posts mit Datum <= heute anzeigen */}}
+            {{ $posts := where (where .Site.Pages "Section" "neuigkeiten") "Date" "le" now }}
+            {{ range first 3 (sort $posts "Date" "desc") }}
+            <li style="margin-bottom: 10px;">
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+                <br><small class="text-muted">{{ .Date.Format "02.01.2006" }}</small>
+            </li>
+            {{ end }}
+        </ul>
+        <p><a href="/neuigkeiten/">Alle Neuigkeiten →</a></p>
+    </section>
+
+    <!-- Termine -->
+    <section>
+        <hr class="hidden-sm hidden-xs">
+        <h5><a href="/termine/">TERMINE</a></h5>
+        <ul class="list-unstyled">
+            {{ if .IsHome }}
+                {{/* Homepage: Alle Termine ohne Zeitfilterung */}}
+                {{ $events := where site.RegularPages "Section" "termine" }}
+                {{/* Sortieren nach Datum aufsteigend und erste 3 nehmen */}}
+                {{ range first 3 (sort $events "Date" "asc") }}
+                <li style="margin-bottom: 10px;">
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    <br><small class="text-muted">{{ .Date.Format "02.01.2006" }}</small>
+                    {{ with .Params.location }}
+                    <br><small class="text-muted"><i class="fa fa-map-marker"></i> {{ . }}</small>
+                    {{ end }}
+                </li>
+                {{ end }}
+            {{ else }}
+                {{/* Andere Seiten: Grenzdatum berechnen - 4 Tage zurück ab Build-Zeit */}}
+                {{ $cutoff := now.AddDate 0 0 -4 }}
+                {{/* Termine ab Cutoff filtern */}}
+                {{ $events := where (where site.RegularPages "Section" "termine") "Date" "ge" $cutoff }}
+                {{/* Sortieren nach Datum aufsteigend und erste 3 nehmen */}}
+                {{ range first 3 (sort $events "Date" "asc") }}
+                <li style="margin-bottom: 10px;">
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    <br><small class="text-muted">{{ .Date.Format "02.01.2006" }}</small>
+                    {{ with .Params.location }}
+                    <br><small class="text-muted"><i class="fa fa-map-marker"></i> {{ . }}</small>
+                    {{ end }}
+                </li>
+                {{ end }}
+            {{ end }}
+        </ul>
+        <p><a href="/termine/">Alle Termine →</a></p>
+    </section>
+
+    <!-- Featured Tags -->
+    {{ if .Site.Params.featured_tags }}
+    <section>
+        <hr class="hidden-sm hidden-xs">
+        <h5>SCHLAGWÖRTER</h5>
+        <div class="tags">
+            {{ $featured_condition_size := .Site.Params.featured_condition_size }}
+            {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+               {{ if gt (len $taxonomy.Pages) $featured_condition_size }}
+                    <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}" title="{{ $name }}">
+                        {{ $name }}
+                    </a>
+               {{ end }}
+            {{ end }}
+        </div>
+    </section>
+    {{ end }}
+</div>
