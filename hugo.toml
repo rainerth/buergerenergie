@@ -29,7 +29,7 @@ home = ["HTML", "RSS"]
 	keywords = "Bürgerenergie, Energie, Genossenschaft"
 
 	logo = ""
-	favicon = "/favicon.ico"
+	favicon = ""
 
 	custom_css = ["css/buergerenergie.css"]
 
@@ -46,7 +46,7 @@ home = ["HTML", "RSS"]
 	friends = false
 	bookmarks = false
 	about_me = true
-	
+
 	# Termine-Filterung: Wie viele Tage zurück sollen Termine angezeigt werden?
 	termine_days_back = 4
 

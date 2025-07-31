@@ -11,10 +11,12 @@ layout: "page"
 
 **Bürgerenergie Bösingen i.G.**
 
-
 **Kontakt:**
-Rainer Thieringer
+
+Rainer Thieringer<br>
+Klaus Wizemann<br>
 E-Mail: info@buergerenergie-boesingen.de
+
 
 
 ## Haftungsausschluss
@@ -40,8 +42,7 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Komm
 ## Vertretungsregelung
 
 Diese Gemeinschaft ist aktuell in Gründung. Ansprechpartner und
-Verantwortlicher für diese Webseite ist bis zur Grüund Rainer Thieringer,
-78662 Bösingen.
+Verantwortlicher für diese Webseite ist Rainer Thieringer, Merowingerstraße 6, 78662 Bösingen.
 
 ---
 
