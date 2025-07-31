@@ -1,0 +1,26 @@
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js" type="text/javascript"></script>
+<div id="search"></div>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ 
+            element: "#search",
+            showImages: false,
+            showSubResults: true,
+            excerptLength: 30,
+            translations: {
+                placeholder: "Nach Inhalten suchen...",
+                clear_search: "Suche löschen",
+                load_more: "Weitere Ergebnisse laden",
+                search_label: "Suche auf dieser Website",
+                filters_label: "Filter",
+                zero_results: "Keine Ergebnisse für [SEARCH_TERM]",
+                many_results: "[COUNT] Ergebnisse für [SEARCH_TERM]",
+                one_result: "[COUNT] Ergebnis für [SEARCH_TERM]",
+                alt_search: "Keine Ergebnisse für [SEARCH_TERM]. Zeige Ergebnisse für [DIFFERENT_TERM] stattdessen",
+                search_suggestion: "Versuchen Sie es mit anderen Suchbegriffen oder weniger spezifischen Begriffen.",
+                searching: "Suche nach [SEARCH_TERM]..."
+            }
+        });
+    });
+</script>

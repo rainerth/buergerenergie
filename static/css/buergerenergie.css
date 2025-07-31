@@ -96,37 +96,37 @@ a:hover {
     background: var(--nature-green) !important;
     border: 1px solid rgba(255, 255, 255, 0.1);
   }
-  
+
   .navbar-default .navbar-collapse .nav li a {
     color: #ffffff !important;
     border-bottom: 1px solid rgba(255, 255, 255, 0.1);
   }
-  
+
   .navbar-default .navbar-collapse .nav li a:hover,
   .navbar-default .navbar-collapse .nav li a:focus {
     color: var(--nature-accent) !important;
     background-color: rgba(255, 255, 255, 0.1) !important;
   }
-  
+
   .navbar-default .navbar-collapse .nav li a:active {
     background-color: rgba(255, 255, 255, 0.2) !important;
   }
-  
+
   /* Hamburger Menu Button Fix */
   .navbar-default .navbar-toggle {
     background-color: var(--nature-green) !important;
     border: 1px solid rgba(255, 255, 255, 0.3) !important;
   }
-  
+
   .navbar-default .navbar-toggle:hover,
   .navbar-default .navbar-toggle:focus {
     background-color: var(--nature-light-green) !important;
   }
-  
+
   .navbar-default .navbar-toggle:active {
     background-color: var(--nature-light-green) !important;
   }
-  
+
   .navbar-default .navbar-toggle .icon-bar {
     background-color: #ffffff !important;
   }
@@ -137,7 +137,7 @@ a:hover {
   .intro-header .post-heading h1 {
     font-size: 2.5em;
   }
-  
+
   .intro-header .post-heading .subheading {
     font-size: 1.2em;
   }
