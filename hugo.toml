@@ -69,3 +69,7 @@ home = ["HTML", "RSS"]
 	[params.social]
 	rss = true
 	email = "info@buergerenergie-boesingen.de"
+
+	# Search configuration
+	search = true
+	search_provider = "pagefind"
