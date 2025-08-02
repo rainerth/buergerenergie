@@ -1,6 +1,6 @@
 ---
 title: "In Planung: Infoveranstaltungen"
-subtitle: "termin"
+subtitle: "Termin"
 date: 2025-09-01
 draft: false
 tags: ["Energie", "Genossenschaft"]
