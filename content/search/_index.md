@@ -13,7 +13,7 @@ Suchen Sie hier nach Inhalten auf unserer Website:
 
 <script>
     window.addEventListener('DOMContentLoaded', (event) => {
-        new PagefindUI({ 
+        new PagefindUI({
             element: "#search",
             showImages: false,
             showSubResults: true,

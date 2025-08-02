@@ -4,12 +4,12 @@
         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             <article role="main" class="blog-post">
                 <h1>{{ .Title }}</h1>
-                
+
                 {{ .Content }}
-                
+
                 {{ if eq hugo.Environment "development" }}
                 <div class="alert alert-info">
-                    <strong>Hinweis:</strong> Die Suche funktioniert nur in der produktiven Version. 
+                    <strong>Hinweis:</strong> Die Suche funktioniert nur in der produktiven Version.
                     Führen Sie <code>./build.sh</code> aus und verwenden Sie die generierten Dateien im <code>public/</code> Ordner.
                 </div>
                 {{ else }}
