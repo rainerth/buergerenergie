@@ -28,8 +28,8 @@ home = ["HTML", "RSS"]
 	author = "Bürgerenergie Bösingen i.G."
 	keywords = "Bürgerenergie, Energie, Genossenschaft"
 
-	logo = ""
-	favicon = ""
+	logo = "img/buergerenergie-boesingen-logo.png"
+	favicon = "favicon-256x256.png"
 
 	custom_css = ["css/buergerenergie.css"]
 
@@ -37,8 +37,8 @@ home = ["HTML", "RSS"]
 	omit_categories = true
 
 	# Sidebar settings
-	sidebar_about_description = ""
-	sidebar_avatar = "img/logo-buergerenergie-boesingen.png"
+	sidebar_about_description = "Bürgerenergie Bösingen i.G."
+	sidebar_avatar = "img/buergerenergie-boesingen-logo.png"
 
 	featured_tags = false
 	featured_condition_size = 1
