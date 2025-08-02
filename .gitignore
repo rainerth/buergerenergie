@@ -186,3 +186,7 @@ $RECYCLE.BIN/
 # Eigene Ausnahmen
 /rohmaterial/
 /public/
+# Data files are symlinked to server location
+# /home/pacs/wme00/users/buergerenergie/interessenten.csv
+# No need to ignore symlinks, but exclude any backup copies
+*.csv.bak

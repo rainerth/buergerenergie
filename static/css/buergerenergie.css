@@ -214,3 +214,178 @@ a:hover {
   background-color: #ffebee;
   color: #c62828;
 }
+
+/* Mitglieder-Tabelle Styles */
+.members-table {
+  margin-top: 2rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+  overflow-x: auto; /* Horizontales Scrolling erlauben */
+}
+
+.members-table .table {
+  margin-bottom: 0;
+  table-layout: auto; /* Automatische Spaltenbreiten basierend auf Inhalt */
+  width: auto; /* Natürliche Tabellenbreite */
+}
+
+.members-table .table-dark th {
+  background-color: var(--nature-green);
+  border-color: var(--nature-light-green);
+  color: white;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.8em; /* Etwas größere Schrift für bessere Lesbarkeit */
+  letter-spacing: 0.3px;
+  padding: 8px 12px; /* Mehr Padding für bessere Lesbarkeit */
+  white-space: normal; /* Umbruch in Kopfzeile erlauben */
+  text-align: left; /* Linksbündige Ausrichtung */
+  line-height: 1.2; /* Besserer Zeilenabstand bei Umbrüchen */
+}
+
+.members-table tbody tr:hover {
+  background-color: #f0f8e8;
+  transition: background-color 0.2s ease;
+}
+
+.members-table tbody td {
+  vertical-align: middle;
+  border-color: #e8f5d8;
+  font-size: 0.85em; /* Größere Schrift für bessere Lesbarkeit */
+  padding: 6px 12px; /* Mehr Padding um Überlappungen zu vermeiden */
+  white-space: nowrap;
+  text-align: left; /* Linksbündige Ausrichtung */
+}
+
+.members-table .member-status {
+  display: inline-block;
+  padding: 3px 6px; /* Etwas mehr Padding */
+  border-radius: 8px;
+  font-size: 0.8em; /* Größere Schrift für Status */
+  font-weight: 600;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.members-table .status-active {
+  background-color: var(--nature-accent);
+  color: white;
+}
+
+.members-table .status-interested {
+  background-color: #17a2b8;
+  color: white;
+}
+
+.members-table .status-inactive {
+  background-color: #dc3545;
+  color: white;
+}
+
+.members-table .anteilsscheine {
+  font-weight: 600;
+  color: var(--nature-green);
+  font-size: 0.8em; /* Größere Schrift für Anteilsscheine */
+}
+
+/* Email und Telefon Links in der Tabelle */
+.members-table .email-link,
+.members-table .phone-link {
+  color: var(--nature-green);
+  text-decoration: none;
+  font-size: 0.9em; /* Größere Links für bessere Lesbarkeit */
+  white-space: nowrap; /* Links nicht umbrechen */
+}
+
+.members-table .email-link:hover,
+.members-table .phone-link:hover {
+  color: var(--nature-light-green);
+  text-decoration: underline;
+}
+
+.members-table .email-link i,
+.members-table .phone-link i {
+  margin-right: 4px;
+}
+
+.members-table .badge {
+  font-size: 0.8em; /* Größere Badges */
+  padding: 2px 6px; /* Mehr Padding */
+  white-space: nowrap;
+}
+
+/* Spezielle Behandlung für Bemerkung und Expertise Spalten */
+.members-table td:nth-child(10), /* Bemerkung-Spalte */
+.members-table td:nth-child(11) { /* Expertise-Spalte */
+  white-space: normal; /* Umbruch erlauben */
+  max-width: 150px; /* Maximale Breite für bessere Lesbarkeit */
+  word-wrap: break-word; /* Lange Wörter umbrechen */
+  line-height: 1.3; /* Besserer Zeilenabstand */
+}
+
+/* Entferne spezielle Spalten-Behandlung für einheitliche Darstellung */
+
+/* Geschützter Bereich Header */
+.protected-area {
+  background: linear-gradient(135deg, var(--nature-green), var(--nature-light-green));
+  color: white;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.protected-area h1 {
+  color: white;
+  margin-bottom: 0.5rem;
+}
+
+.protected-area .lock-icon {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  opacity: 0.8;
+}
+
+/* CSV Download Button */
+.csv-download-section {
+  text-align: center;
+  padding: 1.5rem;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  border-left: 4px solid var(--nature-accent);
+}
+
+.csv-download-section .btn {
+  font-size: 1rem;
+  padding: 10px 20px;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+}
+
+.csv-download-section .btn-success {
+  background-color: var(--nature-accent);
+  border-color: var(--nature-accent);
+  color: white;
+}
+
+.csv-download-section .btn-success:hover {
+  background-color: var(--nature-light-green);
+  border-color: var(--nature-light-green);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Responsive Tabelle */
+@media (max-width: 768px) {
+  .members-table {
+    font-size: 0.7em; /* Kleinere aber lesbare Schrift auf mobilen Geräten */
+    overflow-x: auto; /* Horizontales Scrolling */
+  }
+  
+  .members-table th,
+  .members-table td {
+    padding: 4px 8px; /* Reduziertes aber ausreichendes Padding */
+    font-size: 0.65em; /* Kleinere Schrift auf Mobile */
+  }
+}

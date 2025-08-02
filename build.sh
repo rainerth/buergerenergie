@@ -3,6 +3,9 @@
 # Build script for Hugo site with PageFind search
 echo "🏗️  Building Hugo site..."
 
+# Note: CSV file is now symlinked directly to server location
+# /home/pacs/wme00/users/buergerenergie/interessenten.csv
+
 # Build the Hugo site
 hugo --cleanDestinationDir
 
