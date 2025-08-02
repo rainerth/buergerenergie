@@ -1,5 +1,5 @@
 ---
-title: "In Planung: Gründungsversammlung"
+title: "In Planung für November: Gründungsversammlung"
 subtitle: "Termin"
 date: 2025-11-01
 draft: false
