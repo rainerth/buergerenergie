@@ -1,9 +1,8 @@
 ---
 layout: page
 show_sidebar: false
-aliases: ["/energie","/begb", "/bürgerenergiegenossenschaft", "/buergerenergiegenossenschaft","/Bürgerenergiegenossenschaft"]
 tags: [Bürgerenergiegenossenschaft, Bösingen, Genossenschaft, Erneuerbare Energien, Klimaschutz]
-title: Bürgerenergie-Genossenschaft Bösingen ??
+title: Bürgerenergie-Genossenschaft Bösingen
 subtitle: "Sind Sie dabei?"
 description: Bürgerenergiegenossenschaft Bösingen ??
 draft: false
@@ -15,9 +14,9 @@ header_image: "/img/buergerenergie-hero.webp"
 
 # Gemeinsam die Energie&shy;zukunft gestalten!
 
-Die *Bürgerenergiegenossenschaft Bösingen* ist aktuell eine Vision auf dem Weg zur Gründung einer Genossenschaft. Wir wollen lokale Energieprojekte fördern - aber auch zu Gunsten der Bösinger Bürger aktiv mitgestalten und davon profitieren.
+Die *Bürgerenergiegenossenschaft Bösingen* ist aktuell eine Vision auf dem Weg zur Gründung einer Genossenschaft. Wir wollen lokale Energieprojekte fördern - aber auch zu Gunsten der Bösinger Bürger aktiv mitgestalten und davon profitieren. **Wir wollen bei den uns unmittelbar betreffenden Projekten mit starker Stimme mitreden.**
 
-Die Genossenschaft soll eine entscheidende Rolle dabei spielen, die Energiewende hin zu erneuerbaren Energiequellen voranzutreiben und alle Einwohner aktiv einzubinden.
+Die Genossenschaft soll dabei eine entscheidende Rolle spielen, die Energiewende hin zu erneuerbaren Energiequellen voranzutreiben und alle Einwohner aktiv einzubinden. **Energieversorgung geht uns alle an.**
 
 
 ### Mögliche Projekte in Bösingen
@@ -30,7 +29,7 @@ Die Genossenschaft soll eine entscheidende Rolle dabei spielen, die Energiewende
 
 * **Energetische Nutzung** der neuen Kläranlage zur Senkung der Betriebskosten.
 
-* **Finanzierung von Speichern** zur Nutzung der Überschüsse aus PV und Windkraft.
+* **Finanzierung von Speichern** zur lokalen Nutzung der Überschüsse aus PV und Windkraft.
 
 * ...
 

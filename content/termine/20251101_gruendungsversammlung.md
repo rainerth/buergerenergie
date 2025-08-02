@@ -1,6 +1,6 @@
 ---
 title: "In Planung: Gründungsversammlung"
-subtitle: "termin"
+subtitle: "Termin"
 date: 2025-11-01
 draft: false
 tags: ["Energie", "Genossenschaft"]
