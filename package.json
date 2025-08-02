@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "build": "hugo && pagefind --site public && git submodule update --init --recursive",
+    "serve": "hugo server --buildFuture"
+  }
+}

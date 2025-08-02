@@ -9,7 +9,7 @@ layout: "page"
 
 ## Angaben gemäß § 5 TMG
 
-**Bürgerenergie Bösingen i.G.**
+**Bürgerenergie Bösingen i.G. (in Gründung)**
 
 **Kontakt:**
 
