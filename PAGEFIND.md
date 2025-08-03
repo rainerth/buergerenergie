@@ -8,10 +8,10 @@ Die Website verwendet [PageFind](https://pagefind.app/) für die Volltextsuche. 
 
 ```bash
 npx pagefind --site public --output-subdir pagefind \
-  --exclude-selectors "[data-pagefind-ignore]" \
-  --glob "**/*.html" \
-  --exclude-glob "**/intern/**"
+  --exclude-selectors "[data-pagefind-ignore], .intern-content, #intern"
 ```
+
+**Hinweis**: Die ursprünglich geplante `--exclude-glob "**/intern/**"` Option ist in älteren PageFind-Versionen nicht verfügbar. Stattdessen wird über CSS-Selektoren und HTML-Attribute ausgeschlossen.
 
 ## Parameter-Erklärung
 
@@ -23,23 +23,12 @@ npx pagefind --site public --output-subdir pagefind \
 - **Zweck**: Bestimmt den Unterordner für die Suchindex-Dateien
 - **Resultat**: Suchindex wird in `public/pagefind/` gespeichert
 
-### `--exclude-selectors "[data-pagefind-ignore]"`
-- **Zweck**: Schließt HTML-Elemente mit dem Attribut `data-pagefind-ignore` aus
-- **Verwendung**: Für granulare Kontrolle in Templates
-- **Beispiel**: 
-  ```html
-  <div data-pagefind-ignore>
-    Dieser Inhalt wird nicht indexiert
-  </div>
-  ```
-
-### `--glob "**/*.html"`
-- **Zweck**: Indexiert nur HTML-Dateien (Sicherheitsmaßnahme)
-- **Ausgeschlossen**: CSS, JS, Bilder, CSV-Dateien, etc.
-
-### `--exclude-glob "**/intern/**"`
-- **Zweck**: **DATENSCHUTZ** - Schließt das gesamte `/intern/` Verzeichnis aus
-- **Geschützt**: Mitgliederdaten, CSV-Listen, authentifizierte Bereiche
+### `--exclude-selectors "[data-pagefind-ignore], .intern-content, #intern"`
+- **Zweck**: Schließt HTML-Elemente mit folgenden Attributen/Klassen aus:
+  - `data-pagefind-ignore` - Granulare Kontrolle über HTML-Attribute
+  - `.intern-content` - CSS-Klasse für interne Bereiche
+  - `#intern` - ID für spezifische interne Bereiche
+- **Verwendung**: Ersetzt die nicht verfügbare `--exclude-glob` Option
 
 ## Datenschutz-Maßnahmen
 
@@ -56,13 +45,18 @@ npx pagefind --site public --output-subdir pagefind \
 
 ## Zusätzliche Ausschluss-Optionen
 
-### HTML-Attribut-basiert
+### HTML-Attribut und CSS-Klassen basiert
 ```html
 <!-- Kompletter Bereich ausschließen -->
 <section data-pagefind-ignore>
   <h2>Interne Informationen</h2>
   <p>Diese Daten sind nicht suchbar</p>
 </section>
+
+<!-- Mit CSS-Klasse ausschließen -->
+<div class="intern-content">
+  <p>Auch dieser Text ist nicht suchbar</p>
+</div>
 
 <!-- Nur Inhalt ausschließen, Titel bleibt suchbar -->
 <section>
@@ -82,9 +76,13 @@ npx pagefind --site public --output-subdir pagefind \
 
 ## Weitere PageFind-Optionen
 
-### Zusätzliche Verzeichnisse ausschließen
+### Erweiterte Ausschlüsse (falls verfügbar)
 ```bash
---exclude-glob "**/intern/**,**/private/**,**/admin/**"
+# Zusätzliche CSS-Selektoren
+--exclude-selectors "[data-pagefind-ignore], .intern-content, .protected-area, #admin"
+
+# Kombiniert mit anderen Optionen
+--exclude-selectors "[data-pagefind-ignore], .intern-content" --force-language de
 ```
 
 ### Sprachspezifische Konfiguration
@@ -155,6 +153,6 @@ find public/pagefind/ -name "*.json" | wc -l
 
 ---
 
-**Letzte Aktualisierung**: 3. August 2025  
-**PageFind Version**: Latest (via npx)  
+**Letzte Aktualisierung**: 3. August 2025
+**PageFind Version**: Latest (via npx)
 **Konfiguriert in**: `build.sh`

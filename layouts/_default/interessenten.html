@@ -2,9 +2,22 @@
 <div class="container">
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <article role="main" class="blog-post">
+                {{ end }}
+                {{ else }}
+                <div class="alert alert-danger">
+                    <i class="fa fa-exclamation-triangle"></i>
+                    <strong>Fehler:</strong> CSV-Datei "{{ $csvFile }}" konnte nicht aus dem assets-Verzeichnis geladen werden.
+                    <br><small>Hinweis: CSV-Dateien müssen im assets/ Verzeichnis liegen, nicht im data/ Verzeichnis.</small>
+                </div>
+                {{ end }}
+                </div> <!-- End intern-content -->
+            </article>
+        </div>
+    </div>
+</div>
+{{ end }}article role="main" class="blog-post">
                 <!-- Geschützter Bereich Header -->
-                <div class="protected-area">
+                <div class="protected-area intern-content" data-pagefind-ignore>
                     <div class="lock-icon">
                         <i class="fa fa-lock"></i>
                     </div>
@@ -12,6 +25,7 @@
                     <p>Interner Organisationsbereich</p>
                 </div>
 
+                <div class="intern-content" data-pagefind-ignore>
                 {{ .Content }}
 
                 <!-- Download-Button für CSV-Datei -->

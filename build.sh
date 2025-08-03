@@ -54,12 +54,12 @@ hugo --cleanDestinationDir --buildFuture
 
 if [ $? -eq 0 ]; then
     echo "✅ Hugo build successful!"
-    
+
     # Run PageFind with exclusion of internal/protected areas
     # Documentation: See PAGEFIND.md for detailed configuration explanation
     echo "🔍 Generating search index with PageFind (excluding internal areas)..."
-    npx pagefind --site public --output-subdir pagefind --exclude-selectors "[data-pagefind-ignore]" --glob "**/*.html" --exclude-glob "**/intern/**"
-    
+    npx pagefind --site public --output-subdir pagefind --exclude-selectors "[data-pagefind-ignore], .intern-content, #intern"
+
     if [ $? -eq 0 ]; then
         echo "✅ PageFind index generated successfully!"
         echo "🚀 Site is ready to deploy!"
