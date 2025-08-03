@@ -208,3 +208,7 @@ static/intern/.htaccess.template
 # Environment-specific configuration (keep template in repo)
 # config.env should be customized per environment
 config.env
+
+# Server deployment logs and backups (local only)
+logs/
+backup/
