@@ -209,6 +209,8 @@ static/intern/.htaccess.template
 # config.env should be customized per environment
 config.env
 
+# Documentation: See PAGEFIND.md for search configuration details
+
 # Server deployment logs and backups (local only)
 logs/
 backup/

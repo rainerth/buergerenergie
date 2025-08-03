@@ -38,7 +38,7 @@ ln -s "$(realpath "$CSV_SOURCE_PATH")" "$STATIC_CSV_PATH"
 
 echo "✅ CSV symlinks created:"
 echo "   📊 Assets: $ASSETS_CSV_PATH -> $CSV_SOURCE_PATH"
-echo "   📥 Download: $STATIC_CSV_PATH -> $CSV_SOURCE_PATH"
+echo "   � Download: $STATIC_CSV_PATH -> $CSV_SOURCE_PATH"
 
 # Configure .htaccess with correct path
 echo "🔐 Configuring Apache authentication..."
@@ -55,9 +55,10 @@ hugo --cleanDestinationDir --buildFuture
 if [ $? -eq 0 ]; then
     echo "✅ Hugo build successful!"
     
-    # Run PageFind to generate search index
-    echo "🔍 Generating search index with PageFind..."
-    npx pagefind --site public --output-subdir pagefind
+    # Run PageFind with exclusion of internal/protected areas
+    # Documentation: See PAGEFIND.md for detailed configuration explanation
+    echo "🔍 Generating search index with PageFind (excluding internal areas)..."
+    npx pagefind --site public --output-subdir pagefind --exclude-selectors "[data-pagefind-ignore]" --glob "**/*.html" --exclude-glob "**/intern/**"
     
     if [ $? -eq 0 ]; then
         echo "✅ PageFind index generated successfully!"

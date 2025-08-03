@@ -50,32 +50,32 @@ if [ "$LOCAL" = "$REMOTE" ]; then
         log "✅ Repository is up-to-date"
         exit 0
     fi
-    
+
 elif [ "$LOCAL" = "$BASE" ]; then
     log "📥 Updates available, starting deployment..."
-    
+
     # Backup sensitive files before update
     log "💾 Backing up local configuration files..."
     mkdir -p "$BACKUP_DIR/$(date +%Y%m%d_%H%M%S)"
     CURRENT_BACKUP="$BACKUP_DIR/$(date +%Y%m%d_%H%M%S)"
-    
+
     # Backup files that should not be overwritten
     [ -f "config.env" ] && cp "config.env" "$CURRENT_BACKUP/"
     [ -f "static/intern/.htpasswd" ] && cp "static/intern/.htpasswd" "$CURRENT_BACKUP/"
     [ -f "static/intern/.htaccess" ] && cp "static/intern/.htaccess" "$CURRENT_BACKUP/.htaccess.backup"
-    
+
     log "✅ Configuration files backed up to: $CURRENT_BACKUP"
-    
+
     # Update repository
     log "🔄 Updating repository..."
     git reset --hard "$REMOTE"
     git submodule update --init --recursive
-    
+
     # Restore sensitive files
     log "🔧 Restoring local configuration..."
     [ -f "$CURRENT_BACKUP/config.env" ] && cp "$CURRENT_BACKUP/config.env" "config.env"
     [ -f "$CURRENT_BACKUP/.htpasswd" ] && cp "$CURRENT_BACKUP/.htpasswd" "static/intern/.htpasswd"
-    
+
     # Merge .htaccess carefully (keep auth settings, update other parts)
     if [ -f "$CURRENT_BACKUP/.htaccess.backup" ]; then
         log "🔐 Preserving authentication configuration in .htaccess..."
@@ -95,15 +95,15 @@ if [ "$FORCE_BUILD" = true ] || [ "$LOCAL" = "$BASE" ]; then
         log "❌ Site build failed"
         exit 1
     fi
-    
+
     # Clean up old backups (keep last 10)
     log "🧹 Cleaning up old backups..."
     cd "$BACKUP_DIR"
     ls -1t | tail -n +11 | xargs -r rm -rf
-    
+
     log "🎉 Deployment completed successfully!"
 fi
-    
+
 if [ "$REMOTE" = "$BASE" ]; then
     log "⚠️  Local repository has unpushed changes"
     exit 1
