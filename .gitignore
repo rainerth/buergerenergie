@@ -186,7 +186,24 @@ $RECYCLE.BIN/
 # Eigene Ausnahmen
 /rohmaterial/
 /public/
-# Data files are symlinked to server location
-# /home/pacs/wme00/users/buergerenergie/interessenten.csv
-# No need to ignore symlinks, but exclude any backup copies
+# Hugo build output
+public/
+.hugo_build.lock
+
+# CSV data files (symlinked from external sources)
+assets/data/interessenten.csv
+static/intern/interessenten.csv
+
+# Apache authentication files (contain sensitive password hashes)
+.htpasswd
+*.htpasswd
+static/intern/.htpasswd
+static/mitglieder/.htpasswd
+
+# Backup files
+*.bak
 *.csv.bak
+static/intern/.htaccess.template
+
+# Environment-specific configuration (keep template in repo)
+# config.env should be customized per environment

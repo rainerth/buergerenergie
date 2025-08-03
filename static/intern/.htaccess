@@ -1,5 +1,6 @@
 AuthType Basic
 AuthName "Interner Bereich - Bürgerenergie Bösingen"
+# HTPASSWD_PATH wird vom Build-Script gesetzt
 AuthUserFile /var/www/html/intern/.htpasswd
 Require valid-user
 
@@ -7,17 +8,21 @@ Require valid-user
 Header always set X-Content-Type-Options nosniff
 Header always set X-Frame-Options DENY
 Header always set X-XSS-Protection "1; mode=block"
+Header always set Referrer-Policy "strict-origin-when-cross-origin"
 
-# Blockiere direkten Zugriff auf sensible Dateien
-<Files "*.csv">
+# CSV-Download erlauben für authentifizierte Benutzer
+<Files "interessenten.csv">
+    Require valid-user
+</Files>
+
+# Blockiere direkten Zugriff auf .htpasswd
+<Files ".htpasswd">
     Order deny,allow
     Deny from all
 </Files>
 
-<Files "*.htpasswd">
-    Order deny,allow
-    Deny from all
-</Files>
+# Blockiere Verzeichnis-Listing
+Options -Indexes
 
 <Files "*.htaccess">
     Order deny,allow
