@@ -50,7 +50,7 @@ if [ -f "static/intern/.htaccess" ]; then
 fi
 
 # Build the Hugo site
-hugo --cleanDestinationDir
+hugo --cleanDestinationDir --buildFuture
 
 if [ $? -eq 0 ]; then
     echo "✅ Hugo build successful!"
