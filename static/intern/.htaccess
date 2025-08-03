@@ -1,7 +1,7 @@
 AuthType Basic
 AuthName "Interner Bereich - Bürgerenergie Bösingen"
 # HTPASSWD_PATH wird vom Build-Script gesetzt
-AuthUserFile __HTPASSWD_PATH__
+AuthUserFile /var/www/html/intern/.htpasswd
 Require valid-user
 
 # Sicherheitsheader

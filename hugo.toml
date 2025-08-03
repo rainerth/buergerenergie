@@ -18,8 +18,18 @@ buildFuture = true
 [outputs]
 home = ["HTML", "RSS"]
 
+
 [params]
-	header_image = "img/buergerenergie-hero.webp"
+	#header_image = "img/buergerenergie-hero.webp"
+	#header_image = "img/AdobeStock_1432620622_Preview.jpeg"
+	#header_image = "img/AdobeStock_611207648_Preview.jpeg"
+	#header_image = "img/AdobeStock_158886825_Preview.jpeg"
+	#header_image = "img/AdobeStock_158889413_Preview.jpeg"
+	#header_image = "img/AdobeStock_30479805_Preview.jpeg"
+	#header_image = "img/AdobeStock_106063041_Preview.jpeg"
+	#header_image = "img/buergerenergie-hero.webp"  # Dunkler Hintergrund, besserer Kontrast
+	header_image = "img/AdobeStock_106063041.jpeg"  # Helles Bild mit dunkler Schrift
+
 	slogan = "Energiezukunft mitgestalten."
 	SEOTitle = "Bürgerenergie Bösingen i.G.."
 	SEODescription = "Bürgerenergie 78662 Bösingen - Bürgerenergiegenossenschaft in Gründung"
