@@ -2,6 +2,14 @@
 
 # Server deployment script for Bürgerenergie Hugo Site
 # This script safely updates from GitHub while preserving local configuration
+# Usage: ./deploy-server.sh [--force]
+#   --force: Force rebuild even if repository is up-to-date
+
+# Parse command line arguments
+FORCE_BUILD=false
+if [ "$1" = "--force" ]; then
+    FORCE_BUILD=true
+fi
 
 # Configuration
 REPO_DIR="$HOME/prj/beg"
@@ -35,8 +43,13 @@ REMOTE=$(git rev-parse "$UPSTREAM")
 BASE=$(git merge-base @ "$UPSTREAM")
 
 if [ "$LOCAL" = "$REMOTE" ]; then
-    log "✅ Repository is up-to-date"
-    exit 0
+    if [ "$FORCE_BUILD" = true ]; then
+        log "🔄 Repository is up-to-date but --force specified, building anyway..."
+        # Skip to build section without git operations
+    else
+        log "✅ Repository is up-to-date"
+        exit 0
+    fi
     
 elif [ "$LOCAL" = "$BASE" ]; then
     log "📥 Updates available, starting deployment..."
@@ -68,8 +81,10 @@ elif [ "$LOCAL" = "$BASE" ]; then
         log "🔐 Preserving authentication configuration in .htaccess..."
         # The build script will handle .htaccess configuration
     fi
-    
-    # Use our build script instead of direct Hugo call
+fi
+
+# Build section (common for both update and force scenarios)
+if [ "$FORCE_BUILD" = true ] || [ "$LOCAL" = "$BASE" ]; then
     log "🏗️  Building site with local configuration..."
     if ./build.sh; then
         log "✅ Site build completed successfully"
@@ -87,8 +102,9 @@ elif [ "$LOCAL" = "$BASE" ]; then
     ls -1t | tail -n +11 | xargs -r rm -rf
     
     log "🎉 Deployment completed successfully!"
+fi
     
-elif [ "$REMOTE" = "$BASE" ]; then
+if [ "$REMOTE" = "$BASE" ]; then
     log "⚠️  Local repository has unpushed changes"
     exit 1
 else
