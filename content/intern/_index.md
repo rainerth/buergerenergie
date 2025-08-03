@@ -13,4 +13,4 @@ Diese Seite ist nur für Organisatoren zugänglich und wird durch HTTP Basic Aut
 
 ## Aktuelle Interessenten
 
-Die folgende Tabelle zeigt alle registrierten Interessenten:
+Die folgende Tabelle zeigt alle bisher registrierten Interessenten:
