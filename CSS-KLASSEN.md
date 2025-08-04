@@ -269,6 +269,6 @@ Nach dem clearfix beginnt das normale Layout wieder.
 
 ---
 
-**Letzte Aktualisierung:** 5. August 2025  
-**Version:** 1.0  
+**Letzte Aktualisierung:** 5. August 2025
+**Version:** 1.0
 **Projekt:** Bürgerenergiegenossenschaft Bösingen

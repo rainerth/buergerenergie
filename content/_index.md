@@ -16,7 +16,7 @@ draft: false
 {{< figure
   src="/img/AdobeStock_1432620622.jpeg"
   alt="Investieren in Erneuerbare Energien"
-  class="float-right"
+  class="float-left mr-3 mb-3"
   width="350px"
 >}}
 
@@ -25,7 +25,8 @@ Die *Bürgerenergiegenossenschaft Bösingen* ist aktuell eine Vision auf dem Weg
 Die Genossenschaft soll dabei eine entscheidende Rolle spielen, die Energiewende hin zu erneuerbaren Energiequellen voranzutreiben und alle Einwohner aktiv einzubinden. **Energieversorgung geht uns alle an.**
 
 <div class="clearfix"></div>
-### Mögliche Projekte in Bösingen
+
+## Mögliche Projekte in Bösingen
 
 * **PV-Anlagen auf Vereinsheimen oder öffentlichen Gebäuden** zur direkten Verwendung und Vermarktung des Stroms in der Gemeinde.
 
@@ -39,10 +40,13 @@ Die Genossenschaft soll dabei eine entscheidende Rolle spielen, die Energiewende
 
 * ...
 
+# Wer sind wir?
+
+Wir, das sind derzeit noch Rainer Thieringer und Klaus Wizemann. Als neugewählte Mitglieder des Gemeinderats war sehr schnell zu erkennen: wir werden uns viel mit Energiethemen beschäftigen müssen und wir müssen die Bürger mit auf diese spannende Reise nehmen. Die [Infoveranstaltung der Gemeinde Bösingen im April 2025](/neuigkeiten/20250429_buergerinfo) war ein wichtiger Startpunkt. Mit dem Gemeinderat als Unterstützer sind wir nun dabei zu sondieren, ob wir ein für Bösingen geeignetes Modell und vor allem ob wir Interessenten finden. Bis jetzt haben sich bereits 50 Bürger gemeldet, fast täglich gibt es neue Anmeldungen über das Kontaktformular.
 
 # Kommen Sie mit uns ins Gespräch!
 
-Wir freuen uns sehr auf den Austausch mit Ihnen! Bitte sprechen Sie uns an oder nutzen Sie das Kontaktformular.
+Bestimmt sind noch Fragen offen. Wir freuen uns sehr auf den Austausch mit Ihnen! Sprechen Sie uns an oder nutzen Sie das Kontaktformular.
 
 
 # Kontaktformular
