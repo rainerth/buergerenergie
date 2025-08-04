@@ -30,7 +30,7 @@ home = ["HTML", "RSS"]
 	#header_image = "img/buergerenergie-hero.webp"  # Dunkler Hintergrund, besserer Kontrast
 	header_image = "img/AdobeStock_106063041.jpeg"  # Helles Bild mit dunkler Schrift
 
-	slogan = "Energiezukunft mitgestalten."
+	slogan = "Energiezukunft gestalten."
 	SEOTitle = "Bürgerenergie Bösingen i.G.."
 	SEODescription = "Bürgerenergie 78662 Bösingen - Bürgerenergiegenossenschaft in Gründung"
 	SEOKeywords = "Bürgerenergie, Energie, Klimaschutz, 78662 Bösingen"
