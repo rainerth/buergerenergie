@@ -125,6 +125,33 @@ p {
   padding: 120px 0 80px !important;
   position: relative;
   z-index: 2;
+  /* Container-Ausrichtung wie normaler Seiteninhalt */
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+/* Desktop: Gleiche Ausrichtung wie .col-lg-8 col-lg-offset-1 */
+@media (min-width: 1200px) {
+  .intro-header .site-heading,
+  .intro-header .post-heading,
+  .intro-header .page-heading {
+    padding-left: calc(8.33333333% + 30px); /* col-lg-offset-1 + container padding */
+    padding-right: 15px;
+    max-width: 1200px;
+  }
+}
+
+/* Large Desktop: Ausrichtung für große Bildschirme */
+@media (min-width: 992px) and (max-width: 1199px) {
+  .intro-header .site-heading,
+  .intro-header .post-heading,
+  .intro-header .page-heading {
+    padding-left: calc(8.33333333% + 30px); /* col-md-offset-1 + container padding */
+    padding-right: 15px;
+    max-width: 970px;
+  }
 }
 
 /* Kontrast-Overlay entfernt - Text-Schatten sorgen für ausreichende Lesbarkeit */
@@ -133,7 +160,9 @@ p {
   .intro-header .site-heading,
   .intro-header .post-heading,
   .intro-header .page-heading {
-    padding: 140px 0 100px !important;
+    padding-top: 140px !important;
+    padding-bottom: 100px !important;
+    /* Behalte Container-Ausrichtung bei */
   }
 }
 
@@ -395,7 +424,11 @@ a:hover {
   .intro-header .site-heading,
   .intro-header .post-heading,
   .intro-header .page-heading {
-    padding: 100px 0 80px !important;
+    padding-top: 100px !important;
+    padding-bottom: 80px !important;
+    /* Behalte Container-Ausrichtung bei für Mobile */
+    padding-left: 15px !important;
+    padding-right: 15px !important;
   }
 
   /* Overlay entfernt - Text-Schatten sorgen für ausreichende Lesbarkeit */
@@ -406,7 +439,10 @@ a:hover {
   .intro-header .site-heading,
   .intro-header .post-heading,
   .intro-header .page-heading {
-    padding: 80px 0 60px !important; /* Optimales Padding für kleine Bildschirme */
+    padding-top: 80px !important;
+    padding-bottom: 60px !important;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
   }
 
   .intro-header .post-heading h1,
