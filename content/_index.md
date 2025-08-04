@@ -13,11 +13,18 @@ draft: false
 
 # Gemeinsam die Energie&shy;zukunft gestalten!
 
+{{< figure
+  src="/img/AdobeStock_1432620622.jpeg"
+  alt="Investieren in Erneuerbare Energien"
+  class="float-right"
+  width="350px"
+>}}
+
 Die *Bürgerenergiegenossenschaft Bösingen* ist aktuell eine Vision auf dem Weg zur Gründung einer Genossenschaft. Wir wollen lokale Energieprojekte fördern - aber auch zu Gunsten der Bösinger Bürger aktiv mitgestalten und davon profitieren. **Wir wollen bei den uns unmittelbar betreffenden Projekten mit starker Stimme mitreden.**
 
 Die Genossenschaft soll dabei eine entscheidende Rolle spielen, die Energiewende hin zu erneuerbaren Energiequellen voranzutreiben und alle Einwohner aktiv einzubinden. **Energieversorgung geht uns alle an.**
 
-
+<div class="clearfix"></div>
 ### Mögliche Projekte in Bösingen
 
 * **PV-Anlagen auf Vereinsheimen oder öffentlichen Gebäuden** zur direkten Verwendung und Vermarktung des Stroms in der Gemeinde.

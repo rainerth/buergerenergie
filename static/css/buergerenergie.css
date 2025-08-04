@@ -9,6 +9,34 @@
   --nature-blue: #4682b4;
 }
 
+/* Text Flow Around Images */
+.float-left {
+  float: left !important;
+  margin: 0 20px 20px 0 !important;
+}
+
+.float-right {
+  float: right !important;
+  margin: 0 0 20px 20px !important;
+}
+
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive Float Behavior */
+@media (max-width: 768px) {
+  .float-left,
+  .float-right {
+    float: none !important;
+    margin: 20px auto !important;
+    display: block;
+    text-align: center;
+  }
+}
+
 /* Body Typography Optimization */
 body {
   font-size: 15px !important; /* Reduziert von 17px auf 15px für bessere Lesbarkeit */
