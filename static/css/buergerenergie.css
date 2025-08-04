@@ -99,24 +99,7 @@ p {
   z-index: 2;
 }
 
-/* Kontrast-Overlay für bessere Text-Lesbarkeit */
-.intro-header::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: linear-gradient(
-    135deg,
-    rgba(255, 255, 255, 0.3) 0%,
-    rgba(255, 255, 255, 0.1) 30%,
-    rgba(0, 0, 0, 0.05) 70%,
-    rgba(0, 0, 0, 0.15) 100%
-  );
-  z-index: 1;
-  pointer-events: none;
-}
+/* Kontrast-Overlay entfernt - Text-Schatten sorgen für ausreichende Lesbarkeit */
 
 @media only screen and (min-width:768px) {
   .intro-header .site-heading,
@@ -387,15 +370,7 @@ a:hover {
     padding: 100px 0 80px !important;
   }
 
-  /* Reduziertes Overlay für mobile Geräte */
-  .intro-header::before {
-    background: linear-gradient(
-      135deg,
-      rgba(255, 255, 255, 0.2) 0%,
-      rgba(255, 255, 255, 0.05) 50%,
-      rgba(0, 0, 0, 0.1) 100%
-    );
-  }
+  /* Overlay entfernt - Text-Schatten sorgen für ausreichende Lesbarkeit */
 }
 
 /* Extra small screens (320px width and similar) */
@@ -421,14 +396,7 @@ a:hover {
     margin-bottom: 8px;
   }
 
-  /* Minimal Overlay für sehr kleine Bildschirme */
-  .intro-header::before {
-    background: linear-gradient(
-      135deg,
-      rgba(255, 255, 255, 0.15) 0%,
-      rgba(0, 0, 0, 0.05) 100%
-    );
-  }
+  /* Overlay entfernt - Text-Schatten sorgen für ausreichende Lesbarkeit */
 }
 
 /* Admonition Styles */
