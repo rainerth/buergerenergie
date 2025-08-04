@@ -3,6 +3,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <!-- Hero Image Preload für bessere Performance -->
+    {{ if .IsHome }}
+    <link rel="preload" as="image" href="{{ .Site.Params.header_image | relURL }}" type="image/webp">
+    {{ else if .Params.image }}
+    <link rel="preload" as="image" href="{{ .Params.image | relURL }}" type="image/webp">
+    {{ end }}
+
     <!-- start ogp -->
     <meta property="og:site_name" content="{{ .Site.Title }}">
     <meta property="og:type" content="article">
