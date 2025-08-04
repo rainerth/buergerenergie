@@ -9,6 +9,87 @@
   --nature-blue: #4682b4;
 }
 
+/* Body Typography Optimization */
+body {
+  font-size: 15px !important; /* Reduziert von 17px auf 15px für bessere Lesbarkeit */
+  line-height: 1.6 !important; /* Optimierte Zeilenhöhe (war 1.7) */
+}
+
+/* Responsive Body Font Sizes */
+@media (max-width: 768px) {
+  body {
+    font-size: 14px !important; /* Etwas kleiner auf Tablets */
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    font-size: 14px !important; /* Konsistente Größe für Mobile */
+  }
+}
+
+/* Paragraph Optimization */
+p {
+  margin: 20px 0 !important; /* Reduziert von 30px für kompakteres Layout */
+  font-size: inherit; /* Verwendet Body-Schriftgröße */
+}
+
+/* Content Container Font Adjustments */
+.post-container {
+  font-size: inherit; /* Verwendet Body-Schriftgröße */
+  line-height: 1.6;
+}
+
+/* Liste und andere Elemente */
+.post-container ul, .post-container ol {
+  font-size: inherit;
+  line-height: 1.6;
+  margin: 15px 0 !important; /* Kompaktere Abstände */
+}
+
+.post-container li {
+  margin: 5px 0; /* Reduzierte Abstände zwischen Listenelementen */
+}
+
+.post-container blockquote {
+  font-size: 14px !important; /* Etwas kleiner für Zitate */
+  line-height: 1.5;
+  margin: 20px 0 !important;
+}
+
+/* Responsive Typography für Content */
+@media (max-width: 768px) {
+  .post-container h1 {
+    font-size: 24px !important;
+  }
+  
+  .post-container h2 {
+    font-size: 20px !important;
+  }
+  
+  .post-container h3 {
+    font-size: 18px !important;
+  }
+  
+  .post-container h4 {
+    font-size: 16px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .post-container h1 {
+    font-size: 22px !important;
+  }
+  
+  .post-container h2 {
+    font-size: 18px !important;
+  }
+  
+  .post-container h3 {
+    font-size: 16px !important;
+  }
+}
+
 /* Header customizations */
 .intro-header .site-heading,
 .intro-header .post-heading,
@@ -51,9 +132,11 @@
   background-repeat: no-repeat !important;
   background-size: cover !important;
   background-attachment: scroll !important; /* Bessere Performance als fixed */
+  background-color: transparent !important; /* Entfernt den grauen Hintergrund */
   min-height: 450px !important; /* Erhöhte Mindesthöhe für Desktop */
   height: auto !important;
   overflow: hidden !important;
+  transition: background-image 0.3s ease-in-out; /* Sanfter Übergang beim Laden */
 }
 
 /* Desktop Parallax-ähnlicher Effekt */
@@ -95,6 +178,7 @@
 .intro-header .post-heading h1,
 .intro-header .site-heading h1 {
   color: #1a4408 !important;
+  font-size: 50px !important; /* Reduziert von 80px auf 50px */
   text-shadow:
     /* Weißer Outline für Kontrast */
     1px 1px 3px rgba(255,255,255,0.95),
@@ -110,6 +194,14 @@
   letter-spacing: -0.5px;
   position: relative;
   z-index: 3;
+}
+
+/* Desktop-spezifische Schriftgröße */
+@media only screen and (min-width: 768px) {
+  .intro-header .post-heading h1,
+  .intro-header .site-heading h1 {
+    font-size: 50px !important; /* Maximal 50px auf Desktop */
+  }
 }
 
 .intro-header .post-heading .subheading,
@@ -150,9 +242,36 @@
   color: var(--nature-green);
 }
 
+.post-container h1 {
+  font-size: 28px !important; /* Reduziert für bessere Proportionen */
+  margin: 25px 0 15px !important;
+}
+
 .post-container h2 {
+  font-size: 24px !important; /* Optimierte Größe */
   border-bottom: 2px solid var(--nature-accent);
   padding-bottom: 5px;
+  margin: 25px 0 15px !important;
+}
+
+.post-container h3 {
+  font-size: 20px !important; /* Optimierte Größe */
+  margin: 20px 0 10px !important;
+}
+
+.post-container h4 {
+  font-size: 18px !important; /* Neue Definition für h4 */
+  margin: 20px 0 10px !important;
+}
+
+.post-container h5 {
+  font-size: 16px !important; /* Reduziert von 19px */
+  margin: 15px 0 8px !important;
+}
+
+.post-container h6 {
+  font-size: 15px !important; /* Reduziert von 17px */
+  margin: 15px 0 8px !important;
 }
 
 /* Links */
@@ -247,7 +366,7 @@ a:hover {
 @media (max-width: 768px) {
   .intro-header .post-heading h1,
   .intro-header .site-heading h1 {
-    font-size: 2.0em; /* Optimierte Größe für bessere Proportion */
+    font-size: 32px !important; /* Proportional reduziert: etwa 1.6em basierend auf 50px */
     text-align: left;
     color: #1a4408 !important;
     margin-bottom: 15px;
@@ -255,7 +374,7 @@ a:hover {
 
   .intro-header .post-heading .subheading,
   .intro-header .site-heading .subheading {
-    font-size: 1.0em; /* Optimierte Größe für bessere Proportion */
+    font-size: 18px !important; /* Etwa 1.0em basierend auf neuer Basis */
     text-align: left;
     color: #2d5016 !important;
     margin-bottom: 10px;
@@ -289,7 +408,7 @@ a:hover {
 
   .intro-header .post-heading h1,
   .intro-header .site-heading h1 {
-    font-size: 1.6em !important;
+    font-size: 28px !important; /* Proportional zu 50px Basis */
     line-height: 1.1;
     margin-bottom: 12px;
     letter-spacing: -0.3px;
@@ -297,7 +416,7 @@ a:hover {
 
   .intro-header .post-heading .subheading,
   .intro-header .site-heading .subheading {
-    font-size: 0.9em !important;
+    font-size: 16px !important; /* Proportional angepasst */
     line-height: 1.2;
     margin-bottom: 8px;
   }
