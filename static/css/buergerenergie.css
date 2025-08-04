@@ -125,6 +125,7 @@ p {
   padding: 120px 0 80px !important;
   position: relative;
   z-index: 2;
+  text-align: left !important; /* Überschreibt das Theme-CSS text-align:center */
 }
 
 /* Container-Wrapper für Header-Text */
@@ -137,58 +138,20 @@ p {
   padding-right: 15px;
 }
 
-/* Header-Text exakt wie .col-lg-8 .col-lg-offset-1 ausrichten */
+/* Header-Text Bootstrap Grid verwenden - keine zusätzlichen Margins */
 .intro-header .site-heading h1,
 .intro-header .post-heading h1,
 .intro-header .page-heading h1,
 .intro-header .site-heading .subheading,
 .intro-header .post-heading .subheading,
 .intro-header .page-heading .subheading {
-  margin-left: 8.33333333%; /* col-lg-offset-1 */
-  margin-right: 0;
-  width: 66.66666667%; /* col-lg-8 */
-  max-width: none;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  width: auto !important;
+  max-width: none !important;
 }
 
-/* Responsive Anpassungen für verschiedene Bildschirmgrößen */
-@media (min-width: 992px) and (max-width: 1199px) {
-  /* Medium Desktop: col-md-8 col-md-offset-1 */
-  .intro-header .site-heading h1,
-  .intro-header .post-heading h1,
-  .intro-header .page-heading h1,
-  .intro-header .site-heading .subheading,
-  .intro-header .post-heading .subheading,
-  .intro-header .page-heading .subheading {
-    margin-left: 8.33333333%; /* col-md-offset-1 */
-    width: 66.66666667%; /* col-md-8 */
-  }
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  /* Tablet: col-sm-12 */
-  .intro-header .site-heading h1,
-  .intro-header .post-heading h1,
-  .intro-header .page-heading h1,
-  .intro-header .site-heading .subheading,
-  .intro-header .post-heading .subheading,
-  .intro-header .page-heading .subheading {
-    margin-left: 0;
-    width: 100%;
-  }
-}
-
-@media (max-width: 767px) {
-  /* Mobile: col-xs-12 */
-  .intro-header .site-heading h1,
-  .intro-header .post-heading h1,
-  .intro-header .page-heading h1,
-  .intro-header .site-heading .subheading,
-  .intro-header .post-heading .subheading,
-  .intro-header .page-heading .subheading {
-    margin-left: 0;
-    width: 100%;
-  }
-}
+/* Responsive Anpassungen entfernt - Bootstrap Grid übernimmt die Ausrichtung */
 
 /* Kontrast-Overlay entfernt - Text-Schatten sorgen für ausreichende Lesbarkeit */
 
