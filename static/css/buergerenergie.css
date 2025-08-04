@@ -125,32 +125,68 @@ p {
   padding: 120px 0 80px !important;
   position: relative;
   z-index: 2;
-  /* Container-Ausrichtung wie normaler Seiteninhalt */
+}
+
+/* Container-Wrapper für Header-Text */
+.intro-header .site-heading .container,
+.intro-header .post-heading .container,
+.intro-header .page-heading .container {
   max-width: 1200px;
   margin: 0 auto;
   padding-left: 15px;
   padding-right: 15px;
 }
 
-/* Desktop: Gleiche Ausrichtung wie .col-lg-8 col-lg-offset-1 */
-@media (min-width: 1200px) {
-  .intro-header .site-heading,
-  .intro-header .post-heading,
-  .intro-header .page-heading {
-    padding-left: calc(8.33333333% + 30px); /* col-lg-offset-1 + container padding */
-    padding-right: 15px;
-    max-width: 1200px;
+/* Header-Text exakt wie .col-lg-8 .col-lg-offset-1 ausrichten */
+.intro-header .site-heading h1,
+.intro-header .post-heading h1,
+.intro-header .page-heading h1,
+.intro-header .site-heading .subheading,
+.intro-header .post-heading .subheading,
+.intro-header .page-heading .subheading {
+  margin-left: 8.33333333%; /* col-lg-offset-1 */
+  margin-right: 0;
+  width: 66.66666667%; /* col-lg-8 */
+  max-width: none;
+}
+
+/* Responsive Anpassungen für verschiedene Bildschirmgrößen */
+@media (min-width: 992px) and (max-width: 1199px) {
+  /* Medium Desktop: col-md-8 col-md-offset-1 */
+  .intro-header .site-heading h1,
+  .intro-header .post-heading h1,
+  .intro-header .page-heading h1,
+  .intro-header .site-heading .subheading,
+  .intro-header .post-heading .subheading,
+  .intro-header .page-heading .subheading {
+    margin-left: 8.33333333%; /* col-md-offset-1 */
+    width: 66.66666667%; /* col-md-8 */
   }
 }
 
-/* Large Desktop: Ausrichtung für große Bildschirme */
-@media (min-width: 992px) and (max-width: 1199px) {
-  .intro-header .site-heading,
-  .intro-header .post-heading,
-  .intro-header .page-heading {
-    padding-left: calc(8.33333333% + 30px); /* col-md-offset-1 + container padding */
-    padding-right: 15px;
-    max-width: 970px;
+@media (min-width: 768px) and (max-width: 991px) {
+  /* Tablet: col-sm-12 */
+  .intro-header .site-heading h1,
+  .intro-header .post-heading h1,
+  .intro-header .page-heading h1,
+  .intro-header .site-heading .subheading,
+  .intro-header .post-heading .subheading,
+  .intro-header .page-heading .subheading {
+    margin-left: 0;
+    width: 100%;
+  }
+}
+
+@media (max-width: 767px) {
+  /* Mobile: col-xs-12 */
+  .intro-header .site-heading h1,
+  .intro-header .post-heading h1,
+  .intro-header .page-heading h1,
+  .intro-header .site-heading .subheading,
+  .intro-header .post-heading .subheading,
+  .intro-header .page-heading .subheading {
+    margin-left: 0;
+    width: 100%;
   }
 }
 
@@ -229,11 +265,11 @@ p {
     3px 3px 6px rgba(0,0,0,0.4),
     /* Zusätzlicher subtiler Glow */
     0 0 10px rgba(255,255,255,0.3);
-  text-align: left;
   font-weight: 700;
   letter-spacing: -0.5px;
   position: relative;
   z-index: 3;
+  /* text-align entfernt - verwendet jetzt Container-Ausrichtung */
 }
 
 /* Desktop-spezifische Schriftgröße */
@@ -258,9 +294,9 @@ p {
     2px 2px 4px rgba(0,0,0,0.3),
     /* Subtiler Glow */
     0 0 8px rgba(255,255,255,0.2);
-  text-align: left;
   position: relative;
   z-index: 3;
+  /* text-align entfernt - verwendet jetzt Container-Ausrichtung */
 }
 
 /* Navigation */
@@ -407,17 +443,17 @@ a:hover {
   .intro-header .post-heading h1,
   .intro-header .site-heading h1 {
     font-size: 32px !important; /* Proportional reduziert: etwa 1.6em basierend auf 50px */
-    text-align: left;
     color: #1a4408 !important;
     margin-bottom: 15px;
+    /* text-align entfernt - verwendet Container-Ausrichtung */
   }
 
   .intro-header .post-heading .subheading,
   .intro-header .site-heading .subheading {
     font-size: 18px !important; /* Etwa 1.0em basierend auf neuer Basis */
-    text-align: left;
     color: #2d5016 !important;
     margin-bottom: 10px;
+    /* text-align entfernt - verwendet Container-Ausrichtung */
   }
 
   /* Angepasstes Padding für Hamburger-Menü-Bereich */
