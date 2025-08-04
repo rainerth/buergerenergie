@@ -215,3 +215,4 @@ config.env
 logs/
 backup/
 static/img/*_Preview.jpeg
+static/intern/.htaccess

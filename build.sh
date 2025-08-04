@@ -42,11 +42,13 @@ echo "   � Download: $STATIC_CSV_PATH -> $CSV_SOURCE_PATH"
 
 # Configure .htaccess with correct path
 echo "🔐 Configuring Apache authentication..."
-if [ -f "static/intern/.htaccess" ]; then
-    # Create backup and update .htaccess
-    cp static/intern/.htaccess static/intern/.htaccess.template
+if [ -f "static/intern/.htaccess.template" ]; then
+    # Use the template to generate .htaccess with server path
     sed "s|__HTPASSWD_PATH__|$HTPASSWD_SERVER_PATH|g" static/intern/.htaccess.template > static/intern/.htaccess
     echo "✅ .htaccess configured with: $HTPASSWD_SERVER_PATH"
+else
+    echo "❌ .htaccess.template not found! Please ensure template exists."
+    exit 1
 fi
 
 # Build the Hugo site

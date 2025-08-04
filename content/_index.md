@@ -1,12 +1,11 @@
 ---
 layout: page
-show_sidebar: false
+show_sidebar: true
 tags: [Bürgerenergiegenossenschaft, Bösingen, Genossenschaft, Erneuerbare Energien, Klimaschutz]
-title: Bürgerenergie-Genossenschaft Bösingen
+title: xx
 subtitle: "Sind Sie dabei?"
-description: Bürgerenergiegenossenschaft Bösingen ??
+description: Bürgerenergiegenossenschaft Bösingen
 draft: false
-header_image: "/img/buergerenergie-hero.webp"
 ---
 
 [Direkt zum Kontaktformular](#kontaktformular)
