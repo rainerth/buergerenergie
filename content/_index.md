@@ -2,7 +2,7 @@
 layout: page
 show_sidebar: true
 tags: [Bürgerenergiegenossenschaft, Bösingen, Genossenschaft, Erneuerbare Energien, Klimaschutz]
-title: xx
+title: Bürgerenergie Bösingen i.G.
 subtitle: "Sind Sie dabei?"
 description: Bürgerenergiegenossenschaft Bösingen
 draft: false
