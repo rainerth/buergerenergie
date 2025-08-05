@@ -167,9 +167,11 @@ p {
 
 /* Hero Image Positioning - Hauptmotiv unten rechts zeigen */
 .intro-header {
+  max-width: 1200px !important;
+  margin: 0 auto !important;
   background-position: right bottom !important;
   background-repeat: no-repeat !important;
-  background-size: cover !important;
+  background-size: contain !important;
   background-attachment: scroll !important; /* Bessere Performance als fixed */
   background-color: transparent !important; /* Entfernt den grauen Hintergrund */
   min-height: 450px !important; /* Erhöhte Mindesthöhe für Desktop */
