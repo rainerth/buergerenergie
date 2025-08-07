@@ -13,11 +13,11 @@ draft: false
 
 # Gemeinsam die Energie&shy;zukunft gestalten!
 
-{{< figure
-  src="/img/AdobeStock_1432620622.jpeg"
+{{< optimized-image
+  name="AdobeStock_1432620622.jpeg"
+  width="350"
   alt="Investieren in Erneuerbare Energien"
   class="float-left mr-3 mb-3"
-  width="350px"
 >}}
 
 Die *Bürgerenergie Bösingen* ist derzeit eine Initiative, die zur Gründung einer Genossenschaft führen kann. Wir wollen Energieprojekte fördern und aktiv mitgestalten – zum Nutzen der Bösinger Bürger. **Bei Projekten, die uns direkt betreffen, wollen wir mit starker Stimme mitreden.**

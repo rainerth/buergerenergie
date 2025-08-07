@@ -215,3 +215,4 @@ logs/
 backup/
 static/img/*_Preview.jpeg
 static/intern/.htaccess
+resources/_gen/

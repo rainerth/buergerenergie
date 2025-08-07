@@ -1,0 +1,19 @@
+{{/* 
+  Optimized Image Shortcode
+  Verwendung:
+  {{< optimized-image name="bild.jpg" width="350" >}}
+  oder
+  {{< optimized-image name="bild.png" width="350" >}}
+  Optional: alt="Alt Text" class="zusätzliche-klassen"
+*/}}
+{{ $name := .Get "name" }}
+{{ $width := .Get "width" }}
+{{ $image := resources.Get (printf "img/%s" $name) }}
+{{ $image = $image.Resize (printf "%sx" $width) }}
+{{ $image = $image.Process "webp q85" }}
+<figure{{ with .Get "class" }} class="{{ . }}"{{ end }}>
+  <img src="{{ $image.RelPermalink }}" 
+       alt="{{ .Get "alt" | default (path.BaseName $name) }}" 
+       width="{{ $width }}"
+       loading="lazy">
+</figure>
