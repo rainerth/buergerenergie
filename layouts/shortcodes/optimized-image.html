@@ -1,4 +1,4 @@
-{{/* 
+{{/*
   Optimized Image Shortcode
   Verwendung:
   {{< optimized-image name="bild.jpg" width="350" >}}
@@ -10,11 +10,10 @@
 {{ $width := .Get "width" }}
 {{ $image := resources.Get (printf "img/%s" $name) }}
 {{ $image = $image.Resize (printf "%sx" $width) }}
+{{ $image = $image.Process "webp q85" }}
 <figure{{ with .Get "class" }} class="{{ . }}"{{ end }}>
-  <img src="{{ $image.RelPermalink }}" 
-       alt="{{ .Get "alt" | default (path.BaseName $name) }}" 
+  <img src="{{ $image.RelPermalink }}"
+       alt="{{ .Get "alt" | default (path.BaseName $name) }}"
        width="{{ $width }}"
-       height="auto"
-       loading="lazy"
-       decoding="async">
+       loading="lazy">
 </figure>
