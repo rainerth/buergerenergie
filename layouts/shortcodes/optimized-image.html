@@ -10,10 +10,11 @@
 {{ $width := .Get "width" }}
 {{ $image := resources.Get (printf "img/%s" $name) }}
 {{ $image = $image.Resize (printf "%sx" $width) }}
-{{ $image = $image.Process "webp q85" }}
 <figure{{ with .Get "class" }} class="{{ . }}"{{ end }}>
   <img src="{{ $image.RelPermalink }}" 
        alt="{{ .Get "alt" | default (path.BaseName $name) }}" 
        width="{{ $width }}"
-       loading="lazy">
+       height="auto"
+       loading="lazy"
+       decoding="async">
 </figure>

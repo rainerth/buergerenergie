@@ -44,7 +44,7 @@ Die Genossenschaft soll dabei eine Schlüsselrolle übernehmen: Sie treibt die E
 
 # Wer sind wir?
 
-Wir, das sind Rainer Thieringer und Klaus Wizemann. Als frisch gewählte Gemeinderatsmitglieder erkannten wir schnell: Energiethemen werden uns stark beschäftigen, und wir müssen die Bürger auf diese spannende Reise mitnehmen. Die [Infoveranstaltung der Gemeinde Bösingen im April 2025](/neuigkeiten/20250429_buergerinfo) markierte einen wichtigen Startpunkt. Mit Unterstützung des Gemeinderats sondieren wir nun, ob wir ein passendes Modell für Bösingen finden und Interessenten gewinnen können. Bis jetzt haben sich 50 Bürger gemeldet, und fast täglich erreichen uns neue Anmeldungen über das Kontaktformular.
+Wir, das sind Rainer Thieringer und Klaus Wizemann. Als frisch gewählte Gemeinderatsmitglieder erkannten wir schnell: Energiethemen werden uns stark beschäftigen und wir müssen die Bürger auf diese spannende Reise mitnehmen. Die [Infoveranstaltung der Gemeinde Bösingen im April 2025](/neuigkeiten/20250429_buergerinfo) markierte einen wichtigen Startpunkt. Mit Unterstützung des Gemeinderats sondieren wir nun, ob wir ein passendes Modell für Bösingen finden und Interessenten gewinnen können. Bis jetzt haben sich 50 Bürger gemeldet und fast täglich erreichen uns neue Anmeldungen über das Kontaktformular.
 
 
 # Kommen Sie mit uns ins Gespräch!
