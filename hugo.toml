@@ -62,7 +62,7 @@ home = ["HTML", "RSS"]
 	about_me = true
 
 	# Termine-Filterung: Wie viele Tage zurück sollen Termine angezeigt werden?
-	termine_days_back = 4
+	termine_days_back = 60
 
 	[[params.additional_menus]]
 	title = "Neuigkeiten"
