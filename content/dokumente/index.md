@@ -1,7 +1,7 @@
 ---
 title: "Dokumente"
-hidden: true
-date: 2025-07-29
+hidden: false
+date: 2025-08-12
 draft: false
 layout: "page"
 ---
@@ -9,7 +9,7 @@ layout: "page"
 
 # Informationen
 
-## Video: Infoveranstaltung zur Bürgerenergiegenossenschaft
+## Video: KEA-BW Infoveranstaltung zur Bürgerenergiegenossenschaft
 
 {{< youtube
     id="oOesQ2YS9sI"
