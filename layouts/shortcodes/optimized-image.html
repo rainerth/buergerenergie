@@ -3,8 +3,8 @@
   Verwendung:
   {{< optimized-image name="bild.jpg" width="350" >}}
   oder
-  {{< optimized-image name="bild.png" width="350" >}}
-  Optional: alt="Alt Text" class="zusätzliche-klassen"
+  {{< optimized-image name="bild.png" width="350" caption="Bildunterschrift" >}}
+  Optional: alt="Alt Text" class="zusätzliche-klassen" caption="Bildunterschrift"
 */}}
 {{ $name := .Get "name" }}
 {{ $width := .Get "width" }}
@@ -16,4 +16,7 @@
        alt="{{ .Get "alt" | default (path.BaseName $name) }}"
        width="{{ $width }}"
        loading="lazy">
+  {{ with .Get "caption" }}
+    <figcaption style="font-size: 0.875rem; color: #666; margin-top: 0.5rem; font-style: italic;">{{ . | markdownify }}</figcaption>
+  {{ end }}
 </figure>
