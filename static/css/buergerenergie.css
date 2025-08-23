@@ -731,3 +731,37 @@ a:hover {
     font-size: 0.65em; /* Kleinere Schrift auf Mobile */
   }
 }
+
+/* Bildunterschriften */
+figure figcaption {
+    font-size: 0.675rem;  /* 14px bei 16px Basis */
+    color: #666;
+    margin-top: 0.5rem;
+    font-style: italic;
+}
+
+/* Bildunterschriften - Spezifischere und prioritäre Regeln */
+figure figcaption,
+.post-container figure figcaption,
+.content figure figcaption {
+    font-size: 0.875rem !important;  /* 14px bei 16px Basis */
+    color: #666666 !important;
+    margin-top: 0.5rem;
+    font-style: italic;
+    line-height: 1.4;
+}
+
+/* Zusätzliche Spezifität für Links in Bildunterschriften */
+figure figcaption a,
+.post-container figure figcaption a,
+.content figure figcaption a {
+    color: #666666 !important;
+    text-decoration: underline;
+}
+
+/* Hover-Effekt für Links in Bildunterschriften */
+figure figcaption a:hover,
+.post-container figure figcaption a:hover,
+.content figure figcaption a:hover {
+    color: var(--nature-blue) !important;
+}
