@@ -1,21 +1,34 @@
 {{/*
   Optimized Image Shortcode
-  Verwendung:
-  {{< optimized-image name="bild.jpg" width="350" >}}
-  oder
-  {{< optimized-image name="bild.png" width="350" caption="Bildunterschrift" >}}
-  Optional: alt="Alt Text" class="zusätzliche-klassen" caption="Bildunterschrift"
+  Unterstützt sowohl Rastergrafiken als auch SVGs
 */}}
 {{ $name := .Get "name" }}
 {{ $width := .Get "width" }}
 {{ $image := resources.Get (printf "img/%s" $name) }}
-{{ $image = $image.Resize (printf "%sx" $width) }}
-{{ $image = $image.Process "webp q85" }}
+
+{{ if not $image }}
+  {{ errorf "Bild nicht gefunden: %s" $name }}
+{{ end }}
+
 <figure{{ with .Get "class" }} class="{{ . }}"{{ end }}>
-  <img src="{{ $image.RelPermalink }}"
-       alt="{{ .Get "alt" | default (path.BaseName $name) }}"
-       width="{{ $width }}"
-       loading="lazy">
+  {{ with .Get "link" }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}
+
+  {{ $isSVG := strings.HasSuffix $name ".svg" }}
+  {{ if $isSVG }}
+    <img src="{{ $image.RelPermalink }}"
+         {{ with $width }}width="{{ . }}"{{ end }}
+         alt="{{ .Get "alt" | default (path.BaseName $name) }}"
+         loading="lazy">
+  {{ else }}
+    {{ $processed := $image.Resize (printf "%sx" $width) }}
+    {{ $processed = $processed.Process "webp q85" }}
+    <img src="{{ $processed.RelPermalink }}"
+         alt="{{ .Get "alt" | default (path.BaseName $name) }}"
+         width="{{ $width }}"
+         loading="lazy">
+  {{ end }}
+
+  {{ with .Get "link" }}</a>{{ end }}
   {{ with .Get "caption" }}
     <figcaption style="font-size: 0.875rem; color: #666; margin-top: 0.5rem; font-style: italic;">{{ . | markdownify }}</figcaption>
   {{ end }}
