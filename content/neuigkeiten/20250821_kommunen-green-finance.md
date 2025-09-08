@@ -11,7 +11,7 @@ featured_image: "/img/artikel/kommunen-green-finance.jpg"
     width="500"
     alt="Kommunale Energieprojekte"
     class="float-left mr-3 mb-3"
-    caption="Bild: [Green Finance – Wie Kommunen mit grüner Energie ihre Haushalte sanieren](https://www.handelsblatt.com/politik/deutschland/green-finance-wie-kommunen-mit-gruener-energie-ihre-haushalte-sanieren/100147878.html)"
+    caption="[Green Finance – Wie Kommunen mit grüner Energie ihre Haushalte sanieren](https://www.handelsblatt.com/politik/deutschland/green-finance-wie-kommunen-mit-gruener-energie-ihre-haushalte-sanieren/100147878.html)"
 >}}
 
 Immer mehr Kommunen in Deutschland nutzen die Chancen der erneuerbaren Energien, um ihre Haushalte zu stabilisieren und gleichzeitig die Lebensqualität vor Ort zu erhöhen. Beispiele aus Hessen und Nordrhein-Westfalen zeigen eindrücklich, wie aus Energieprojekten ein Gewinn für alle werden kann.
