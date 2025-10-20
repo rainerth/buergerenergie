@@ -1,5 +1,5 @@
 ---
-title: "Bürgerinfoveranstaltung"
+title: "Bürgerinfoveranstaltung der Gemeinde Bösingen"
 subtitle: "Erste Präsentation der Idee 'Bürgergenossenschaft'"
 date: 2025-04-29 18:00:00
 draft: false

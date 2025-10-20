@@ -1,11 +1,14 @@
 # Custom Dictionary Words
 cleanwhite
+clearfix
 dokumente
 Ettenheimer
 hugo
 impressum
+Mörsdorf
 neuigkeiten
 pagefind
+Satzungserstellung
 schaft
 Teck
 Teckwerke

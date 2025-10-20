@@ -1,12 +1,62 @@
 {{ define "main" }}
 <article>
     <div class="container">
+        <!-- Featured Termine Section -->
+        {{ $featuredEvents := where (where site.RegularPages "Section" "termine") "Params.featured" true }}
+        {{ if $featuredEvents }}
+        <div class="row">
+            <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12">
+                <div class="featured-events-container">
+                    <h2 class="featured-events-title">
+                        <i class="fa fa-calendar-check-o"></i> Wichtige Termine
+                    </h2>
+                    {{ range $featuredEvents }}
+                    <div class="featured-event">
+                        <div class="featured-event-header">
+                            <h3>
+                                <a href="{{ .Permalink }}">{{ .Title }}</a>
+                            </h3>
+                            {{ with .Params.subtitle }}
+                            <p class="featured-event-subtitle">{{ . }}</p>
+                            {{ end }}
+                        </div>
+                        <div class="featured-event-meta">
+                            <span class="featured-event-date">
+                                <i class="fa fa-calendar"></i> {{ .Date.Format "02.01.2006, 15:04 Uhr" }}
+                            </span>
+                            {{ with .Params.location }}
+                            <span class="featured-event-location">
+                                <i class="fa fa-map-marker"></i> {{ . }}
+                            </span>
+                            {{ end }}
+                        </div>
+                        {{ if .Params.description }}
+                        <div class="featured-event-summary">
+                            <p>{{ .Params.description }}</p>
+                        </div>
+                        {{ else }}
+                        <div class="featured-event-summary">
+                            <p>{{ .Summary | plainify | truncate 200 }}</p>
+                        </div>
+                        {{ end }}
+                        <div class="featured-event-link">
+                            <a href="{{ .Permalink }}" class="btn btn-primary">
+                                Mehr erfahren <i class="fa fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+        {{ end }}
+
         <div class="row">
             <!-- Post Container -->
             <div class="col-lg-8 col-lg-offset-1 col-md-8 col-md-offset-1 col-sm-12 col-xs-12 post-container">
                 {{ .Content }}
             </div>
-            
+
             {{ partial "sidebar.html" . }}
         </div>
     </div>

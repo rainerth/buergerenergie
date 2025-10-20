@@ -855,3 +855,279 @@ figure figcaption a:hover,
         padding: 6px 10px;
     }
 }
+
+/* Featured Events Styling - Seriöses, hervorgehobenes Design */
+.featured-events-container {
+  background: linear-gradient(135deg, #f5f5f5 0%, #e8e8e8 100%) !important;
+  border-left: 6px solid var(--nature-accent) !important;
+  border-radius: 8px !important;
+  padding: 28px !important;
+  margin-bottom: 35px !important;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15) !important;
+  position: relative;
+}
+
+.featured-events-container::before {
+  content: '' !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, var(--nature-accent), var(--nature-light-green), var(--nature-accent));
+}
+
+.featured-events-title {
+  color: var(--nature-green) !important;
+  font-size: 20px !important;
+  font-weight: 700 !important;
+  margin: 0 0 20px 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+  border-radius: 0 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 1px !important;
+  border: none !important;
+  text-align: left !important;
+}
+
+.featured-events-title i {
+  color: var(--nature-accent) !important;
+  margin-right: 10px !important;
+  font-size: 20px !important;
+}
+
+.featured-event {
+  background: white !important;
+  border-radius: 6px !important;
+  padding: 25px !important;
+  margin-bottom: 0 !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1) !important;
+  transition: box-shadow 0.3s ease;
+  border: 1px solid #ddd !important;
+  position: relative;
+}
+
+.featured-event::before {
+  content: '📌 Wichtig' !important;
+  position: absolute;
+  top: -12px;
+  right: 20px;
+  background: var(--nature-accent) !important;
+  color: white !important;
+  padding: 4px 12px !important;
+  border-radius: 12px !important;
+  font-weight: 700 !important;
+  font-size: 11px !important;
+  letter-spacing: 0.5px !important;
+  text-transform: uppercase !important;
+  box-shadow: 0 2px 6px rgba(139, 195, 74, 0.4) !important;
+}
+
+.featured-event:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+}
+
+/* Erhöhte Spezifität für Überschrift - überschreibt .post-container h3 */
+.featured-events-container .featured-event .featured-event-header h3 {
+  color: var(--nature-green) !important;
+  font-size: 20px !important;
+  font-weight: 700 !important;
+  margin: 0 0 8px 0 !important;
+  line-height: 1.4 !important;
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+}
+
+.featured-events-container .featured-event .featured-event-header h3 a {
+  color: var(--nature-green) !important;
+  text-decoration: none;
+}
+
+.featured-events-container .featured-event .featured-event-header h3 a:hover {
+  color: var(--nature-light-green) !important;
+}
+
+.featured-event-subtitle {
+  color: #666 !important;
+  font-size: 15px !important;
+  font-style: italic;
+  font-weight: 400;
+  margin: 0 0 15px 0 !important;
+}
+
+.featured-event-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-bottom: 15px;
+  padding: 12px;
+  background: #f9f9f9;
+  border-radius: 4px;
+  border-left: 3px solid var(--nature-accent);
+}
+
+.featured-event-date,
+.featured-event-location {
+  color: var(--nature-green) !important;
+  font-weight: 600;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+}
+
+.featured-event-date i,
+.featured-event-location i {
+  color: var(--nature-accent) !important;
+  margin-right: 6px;
+  font-size: 16px;
+}
+
+.featured-event-summary {
+  color: #333 !important;
+  font-size: 14px !important;
+  line-height: 1.6 !important;
+  margin-bottom: 18px !important;
+}
+
+.featured-event-summary h1,
+.featured-event-summary h2,
+.featured-event-summary h3,
+.featured-event-summary h4,
+.featured-event-summary h5,
+.featured-event-summary h6 {
+  display: none !important; /* Verstecke Überschriften im Summary */
+}
+
+.featured-event-summary p {
+  margin: 8px 0 !important;
+}
+
+.featured-event-summary p:first-child {
+  margin-top: 0 !important;
+}
+
+.featured-event-link {
+  text-align: right;
+}
+
+.featured-event-link .btn {
+  background: var(--nature-accent) !important;
+  border: 1px solid var(--nature-light-green) !important;
+  color: white !important;
+  font-weight: 600;
+  padding: 10px 24px;
+  font-size: 14px;
+  border-radius: 4px;
+  transition: all 0.2s ease;
+  text-transform: none;
+  letter-spacing: 0.3px;
+  box-shadow: 0 2px 6px rgba(139, 195, 74, 0.3);
+}
+
+.featured-event-link .btn:hover {
+  background: var(--nature-light-green) !important;
+  border-color: var(--nature-green) !important;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 10px rgba(139, 195, 74, 0.4);
+}
+
+.featured-event-link .btn i {
+  margin-left: 6px;
+}
+
+/* Responsive Styling für Featured Events */
+@media (max-width: 768px) {
+  .featured-events-container {
+    padding: 22px 18px;
+    margin-bottom: 30px;
+  }
+
+  .featured-events-title {
+    font-size: 24px !important;
+    padding: 10px 15px !important;
+  }
+
+  .featured-events-title i {
+    font-size: 26px;
+  }
+
+  .featured-event {
+    padding: 22px 18px;
+  }
+
+  .featured-event::before {
+    top: -12px;
+    right: 18px;
+    font-size: 12px;
+    padding: 5px 14px;
+  }
+
+  .featured-events-container .featured-event .featured-event-header h3 {
+    font-size: 22px !important;
+  }
+
+  .featured-event-subtitle {
+    font-size: 16px !important;
+  }
+
+  .featured-event-meta {
+    flex-direction: column;
+    gap: 10px;
+    padding: 12px;
+  }
+
+  .featured-event-date,
+  .featured-event-location {
+    font-size: 15px !important;
+  }
+
+  .featured-event-link .btn {
+    width: 100%;
+    padding: 12px 28px;
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  .featured-events-container {
+    padding: 18px 15px;
+  }
+
+  .featured-events-title {
+    font-size: 20px !important;
+    padding: 8px 12px !important;
+  }
+
+  .featured-events-title i {
+    font-size: 22px;
+  }
+
+  .featured-event {
+    padding: 18px 15px;
+  }
+
+  .featured-event::before {
+    top: -10px;
+    right: 15px;
+    font-size: 11px;
+    padding: 4px 12px;
+  }
+
+  .featured-events-container .featured-event .featured-event-header h3 {
+    font-size: 19px !important;
+  }
+
+  .featured-event-subtitle {
+    font-size: 15px !important;
+  }
+
+  .featured-event-summary {
+    font-size: 14px !important;
+  }
+
+  .featured-event-link .btn {
+    padding: 11px 24px;
+    font-size: 14px;
+  }
+}
