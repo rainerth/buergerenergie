@@ -67,11 +67,11 @@ Stellen Sie Ihre Fragen! Wir nehmen Ihre Bedenken ernst und diskutieren ehrlich 
 
 ### Mitmachen im Gründungsteam
 
-Unabhängig vom gewählten Modell brauchen wir engagierte Mitstreiterinnen und Mitstreiter, zum Beispiel in Arbeitsgruppen:
+Unabhängig vom gewählten Modell brauchen wir engagierte Mitstreiterinnen und Mitstreiter für Arbeitsgruppen, wie:
 
 - **Projektentwicklung** (Gespräche mit Firmen und Gemeinde)
 - **Finanzen** und Wirtschaftlichkeit
-- *Organisationsentscheidung* (Eigenständig oder Ortsgruppe - Vor- und Nachteile abwägen)
+- **Organisationsentscheidung** (Eigenständig oder Ortsgruppe - Vor- und Nachteile abwägen)
 - **Gründungsvorbereitung** (Satzung bei Eigenständigkeit, Beitrittsverhandlungen bei Ortsgruppe)
 - **Öffentlichkeitsarbeit** (Website, Presse, Social Media)
 
