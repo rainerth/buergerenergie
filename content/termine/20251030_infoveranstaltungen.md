@@ -4,8 +4,8 @@ subtitle: "Gemeinsam Energiezukunft gestalten"
 date: 2025-10-30 19:30:00
 draft: false
 featured: true
-description: "Wir laden dich herzlich ein zur Informationsveranstaltung über die Bürgerenergiegenossenschaft Bösingen. Erfahre mehr über konkrete Energieprojekte, Beteiligungsmöglichkeiten und wie wir gemeinsam die Energiezukunft unserer Gemeinde gestalten können."
-location: "Sportheim VfB Bösingen"
+description: "Wir laden Sie herzlich ein zur Informationsveranstaltung über die Bürgerenergiegenossenschaft Bösingen. Erfahren Sie mehr über konkrete Energieprojekte, Beteiligungsmöglichkeiten und wie wir gemeinsam die Energiezukunft unserer Gemeinde gestalten können."
+location: "Sportheim des VfB Bösingen"
 tags: ["Energie", "Aktuell", "Gründung"]
 categories: ["Neuigkeiten"]
 author: "rth"
@@ -17,7 +17,7 @@ author: "rth"
 
 **19:30 Uhr**
 
-**Sportheim VfB Bösingen**
+**Sportheim des VfB Bösingen**
 
 **Dauer:** ca. 2,5 Stunden
 
