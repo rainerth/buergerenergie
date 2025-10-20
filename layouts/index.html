@@ -10,7 +10,7 @@
                     <h2 class="featured-events-title">
                         <i class="fa fa-calendar-check-o"></i> Wichtige Termine
                     </h2>
-                    {{ range $featuredEvents }}
+                    {{ range sort $featuredEvents "Date" "asc" }}
                     <div class="featured-event">
                         <div class="featured-event-header">
                             <h3>
@@ -20,6 +20,24 @@
                             <p class="featured-event-subtitle">{{ . }}</p>
                             {{ end }}
                         </div>
+                        <!-- Prüfe ob mehrere Termine vorhanden sind -->
+                        {{ if .Params.dates }}
+                        <div class="featured-event-dates-list">
+                            {{ range .Params.dates }}
+                            <div class="featured-event-meta">
+                                <span class="featured-event-date">
+                                    <i class="fa fa-calendar"></i> {{ .date }}
+                                </span>
+                                {{ with .location }}
+                                <span class="featured-event-location">
+                                    <i class="fa fa-map-marker"></i> {{ . }}
+                                </span>
+                                {{ end }}
+                            </div>
+                            {{ end }}
+                        </div>
+                        {{ else }}
+                        <!-- Einzelner Termin -->
                         <div class="featured-event-meta">
                             <span class="featured-event-date">
                                 <i class="fa fa-calendar"></i> {{ .Date.Format "02.01.2006, 15:04 Uhr" }}
@@ -30,6 +48,7 @@
                             </span>
                             {{ end }}
                         </div>
+                        {{ end }}
                         {{ if .Params.description }}
                         <div class="featured-event-summary">
                             <p>{{ .Params.description }}</p>

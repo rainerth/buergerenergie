@@ -1,11 +1,11 @@
 ---
-title: "Infoveranstaltung - Erster Termin"
+title: "Infoveranstaltung - Zweiter Termin"
 subtitle: "Gemeinsam Energiezukunft gestalten"
-date: 2025-10-29 19:30:00
+date: 2025-10-30 19:30:00
 draft: false
 featured: true
 description: "Wir laden dich herzlich ein zur Informationsveranstaltung über die Bürgerenergiegenossenschaft Bösingen. Erfahre mehr über konkrete Energieprojekte, Beteiligungsmöglichkeiten und wie wir gemeinsam die Energiezukunft unserer Gemeinde gestalten können."
-location: "Gasthaus Sonne, Herrenzimmern"
+location: "Sportheim VfB Bösingen"
 tags: ["Energie", "Aktuell", "Gründung"]
 categories: ["Neuigkeiten"]
 author: "rth"
@@ -13,11 +13,11 @@ author: "rth"
 
 ## Termin
 
-**Mittwoch, 29. Oktober 2025**
+**Donnerstag, 30. Oktober 2025**
 
 **19:30 Uhr**
 
-**Gasthaus Sonne, Herrenzimmern**
+**Sportheim VfB Bösingen**
 
 **Dauer:** ca. 2,5 Stunden
 

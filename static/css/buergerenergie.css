@@ -956,6 +956,18 @@ figure figcaption a:hover,
   margin: 0 0 15px 0 !important;
 }
 
+.featured-event-dates-list {
+  margin-bottom: 15px;
+}
+
+.featured-event-dates-list .featured-event-meta {
+  margin-bottom: 8px;
+}
+
+.featured-event-dates-list .featured-event-meta:last-child {
+  margin-bottom: 0;
+}
+
 .featured-event-meta {
   display: flex;
   flex-wrap: wrap;
