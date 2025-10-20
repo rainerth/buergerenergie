@@ -1,0 +1,19 @@
+{{- /*
+  Custom link renderer for Markdown
+  - External links open in new tab (target="_blank")
+  - Internal links open in same tab
+  - Adds rel="noopener" for security
+*/ -}}
+
+{{- $url := urls.Parse .Destination -}}
+{{- $isExternal := and (ne $url.Scheme "") (not (in $url.Scheme "mailto")) -}}
+
+<a href="{{ .Destination | safeURL }}"
+   {{- if $isExternal }}
+   target="_blank"
+   rel="noopener noreferrer"
+   {{- end -}}
+   {{- with .Title }} title="{{ . }}"{{ end -}}>
+   {{- .Text | safeHTML -}}
+   {{- if $isExternal }}<i class="fa fa-external-link" style="font-size: 0.8em; margin-left: 3px;"></i>{{- end -}}
+</a>

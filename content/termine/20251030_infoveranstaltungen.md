@@ -27,4 +27,4 @@ author: "rth"
 
 ---
 
-{{< infoveranstaltung-text >}}
+{{< include "infoveranstaltung-gemeinsamer-text.md" >}}

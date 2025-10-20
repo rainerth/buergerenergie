@@ -1,0 +1,25 @@
+{{- /*
+  Generic include shortcode for markdown files
+  Usage: {{< include "filename.md" >}}
+
+  The shortcode looks for the file in the same directory as the calling page.
+  Example:
+    Page: /content/termine/event.md
+    Include: {{< include "shared-content.md" >}}
+    Looks for: /content/termine/shared-content.md
+*/ -}}
+
+{{- $filename := .Get 0 -}}
+{{- $page := .Page -}}
+{{- $pageDir := path.Dir $page.File.Path -}}
+{{- $includePath := path.Join $pageDir $filename -}}
+
+{{- with .Site.GetPage $includePath -}}
+  {{- .Content -}}
+{{- else -}}
+  {{- with readFile (path.Join "content" $includePath) -}}
+    {{- . | $page.RenderString -}}
+  {{- else -}}
+    {{- errorf "Include file not found: %s (looked in: content/%s)" $filename $includePath -}}
+  {{- end -}}
+{{- end -}}
