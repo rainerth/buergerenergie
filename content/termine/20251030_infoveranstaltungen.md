@@ -21,9 +21,6 @@ author: "rth"
 
 **Dauer:** ca. 2,5 Stunden
 
-**Anmeldung:** nicht erforderlich
-
-**Eintritt:** frei
 
 ---
 
