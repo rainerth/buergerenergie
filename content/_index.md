@@ -10,14 +10,13 @@ draft: false
 
 [Direkt zum Kontaktformular](#kontaktformular)
 
-
 # Gemeinsam die Energie&shy;zukunft gestalten!
 
-{{< optimized-image
-  name="AdobeStock_1432620622.jpeg"
-  width="350"
+{{< figure
+  src="/img/AdobeStock_1432620622.jpeg"
   alt="Investieren in Erneuerbare Energien"
   class="float-left mr-3 mb-3"
+  width="350px"
 >}}
 
 Die *Bürgerenergie Bösingen* ist derzeit eine Initiative, die zur Gründung einer Genossenschaft führen kann. Wir wollen Energieprojekte fördern und aktiv mitgestalten – zum Nutzen der Bösinger Bürger. **Bei Projekten, die uns direkt betreffen, wollen wir mit starker Stimme mitreden.**
@@ -44,7 +43,7 @@ Die Genossenschaft soll dabei eine Schlüsselrolle übernehmen: Sie treibt die E
 
 # Wer sind wir?
 
-Wir, das sind Rainer Thieringer und Klaus Wizemann. Als frisch gewählte Gemeinderatsmitglieder erkannten wir schnell: Energiethemen werden uns stark beschäftigen und wir müssen die Bürger auf diese spannende Reise mitnehmen. Die [Infoveranstaltung der Gemeinde Bösingen im April 2025](/neuigkeiten/20250429_buergerinfo) markierte einen wichtigen Startpunkt. Mit Unterstützung des Gemeinderats sondieren wir nun, ob wir ein passendes Modell für Bösingen finden und Interessenten gewinnen können. Bis jetzt haben sich über 50 Bürger gemeldet und fast täglich erreichen uns neue Anmeldungen über das Kontaktformular.
+Wir, das sind Rainer Thieringer und Klaus Wizemann. Als frisch gewählte Gemeinderatsmitglieder erkannten wir schnell: Energiethemen werden uns stark beschäftigen, und wir müssen die Bürger auf diese spannende Reise mitnehmen. Die [Infoveranstaltung der Gemeinde Bösingen im April 2025](/neuigkeiten/20250429_buergerinfo) markierte einen wichtigen Startpunkt. Mit Unterstützung des Gemeinderats und nach den erfolgreichen [Infoveranstaltungen Ende Oktober](/neuigkeiten/20251029_infoveranstaltungen/) mit über 100 Teilnehmenden arbeitet nun ein engagiertes Projektteam von 14 Personen an der Gründung. Über 90 Bürger haben bereits Interesse an einer Mitgliedschaft in der Genossenschaft bekundet, und fast täglich erreichen uns neue Anmeldungen über das Kontaktformular.
 
 
 # Kommen Sie mit uns ins Gespräch!

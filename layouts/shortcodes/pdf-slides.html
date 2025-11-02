@@ -1,0 +1,15 @@
+{{ $src := .Get "src" }}
+{{ $width := .Get "width" | default "100%" }}
+{{ $height := .Get "height" | default "600px" }}
+
+<div class="pdf-slides-wrapper">
+  <iframe src="{{ $src }}"
+          width="{{ $width }}"
+          height="{{ $height }}"
+          type="application/pdf"
+          style="border: 1px solid #ddd;">
+    <p>Ihr Browser unterstützt keine PDF-Vorschau.
+       <a href="{{ $src }}" download>Präsentation herunterladen</a>
+    </p>
+  </iframe>
+</div>

@@ -1,6 +1,56 @@
 {{ define "main" }}
 <article>
     <div class="container">
+        <!-- Featured News Section -->
+        {{ $featuredNews := where (where site.RegularPages "Section" "neuigkeiten") "Params.featured" true }}
+        {{ if $featuredNews }}
+        <div class="row">
+            <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12">
+                <div class="featured-news-container">
+                    <h2 class="featured-news-title">
+                        <i class="fa fa-bullhorn"></i> Aktuelle Neuigkeiten
+                    </h2>
+                    {{ range first 2 (sort $featuredNews "Date" "desc") }}
+                    <div class="featured-news-item">
+                        <div class="featured-news-header">
+                            <h3>
+                                <a href="{{ .Permalink }}">{{ .Title }}</a>
+                            </h3>
+                            {{ with .Params.subtitle }}
+                            <p class="featured-news-subtitle">{{ . }}</p>
+                            {{ end }}
+                        </div>
+                        <div class="featured-news-meta">
+                            <span class="featured-news-date">
+                                <i class="fa fa-calendar"></i> {{ .Date.Format "02.01.2006" }}
+                            </span>
+                            {{ with .Params.author }}
+                            <span class="featured-news-author">
+                                <i class="fa fa-user"></i> {{ . }}
+                            </span>
+                            {{ end }}
+                        </div>
+                        {{ if .Params.description }}
+                        <div class="featured-news-summary">
+                            <p>{{ .Params.description }}</p>
+                        </div>
+                        {{ else }}
+                        <div class="featured-news-summary">
+                            <p>{{ .Summary | plainify | truncate 250 }}</p>
+                        </div>
+                        {{ end }}
+                        <div class="featured-news-link">
+                            <a href="{{ .Permalink }}" class="btn btn-primary">
+                                Weiterlesen <i class="fa fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+        {{ end }}
+
         <!-- Featured Termine Section -->
         {{ $featuredEvents := where (where site.RegularPages "Section" "termine") "Params.featured" true }}
         {{ if $featuredEvents }}

@@ -3,7 +3,7 @@ title: "Infoveranstaltung - Zweiter Termin"
 subtitle: "Gemeinsam Energiezukunft gestalten"
 date: 2025-10-30 19:30:00
 draft: false
-featured: true
+featured: false
 description: "Wir laden Sie herzlich ein zur Informationsveranstaltung über die Bürgerenergiegenossenschaft Bösingen. Erfahren Sie mehr über konkrete Energieprojekte, Beteiligungsmöglichkeiten und wie wir gemeinsam die Energiezukunft unserer Gemeinde gestalten können."
 location: "Sportheim des VfB Bösingen"
 tags: ["Energie", "Aktuell", "Gründung"]
