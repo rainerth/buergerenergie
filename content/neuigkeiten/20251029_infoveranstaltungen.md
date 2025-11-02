@@ -21,6 +21,10 @@ Die beiden Abendveranstaltungen boten einen umfassenden Einblick in die Vision e
 
 Bürgermeister Schuster ließ es sich nicht nehmen, auf beiden Veranstaltungen persönlich anwesend zu sein und die konkreten energiepolitischen Herausforderungen der Gemeinde vorzustellen. Seine Unterstützung unterstreicht die Bedeutung des Projekts für die Zukunft Bösingens.
 
+## Klares Votum für lokale Genossenschaft
+
+Ein wichtiges Ergebnis der Diskussionen: Die **überwältigende Mehrheit der Teilnehmenden** sprach sich auf beiden Veranstaltungen für die Gründung einer **lokalen und eigenen Genossenschaft** aus. Das Projektteam wird diese Option daher vorrangig prüfen und ausarbeiten.
+
 ## Gründerteam formiert sich
 
 Ein besonderer Erfolg: **14 Personen** meldeten sich spontan zum **Projektteam Gründung** und sind bereit, die Genossenschaft aktiv aufzubauen. Um die Gründung professionell vorzubereiten, wurden **vier Arbeitsgruppen** vorgeschlagen:
