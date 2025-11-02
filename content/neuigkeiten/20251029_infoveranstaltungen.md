@@ -17,9 +17,9 @@ Am 29. und 30. Oktober 2025 fanden in Bösingen und Herrenzimmern zwei gut besuc
 
 ## Große Resonanz und engagierte Diskussionen
 
-Die beiden Abendveranstaltungen boten einen umfassenden Einblick in die Vision einer Bürgerenergiegenossenschaft für Bösingen. Viele Fragen zur Struktur, zu möglichen Projekten und zur Gründung einer Genossenschaft konnten in konstruktiven Diskussionen geklärt werden.
+Die beiden Abendveranstaltungen boten einen umfassenden Einblick in die Vision einer Bürgerenergiegenossenschaft für die Gemeinde Bösingen. Viele Fragen zur Struktur, zu möglichen Projekten und zur Gründung einer Genossenschaft konnten in konstruktiven Diskussionen geklärt werden.
 
-Bürgermeister Schuster ließ es sich nicht nehmen, auf beiden Veranstaltungen persönlich anwesend zu sein und die konkreten energiepolitischen Herausforderungen der Gemeinde vorzustellen. Seine Unterstützung unterstreicht die Bedeutung des Projekts für die Zukunft Bösingens.
+Bürgermeister Schuster ließ es sich nicht nehmen, auf beiden Veranstaltungen persönlich anwesend zu sein und die konkreten energiepolitischen Herausforderungen der Gemeinde vorzustellen. Seine Unterstützung unterstreicht die Bedeutung des Projekts für die Zukunft der Gemeinde mit beiden Ortsteilen.
 
 ## Klares Votum für lokale Genossenschaft
 
@@ -44,7 +44,7 @@ Die vollständige Präsentation der Infoveranstaltungen können Sie hier einsehe
 
 Die Arbeitsgruppen nehmen in den kommenden Wochen ihre Arbeit auf. Interessierte, die bei den Veranstaltungen nicht dabei sein konnten, sind herzlich eingeladen, sich noch dem Gründerteam anzuschließen.
 
-**Gemeinsam gestalten wir die Energiezukunft Bösingens!**
+**Gemeinsam gestalten wir die Energiezukunft der Gemeinde Bösingen!**
 
 {{< admonition type="tip" title="Interesse an der Gründung?">}}
 
