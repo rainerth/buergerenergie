@@ -3,13 +3,28 @@
 {{ $height := .Get "height" | default "600px" }}
 
 <div class="pdf-slides-wrapper">
-  <iframe src="{{ $src }}"
-          width="{{ $width }}"
-          height="{{ $height }}"
-          type="application/pdf"
-          style="border: 1px solid #ddd;">
-    <p>Ihr Browser unterstützt keine PDF-Vorschau.
-       <a href="{{ $src }}" download>Präsentation herunterladen</a>
-    </p>
-  </iframe>
+  <!-- Desktop: PDF im iframe anzeigen -->
+  <div class="pdf-viewer-desktop">
+    <iframe src="{{ $src }}"
+            width="{{ $width }}"
+            height="{{ $height }}"
+            type="application/pdf">
+      <p>Ihr Browser unterstützt keine PDF-Vorschau.
+         <a href="{{ $src }}" download>Präsentation herunterladen</a>
+      </p>
+    </iframe>
+  </div>
+
+  <!-- Mobile: Download-Button prominent anzeigen -->
+  <div class="pdf-viewer-mobile">
+    <div class="mobile-pdf-notice">
+      <i class="fa fa-file-pdf-o"></i>
+      <h4>PDF-Präsentation</h4>
+      <p>Auf mobilen Geräten können Sie die Präsentation herunterladen:</p>
+      <a href="{{ $src }}" class="btn btn-primary" download>
+        <i class="fa fa-download"></i> PDF herunterladen
+      </a>
+      <p class="small-hint">Die PDF-Datei wird in Ihrer Download-App geöffnet.</p>
+    </div>
+  </div>
 </div>
