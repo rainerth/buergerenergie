@@ -36,7 +36,7 @@ Ein besonderer Erfolg: **20 Personen** meldeten sich spontan zum **Projektteam G
 
 ## Die Präsentation zum Nachlesen
 
-Die vollständige Präsentation der Infoveranstaltungen können Sie [hier einsehen](/slides/20251029_Infoveranstaltung_Buergerenergie.pdf):
+Die vollständige Präsentation der Infoveranstaltungen können Sie direkt hier einsehen [oder herunterladen](/slides/20251029_Infoveranstaltung_Buergerenergie.pdf):
 
 {{< pdf-slides src="/slides/20251029_Infoveranstaltung_Buergerenergie.pdf" height="700px" >}}
 
