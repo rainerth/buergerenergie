@@ -1,7 +1,7 @@
 ---
 title: "Infoveranstaltungen in Bösingen und Herrenzimmern"
-subtitle: "Über 100 Interessierte - 14 Gründungsmitglieder starten in 4 Arbeitsgruppen"
-date: 2025-10-29 19:00:00
+subtitle: "Über 100 Interessierte - 20 Gründungsmitglieder starten in 4 Arbeitsgruppen"
+date: 2025-10-31 20:00:00
 draft: false
 featured: true
 tags: ["Energie", "Aktuell", "Genossenschaft", "Gründung"]
@@ -27,7 +27,7 @@ Ein wichtiges Ergebnis der Diskussionen: Die **überwältigende Mehrheit der Tei
 
 ## Gründerteam formiert sich
 
-Ein besonderer Erfolg: **14 Personen** meldeten sich spontan zum **Projektteam Gründung** und sind bereit, die Genossenschaft aktiv aufzubauen. Um die Gründung professionell vorzubereiten, wurden **vier Arbeitsgruppen** vorgeschlagen:
+Ein besonderer Erfolg: **20 Personen** meldeten sich spontan zum **Projektteam Gründung** und sind bereit, die Genossenschaft aktiv aufzubauen. Um die Gründung professionell vorzubereiten, wurden **vier Arbeitsgruppen** vorgeschlagen:
 
 * **Satzung und Rechtsform**: Erarbeitung der rechtlichen Grundlagen
 * **Projektentwicklung**: Identifikation und Planung erster Energieprojekte
@@ -36,7 +36,7 @@ Ein besonderer Erfolg: **14 Personen** meldeten sich spontan zum **Projektteam G
 
 ## Die Präsentation zum Nachlesen
 
-Die vollständige Präsentation der Infoveranstaltungen können Sie hier einsehen:
+Die vollständige Präsentation der Infoveranstaltungen können Sie [hier einsehen](/slides/20251029_Infoveranstaltung_Buergerenergie.pdf):
 
 {{< pdf-slides src="/slides/20251029_Infoveranstaltung_Buergerenergie.pdf" height="700px" >}}
 
