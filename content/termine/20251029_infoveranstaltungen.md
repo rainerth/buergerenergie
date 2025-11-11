@@ -25,4 +25,4 @@ author: "rth"
 
 ---
 
-{{< include "infoveranstaltung-gemeinsamer-text.md" >}}
+{{< include "_includes/infoveranstaltung-gemeinsamer-text.md" >}}

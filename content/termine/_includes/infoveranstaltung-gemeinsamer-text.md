@@ -1,3 +1,9 @@
+---
+_build:
+  render: never
+  list: never
+---
+
 # Einladung zur Informationsveranstaltung: Gemeinsam Energiezukunft gestalten
 
 ## Bürgerenergiegenossenschaft Bösingen?

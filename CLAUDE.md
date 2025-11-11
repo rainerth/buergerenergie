@@ -86,3 +86,7 @@ The `build.sh` script handles the complete build process:
 - CSV data files are symlinked from locations specified in `config.env`
 - The site focuses on community energy initiatives and sustainable development
 - All content should be in German following the cooperative's communication style
+
+## Language Guidelines
+
+- Use the formal address form "Sie" (not informal "Du") in all content

@@ -3,7 +3,7 @@ title: "Infoveranstaltungen in Bösingen und Herrenzimmern"
 subtitle: "Über 100 Interessierte - 20 Gründungsmitglieder starten in 4 Arbeitsgruppen"
 date: 2025-10-31 20:00:00
 draft: false
-featured: true
+featured: false
 tags: ["Energie", "Aktuell", "Genossenschaft", "Gründung"]
 categories: ["Neuigkeiten"]
 author: "rth"

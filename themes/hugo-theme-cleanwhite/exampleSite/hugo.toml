@@ -46,12 +46,12 @@ home = ["HTML", "RSS", "Algolia"]
   #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
   sidebar_avatar = "img/zhaohuabing.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
-  featured_tags = true 
-  featured_condition_size = 1 
+  featured_tags = true
+  featured_condition_size = 1
 
   # Baidu Analytics
   ba_track_id = ""
-  
+
   # We need a proxy to access Disqus api in China
   # Follow https://github.com/zhaohuabing/disqus-php-api to set up your own disqus proxy
   disqus_proxy = ""
@@ -67,9 +67,9 @@ home = ["HTML", "RSS", "Algolia"]
   artalk_server = "https://xxx.xxx.com"
   artalk_site = "xxx blog"
 
-  #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
-  reward = true 
-  # reward_guide = "如果这篇文章对你有用,请随意打赏" 
+  #Enable wechat pay & alipay to allow readers send reward money if they like the articles
+  reward = true
+  # reward_guide = "如果这篇文章对你有用,请随意打赏"
 
   friends = true
   bookmarks = false
@@ -80,14 +80,14 @@ home = ["HTML", "RSS", "Algolia"]
   #custom_js = ["js/lightbox.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js", "js/main.js"]
 
   [params.social]
-  rss            = true 
+  rss            = true
   email          = "youremail@gmail.com"
   #facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
   #twitter       = "full profile url in twitter"
   linkedin       = "https://www.linkedin.com/in/yourlinkedinid"
   stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
-  #instagram     = "full profile url in instagram"
+  instagram      = "https://www.instagram.com/buergerenergie_boesingen/"
   github         = "https://github.com/yourgithub"
   wechat         = "your wechat qr code image"
   #medium        = "full profile url in medium"
@@ -99,10 +99,10 @@ home = ["HTML", "RSS", "Algolia"]
   #keybase       = "full profile url in keybase"
   #xing          = "https://www.xing.com/profile/yourxingid"
   #git           = "full profile url for git user"
-  
+
   [[params.friend_link]]
-  title = "Linda的博客"
-  href =  "https://zhaozhihan.com"
+  title = "Gemeinde Bösingen"
+  href =  "https://www.boesingen.de"
 
   [[params.bookmark_link]]
   title =  "Martin Fowler"
@@ -116,7 +116,7 @@ home = ["HTML", "RSS", "Algolia"]
   [[params.bookmark_link]]
   title = "unsplash"
   href = "https://unsplash.com"
-  
+
   [[params.additional_menus]]
   title =  "ARCHIVE"
   href =  "/archive/"
@@ -135,7 +135,7 @@ notAlternative = true
 
 [params.algolia]
 vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
-params = ["categories", "tags"] 
+params = ["categories", "tags"]
 
 [markup]
   [markup.tableOfContents]

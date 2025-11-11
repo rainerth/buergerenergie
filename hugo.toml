@@ -84,6 +84,7 @@ home = ["HTML", "RSS"]
 	[params.social]
 	rss = true
 	email = "info@buergerenergie-boesingen.de"
+	instagram = "https://www.instagram.com/buergerenergie_boesingen/"
 
 	# Search configuration
 	search = true

@@ -12,11 +12,11 @@ draft: false
 
 # Gemeinsam die Energie&shy;zukunft gestalten!
 
-{{< figure
-  src="/img/AdobeStock_1432620622.jpeg"
+{{< optimized-image
+  name="AdobeStock_1432620622.jpeg"
+  width="350"
   alt="Investieren in Erneuerbare Energien"
   class="float-left mr-3 mb-3"
-  width="350px"
 >}}
 
 Die *Bürgerenergie Bösingen* ist derzeit eine Initiative, die zur Gründung einer Genossenschaft führen kann. Wir wollen Energieprojekte fördern und aktiv mitgestalten – zum Nutzen der Bösinger Bürger. **Bei Projekten, die uns direkt betreffen, wollen wir mit starker Stimme mitreden.**
@@ -43,12 +43,11 @@ Die Genossenschaft soll dabei eine Schlüsselrolle übernehmen: Sie treibt die E
 
 # Wer sind wir?
 
-Wir, das sind Rainer Thieringer und Klaus Wizemann. Als frisch gewählte Gemeinderatsmitglieder erkannten wir schnell: Energiethemen werden uns stark beschäftigen, und wir müssen die Bürger auf diese spannende Reise mitnehmen. Die [Infoveranstaltung der Gemeinde Bösingen im April 2025](/neuigkeiten/20250429_buergerinfo) markierte einen wichtigen Startpunkt. Mit Unterstützung des Gemeinderats und nach den erfolgreichen [Infoveranstaltungen Ende Oktober](/neuigkeiten/20251029_infoveranstaltungen/) mit über 100 Teilnehmenden arbeitet nun ein engagiertes Projektteam von 14 Personen an der Gründung. Über 90 Bürger haben bereits Interesse an einer Mitgliedschaft in der Genossenschaft bekundet, und fast täglich erreichen uns neue Anmeldungen über das Kontaktformular.
+Wir sind ein Projektteam aus 20 engagierten Personen, das die Gründung einer Bürgerenergiegenossenschaft vorbereitet. Die [Infoveranstaltung der Gemeinde Bösingen im April 2025](/neuigkeiten/20250429_buergerinfo) war der Startpunkt. Mit Unterstützung des Gemeinderats und nach den erfolgreichen [Infoveranstaltungen Ende Oktober](/neuigkeiten/20251029_infoveranstaltungen/) mit über 100 Teilnehmenden gehen wir jetzt in die Umsetzung. Unser Ziel: eine Gründungsveranstaltung im Frühjahr 2026.
 
+# Jetzt ist der richtige Zeitpunkt!
 
-# Kommen Sie mit uns ins Gespräch!
-
-Sicherlich haben Sie noch Fragen. Wir freuen uns auf den Austausch mit Ihnen. Sprechen Sie uns an oder nutzen Sie das Kontaktformular.
+Stärken Sie der Initiative den Rücken und tragen Sie sich in die Liste der Interessenten ein. Sie bleiben so immer auf dem Laufenden und können – wenn Sie möchten – in der Reihenfolge der Anmeldungen zu den ersten Gründungsmitgliedern gehören. Nutzen Sie einfach das Kontaktformular!
 
 # Kontaktformular
 

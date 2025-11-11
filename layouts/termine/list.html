@@ -11,8 +11,8 @@
                 
                 {{/* Grenzdatum berechnen - konfigurierbare Tage zurück ab Build-Zeit */}}
                 {{ $cutoff := now.AddDate 0 0 -4 }}
-                {{/* Alle Termine-Seiten auf >= cutoff filtern */}}
-                {{ $events := where (where site.RegularPages "Section" "termine") "Date" "ge" $cutoff }}
+                {{/* Alle Termine-Seiten auf >= cutoff filtern, _index.md ausschließen */}}
+                {{ $events := where (where (where site.RegularPages "Section" "termine") "Kind" "page") "Date" "ge" $cutoff }}
                 {{/* Sortieren nach Datum aufsteigend (chronologisch) */}}
                 {{ $events = sort $events "Date" "asc" }}
                 {{ range $events }}

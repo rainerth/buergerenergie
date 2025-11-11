@@ -34,8 +34,8 @@
         <hr class="hidden-sm hidden-xs">
         <h5><a href="/neuigkeiten/">NEUIGKEITEN</a></h5>
         <ul class="list-unstyled">
-            {{/* Nur Posts mit Datum <= heute anzeigen */}}
-            {{ $posts := where (where .Site.Pages "Section" "neuigkeiten") "Date" "le" now }}
+            {{/* Nur Posts mit Datum <= heute anzeigen, _index.md ausschließen */}}
+            {{ $posts := where (where (where .Site.Pages "Section" "neuigkeiten") "Kind" "page") "Date" "le" now }}
             {{ range first 3 (sort $posts "Date" "desc") }}
             <li style="margin-bottom: 10px;">
                 <a href="{{ .Permalink }}">{{ .Title }}</a>
@@ -52,13 +52,13 @@
         <h5><a href="/termine/">TERMINE</a></h5>
         <ul class="list-unstyled">
             {{ if .IsHome }}
-                {{/* Homepage: Alle Termine ohne Zeitfilterung */}}
-                {{ $events := where site.RegularPages "Section" "termine" }}
+                {{/* Homepage: Alle Termine ohne Zeitfilterung, _index.md ausschließen */}}
+                {{ $events := where (where site.RegularPages "Section" "termine") "Kind" "page" }}
                 {{/* Sortieren nach Datum aufsteigend und erste 3 nehmen */}}
                 {{ range first 3 (sort $events "Date" "asc") }}
                 <li style="margin-bottom: 10px;">
                     <a href="{{ .Permalink }}">{{ .Title }}</a>
-                    <br><small class="text-muted">{{ .Date.Format "02.01.2006" }}</small>
+                    <br><small class="text-muted"><i class="fa fa-calendar"></i> {{ .Date.Format "02.01.2006, 15:04" }} Uhr</small>
                     {{ with .Params.location }}
                     <br><small class="text-muted"><i class="fa fa-map-marker"></i> {{ . }}</small>
                     {{ end }}
@@ -67,13 +67,13 @@
             {{ else }}
                 {{/* Andere Seiten: Grenzdatum berechnen - 4 Tage zurück ab Build-Zeit */}}
                 {{ $cutoff := now.AddDate 0 0 -4 }}
-                {{/* Termine ab Cutoff filtern */}}
-                {{ $events := where (where site.RegularPages "Section" "termine") "Date" "ge" $cutoff }}
+                {{/* Termine ab Cutoff filtern, _index.md ausschließen */}}
+                {{ $events := where (where (where site.RegularPages "Section" "termine") "Kind" "page") "Date" "ge" $cutoff }}
                 {{/* Sortieren nach Datum aufsteigend und erste 3 nehmen */}}
                 {{ range first 3 (sort $events "Date" "asc") }}
                 <li style="margin-bottom: 10px;">
                     <a href="{{ .Permalink }}">{{ .Title }}</a>
-                    <br><small class="text-muted">{{ .Date.Format "02.01.2006" }}</small>
+                    <br><small class="text-muted"><i class="fa fa-calendar"></i> {{ .Date.Format "02.01.2006, 15:04" }} Uhr</small>
                     {{ with .Params.location }}
                     <br><small class="text-muted"><i class="fa fa-map-marker"></i> {{ . }}</small>
                     {{ end }}
