@@ -8,10 +8,10 @@ categories: ["Neuigkeiten"]
 author: "rth"
 ---
 
-<!--more-->
 Erste Präsentation der Idee Bürgerenergiegenossenschaft anlässlich eines Informationsabends der Gemeinde Bösingen durch Rainer Thieringer und Klaus Wizemann.
 Aus den Reihen der Teilnehmenden bekundeten über 30 Personen spontan Interesse und hinterließen ihre Kontaktdaten. Das war ein schönes Signal an die Initiatoren den nächsten Schritt zugehen.
 
+<!--more-->
 
 {{< figure
   src="/img/20250429_buergerenergie-boesingen.webp"

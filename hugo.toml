@@ -5,7 +5,8 @@ theme = 'hugo-theme-cleanwhite'
 copyright = 'Bürgerenergie Bösingen i.G.'
 
 #frontpage pagination
-paginate = 10
+[pagination]
+pagerSize = 10
 
 enableRobotsTXT = true
 buildFuture = true

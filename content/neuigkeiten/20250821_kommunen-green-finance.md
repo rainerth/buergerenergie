@@ -16,6 +16,8 @@ featured_image: "/img/artikel/kommunen-green-finance.jpg"
 
 Immer mehr Kommunen in Deutschland nutzen die Chancen der erneuerbaren Energien, um ihre Haushalte zu stabilisieren und gleichzeitig die Lebensqualität vor Ort zu erhöhen. Beispiele aus Hessen und Nordrhein-Westfalen zeigen eindrücklich, wie aus Energieprojekten ein Gewinn für alle werden kann.
 
+<!--more-->
+
 ## Erfolgsbeispiele aus anderen Regionen
 
 - **Heidenrod (Hessen):**

@@ -18,15 +18,15 @@
                         <i class="fa fa-calendar"></i> {{ .Date.Format "02.01.2006" }}
                     </p>
                     {{ if .Summary }}
-                        <p>{{ .Summary }}</p>
+                        <p>{{ .Summary | plainify }}</p>
                     {{ else }}
-                        <p>{{ .Content | truncate 200 }}</p>
+                        <p>{{ .Content | plainify | truncate 200 }}</p>
                     {{ end }}
                     <a href="{{ .Permalink }}">Weiterlesen →</a>
                 </div>
                 {{ end }}
-                
-                {{ template "_internal/pagination.html" . }}
+
+                {{ partial "pagination.html" . }}
             </div>
             
             {{ partial "sidebar.html" . }}

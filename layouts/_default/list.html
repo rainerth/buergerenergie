@@ -41,7 +41,7 @@
                     {{ end }}
                 {{ end }}
                 
-                {{ template "_internal/pagination.html" . }}
+                {{ .Paginator }}
             </div>
             
             {{ partial "sidebar.html" . }}

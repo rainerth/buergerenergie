@@ -11,9 +11,9 @@ featured_image: "/img/artikel/infoveranstaltung-2025.jpg"
 description: "Am 29. und 30. Oktober 2025 fanden in Bösingen und Herrenzimmern zwei gut besuchte Informationsveranstaltungen zur geplanten Bürgerenergiegenossenschaft statt. Mit über 100 Interessierten übertraf die Resonanz alle Erwartungen."
 ---
 
-<!--more-->
-
 Am 29. und 30. Oktober 2025 fanden in Bösingen und Herrenzimmern zwei gut besuchte Informationsveranstaltungen zur geplanten Bürgerenergiegenossenschaft statt. Mit über 100 Interessierten übertraf die Resonanz alle Erwartungen.
+
+<!--more-->
 
 ## Große Resonanz und engagierte Diskussionen
 

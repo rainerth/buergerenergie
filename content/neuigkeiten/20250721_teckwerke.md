@@ -9,6 +9,8 @@ author: "rth"
 
 Am 21. Juli war Rainer Thieringer zur Mitgliederversammlung der Teckwerke eG in Kirchheim unter Teck eingeladen. Diese Genossenschaft agiert überregional und in Ortsgruppen und wäre als Alternative zu einer eigenen und meist recht aufwändigen Gründung einer Bürgerenergiegenossenschaft eine interessante Alternative.
 
+<!--more-->
+
 Die Regionalgruppen berichteten von ihren vielfältigen Aktionen, einige davon dienen sicherlich auch als Ideengeber für Veranstaltungen in Bösingen.
 
 [Teckwerke BÜRGERENERGIE eG](https://teckwerke-buergerenergie.de/)
