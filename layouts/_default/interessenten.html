@@ -61,7 +61,7 @@
                                                     <span class="text-muted">Keine E-Mail</span>
                                                 {{ end }}
                                             </td>
-                                        {{ else if eq $cellIndex 6 }}
+                                        {{ else if eq $cellIndex 7 }}
                                             <!-- Telefon-Spalte mit Link -->
                                             <td>
                                                 {{ if $cell }}
@@ -72,7 +72,7 @@
                                                     <span class="text-muted">Kein Telefon</span>
                                                 {{ end }}
                                             </td>
-                                        {{ else if eq $cellIndex 8 }}
+                                        {{ else if eq $cellIndex 9 }}
                                             <!-- Homepage-Nennung mit Icon -->
                                             <td>
                                                 {{ if eq $cell "Ja" }}
@@ -104,8 +104,8 @@
                 {{ range $index, $row := $csvData }}
                     {{ if ne $index 0 }}
                         {{ if index $row 1 }}{{ $mitEmail = add $mitEmail 1 }}{{ end }}
-                        {{ if index $row 6 }}{{ $mitTelefon = add $mitTelefon 1 }}{{ end }}
-                        {{ if eq (index $row 8) "Ja" }}{{ $mitHomepage = add $mitHomepage 1 }}{{ end }}
+                        {{ if index $row 7 }}{{ $mitTelefon = add $mitTelefon 1 }}{{ end }}
+                        {{ if eq (index $row 9) "Ja" }}{{ $mitHomepage = add $mitHomepage 1 }}{{ end }}
                     {{ end }}
                 {{ end }}
 

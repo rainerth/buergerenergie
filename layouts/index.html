@@ -90,7 +90,7 @@
                         <!-- Einzelner Termin -->
                         <div class="featured-event-meta">
                             <span class="featured-event-date">
-                                <i class="fa fa-calendar"></i> {{ .Date.Format "02.01.2006, 15:04 Uhr" }}
+                                <i class="fa fa-calendar"></i> {{ if or (ne (.Date.Hour) 0) (ne (.Date.Minute) 0) }}{{ .Date.Format "02.01.2006, 15:04 Uhr" }}{{ else }}{{ .Date.Format "02.01.2006" }}{{ end }}
                             </span>
                             {{ with .Params.location }}
                             <span class="featured-event-location">

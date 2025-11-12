@@ -27,7 +27,7 @@ Ein wichtiges Ergebnis der Diskussionen: Die **überwältigende Mehrheit der Tei
 
 ## Gründerteam formiert sich
 
-Ein besonderer Erfolg: **20 Personen** meldeten sich spontan zum **Projektteam Gründung** und sind bereit, die Genossenschaft aktiv aufzubauen. Um die Gründung professionell vorzubereiten, wurden **vier Arbeitsgruppen** vorgeschlagen:
+Ein besonderer Erfolg: **22 Personen** meldeten sich spontan zum **Projektteam Gründung** und sind bereit, die Genossenschaft aktiv aufzubauen. Um die Gründung professionell vorzubereiten, wurden **vier Arbeitsgruppen** vorgeschlagen:
 
 * **Satzung und Rechtsform**: Erarbeitung der rechtlichen Grundlagen
 * **Projektentwicklung**: Identifikation und Planung erster Energieprojekte
