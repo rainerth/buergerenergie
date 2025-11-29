@@ -43,7 +43,7 @@ Die Genossenschaft soll dabei eine Schlüsselrolle übernehmen: Sie treibt die E
 
 # Wer sind wir?
 
-Wir sind ein Projektteam aus 22 engagierten Personen, das die Gründung einer Bürgerenergiegenossenschaft vorbereitet. Die [Infoveranstaltung der Gemeinde Bösingen im April 2025](/neuigkeiten/20250429_buergerinfo) war der Startpunkt. Mit Unterstützung des Gemeinderats und nach den erfolgreichen [Infoveranstaltungen Ende Oktober](/neuigkeiten/20251029_infoveranstaltungen/) mit über 100 Teilnehmenden gehen wir jetzt in die Umsetzung. Unser Ziel: eine Gründungsveranstaltung im Frühjahr 2026.
+Wir sind ein Projektteam aus 24 engagierten Personen, das die Gründung einer Bürgerenergiegenossenschaft vorbereitet. Die [Infoveranstaltung der Gemeinde Bösingen im April 2025](/neuigkeiten/20250429_buergerinfo) war der Startpunkt. Mit Unterstützung des Gemeinderats und nach den erfolgreichen [Infoveranstaltungen Ende Oktober](/neuigkeiten/20251029_infoveranstaltungen/) mit über 100 Teilnehmenden gehen wir jetzt in die Umsetzung. Unser Ziel: eine Gründungsveranstaltung im Frühjahr 2026.
 
 # Jetzt ist der richtige Zeitpunkt!
 
