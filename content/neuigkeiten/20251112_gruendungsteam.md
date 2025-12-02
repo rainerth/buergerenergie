@@ -1,6 +1,6 @@
 ---
 title: "Das Gründungsteam steht – die Arbeit beginnt"
-subtitle: "24 engagierte Bürgerinnen und Bürger bilden die AG0"
+subtitle: "23 engagierte Bürgerinnen und Bürger bilden die AG0"
 date: 2025-11-12
 draft: false
 tags: ["Genossenschaft", "Gründung", "Team"]
@@ -30,7 +30,6 @@ Die folgenden Personen bilden das Gründungsteam und treiben die Initiative vora
 
 **Aus Herrenzimmern:**
 - Klaus Wizemann
-- Ralf Imhof
 - Andreas Wirth
 - Karl Ernst Wizemann
 - Oliver Arnold
