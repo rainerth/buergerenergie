@@ -1,6 +1,6 @@
 ---
 title: "Das Gründungsteam steht – die Arbeit beginnt"
-subtitle: "23 engagierte Bürgerinnen und Bürger bilden die AG0"
+subtitle: "22 engagierte Bürgerinnen und Bürger bilden die AG0"
 date: 2025-11-12
 draft: false
 tags: ["Genossenschaft", "Gründung", "Team"]
@@ -36,7 +36,6 @@ Die folgenden Personen bilden das Gründungsteam und treiben die Initiative vora
 - Thomas Fischinger
 - Timo Bantle
 - Wolfram Röhrig
-- Remy Müller
 
 **Aus Epfendorf:**
 - Marius Dettki

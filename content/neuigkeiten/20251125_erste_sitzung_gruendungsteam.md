@@ -1,6 +1,6 @@
 ---
 title: "Erste Sitzung des Gründungsteams – Arbeitsgruppen gebildet"
-subtitle: "23 engagierte Bürger verteilen sich auf vier Arbeitsgruppen"
+subtitle: "22 engagierte Bürger verteilen sich auf vier Arbeitsgruppen"
 date: 2025-11-25
 draft: false
 tags: ["Genossenschaft", "Gründung", "Team", "Arbeitsgruppen"]
@@ -28,7 +28,6 @@ Die größte Arbeitsgruppe befasst sich mit der Identifikation und Planung erste
 - Peter Banholzer
 - Rainer Banholzer
 - Rainer Thieringer
-- Remy Müller
 - Sven Semmelrodt
 - Thomas Fischinger
 - Timo Bantle
