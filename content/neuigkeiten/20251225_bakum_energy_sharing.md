@@ -27,3 +27,7 @@ Averbecks Motto: *"Ärger erzeugt Energie"* – und seine Botschaft ist klar kon
 - **340 Genossenschaftsmitglieder** am Windpark beteiligt
 - **Innovator of the Year 2024** (Auszeichnung in Österreich)
 {{< /admonition >}}
+
+{{< admonition type="info" title="Weitere Vorbilder">}}
+Auch die Gemeinde Steyerberg zeigt, wie Kommunen mit Bürgerenergie erfolgreich sein können: [Vorbild Steyerberg?]({{< ref "/neuigkeiten/20250908_klimastark_steyerberg" >}})
+{{< /admonition >}}
