@@ -213,6 +213,9 @@ config.env
 # Server deployment logs and backups (local only)
 logs/
 backup/
+
+# GoAccess statistics output (generated on server)
+public/statistik/
 static/img/*_Preview.jpeg
 static/intern/.htaccess
 resources/_gen/
