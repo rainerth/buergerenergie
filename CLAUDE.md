@@ -90,3 +90,32 @@ The `build.sh` script handles the complete build process:
 ## Language Guidelines
 
 - Use the formal address form "Sie" (not informal "Du") in all content
+
+## Git Repository
+
+- **Repository**: `git@github.com:rainerth/buergerenergie.git` (SSH)
+- **Authentifizierung**: SSH-Key
+
+### SSH-Einrichtung für neue Rechner
+
+1. SSH-Key erstellen (falls nicht vorhanden):
+   ```bash
+   ssh-keygen -t ed25519 -C "email@beispiel.de"
+   ```
+
+2. Öffentlichen Key anzeigen und in GitHub hinterlegen (Settings → SSH and GPG keys):
+   ```bash
+   cat ~/.ssh/id_ed25519.pub
+   ```
+
+3. Remote-URL auf SSH setzen:
+   ```bash
+   git remote set-url origin git@github.com:rainerth/buergerenergie.git
+   ```
+
+## Dokumentation in Obsidian
+
+Projektdokumentation und Notizen werden im Obsidian Wiki gepflegt:
+
+- **thlx06**: `~/Dokumente/Obsidian.rth/rthwiki/`
+- **athos**: `~/Dokumente/Obsidian.rth/rthwiki/`

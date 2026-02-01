@@ -1,12 +1,26 @@
-/* NaturAktiv Custom Styles */
+/* Bürgerenergie Bösingen Custom Styles */
 
-/* Nature-inspired color palette */
+/* Farbpalette passend zum Logo */
 :root {
-  --nature-green: #2d5016;
-  --nature-light-green: #4a7c1b;
-  --nature-accent: #8bc34a;
+  --primary-blue: #2763a5;       /* Hauptblau aus Logo */
+  --primary-blue-dark: #1d4b8b;  /* Dunkleres Blau */
+  --primary-blue-light: #3676c4; /* Helleres Blau */
+  --accent-gold: #f9b61d;        /* Gold aus Logo */
+  --text-dark: #1a262e;          /* Dunkelgrau aus Logo */
+
+  /* Legacy-Variablen für Kompatibilität (werden auf neue Farben gemappt) */
+  --nature-green: #2763a5;
+  --nature-light-green: #3676c4;
+  --nature-accent: #f9b61d;
   --nature-brown: #5d4e37;
-  --nature-blue: #4682b4;
+  --nature-blue: #2763a5;
+}
+
+/* Sidebar Logo - volle Breite der Sidebar */
+.sidebar-container .short-about img {
+  width: 100% !important;
+  max-width: none;
+  margin: 0 auto 20px auto;
 }
 
 /* Text Flow Around Images */
@@ -218,7 +232,7 @@ p {
 
 .intro-header .post-heading h1,
 .intro-header .site-heading h1 {
-  color: #1a4408 !important;
+  color: var(--primary-blue-dark) !important;
   font-size: 50px !important; /* Reduziert von 80px auf 50px */
   text-shadow:
     /* Weißer Outline für Kontrast */
@@ -247,7 +261,7 @@ p {
 
 .intro-header .post-heading .subheading,
 .intro-header .site-heading .subheading {
-  color: #2d5016 !important;
+  color: var(--primary-blue) !important;
   font-weight: 600;
   text-shadow:
     /* Weißer Outline */
@@ -266,16 +280,50 @@ p {
 
 /* Navigation */
 .navbar-custom {
-  background-color: rgba(45, 80, 22, 0.95);
+  background-color: rgba(255, 255, 255, 0.95); /* Weiß - Logo hebt sich gut ab */
+  min-height: 80px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
-  color: #ffffff;
+  color: var(--primary-blue-dark); /* Dunkelblau für Text */
 }
 
 .navbar-custom .nav li a:hover {
-  color: var(--nature-accent);
+  color: var(--accent-gold); /* Gold beim Hover */
+}
+
+/* Navbar Logo */
+.navbar-brand {
+  display: flex !important;
+  align-items: center;
+  padding: 5px 15px !important;
+}
+
+.navbar-logo {
+  height: 70px;
+  width: auto;
+}
+
+/* Titel visuell versteckt, aber für SEO/Screenreader zugänglich */
+.navbar-title {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Mobile: Logo anpassen */
+@media (max-width: 767px) {
+  .navbar-logo {
+    height: 50px;
+  }
 }
 
 /* Content styling */
@@ -352,54 +400,54 @@ a:hover {
 .document-list li {
   margin: 10px 0;
   padding: 10px;
-  background-color: #f0f8e8;
+  background-color: #e8f2fc;  /* Hellblau passend zum Logo */
   border-radius: 5px;
   border-left: 4px solid var(--nature-accent);
 }
 
 .document-list li:hover {
-  background-color: #e8f5d8;
+  background-color: #d4e5f7;  /* Etwas dunkleres Hellblau */
 }
 
 /* Mobile Navigation Fix */
 @media only screen and (max-width: 767px) {
   .navbar-default .navbar-collapse {
-    background: var(--nature-green) !important;
-    border: 1px solid rgba(255, 255, 255, 0.1);
+    background: #ffffff !important;
+    border: 1px solid rgba(0, 0, 0, 0.1);
   }
 
   .navbar-default .navbar-collapse .nav li a {
-    color: #ffffff !important;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    color: var(--primary-blue-dark) !important;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   }
 
   .navbar-default .navbar-collapse .nav li a:hover,
   .navbar-default .navbar-collapse .nav li a:focus {
-    color: var(--nature-accent) !important;
-    background-color: rgba(255, 255, 255, 0.1) !important;
+    color: var(--accent-gold) !important;
+    background-color: rgba(0, 0, 0, 0.05) !important;
   }
 
   .navbar-default .navbar-collapse .nav li a:active {
-    background-color: rgba(255, 255, 255, 0.2) !important;
+    background-color: rgba(0, 0, 0, 0.1) !important;
   }
 
   /* Hamburger Menu Button Fix */
   .navbar-default .navbar-toggle {
-    background-color: var(--nature-green) !important;
-    border: 1px solid rgba(255, 255, 255, 0.3) !important;
+    background-color: transparent !important;
+    border: 1px solid var(--primary-blue) !important;
   }
 
   .navbar-default .navbar-toggle:hover,
   .navbar-default .navbar-toggle:focus {
-    background-color: var(--nature-light-green) !important;
+    background-color: rgba(39, 99, 165, 0.1) !important;
   }
 
   .navbar-default .navbar-toggle:active {
-    background-color: var(--nature-light-green) !important;
+    background-color: rgba(39, 99, 165, 0.2) !important;
   }
 
   .navbar-default .navbar-toggle .icon-bar {
-    background-color: #ffffff !important;
+    background-color: var(--primary-blue) !important;
   }
 }
 
@@ -408,7 +456,7 @@ a:hover {
   .intro-header .post-heading h1,
   .intro-header .site-heading h1 {
     font-size: 32px !important; /* Proportional reduziert: etwa 1.6em basierend auf 50px */
-    color: #1a4408 !important;
+    color: var(--primary-blue-dark) !important;
     margin-bottom: 15px;
     /* text-align entfernt - verwendet Container-Ausrichtung */
   }
@@ -416,7 +464,7 @@ a:hover {
   .intro-header .post-heading .subheading,
   .intro-header .site-heading .subheading {
     font-size: 18px !important; /* Etwa 1.0em basierend auf neuer Basis */
-    color: #2d5016 !important;
+    color: var(--primary-blue) !important;
     margin-bottom: 10px;
     /* text-align entfernt - verwendet Container-Ausrichtung */
   }
@@ -566,13 +614,13 @@ a:hover {
 }
 
 .members-table tbody tr:hover {
-  background-color: #f0f8e8;
+  background-color: #e8f2fc;  /* Hellblau */
   transition: background-color 0.2s ease;
 }
 
 .members-table tbody td {
   vertical-align: middle;
-  border-color: #e8f5d8;
+  border-color: #d4e5f7;  /* Hellblau */
   font-size: 0.85em; /* Größere Schrift für bessere Lesbarkeit */
   padding: 6px 12px; /* Mehr Padding um Überlappungen zu vermeiden */
   white-space: nowrap;
