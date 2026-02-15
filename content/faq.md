@@ -44,7 +44,7 @@ Nein. Die Haftung ist **beschränkt auf Ihre Einlage**. Sie können maximal das 
 
 ### Bekomme ich Dividende?
 
-Das hängt vom Erfolg der Projekte ab. Unsere Partner in Sulz zahlen derzeit 2–3,5% Dividende. Das erste Jahr könnte verlustfrei sein (Anlaufkosten). Mehr Informationen folgen mit der Geschäftsentwicklung.
+Das hängt vom Erfolg der Projekte ab. Unsere Partner in Sulz zahlen derzeit 2–3,5% Dividende. Unser Ziel ist es, **ab dem zweiten Geschäftsjahr** Dividenden in dieser üblichen Höhe auszuschütten. Das erste Jahr ist für Anlaufkosten reserviert. Mehr Informationen folgen mit der Geschäftsentwicklung.
 
 ---
 
