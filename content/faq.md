@@ -40,7 +40,7 @@ Die Einlage ist gebunden — typischerweise für mehrere Jahre. Das ist notwendi
 
 ### Habe ich Haftung für Schulden der Genossenschaft?
 
-Nein. Die Haftung ist **beschränkt auf deine Einlage**. Du kannst maximal das verlieren, was du investiert hast. Das ist ein großer Vorteil der Genossenschaftsform.
+Nein. Die Haftung ist **beschränkt auf Ihre Einlage**. Sie können maximal das verlieren, was Sie investiert haben. Das ist ein großer Vorteil der Genossenschaftsform.
 
 ### Bekomme ich Dividende?
 
@@ -62,7 +62,7 @@ Wir planen folgende Bereiche:
 
 ### Sind diese Projekte schon festgelegt?
 
-Nein, das ist der aktuelle Stand der Überlegungen. Konkrete Projekte werden gemeinsam mit der Gemeinde, dem Gemeinderat und den Mitgliedern entwickelt. Du wirst als Mitglied **mitentscheiden**, wo das Geld fließt.
+Nein, das ist der aktuelle Stand der Überlegungen. Konkrete Projekte werden gemeinsam mit der Gemeinde, dem Gemeinderat und den Mitgliedern entwickelt. Sie werden als Mitglied **mitentscheiden**, wo das Geld fließt.
 
 ### Wie flexibel ist die Gemeinde bei der Energieversorgung?
 
@@ -80,11 +80,11 @@ Es gibt drei Gremien:
 - **Aufsichtsrat** — Wird von der Generalversammlung gewählt, kontrolliert den Vorstand
 - **Vorstand** — Wird vom Aufsichtsrat eingesetzt, führt die tägliche Geschäfte
 
-Du als Mitglied hast eine Stimme in der Generalversammlung — egal ob du 100 oder 10.000 Euro investiert hast.
+Sie als Mitglied haben eine Stimme in der Generalversammlung — egal ob Sie 100 oder 10.000 Euro investiert haben.
 
 ### Muss ich selbst im Vorstand mitarbeiten?
 
-Nein. Aber wenn Du Lust hast: Es gibt immer Platz für engagierte Menschen im Vorstand oder Aufsichtsrat. Das ist freiwillig.
+Nein. Aber wenn Sie Lust haben: Es gibt immer Platz für engagierte Menschen im Vorstand oder Aufsichtsrat. Das ist freiwillig.
 
 ---
 
@@ -94,9 +94,9 @@ Nein. Aber wenn Du Lust hast: Es gibt immer Platz für engagierte Menschen im Vo
 
 Das werden wir nach deutschem Datenschutzrecht (DSGVO/BDSG) regeln. Typisch: Daten werden bei einem zertifizierten deutschen Rechenzentrum gespeichert.
 
-### Wofür nutzt ihr meine E-Mail-Adresse?
+### Wofür nutzen Sie meine E-Mail-Adresse?
 
-Ausschließlich um dich auf dem Laufenden zu halten:
+Ausschließlich um Sie auf dem Laufenden zu halten:
 - Neuigkeiten über die Gründung
 - Termine für Mitgliederversammlungen
 - Wichtige Informationen zu Projekten und Dividenden
@@ -119,7 +119,7 @@ Gute Frage. Nicht jedes Dach ist für PV geeignet (Alter, Statik, Ausrichtung). 
 
 Nicht beim Strompreis — die großen Konzerne sind billiger. Aber wir haben andere Vorteile:
 - Gewinne bleiben in Bösingen
-- Du bestimmst mit
+- Sie bestimmen mit
 - Nachhaltige, lokale Energieversorgung
 - Schrittweise Unabhängigkeit von großen Konzernen
 
@@ -131,4 +131,4 @@ Ja. Sobald die Satzung fertig ist, veröffentlichen wir sie hier auf der Website
 
 ## Kontakt bei weiteren Fragen
 
-Hast du eine Frage, die hier nicht beantwortet ist? Schreib uns — nutze das [Kontaktformular](#kontaktformular) auf der Startseite oder melde dich als Interessent an. Wir antworten gerne!
+Haben Sie eine Frage, die hier nicht beantwortet ist? Schreiben Sie uns — nutzen Sie das [Kontaktformular](#kontaktformular) auf der Startseite oder melden Sie sich als Interessent an. Wir antworten gerne!
