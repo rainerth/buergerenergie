@@ -2,59 +2,39 @@
 
 ## GoAccess Zugriffstatistik
 
-### Installation (auf Server)
+Basiert auf: https://wiki.hostsharing.net/index.php?title=Goaccess
 
-```bash
-# Ubuntu/Debian
-sudo apt install goaccess
+### Voraussetzungen
 
-# CentOS/RHEL
-sudo yum install goaccess
+GoAccess ist auf Hostsharing Managed Servern **vorinstalliert** (v1.7 auf Debian Bookworm).
+
+### Funktionsweise
+
+Das Script `goaccess-stats.sh` liest alle gzip-komprimierten Apache-Logs für die Domain aus `~/var/` und erzeugt einen HTML-Report unter `~/doms/<domain>/htdocs-ssl/statistik/`.
+
 ```
+~/var/web-www.buergerenergie-boesingen.de-*.log.gz
+    → zcat | goaccess →
+~/doms/www.buergerenergie-boesingen.de/htdocs-ssl/statistik/index.html
+```
+
+Die Statistik wird automatisch mit `.htaccess` geschützt (gleiche Zugangsdaten wie `/intern/`).
 
 ### Verwendung
 
 ```bash
-# Standard (Log in ~/logs/access.log)
-./goaccess-stats.sh
-
-# Mit benutzerdefiniertem Log-Pfad
-ACCESS_LOG=/var/log/apache2/access.log ./goaccess-stats.sh
-
-# Ausgabe in anderes Verzeichnis
-STATS_DIR=~/public_html/stats ./goaccess-stats.sh
+# Auf dem Server (SSH)
+cd ~/prj/beg
+./scripts/goaccess-stats.sh
 ```
 
-### Automatische Aktualisierung (Cron)
+### Automatische Aktualisierung
 
-Täglich um 6:00 Uhr:
+Die Statistik wird bei jedem Deploy automatisch generiert (`deploy-server.sh`).
+
+Zusätzlich kann ein eigener Cron-Job eingerichtet werden:
+
 ```bash
-crontab -e
-# Folgende Zeile hinzufügen:
-0 6 * * * cd ~/prj/beg && ./scripts/goaccess-stats.sh >> ~/logs/goaccess.log 2>&1
+# Täglich um 2:10 Uhr
+10 2 * * * cd ~/prj/beg && ./scripts/goaccess-stats.sh >> ~/logs/goaccess.log 2>&1
 ```
-
-Stündlich:
-```bash
-0 * * * * cd ~/prj/beg && ./scripts/goaccess-stats.sh >> ~/logs/goaccess.log 2>&1
-```
-
-### Statistik-Seite schützen (optional)
-
-Falls die Statistik nicht öffentlich sein soll, `.htaccess` in `public/statistik/` erstellen:
-
-```apache
-AuthType Basic
-AuthName "Statistik"
-AuthUserFile /pfad/zu/.htpasswd
-Require valid-user
-```
-
-### Typische Log-Pfade
-
-| Hosting-Typ | Pfad |
-|-------------|------|
-| Shared Hosting (All-Inkl, etc.) | `~/logs/access.log` |
-| Ubuntu/Debian VPS | `/var/log/apache2/access.log` |
-| CentOS/RHEL VPS | `/var/log/httpd/access_log` |
-| Plesk | `/var/www/vhosts/domain/logs/access_log` |

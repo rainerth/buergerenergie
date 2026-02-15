@@ -91,6 +91,12 @@ if [ "$FORCE_BUILD" = true ] || [ "$LOCAL" = "$BASE" ]; then
         log "📊 Site statistics:"
         find public -name "*.html" | wc -l | xargs echo "   HTML files:"
         du -sh public | cut -f1 | xargs echo "   Total size:"
+
+        # Generate access statistics
+        if [ -x "./scripts/goaccess-stats.sh" ]; then
+            log "📊 Generating access statistics..."
+            ./scripts/goaccess-stats.sh >> "$LOG_FILE" 2>&1 || log "⚠️  GoAccess statistics generation failed (GoAccess installed?)"
+        fi
     else
         log "❌ Site build failed"
         exit 1

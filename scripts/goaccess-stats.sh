@@ -1,135 +1,54 @@
 #!/bin/bash
 
 # GoAccess Statistics Generator for Bürgerenergie Bösingen
-# Generates HTML statistics from Apache access logs
+# Basiert auf: https://wiki.hostsharing.net/index.php?title=Goaccess
 #
-# Usage: ./goaccess-stats.sh [--daily|--monthly]
+# Hostsharing: GoAccess ist vorinstalliert (v1.7 auf Debian Bookworm)
 #
-# Prerequisites:
-#   - GoAccess installed: sudo apt install goaccess
-#   - Apache access logs available
+# Hostsharing-Struktur:
+#   Admin-User (wme00):     /home/pacs/wme00/var/web-<domain>-*.log.gz
+#   Domain-User (wme00-*):  /home/pacs/wme00/users/*/doms/<domain>/htdocs-ssl/
+#   $HOME des Domain-Users: /home/pacs/wme00/users/buergerenergie/
+#
+# Usage: ./scripts/goaccess-stats.sh
 
-# === CONFIGURATION ===
-# Adjust these paths to match your server setup
+DOMAIN="${DOMAIN:-www.buergerenergie-boesingen.de}"
 
-# Apache log file(s) - common locations:
-#   - Shared hosting: ~/logs/access.log or ~/logs/www.buergerenergie-boesingen.de-access.log
-#   - VPS/Dedicated: /var/log/apache2/access.log or /var/log/httpd/access_log
-ACCESS_LOG="${ACCESS_LOG:-$HOME/logs/access.log}"
+# Paket-Root ableiten: /home/pacs/wme00/users/buergerenergie -> /home/pacs/wme00
+PACS_HOME="${PACS_HOME:-$(realpath "$HOME/../.." 2>/dev/null || echo "$HOME")}"
 
-# Output directory for statistics
-STATS_DIR="${STATS_DIR:-$HOME/prj/beg/public/statistik}"
+STATS_DIR="${STATS_DIR:-$HOME/doms/$DOMAIN/htdocs-ssl/statistik}"
+LOG_PATTERN="$PACS_HOME/var/web-${DOMAIN}-*.log.gz"
 
-# GoAccess configuration
-GOACCESS_CONF="${GOACCESS_CONF:-}"
-
-# === END CONFIGURATION ===
-
-# Colors for output
-RED='\033[0;31m'
-GREEN='\033[0;32m'
-YELLOW='\033[1;33m'
-NC='\033[0m' # No Color
-
-log() {
-    echo -e "[$(date '+%Y-%m-%d %H:%M:%S')] $1"
-}
-
-error() {
-    echo -e "${RED}❌ $1${NC}" >&2
-}
-
-success() {
-    echo -e "${GREEN}✅ $1${NC}"
-}
-
-warn() {
-    echo -e "${YELLOW}⚠️  $1${NC}"
-}
-
-# Check if GoAccess is installed
-if ! command -v goaccess &> /dev/null; then
-    error "GoAccess ist nicht installiert!"
-    echo ""
-    echo "Installation:"
-    echo "  Ubuntu/Debian: sudo apt install goaccess"
-    echo "  CentOS/RHEL:   sudo yum install goaccess"
-    echo "  macOS:         brew install goaccess"
+# Prüfe ob Log-Dateien vorhanden
+if ! ls $LOG_PATTERN &>/dev/null; then
+    echo "Keine Log-Dateien gefunden: $LOG_PATTERN"
     exit 1
 fi
 
-# Check if log file exists
-if [ ! -f "$ACCESS_LOG" ]; then
-    error "Apache Log-Datei nicht gefunden: $ACCESS_LOG"
-    echo ""
-    echo "Mögliche Pfade:"
-    echo "  - ~/logs/access.log (Shared Hosting)"
-    echo "  - /var/log/apache2/access.log (Ubuntu/Debian)"
-    echo "  - /var/log/httpd/access_log (CentOS/RHEL)"
-    echo ""
-    echo "Setze ACCESS_LOG Variable:"
-    echo "  ACCESS_LOG=/pfad/zu/access.log ./goaccess-stats.sh"
-    exit 1
-fi
+LOG_COUNT=$(ls $LOG_PATTERN 2>/dev/null | wc -l)
 
-# Create output directory
 mkdir -p "$STATS_DIR"
 
-# Generate timestamp
-TIMESTAMP=$(date '+%Y-%m-%d_%H-%M-%S')
-DATE_READABLE=$(date '+%d.%m.%Y %H:%M')
+echo "[$(date '+%Y-%m-%d %H:%M:%S')] GoAccess: $LOG_COUNT Log-Dateien -> $STATS_DIR/index.html"
 
-log "📊 Generiere Zugriffstatistik..."
-log "   Log-Datei: $ACCESS_LOG"
-log "   Ausgabe:   $STATS_DIR"
-
-# Build GoAccess command
-GOACCESS_CMD="goaccess \"$ACCESS_LOG\" \
+zcat $LOG_PATTERN | goaccess \
+    -o "$STATS_DIR/index.html" \
     --log-format=COMBINED \
-    --output=\"$STATS_DIR/index.html\" \
-    --html-report-title=\"Bürgerenergie Bösingen - Zugriffstatistik\" \
-    --no-global-config"
-
-# Add custom config if specified
-if [ -n "$GOACCESS_CONF" ] && [ -f "$GOACCESS_CONF" ]; then
-    GOACCESS_CMD="$GOACCESS_CMD --config-file=\"$GOACCESS_CONF\""
-fi
-
-# Common GoAccess options for German locale
-GOACCESS_CMD="$GOACCESS_CMD \
-    --date-format=%d/%b/%Y \
-    --time-format=%H:%M:%S \
-    --ignore-crawlers \
+    --anonymize-ip \
+    --ignore-crawler \
+    --unknowns-as-crawlers \
     --real-os \
-    --agent-list \
-    --http-protocol=yes \
-    --http-method=yes"
+    --html-report-title="Bürgerenergie Bösingen - Zugriffstatistik" \
+    -
 
-# Execute GoAccess
-log "🔄 Starte GoAccess..."
-if eval "$GOACCESS_CMD"; then
-    success "Statistik erfolgreich generiert!"
-    echo ""
-    echo "📈 Report verfügbar unter:"
-    echo "   Lokal:  $STATS_DIR/index.html"
-    echo "   Web:    https://www.buergerenergie-boesingen.de/statistik/"
-    echo ""
-
-    # Show quick stats
-    if [ -f "$ACCESS_LOG" ]; then
-        TOTAL_REQUESTS=$(wc -l < "$ACCESS_LOG")
-        log "📊 Schnellübersicht:"
-        echo "   Gesamte Anfragen im Log: $TOTAL_REQUESTS"
-    fi
-else
-    error "GoAccess-Fehler beim Generieren der Statistik"
-    exit 1
+# .htaccess-Schutz (gleiche Zugangsdaten wie /intern/)
+HTPASSWD_FILE="$HOME/doms/$DOMAIN/htdocs-ssl/intern/.htpasswd"
+if [ -f "$HTPASSWD_FILE" ]; then
+    cat > "$STATS_DIR/.htaccess" << HTACCESS
+AuthType Basic
+AuthName "Statistik-Bereich"
+AuthUserFile $(realpath "$HTPASSWD_FILE")
+Require valid-user
+HTACCESS
 fi
-
-# Optional: Create .htaccess to protect stats (uncomment if needed)
-# cat > "$STATS_DIR/.htaccess" << 'HTACCESS'
-# AuthType Basic
-# AuthName "Statistik-Bereich"
-# AuthUserFile /path/to/.htpasswd
-# Require valid-user
-# HTACCESS
