@@ -43,11 +43,33 @@ Die Genossenschaft soll dabei eine Schlüsselrolle übernehmen: Sie treibt die E
 
 # Wer sind wir?
 
-Wir sind ein Projektteam aus 22 engagierten Personen, das die Gründung einer Bürgerenergiegenossenschaft vorbereitet. Die [Infoveranstaltung der Gemeinde Bösingen im April 2025](/neuigkeiten/20250429_buergerinfo) war der Startpunkt. Mit Unterstützung des Gemeinderats und nach den erfolgreichen [Infoveranstaltungen Ende Oktober](/neuigkeiten/20251029_infoveranstaltungen/) mit über 100 Teilnehmenden gehen wir jetzt in die Umsetzung. Unser Ziel: eine Gründungsveranstaltung im Frühjahr 2026.
+Wir sind ein Projektteam aus 22 engagierten Personen, das die Gründung einer Bürgerenergiegenossenschaft vorbereitet. Die [Infoveranstaltung der Gemeinde Bösingen im April 2025](/neuigkeiten/20250429_buergerinfo) war der Startpunkt. Mit Unterstützung des Gemeinderats und nach den erfolgreichen [Infoveranstaltungen Ende Oktober](/neuigkeiten/20251029_infoveranstaltungen/) mit über 100 Teilnehmenden sind wir jetzt in der Phase der Gründungsvorbereitung.
+
+**Die Gründung einer Genossenschaft braucht ihre Zeit** — Genossenschaftsrecht, Satzung, Behördengänge. Aber in dieser Phase ist es besonders wichtig zu zeigen: **Es gibt echtes Interesse in Bösingen!** Jede weitere Anmeldung demonstriert Politikern und Fördermittelgebern, dass diese Initiative tragfähig ist.
 
 # Jetzt ist der richtige Zeitpunkt!
 
-Stärken Sie der Initiative den Rücken und tragen Sie sich in die Liste der Interessenten ein. Sie bleiben so immer auf dem Laufenden und können – wenn Sie möchten – in der Reihenfolge der Anmeldungen zu den ersten Gründungsmitgliedern gehören. Nutzen Sie einfach das Kontaktformular!
+{{< admonition type="tip" title="Wir brauchen SIE (und Ihre Freunde)!" >}}
+**Der Stand heute:**
+
+- Über 100 Interessenten haben sich bereits angemeldet
+- Regelmäßige Updates per Mail — immer im Bilde bleiben
+- Ziel: 200 Interessenten — das zeigt Politikern und Behörden, dass wir es ernst meinen!
+
+**Genossenschaftsrecht braucht Zeit.** Aber jede Anmeldung zählt — sie ist ein Signal: *"Ja, wir wollen das!"*
+{{< /admonition >}}
+
+**Melden Sie sich an und werben Sie!** Teilen Sie diese Seite mit Familie, Freunden, Nachbarn, Vereinskollegen. Je mehr Interessenten wir sammeln, desto stärker sind wir bei der Gründung. **Jede Stimme zählt.**
+
+Eine Genossenschaft lebt von der Vielzahl ihrer Mitglieder. Eine Mitgliedschaft wird bereits ab **100 Euro pro Jahr** möglich sein — für jeden erreichbar. Das ist der Sinn: Viele kleine Investitionen statt wenige große.
+
+---
+
+## Interessent werden – in 2 Minuten
+
+**Keine Verpflichtung.** Nur Name, Mail und optional: Wie können Sie uns helfen? (Ideen, Zeit, Kontakte)
+
+Sie erhalten regelmäßige Mails zu Fortschritten, Gründungsterminen und Möglichkeiten, wie Sie sich einbringen können.
 
 # Kontaktformular
 
@@ -56,6 +78,19 @@ Stärken Sie der Initiative den Rücken und tragen Sie sich in die Liste der Int
     height="400"
     title="Kontaktformular"
 >}}
+
+---
+
+## Helfen Sie, die Botschaft zu verbreiten!
+
+Kennen Sie jemanden, der Interesse an erneuerbaren Energien hat? **Teilen Sie diese Seite:**
+
+- Per Messenger/WhatsApp: https://www.buergerenergie-boesingen.de
+- Per E-Mail: Leiten Sie diese Seite einfach weiter
+- Im Verein: Sprechen Sie beim nächsten Treffen davon
+- Mit Nachbarn: Persönliches Gespräch über den Gartenzaun
+
+**200 Interessenten = Starkes Signal.** Heute sind es über 100. Mit Ihrer Hilfe erreichen wir das Ziel!
 
 ---
 
