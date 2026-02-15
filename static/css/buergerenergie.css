@@ -301,6 +301,11 @@ p {
   padding: 5px 15px !important;
 }
 
+.navbar-brand img:hover,
+.navbar-brand img:focus {
+  cursor: pointer;
+}
+
 .navbar-logo {
   height: 70px;
   width: auto;

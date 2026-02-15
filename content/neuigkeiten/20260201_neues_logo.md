@@ -3,7 +3,7 @@ title: "Neues Logo und Slogan für Bürgerenergie Bösingen"
 subtitle: "Gründungsteam wählt Entwurf aus internem Wettbewerb"
 date: 2026-02-01
 draft: false
-featured: true
+featured: false
 tags: ["Logo", "Design", "Gründung", "Öffentlichkeitsarbeit"]
 categories: ["Neuigkeiten"]
 author: "AG Öffentlichkeitsarbeit"
