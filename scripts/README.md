@@ -6,14 +6,33 @@ Basiert auf: https://wiki.hostsharing.net/index.php?title=Goaccess
 
 ### Voraussetzungen
 
-GoAccess ist auf Hostsharing Managed Servern **vorinstalliert** (v1.7 auf Debian Bookworm).
+1. GoAccess ist auf Hostsharing Managed Servern **vorinstalliert** (v1.7 auf Debian Bookworm)
+2. Logs müssen im Domain-Verzeichnis liegen (`http_log_directory = domain` in config.ini)
+
+**Einmalige Einrichtung** (als Admin-User `wme00`):
+
+```ini
+# /home/pacs/wme00/etc/config.ini
+[dom:www.buergerenergie-boesingen.de]
+http_log_directory = domain
+http_log_generate = yes
+http_log_retention = 90
+```
+
+Bestehende Logs verschieben:
+```bash
+mv /home/pacs/wme00/var/web-www.buergerenergie-boesingen.de-*.log.gz \
+   /home/pacs/wme00/doms/www.buergerenergie-boesingen.de/var/
+```
+
+Siehe: https://wiki.hostsharing.net/index.php?title=Logging
 
 ### Funktionsweise
 
-Das Script `goaccess-stats.sh` liest alle gzip-komprimierten Apache-Logs für die Domain aus `~/var/` und erzeugt einen HTML-Report unter `~/doms/<domain>/htdocs-ssl/statistik/`.
+Das Script liest gzip-komprimierte Apache-Logs aus dem Domain-Verzeichnis:
 
 ```
-~/var/web-www.buergerenergie-boesingen.de-*.log.gz
+~/doms/www.buergerenergie-boesingen.de/var/web-*.log.gz
     → zcat | goaccess →
 ~/doms/www.buergerenergie-boesingen.de/htdocs-ssl/statistik/index.html
 ```

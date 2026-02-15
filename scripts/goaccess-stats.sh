@@ -5,24 +5,25 @@
 #
 # Hostsharing: GoAccess ist vorinstalliert (v1.7 auf Debian Bookworm)
 #
-# Hostsharing-Struktur:
-#   Admin-User (wme00):     /home/pacs/wme00/var/web-<domain>-*.log.gz
-#   Domain-User (wme00-*):  /home/pacs/wme00/users/*/doms/<domain>/htdocs-ssl/
-#   $HOME des Domain-Users: /home/pacs/wme00/users/buergerenergie/
+# Voraussetzung: In /home/pacs/wme00/etc/config.ini muss stehen:
+#   [dom:www.buergerenergie-boesingen.de]
+#   http_log_directory = domain
+#
+# Dann liegen die Logs im Domain-Verzeichnis und der Domain-User kann sie lesen:
+#   ~/doms/<domain>/var/web-<domain>-*.log.gz
 #
 # Usage: ./scripts/goaccess-stats.sh
 
 DOMAIN="${DOMAIN:-www.buergerenergie-boesingen.de}"
-
-# Paket-Root ableiten: /home/pacs/wme00/users/buergerenergie -> /home/pacs/wme00
-PACS_HOME="${PACS_HOME:-$(realpath "$HOME/../.." 2>/dev/null || echo "$HOME")}"
-
 STATS_DIR="${STATS_DIR:-$HOME/doms/$DOMAIN/htdocs-ssl/statistik}"
-LOG_PATTERN="$PACS_HOME/var/web-${DOMAIN}-*.log.gz"
+LOG_PATTERN="$HOME/doms/$DOMAIN/var/web-${DOMAIN}-*.log.gz"
 
 # Prüfe ob Log-Dateien vorhanden
 if ! ls $LOG_PATTERN &>/dev/null; then
     echo "Keine Log-Dateien gefunden: $LOG_PATTERN"
+    echo ""
+    echo "Prüfe ob http_log_directory=domain in config.ini gesetzt ist."
+    echo "Siehe: https://wiki.hostsharing.net/index.php?title=Logging"
     exit 1
 fi
 
