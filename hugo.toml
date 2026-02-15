@@ -57,6 +57,10 @@ home = ["HTML", "RSS"]
 	termine_days_back = 60
 
 	[[params.additional_menus]]
+	title = "FAQ"
+	href = "/faq"
+
+	[[params.additional_menus]]
 	title = "Neuigkeiten"
 	href = "/neuigkeiten"
 
