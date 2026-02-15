@@ -57,10 +57,6 @@ home = ["HTML", "RSS"]
 	termine_days_back = 60
 
 	[[params.additional_menus]]
-	title = "FAQ"
-	href = "/faq"
-
-	[[params.additional_menus]]
 	title = "Neuigkeiten"
 	href = "/neuigkeiten"
 
@@ -71,6 +67,10 @@ home = ["HTML", "RSS"]
 	[[params.additional_menus]]
 	title = "Dokumente"
 	href = "/dokumente"
+
+	[[params.additional_menus]]
+	title = "FAQ"
+	href = "/faq"
 
 	[[params.additional_menus]]
 	title = "Impressum"
