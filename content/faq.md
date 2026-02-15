@@ -56,23 +56,35 @@ Das hängt vom Erfolg der Projekte ab. Unsere Partner in Sulz zahlen derzeit 2�
 
 ## Projekte in Bösingen
 
-### Was sind die konkreten Projekte der Genossenschaft?
+### Was ist das erste geplante Projekt?
 
-Wir planen folgende Bereiche:
+Das Gründungsteam arbeitet an einem Konzept für den **Schulkomplex in Bösingen** als erstes Projekt. Die Idee: Eine Photovoltaikanlage auf dem Schuldach, die den Schulkomplex — also Grundschule, Mehrzweckhalle und Lehrschwimmbecken — mit lokal erzeugtem Strom versorgt. Ergänzend wird geprüft, ob ein **Batteriespeicher** und eine **Wärmepumpe** sinnvoll integriert werden können, um auch die Heizung auf erneuerbare Energie umzustellen.
 
-- **PV-Anlagen auf Vereinsheimen und öffentlichen Gebäuden** — lokale Stromerzeugung, Gewinne bleiben in Bösingen
-- **Beteiligung an geplanten Windparks** — als Investor, damit Einnahmen teilweise der Gemeinde zugute kommen
-- **Unterstützung von Bürgern und Vereinen** — beraten bei eigenen Solaranlagen, Wärmepumpen, Speichern
-- **Energetische Nutzung der neuen Kläranlage** — Senkung der Betriebskosten durch erneuerbare Energien
-- **Finanzierung von Energiespeichern** — für lokale Nutzung von PV- und Wind-Überschüssen
+### Warum gerade der Schulkomplex?
+
+Der Schulkomplex bietet gute Voraussetzungen:
+
+- **Große Dachflächen** für eine PV-Anlage
+- **Hoher Stromverbrauch** durch Schule, Halle und Schwimmbad — der vor Ort erzeugte Strom kann also gut genutzt werden
+- **Sichtbarkeit** — ein Projekt, das die Bürgerinnen und Bürger jeden Tag sehen und das zeigt: Bösingen macht Energiewende
+
+### Was hätte die Gemeinde davon?
+
+Die Gemeinde könnte als Abnehmerin des vor Ort erzeugten Stroms von **günstigeren Energiekosten** profitieren. Gleichzeitig würde der Schulkomplex schrittweise unabhängiger von fossilen Energieträgern. Nach einer vereinbarten Laufzeit könnte die Anlage an die Gemeinde übergehen — ein langfristiger Gewinn für die kommunale Infrastruktur.
+
+### Gibt es darüber hinaus weitere Ideen?
+
+Ja. Das Konzept sieht einen **stufenweisen Ausbau über mehrere Phasen** vor. Denkbar sind unter anderem:
+
+- **Weitere PV-Anlagen** auf kommunalen Gebäuden
+- **Beteiligung an Windenergieanlagen** in der Region
+- **Energy Sharing** — Strom direkt an Bürgerinnen und Bürger in Bösingen liefern
+
+Das sind Visionen für die Zukunft. Zunächst konzentrieren wir uns auf das erste Projekt.
 
 ### Sind diese Projekte schon festgelegt?
 
-Nein, das ist der aktuelle Stand der Überlegungen. Konkrete Projekte werden gemeinsam mit der Gemeinde, dem Gemeinderat und den Mitgliedern entwickelt. Sie werden als Mitglied **mitentscheiden**, wo das Geld fließt.
-
-### Wie flexibel ist die Gemeinde bei der Energieversorgung?
-
-Das müssen wir mit der Gemeinde klären. Das ist eine wichtige Frage, die wir in den nächsten Schritten absprechen.
+Nein. Das Gründungsteam entwickelt derzeit ein Konzept, das anschließend **mit der Gemeinde und dem Gemeinderat** abgestimmt werden muss. Auch die Arbeitsgruppen bringen ihre Ideen ein. Erst danach werden konkrete Entscheidungen getroffen — und als Mitglied werden Sie bei wichtigen Fragen **mitentscheiden**.
 
 ---
 
