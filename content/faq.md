@@ -22,11 +22,11 @@ Eine Genossenschaft ist ein Zusammenschluss mehrerer Personen mit dem Ziel, durc
 
 Das prüfen wir derzeit sorgfältig. Die beste Lösung hängt von mehreren Faktoren ab:
 
-- **Anzahl der Interessenten** — Je mehr von euch dabei sein wollen, desto stabiler wird die Genossenschaft
-- **Engagierte Menschen** — Wir brauchen Personen aus euren Reihen, die Verantwortung übernehmen wollen (Vorstand, Aufsichtsrat)
+- **Anzahl der Interessenten** — Je mehr von Ihnen dabei sein wollen, desto stabiler wird die Genossenschaft
+- **Engagierte Menschen** — Wir brauchen Personen aus Ihren Reihen, die Verantwortung übernehmen wollen (Vorstand, Aufsichtsrat)
 - **Bestehende Partner** — Gibt es etablierte Genossenschaften in der Region, mit denen ein Zusammenschluss für uns sinnvoll wäre?
 
-Beides ist möglich: eine eigenständige Genossenschaft gründen oder als Bösinger Gruppe einer bestehenden beitreten (z.B. unsere Partner in Sulz). Wir werden diese Entscheidung **gemeinsam mit euch** treffen — je mehr ihr zeigt, dass ihr dabei sein wollt, desto besser können wir planen.
+Beides ist möglich: eine eigenständige Genossenschaft gründen oder als Bösinger Gruppe einer bestehenden beitreten (z.B. unsere Partner in Sulz). Wir werden diese Entscheidung **gemeinsam mit Ihnen** treffen — je mehr Sie zeigen, dass Sie dabei sein wollen, desto besser können wir planen.
 
 ---
 
@@ -119,13 +119,13 @@ Ja — letztlich entscheidet die Generalversammlung (alle Mitglieder) über gro�
 
 ### Altersstruktur der Dächer — kann PV überall installiert werden?
 
-Gute Frage. Nicht jedes Dach ist für PV geeignet (Alter, Statik, Ausrichtung). Das werden wir gemeinsam mit euch und Experten prüfen. Das ist Teil der Projektentwicklung.
+Gute Frage. Nicht jedes Dach ist für PV geeignet (Alter, Statik, Ausrichtung). Das werden wir gemeinsam mit Ihnen und Experten prüfen. Das ist Teil der Projektentwicklung.
 
 ### Wie konkurrenzfähig ist eine Genossenschaft gegenüber großen Energiekonzernen?
 
-Nicht beim Strompreis — die großen Konzerne sind billiger. Aber das bietet euch andere Vorteile:
+Nicht beim Strompreis — die großen Konzerne sind billiger. Aber das bietet Ihnen andere Vorteile:
 - Gewinne bleiben in Bösingen
-- Ihr bestimmt mit
+- Sie bestimmen mit
 - Nachhaltige, lokale Energieversorgung
 - Schrittweise Unabhängigkeit von großen Konzernen
 
@@ -137,4 +137,4 @@ Ja. Sobald die Satzung fertig ist, veröffentlichen wir sie hier auf der Website
 
 ## Kontakt bei weiteren Fragen
 
-Haben Sie eine Frage, die hier nicht beantwortet ist? Schreiben Sie uns — nutzen Sie das [Kontaktformular](#kontaktformular) auf der Startseite oder melden Sie sich als Interessent an. Wir freuen uns auf eure Fragen!
+Haben Sie eine Frage, die hier nicht beantwortet ist? Schreiben Sie uns — nutzen Sie das [Kontaktformular](#kontaktformular) auf der Startseite oder melden Sie sich als Interessent an. Wir freuen uns auf Ihre Fragen!
