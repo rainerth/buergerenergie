@@ -49,21 +49,23 @@ Wir sind ein Projektteam aus 22 engagierten Personen, das die Gründung einer B�
 
 # Jetzt ist der richtige Zeitpunkt!
 
-{{< admonition type="tip" title="🎯 Wir brauchen DICH (und deine Freunde)!" >}}
+{{< admonition type="tip" title="Wir brauchen SIE (und Ihre Freunde)!" >}}
 **Der Stand heute:**
 
-- ✅ **Über 100 Interessenten** haben sich bereits angemeldet
-- 📧 **Regelmäßige Updates** per Mail — immer im Bilde bleiben
-- 🚀 **Ziel: 200 Interessenten** — das zeigt Politikern und Behörden, dass wir es ernst meinen!
+- Über 100 Interessenten haben sich bereits angemeldet
+- Regelmäßige Updates per Mail — immer im Bilde bleiben
+- Ziel: 200 Interessenten — das zeigt Politikern und Behörden, dass wir es ernst meinen!
 
 **Genossenschaftsrecht braucht Zeit.** Aber jede Anmeldung zählt — sie ist ein Signal: *"Ja, wir wollen das!"*
 {{< /admonition >}}
 
 **Melden Sie sich an und werben Sie!** Teilen Sie diese Seite mit Familie, Freunden, Nachbarn, Vereinskollegen. Je mehr Interessenten wir sammeln, desto stärker sind wir bei der Gründung. **Jede Stimme zählt.**
 
+Eine Genossenschaft lebt von der Vielzahl ihrer Mitglieder. Eine Mitgliedschaft wird bereits ab **100 Euro pro Jahr** möglich sein — für jeden erreichbar. Das ist der Sinn: Viele kleine Investitionen statt wenige große.
+
 ---
 
-## 📋 Interessent werden – in 2 Minuten
+## Interessent werden – in 2 Minuten
 
 **Keine Verpflichtung.** Nur Name, Mail und optional: Wie können Sie uns helfen? (Ideen, Zeit, Kontakte)
 
@@ -79,14 +81,14 @@ Sie erhalten regelmäßige Mails zu Fortschritten, Gründungsterminen und Mögli
 
 ---
 
-## 📢 Helfen Sie, die Botschaft zu verbreiten!
+## Helfen Sie, die Botschaft zu verbreiten!
 
 Kennen Sie jemanden, der Interesse an erneuerbaren Energien hat? **Teilen Sie diese Seite:**
 
-- **Per Messenger/WhatsApp:** https://www.buergerenergie-boesingen.de
-- **Per E-Mail:** Leiten Sie diese Seite einfach weiter
-- **Im Verein:** Sprechen Sie beim nächsten Treffen davon
-- **Mit Nachbarn:** Persönliches Gespräch über den Gartenzaun
+- Per Messenger/WhatsApp: https://www.buergerenergie-boesingen.de
+- Per E-Mail: Leiten Sie diese Seite einfach weiter
+- Im Verein: Sprechen Sie beim nächsten Treffen davon
+- Mit Nachbarn: Persönliches Gespräch über den Gartenzaun
 
 **200 Interessenten = Starkes Signal.** Heute sind es über 100. Mit Ihrer Hilfe erreichen wir das Ziel!
 
