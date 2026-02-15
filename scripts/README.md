@@ -43,10 +43,10 @@ Das Script liest gzip-komprimierte Apache-Logs aus dem Domain-Verzeichnis:
 ```
 ~/doms/buergerenergie-boesingen.de/var/web-www.buergerenergie-boesingen.de-*.log.gz
     → zcat | goaccess →
-~/doms/buergerenergie-boesingen.de/htdocs-ssl/statistik/index.html
+~/doms/buergerenergie-boesingen.de/subs-ssl/www/intern/statistik/index.html
 ```
 
-Die Statistik wird automatisch mit `.htaccess` geschützt (gleiche Zugangsdaten wie `/intern/`).
+Die Statistik liegt unter `/intern/statistik/` und ist durch den bestehenden `.htaccess`-Schutz von `/intern/` abgesichert.
 
 ### Verwendung
 

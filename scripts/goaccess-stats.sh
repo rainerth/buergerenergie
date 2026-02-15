@@ -17,7 +17,7 @@
 # Domain-Verzeichnis (ohne www) vs. Log-Dateinamen (mit www)
 DOMDIR="${DOMDIR:-buergerenergie-boesingen.de}"
 DOMAIN="${DOMAIN:-www.$DOMDIR}"
-STATS_DIR="${STATS_DIR:-$HOME/doms/$DOMDIR/htdocs-ssl/statistik}"
+STATS_DIR="${STATS_DIR:-$HOME/doms/$DOMDIR/subs-ssl/www/intern/statistik}"
 LOG_PATTERN="$HOME/doms/$DOMDIR/var/web-${DOMAIN}-*.log.gz"
 
 # Prüfe ob Log-Dateien vorhanden
@@ -45,13 +45,4 @@ zcat $LOG_PATTERN | goaccess \
     --html-report-title="Bürgerenergie Bösingen - Zugriffstatistik" \
     -
 
-# .htaccess-Schutz (gleiche Zugangsdaten wie /intern/)
-HTPASSWD_FILE="$HOME/doms/$DOMDIR/htdocs-ssl/intern/.htpasswd"
-if [ -f "$HTPASSWD_FILE" ]; then
-    cat > "$STATS_DIR/.htaccess" << HTACCESS
-AuthType Basic
-AuthName "Statistik-Bereich"
-AuthUserFile $(realpath "$HTPASSWD_FILE")
-Require valid-user
-HTACCESS
-fi
+# Kein .htaccess nötig — /intern/ ist bereits passwortgeschützt
