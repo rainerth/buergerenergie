@@ -18,9 +18,15 @@ Eine Genossenschaft ist ein Zusammenschluss mehrerer Personen mit dem Ziel, durc
 
 "i.G." steht für "in Gründung". Die Bürgerenergie Bösingen ist derzeit eine Initiative und arbeitet an der offiziellen Gründung einer Genossenschaft. Das ist völlig normal und kein Grund zur Besorgnis — viele erfolgreiche Genossenschaften haben genau so angefangen.
 
-### Warum dauert die Gründung so lange?
+### Gründen Sie eine neue Genossenschaft oder treten einer bestehenden bei?
 
-Das Genossenschaftsrecht ist in Deutschland streng geregelt, zum Schutz aller Mitglieder. Wir müssen eine Satzung erarbeiten, Behördengänge durchlaufen und alles rechtlich korrekt strukturieren. Das dauert, aber es lohnt sich: Danach haben wir eine stabile, rechtssichere Struktur für viele Jahre.
+Das prüfen wir derzeit sorgfältig. Die beste Lösung hängt von mehreren Faktoren ab:
+
+- **Anzahl der Interessenten** — Je mehr Mitglieder, desto stabiler wird die Genossenschaft
+- **Engagierte Menschen** — Wir brauchen Personen, die Verantwortung übernehmen wollen (Vorstand, Aufsichtsrat)
+- **Bestehende Partner** — Gibt es etablierte Genossenschaften in der Region, mit denen ein Zusammenschluss sinnvoll wäre?
+
+Beides ist möglich: eine eigenständige Genossenschaft gründen oder als Bösinger Gruppe einer bestehenden beitreten (z.B. unsere Partner in Sulz). Wir werden diese Entscheidung **gemeinsam mit den Interessenten** treffen — je mehr Sie zeigen, dass Sie dabei sein wollen, desto besser planen wir.
 
 ---
 
