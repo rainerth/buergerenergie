@@ -47,7 +47,23 @@ Wir sind ein Projektteam aus 22 engagierten Personen, das die Gründung einer B�
 
 # Jetzt ist der richtige Zeitpunkt!
 
-Stärken Sie der Initiative den Rücken und tragen Sie sich in die Liste der Interessenten ein. Sie bleiben so immer auf dem Laufenden und können – wenn Sie möchten – in der Reihenfolge der Anmeldungen zu den ersten Gründungsmitgliedern gehören. Nutzen Sie einfach das Kontaktformular!
+{{< admonition type="tip" title="🚀 Der Moment ist jetzt!" >}}
+**Das Momentum ist greifbar:**
+
+- ✅ 100+ Bürger bei der Infoveranstaltung (Oktober 2025)
+- ⏰ Gründungsveranstaltung im **Frühjahr 2026**
+- 🎯 Jetzt anmelden = Bei den **Gründungsmitgliedern** dabei sein
+
+**In der Reihenfolge der Anmeldungen werden die Plätze vergeben!**
+{{< /admonition >}}
+
+Stärken Sie der Initiative den Rücken und **tragen Sie sich jetzt in die Liste der Interessenten ein**. Sie bleiben so immer auf dem Laufenden und können – wenn Sie möchten – in der Reihenfolge der Anmeldungen zu den ersten Gründungsmitgliedern gehören.
+
+---
+
+## 📋 Interessent werden – in 2 Minuten
+
+Keine Verpflichtung. Nur die wichtigsten Infos, damit wir Sie einspannen können.
 
 # Kontaktformular
 
