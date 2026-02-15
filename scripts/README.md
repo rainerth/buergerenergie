@@ -19,10 +19,19 @@ http_log_generate = yes
 http_log_retention = 90
 ```
 
-Bestehende Logs verschieben:
+Bestehende Logs migrieren (2-Schritt, da Admin-User nicht ins Domain-Verzeichnis schreiben kann):
+
 ```bash
-mv /home/pacs/wme00/var/web-www.buergerenergie-boesingen.de-*.log.gz \
-   /home/pacs/wme00/doms/www.buergerenergie-boesingen.de/var/
+# 1. Als Admin-User wme00: Logs in /tmp kopieren und für alle lesbar machen
+mkdir /tmp/beg-logs-migrate
+cp /home/pacs/wme00/var/web-www.buergerenergie-boesingen.de-*.log.gz /tmp/beg-logs-migrate/
+chmod 644 /tmp/beg-logs-migrate/*.log.gz
+
+# 2. Als Domain-User wme00-buergerenergie: Logs ins Domain-Verzeichnis kopieren
+cp /tmp/beg-logs-migrate/*.log.gz ~/doms/buergerenergie-boesingen.de/var/
+
+# 3. Als Admin-User wme00: Temp-Verzeichnis aufräumen
+rm -rf /tmp/beg-logs-migrate/
 ```
 
 Siehe: https://wiki.hostsharing.net/index.php?title=Logging
@@ -32,9 +41,9 @@ Siehe: https://wiki.hostsharing.net/index.php?title=Logging
 Das Script liest gzip-komprimierte Apache-Logs aus dem Domain-Verzeichnis:
 
 ```
-~/doms/www.buergerenergie-boesingen.de/var/web-*.log.gz
+~/doms/buergerenergie-boesingen.de/var/web-www.buergerenergie-boesingen.de-*.log.gz
     → zcat | goaccess →
-~/doms/www.buergerenergie-boesingen.de/htdocs-ssl/statistik/index.html
+~/doms/buergerenergie-boesingen.de/htdocs-ssl/statistik/index.html
 ```
 
 Die Statistik wird automatisch mit `.htaccess` geschützt (gleiche Zugangsdaten wie `/intern/`).

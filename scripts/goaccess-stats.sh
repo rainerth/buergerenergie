@@ -10,13 +10,15 @@
 #   http_log_directory = domain
 #
 # Dann liegen die Logs im Domain-Verzeichnis und der Domain-User kann sie lesen:
-#   ~/doms/<domain>/var/web-<domain>-*.log.gz
+#   ~/doms/buergerenergie-boesingen.de/var/web-www.buergerenergie-boesingen.de-*.log.gz
 #
 # Usage: ./scripts/goaccess-stats.sh
 
-DOMAIN="${DOMAIN:-www.buergerenergie-boesingen.de}"
-STATS_DIR="${STATS_DIR:-$HOME/doms/$DOMAIN/htdocs-ssl/statistik}"
-LOG_PATTERN="$HOME/doms/$DOMAIN/var/web-${DOMAIN}-*.log.gz"
+# Domain-Verzeichnis (ohne www) vs. Log-Dateinamen (mit www)
+DOMDIR="${DOMDIR:-buergerenergie-boesingen.de}"
+DOMAIN="${DOMAIN:-www.$DOMDIR}"
+STATS_DIR="${STATS_DIR:-$HOME/doms/$DOMDIR/htdocs-ssl/statistik}"
+LOG_PATTERN="$HOME/doms/$DOMDIR/var/web-${DOMAIN}-*.log.gz"
 
 # Prüfe ob Log-Dateien vorhanden
 if ! ls $LOG_PATTERN &>/dev/null; then
@@ -44,7 +46,7 @@ zcat $LOG_PATTERN | goaccess \
     -
 
 # .htaccess-Schutz (gleiche Zugangsdaten wie /intern/)
-HTPASSWD_FILE="$HOME/doms/$DOMAIN/htdocs-ssl/intern/.htpasswd"
+HTPASSWD_FILE="$HOME/doms/$DOMDIR/htdocs-ssl/intern/.htpasswd"
 if [ -f "$HTPASSWD_FILE" ]; then
     cat > "$STATS_DIR/.htaccess" << HTACCESS
 AuthType Basic
