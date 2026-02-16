@@ -27,19 +27,21 @@ Die Genossenschaft soll dabei eine Schlüsselrolle übernehmen: Sie treibt die E
 
 <div class="clearfix"></div>
 
-## Mögliche Projekte in Bösingen
+## Erstes Projekt: Schulkomplex Bösingen
 
-* **PV-Anlagen auf Vereinsheimen oder öffentlichen Gebäuden** zur direkten Verwendung und Vermarktung des Stroms in der Gemeinde.
+Das Gründungsteam arbeitet an einem Konzept für den **Schulkomplex in Bösingen** als erstes Projekt. Die Idee: Eine Photovoltaikanlage auf dem Schuldach, die den Schulkomplex — also Grundschule, Mehrzweckhalle und Lehrschwimmbecken — mit lokal erzeugtem Strom versorgt. Ergänzend wird geprüft, ob ein **Batteriespeicher** und eine **Wärmepumpe** sinnvoll integriert werden können.
 
-* **Beteiligung an den geplanten Windparks** als Investor, so dass die Einnahmen aus den Anlagen zu Teilen in der Gemeinde bleiben.
+Der Schulkomplex bietet ideale Voraussetzungen: große Dachflächen, hoher Stromverbrauch und ein Projekt, das die Bürgerinnen und Bürger jeden Tag sehen. Die Gemeinde könnte von **günstigeren Energiekosten** profitieren und der Schulkomplex würde schrittweise unabhängiger von fossilen Energieträgern.
 
-* **Unterstützung von Vereinen, Bürgern und Bürgerinnen** bei der Nutzung erneuerbarer Energien.
+### Weitere Ideen für die Zukunft
 
-* **Energetische Nutzung** der neuen Kläranlage zur Senkung der Betriebskosten.
+Das Konzept sieht einen stufenweisen Ausbau vor. Denkbar sind unter anderem:
 
-* **Finanzierung von Speichern** zur lokalen Nutzung der Überschüsse aus PV und Windkraft.
+* **Beteiligung an Windenergieanlagen** in der Region — damit Einnahmen in der Gemeinde bleiben
+* **Weitere PV-Anlagen** auf kommunalen Gebäuden und Vereinsheimen
+* **Energy Sharing** — Strom direkt an Bürgerinnen und Bürger in Bösingen liefern
 
-* ...
+Diese Projekte werden gemeinsam mit der Gemeinde und dem Gemeinderat entwickelt. Mehr dazu in unseren [häufig gestellten Fragen](/faq/#projekte-in-bösingen).
 
 # Wer sind wir?
 
@@ -94,6 +96,6 @@ Kennen Sie jemanden, der Interesse an erneuerbaren Energien hat? **Teilen Sie di
 
 ---
 
-*Hinweis: Die hier genannten Projektideen und Möglichkeiten basieren auf den aktuellen Überlegungen und dem Austausch im Rahmen der Vorbereitung zur Gründung einer Bürgerenergiegenossenschaft. Konkrete Projekte und Beteiligungsmodelle werden in den nächsten Schritten gemeinsam mit interessierten Bürgerinnen und Bürgern entwickelt.*
+*Hinweis: Die hier beschriebenen Projektideen basieren auf den aktuellen Überlegungen des Gründungsteams. Konkrete Projekte und Beteiligungsmodelle werden in Abstimmung mit der Gemeinde und gemeinsam mit interessierten Bürgerinnen und Bürgern entwickelt.*
 
 ---
