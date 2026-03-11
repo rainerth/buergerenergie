@@ -53,3 +53,6 @@ Das Build-Script verwendet `npx pagefind`, daher ist keine separate Installation
 
 Weitere Details siehe [`SEARCH-README.md`](SEARCH-README.md).
 
+
+# Mitgliederliste hochladen 
+scp ~/OneDrive/Gemeinderat/2025_Buergerenergiegenossenschaft/interessenten.csv  wme00-buergerenergie@wme00.hostsharing.net:~/data
