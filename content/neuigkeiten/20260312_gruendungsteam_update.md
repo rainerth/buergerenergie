@@ -1,31 +1,31 @@
 ---
 title: "Gründungsteam nimmt Fahrt auf"
-subtitle: "Entwürfe für Geschäftsplan und Leitbild, Steckbriefe für alle Projekte"
+subtitle: "Entwürfe für Geschäftsplan und Leitbild, Steckbriefe für Projektideen"
 date: 2026-03-12
 draft: false
 featured: true
 tags: ["Gründungsteam", "Geschäftsplan", "Projekte"]
 categories: ["Neuigkeiten"]
 author: "Gründungsteam"
-description: "Das Gründungsteam hat Entwürfe für Geschäftsplan und Leitbild erarbeitet, Projektsteckbriefe für alle wichtigen Gemeindegebäude erstellt und die Gründung einer eigenen Genossenschaft beschlossen. Mindestens eine PV-Anlage soll noch 2026 ans Netz."
+description: "Das Gründungsteam hat Entwürfe für Geschäftsplan und Leitbild erarbeitet, Projektsteckbriefe für mögliche Gemeindegebäude entwickelt und die Gründung einer eigenen Genossenschaft beschlossen."
 featured_image: "/img/AdobeStock_1432620622_Preview.jpeg"
 ---
 
-Das Gründungsteam der Bürgerenergie Bösingen hat sich in vier Arbeitsgruppen organisiert und in den letzten Wochen intensiv gearbeitet. Die Ergebnisse können sich sehen lassen: Entwürfe für Geschäftsplan und Leitbild liegen vor, die Satzung ist entworfen und für alle wichtigen Gemeindegebäude gibt es konkrete Projektsteckbriefe.
+Das Gründungsteam der Bürgerenergie Bösingen hat sich in vier Arbeitsgruppen organisiert und in den letzten Wochen intensiv gearbeitet. Die Ergebnisse können sich sehen lassen: Entwürfe für Geschäftsplan und Leitbild liegen vor, die Satzung ist entworfen und für mögliche Gemeindegebäude haben wir erste Projektideen entwickelt.
 
 <!--more-->
 
-## PV-Anlagen und Wärmewende für die Gemeinde
+## Unsere Idee: PV-Anlagen und Wärmewende für die Gemeinde
 
-Wir wollen **PV-Anlagen auf kommunalen Dächern** errichten und die Gemeindegebäude mit günstigem Solarstrom versorgen. Am Schulkomplex prüfen wir zusätzlich den **Umstieg von Gas auf Wärmepumpe** — das senkt die Energiekosten der Gemeinde deutlich und sichert langfristig den **Erhalt des Lehrschwimmbeckens**, dessen Betrieb mit steigenden Gaspreisen immer teurer wird.
+Unsere Vision: **PV-Anlagen auf kommunalen Dächern**, die Gemeindegebäude mit günstigem Solarstrom versorgen. Am Schulkomplex untersuchen wir zusätzlich die Möglichkeit eines **Umstiegs von Gas auf Wärmepumpe** — das könnte die Energiekosten der Gemeinde deutlich senken und langfristig den **Erhalt des Lehrschwimmbeckens** sichern, dessen Betrieb mit steigenden Gaspreisen immer teurer wird. Alle Projektideen werden dem Gemeinderat vorgestellt — erst mit dessen Zustimmung geht es in die Umsetzung.
 
 ## Geschäftsplan und Leitbild
 
 Der Geschäftsplan-Entwurf umfasst eine Wirtschaftlichkeitsberechnung, ein Finanzierungskonzept und eine 5-Jahres-Prognose. Unser Leitbild-Entwurf bringt es auf den Punkt: **Gemeinwohl vor Rendite**. In den Gründungs- und Aufbaujahren investieren wir in Anlagen, die der Gemeinde sofort nutzen — niedrigere Energiekosten, stabilere Haushalte, offene Einrichtungen. Die Rendite für Mitglieder wächst mit der Genossenschaft. Beides wird jetzt in der AG2 (Gründungsvorbereitung) finalisiert.
 
-## Unsere Projekte im Überblick
+## Unsere Projektideen im Überblick
 
-Für die wichtigsten Gemeindegebäude in beiden Ortsteilen haben wir Projektsteckbriefe erstellt:
+Für verschiedene Gemeindegebäude in beiden Ortsteilen haben wir erste Projektideen entwickelt. Diese werden dem Gemeinderat vorgestellt und können nur mit dessen Zustimmung umgesetzt werden:
 
 ### Schulkomplex Bösingen (~200 kWp)
 
@@ -36,7 +36,7 @@ Für die wichtigsten Gemeindegebäude in beiden Ortsteilen haben wir Projektstec
     caption="PV-Modulbelegung Schulkomplex Bösingen"
 >}}
 
-Unser Leuchtturmprojekt: PV-Anlage auf dem Schulkomplex inkl. Mehrzweckhalle und Lehrschwimmbecken. Eine Wärmepumpe soll die veraltete Gasheizung ersetzen — und damit auch den Betrieb des Lehrschwimmbeckens langfristig sichern.
+Unsere größte Projektidee: PV-Anlage auf dem Schulkomplex inkl. Mehrzweckhalle und Lehrschwimmbecken. Eine Wärmepumpe könnte die Gasheizung ergänzen oder ersetzen — und damit auch den Betrieb des Lehrschwimmbeckens langfristig sichern.
 
 ### Mehrzweckhalle & Lehrschwimmbecken (~192 kWp)
 
@@ -47,7 +47,7 @@ Unser Leuchtturmprojekt: PV-Anlage auf dem Schulkomplex inkl. Mehrzweckhalle und
     caption="PV-Modulbelegung Mehrzweckhalle und Lehrschwimmbecken"
 >}}
 
-Die Dachflächen der Mehrzweckhalle und des Lehrschwimmbeckens bieten großes Potenzial für Solarstrom.
+Die Dachflächen der Mehrzweckhalle und des Lehrschwimmbeckens könnten großes Potenzial für Solarstrom bieten.
 
 ### Turn- & Festhalle Herrenzimmern (~99 kWp)
 
@@ -58,7 +58,7 @@ Die Dachflächen der Mehrzweckhalle und des Lehrschwimmbeckens bieten großes Po
     caption="PV-Modulbelegung Turn- und Festhalle Herrenzimmern"
 >}}
 
-Notstromfähigkeit für die Feuerwehr geplant. Diese Anlage soll als erstes Projekt noch 2026 ans Netz gehen.
+Als mögliches Zusatzfeature wird eine Notstromfähigkeit für die Feuerwehr untersucht.
 
 ### Kirche Bösingen (~65 kWp)
 
@@ -69,13 +69,11 @@ Notstromfähigkeit für die Feuerwehr geplant. Diese Anlage soll als erstes Proj
     caption="PV-Modulbelegung Kirche Bösingen"
 >}}
 
-PV-Anlage auf dem Kirchendach in Abstimmung mit der Kirchengemeinde.
+Mögliche PV-Anlage auf dem Kirchendach — in Abstimmung mit der Kirchengemeinde.
 
 ### Weitere Projekte
 
-Zusätzlich untersuchen wir die Gebäude **Kindergarten & Feuerwehr** (~100 kWp) sowie weitere Objekte in beiden Ortsteilen.
-
-Mindestens eine PV-Anlage soll noch 2026 ans Netz gehen.
+Zusätzlich untersuchen wir weitere Gebäude wie **Kindergarten & Feuerwehr** (~100 kWp) und andere Objekte in beiden Ortsteilen.
 
 ## Eigene Genossenschaft
 
@@ -83,7 +81,7 @@ Das Gründungsteam hat sich einstimmig für die Gründung einer **eigenen Genoss
 
 ## Stufenkonzept — Schritt für Schritt
 
-Wir setzen auf ein bewährtes Gate-Prinzip: Jede neue Ausbaustufe wird nur gestartet, wenn die Wirtschaftlichkeit gesichert und die Finanzierung steht. So wächst die Genossenschaft solide — ohne unnötiges Risiko.
+Wir setzen auf ein bewährtes Gate-Prinzip: Jede Ausbaustufe wird nur gestartet, wenn die Zustimmung der Gemeinde vorliegt, die Wirtschaftlichkeit gesichert und die Finanzierung steht. So wächst die Genossenschaft solide — ohne unnötiges Risiko.
 
 ## Wie können Sie mitmachen?
 
