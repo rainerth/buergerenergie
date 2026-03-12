@@ -3,7 +3,7 @@ title: "Bierdeckel-Werbung für die BEG Bösingen"
 subtitle: "Rechtzeitig zur Fasnet: Erste Werbematerialien eingetroffen"
 date: 2026-02-15
 draft: false
-featured: true
+featured: false
 tags: ["Öffentlichkeitsarbeit", "Werbung", "Fasnet"]
 categories: ["Neuigkeiten"]
 author: "AG Öffentlichkeitsarbeit"
