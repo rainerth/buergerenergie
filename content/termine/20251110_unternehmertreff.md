@@ -8,6 +8,6 @@ location: "Neura Electronics GmbH / Schule Bösingen"
 recurring: false
 ---
 
-Auf Einladung von Bürgermeister Schuster treffen sich Bösinger Unternehmen zum Austausch in der Mensa der Schule Bösingen. Die Bürgerenergie Bösingen erhält dabei die Gelegenheit, ihre Vision und Ziele vorzustellen und die Unternehmen als potenzielle Partner zu gewinnen.
+Auf Einladung von Bürgermeister Schuster treffen sich Bösinger Unternehmen zum Austausch in der Mensa der Schule Bösingen. Die Bürgerenergie Bösingen-Herrenzimmern erhält dabei die Gelegenheit, ihre Vision und Ziele vorzustellen und die Unternehmen als potenzielle Partner zu gewinnen.
 
 Im Vorfeld findet eine Unternehmensführung bei der Neura Electronics GmbH statt, bei der das innovative Unternehmen seine Technologien und Produkte präsentiert.

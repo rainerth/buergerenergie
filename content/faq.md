@@ -2,7 +2,7 @@
 layout: page
 show_sidebar: true
 title: Häufig gestellte Fragen (FAQ)
-description: Antworten auf häufige Fragen zur Bürgerenergie Bösingen
+description: Antworten auf häufige Fragen zur Bürgerenergie Bösingen-Herrenzimmern
 draft: false
 ---
 
@@ -16,7 +16,7 @@ Eine Genossenschaft ist ein Zusammenschluss mehrerer Personen mit dem Ziel, durc
 
 ### Was bedeutet "i.G." hinter dem Namen?
 
-"i.G." steht für "in Gründung". Die Bürgerenergie Bösingen ist derzeit eine Initiative und arbeitet an der offiziellen Gründung einer Genossenschaft. Das ist völlig normal und kein Grund zur Besorgnis — viele erfolgreiche Genossenschaften haben genau so angefangen.
+"i.G." steht für "in Gründung". Die Bürgerenergie Bösingen-Herrenzimmern ist derzeit eine Initiative und arbeitet an der offiziellen Gründung einer Genossenschaft. Das ist völlig normal und kein Grund zur Besorgnis — viele erfolgreiche Genossenschaften haben genau so angefangen.
 
 ### Gründen wir eine neue Genossenschaft oder treten einer bestehenden bei?
 
@@ -54,7 +54,7 @@ Das hängt vom Erfolg der Projekte ab. Unsere Partner in Sulz zahlen derzeit 2�
 
 ---
 
-## Projekte in Bösingen
+## Projekte in Bösingen und Herrenzimmern
 
 ### Was ist das erste geplante Projekt?
 
@@ -66,7 +66,7 @@ Der Schulkomplex bietet gute Voraussetzungen:
 
 - **Große Dachflächen** für eine PV-Anlage
 - **Hoher Stromverbrauch** durch Schule, Halle und Schwimmbad — der vor Ort erzeugte Strom kann also gut genutzt werden
-- **Sichtbarkeit** — ein Projekt, das die Bürgerinnen und Bürger jeden Tag sehen und das zeigt: Bösingen macht Energiewende
+- **Sichtbarkeit** — ein Projekt, das die Bürgerinnen und Bürger jeden Tag sehen und das zeigt: die Gemeinde Bösingen macht Energiewende
 
 ### Was hätte die Gemeinde davon?
 
@@ -78,7 +78,7 @@ Ja. Das Konzept sieht einen **stufenweisen Ausbau über mehrere Phasen** vor. De
 
 - **Weitere PV-Anlagen** auf kommunalen Gebäuden
 - **Beteiligung an Windenergieanlagen** in der Region
-- **Energy Sharing** — Strom direkt an Bürgerinnen und Bürger in Bösingen liefern
+- **Energy Sharing** — Strom direkt an Bürgerinnen und Bürger in Bösingen und Herrenzimmern liefern
 
 Das sind Visionen für die Zukunft. Zunächst konzentrieren wir uns auf das erste Projekt.
 
@@ -136,7 +136,7 @@ Gute Frage. Nicht jedes Dach ist für PV geeignet (Alter, Statik, Ausrichtung). 
 ### Wie konkurrenzfähig ist eine Genossenschaft gegenüber großen Energiekonzernen?
 
 Nicht beim Strompreis — die großen Konzerne sind billiger. Aber das bietet Ihnen andere Vorteile:
-- Gewinne bleiben in Bösingen
+- Gewinne bleiben in der Gemeinde Bösingen
 - Sie bestimmen mit
 - Nachhaltige, lokale Energieversorgung
 - Schrittweise Unabhängigkeit von großen Konzernen

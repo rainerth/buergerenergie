@@ -1,5 +1,5 @@
 # buergerenergie
-Hugo Website of Bürgerenergie Bösingen
+Hugo Website of Bürgerenergie Bösingen-Herrenzimmern
 
 ## 🔍 Suchfunktionalität
 

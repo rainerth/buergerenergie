@@ -8,7 +8,7 @@ categories: ["Neuigkeiten"]
 description: "Am 25. November 2025 fand die erste konstituierende Sitzung des Gründungsteams im alten Wendelinusheim statt. Die Teilnehmer verteilten sich auf vier Arbeitsgruppen."
 ---
 
-Am 25. November 2025 kam das Gründungsteam der Bürgerenergie Bösingen e.V. zu seiner ersten offiziellen Sitzung im alten Wendelinusheim in Bösingen zusammen. Ein wichtiger Schritt auf dem Weg zur Gründung unserer Energiegenossenschaft wurde damit vollzogen: Die Bildung der vier Arbeitsgruppen.
+Am 25. November 2025 kam das Gründungsteam der Bürgerenergie Bösingen-Herrenzimmern i.G. zu seiner ersten offiziellen Sitzung im alten Wendelinusheim in Bösingen zusammen. Ein wichtiger Schritt auf dem Weg zur Gründung unserer Energiegenossenschaft wurde damit vollzogen: Die Bildung der vier Arbeitsgruppen.
 
 <!--more-->
 

@@ -6,11 +6,11 @@ build:
 
 # Einladung zur Informationsveranstaltung: Gemeinsam Energiezukunft gestalten
 
-## Bürgerenergiegenossenschaft Bösingen?
+## Bürgerenergiegenossenschaft Bösingen-Herrenzimmern?
 
 Liebe Mitbürgerinnen und Mitbürger,
 
-Bösingen steht vor Herausforderungen: In den kommenden Jahren werden wichtige Entscheidungen über die Energieversorgung unserer Gemeinde getroffen. Windkraftanlagen, Photovoltaik-Projekte, die energetische Optimierung unserer Kläranlage und innovative Speicherlösungen – all das sind konkrete Vorhaben, die nicht nur das Klima schützen, sondern auch Chancen für unsere Gemeinde und ihre Bürgerinnen und Bürger bieten.
+Die Gemeinde Bösingen steht vor Herausforderungen: In den kommenden Jahren werden wichtige Entscheidungen über die Energieversorgung unserer Gemeinde getroffen. Windkraftanlagen, Photovoltaik-Projekte, die energetische Optimierung unserer Kläranlage und innovative Speicherlösungen – all das sind konkrete Vorhaben, die nicht nur das Klima schützen, sondern auch Chancen für unsere Gemeinde und ihre Bürgerinnen und Bürger bieten.
 
 ### Warum eine Bürgerenergiegenossenschaft?
 
@@ -26,7 +26,7 @@ Im kleinen Kreis sind grundlegende Informationen zusammengetragen worden, es ist
 
 ### Was erwartet Sie bei der Informationsveranstaltung?
 
-#### Mögliche Projekte in Bösingen
+#### Mögliche Projekte in Bösingen und Herrenzimmern
 
 - Windenergie: Aktueller Planungsstand und Beteiligungsmöglichkeiten
 - Photovoltaik: Dächer von Mehrzweckhalle, Schule und weiteren kommunalen Gebäuden oder auch Freilandflächen
@@ -63,7 +63,7 @@ Wir sind nicht die ersten und können auf viele Beispiele erfolgreicher Genossen
 - Vorteile: Professionelle Verwaltung, geringerer Aufwand, Erfahrungsaustausch
 - Nachteile: Weniger Autonomie, geteilte Entscheidungsmacht
 
-### Welcher Weg ist für Bösingen der richtige?
+### Welcher Weg ist für Bösingen und Herrenzimmern der richtige?
 
 Diese Frage werden wir gemeinsam diskutieren und entscheiden.
 
@@ -96,7 +96,7 @@ Wir sind keine Investmentfirma, die schnelle Renditen verspricht. Wir sind keine
 
 ---
 
-**Das könnte der Anfang einer erfolgreichen Bürgerenergiegenossenschaft in Bösingen sein. Sind Sie dabei?**
+**Das könnte der Anfang einer erfolgreichen Bürgerenergiegenossenschaft in Bösingen und Herrenzimmern sein. Sind Sie dabei?**
 
 Wir freuen uns auf Sie!
 

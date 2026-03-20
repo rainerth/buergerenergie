@@ -3,10 +3,10 @@ title: "Interessentenliste"
 layout: "interessenten"
 draft: false
 url: "/intern/"
-description: "Geschützte Interessentenliste der Bürgerenergie-Genossenschaft Bösingen"
+description: "Geschützte Interessentenliste der Bürgerenergiegenossenschaft Bösingen-Herrenzimmern"
 ---
 
-Willkommen im internen Bereich der Bürgerenergie-Genossenschaft Bösingen i.G.
+Willkommen im internen Bereich der Bürgerenergiegenossenschaft Bösingen-Herrenzimmern i.G.
 
 Diese Seite ist nur für Organisatoren zugänglich und wird durch HTTP Basic Authentication geschützt.
 

@@ -1,10 +1,10 @@
 ---
 layout: page
 show_sidebar: true
-tags: [Bürgerenergiegenossenschaft, Bösingen, Genossenschaft, Erneuerbare Energien, Klimaschutz]
-title: Bürgerenergie Bösingen i.G.
+tags: [Bürgerenergiegenossenschaft, Bösingen, Herrenzimmern, Genossenschaft, Erneuerbare Energien, Klimaschutz]
+title: Bürgerenergie Bösingen-Herrenzimmern i.G.
 subtitle: "Sind Sie dabei?"
-description: Bürgerenergiegenossenschaft Bösingen
+description: Bürgerenergiegenossenschaft Bösingen-Herrenzimmern
 draft: false
 ---
 
@@ -19,7 +19,7 @@ draft: false
   class="float-left mr-3 mb-3"
 >}}
 
-Die *Bürgerenergie Bösingen* ist derzeit eine Initiative, die zur Gründung einer Genossenschaft führen kann. Wir wollen Energieprojekte fördern und aktiv mitgestalten – zum Nutzen der Bösinger Bürger. **Bei Projekten, die uns direkt betreffen, wollen wir mit starker Stimme mitreden.**
+Die *Bürgerenergie Bösingen-Herrenzimmern* ist derzeit eine Initiative, die zur Gründung einer Genossenschaft führen kann. Wir wollen Energieprojekte fördern und aktiv mitgestalten – zum Nutzen der Bösinger Bürger. **Bei Projekten, die uns direkt betreffen, wollen wir mit starker Stimme mitreden.**
 
 Die Genossenschaft soll dabei eine Schlüsselrolle übernehmen: Sie treibt die Energiewende zu erneuerbaren Quellen voran und bindet alle Einwohner ein. **Energieversorgung betrifft uns alle.**
 
@@ -47,7 +47,7 @@ Diese Projekte werden gemeinsam mit der Gemeinde und dem Gemeinderat entwickelt.
 
 Wir sind ein Projektteam aus 22 engagierten Personen, das die Gründung einer Bürgerenergiegenossenschaft vorbereitet. Die [Infoveranstaltung der Gemeinde Bösingen im April 2025](/neuigkeiten/20250429_buergerinfo) war der Startpunkt. Mit Unterstützung des Gemeinderats und nach den erfolgreichen [Infoveranstaltungen Ende Oktober](/neuigkeiten/20251029_infoveranstaltungen/) mit über 100 Teilnehmenden sind wir jetzt in der Phase der Gründungsvorbereitung.
 
-**Die Gründung einer Genossenschaft braucht ihre Zeit** — Genossenschaftsrecht, Satzung, Behördengänge. Aber in dieser Phase ist es besonders wichtig zu zeigen: **Es gibt echtes Interesse in Bösingen!** Jede weitere Anmeldung demonstriert Politikern und Fördermittelgebern, dass diese Initiative tragfähig ist.
+**Die Gründung einer Genossenschaft braucht ihre Zeit** — Genossenschaftsrecht, Satzung, Behördengänge. Aber in dieser Phase ist es besonders wichtig zu zeigen: **Es gibt echtes Interesse in der Gemeinde Bösingen!** Jede weitere Anmeldung demonstriert Politikern und Fördermittelgebern, dass diese Initiative tragfähig ist.
 
 # Jetzt ist der richtige Zeitpunkt!
 

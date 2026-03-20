@@ -6,7 +6,7 @@ draft: false
 tags: ["Genossenschaft", "Gründung", "Team"]
 ---
 
-Ein wichtiger Meilenstein ist erreicht: Das Gründungsteam der Bürgerenergie Bösingen e.V. hat sich formiert! 24 engagierte Bürgerinnen und Bürger aus Bösingen, Herrenzimmern und Epfendorf haben sich bereit erklärt, aktiv an der Gründung der Energiegenossenschaft mitzuwirken.
+Ein wichtiger Meilenstein ist erreicht: Das Gründungsteam der Bürgerenergie Bösingen-Herrenzimmern i.G.hat sich formiert! 24 engagierte Bürgerinnen und Bürger aus Bösingen, Herrenzimmern und Epfendorf haben sich bereit erklärt, aktiv an der Gründung der Energiegenossenschaft mitzuwirken.
 
 ## Das Gründungsteam (AG0)
 
@@ -52,4 +52,4 @@ Das Gründungsteam trifft sich in den kommenden Wochen zu wichtigen Arbeitssitzu
 
 Mit diesem engagierten Team legen wir den Grundstein für eine erfolgreiche Energiegenossenschaft in unserer Region. Die Arbeitsgruppen werden sich in den kommenden Wochen mit verschiedenen Themen wie Satzung, Finanzierung, Technik und Kommunikation befassen.
 
-Sie möchten auch dabei sein? Melden Sie sich gerne bei uns! Wir freuen uns über jede Unterstützung auf dem Weg zur Gründung der Bürgerenergie Bösingen e.V.
+Sie möchten auch dabei sein? Melden Sie sich gerne bei uns! Wir freuen uns über jede Unterstützung auf dem Weg zur Gründung der Bürgerenergie Bösingen-Herrenzimmern i.G.

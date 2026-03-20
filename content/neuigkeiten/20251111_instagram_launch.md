@@ -6,10 +6,10 @@ draft: false
 tags: ["Social Media", "Instagram", "Öffentlichkeitsarbeit"]
 categories: ["Neuigkeiten"]
 author: "AG Öffentlichkeitsarbeit"
-description: "Die Arbeitsgruppe Öffentlichkeitsarbeit der Bürgerenergie Bösingen ist bereits aktiv und hat einen Instagram-Account angelegt, um weitere Zielgruppen zu erreichen."
+description: "Die Arbeitsgruppe Öffentlichkeitsarbeit der Bürgerenergie Bösingen-Herrenzimmern ist bereits aktiv und hat einen Instagram-Account angelegt, um weitere Zielgruppen zu erreichen."
 ---
 
-Die Arbeitsgruppe Öffentlichkeitsarbeit macht Tempo! Seit den erfolgreichen Infoveranstaltungen Ende Oktober arbeitet das Team daran, die Bürgerenergie Bösingen noch bekannter zu machen und verschiedene Zielgruppen zu erreichen.
+Die Arbeitsgruppe Öffentlichkeitsarbeit macht Tempo! Seit den erfolgreichen Infoveranstaltungen Ende Oktober arbeitet das Team daran, die Bürgerenergie Bösingen-Herrenzimmern noch bekannter zu machen und verschiedene Zielgruppen zu erreichen.
 
 <!--more-->
 
@@ -19,13 +19,13 @@ Um möglichst viele Bürgerinnen und Bürger anzusprechen, haben wir einen Insta
 
 - **Aktuelle Entwicklungen** rund um die Genossenschaftsgründung
 - **Termine** der Arbeitsgruppen und öffentliche Veranstaltungen
-- **Hintergründe** zu Energieprojekten in Bösingen
+- **Hintergründe** zu Energieprojekten in Bösingen und Herrenzimmern
 - **Erfolgsgeschichten** anderer Bürgerenergiegenossenschaften
 - **Einblicke** in die Arbeit unserer Arbeitsgruppen
 
 ## Folgen, Teilen, Mitmachen!
 
-Folgen Sie uns auf Instagram unter [@buergerenergie_boesingen](https://www.instagram.com/buergerenergie_boesingen/) und helfen Sie uns, die Idee der Bürgerenergie in Bösingen zu verbreiten:
+Folgen Sie uns auf Instagram unter [@buergerenergie_boesingen](https://www.instagram.com/buergerenergie_boesingen/) und helfen Sie uns, die Idee der Bürgerenergie in Bösingen und Herrenzimmern zu verbreiten:
 
 - **Liken** Sie unsere Beiträge
 - **Teilen** Sie Inhalte in Ihren Stories

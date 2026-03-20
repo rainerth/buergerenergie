@@ -28,7 +28,7 @@ Hilfreiche Dokumente und Vorlagen von bereits etablierten Energiegenossenschafte
 
 {{< youtube
     id="oOesQ2YS9sI"
-    title="Infoveranstaltung zur Bürgerenergiegenossenschaft Bösingen"
+    title="Infoveranstaltung zur Bürgerenergiegenossenschaft Bösingen-Herrenzimmern"
 >}}
 
 # Dokumente

@@ -2,7 +2,7 @@
 title: "Suche"
 layout: "search"
 summary: "Durchsuchen Sie unsere Website"
-description: "Suchen Sie nach Inhalten auf der Website der Bürgerenergie-Genossenschaft Bösingen"
+description: "Suchen Sie nach Inhalten auf der Website der Bürgerenergiegenossenschaft Bösingen-Herrenzimmern"
 ---
 
 # Suche

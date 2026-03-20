@@ -1,5 +1,5 @@
 ---
-title: "Neues Logo und Slogan für Bürgerenergie Bösingen"
+title: "Neues Logo und Slogan für Bürgerenergie Bösingen-Herrenzimmern"
 subtitle: "Gründungsteam wählt Entwurf aus internem Wettbewerb"
 date: 2026-02-01
 draft: false
@@ -14,7 +14,7 @@ Wir freuen uns, Ihnen unser neues Logo und unseren Slogan **„Energie in Bürge
 
 <!--more-->
 
-![Logo Bürgerenergie Bösingen](/img/buergerenergie-boesingen-logo.svg)
+![Logo Bürgerenergie Bösingen-Herrenzimmern](/img/buergerenergie-boesingen-logo.svg)
 
 ## Der Auswahlprozess
 

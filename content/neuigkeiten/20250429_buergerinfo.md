@@ -21,9 +21,9 @@ Aus den Reihen der Teilnehmenden bekundeten über 30 Personen spontan Interesse 
   width="300px"
 >}}
 
-# Gemeinsam die Energie&shy;zukunft gestalten: Eine Bürgerenergie&shy;genossen&shy;schaft in Bösingen?
+# Gemeinsam die Energie&shy;zukunft gestalten: Eine Bürgerenergie&shy;genossen&shy;schaft in der Gemeinde Bösingen?
 
-Die *Bürgerenergiegenossenschaft Bösingen* ist aktuell eine Vision auf dem Weg zur Gründung einer Genossenschaft. Über diese Genossenschaft sollen lokale Energieprojekte gefördert und unterstützt - aber auch zu Gunsten der Bösinger Bürger beeinflusst werden können. Aus der Genossenschaft heraus können Projekte finanziert und damit von den Einnahmen profitieren werden.
+Die *Bürgerenergiegenossenschaft Bösingen-Herrenzimmern* ist aktuell eine Vision auf dem Weg zur Gründung einer Genossenschaft. Über diese Genossenschaft sollen lokale Energieprojekte gefördert und unterstützt - aber auch zu Gunsten der Bösinger Bürger beeinflusst werden können. Aus der Genossenschaft heraus können Projekte finanziert und damit von den Einnahmen profitieren werden.
 
 Die Genossenschaft kann damit eine entscheidende Rolle spielen, um die Energiewende voranzutreiben und alle Einwohner aktiv einzubinden.
 
@@ -32,9 +32,9 @@ Die Genossenschaft kann damit eine entscheidende Rolle spielen, um die Energiewe
 
 Es gibt jetzt schon weit über 800 Bürgerenergiegenossenschaften in Deutschland, viele auch in umliegenden Gemeinden.
 
-**Gibt es auch in Bösingen Interesse?**
+**Gibt es auch in Bösingen und Herrenzimmern Interesse?**
 
-Wir sind noch ganz am Anfang und offen für alle Konzepte und Ideen. Die Kernfrage aktuell ist: gibt es überhaupt Interesse an einer Bürgerenergiegenossenschaft in Bösingen? Das wollen wir schnell herausfinden und erst dann durchstarten.
+Wir sind noch ganz am Anfang und offen für alle Konzepte und Ideen. Die Kernfrage aktuell ist: gibt es überhaupt Interesse an einer Bürgerenergiegenossenschaft in der Gemeinde Bösingen? Das wollen wir schnell herausfinden und erst dann durchstarten.
 
 ### Was ist eine Genossenschaft?
 
@@ -58,7 +58,7 @@ Im Genossenschaftsrecht hat jedes Mitglied, **unabhängig von der Kapitalbeteili
 
 
 
-### Mögliche Projekte in Bösingen
+### Mögliche Projekte in Bösingen und Herrenzimmern
 
 * **PV-Anlagen auf Vereinsheimen oder öffentlichen Gebäuden**: Gemeinsam nutzen wir Sonnenenergie.
 

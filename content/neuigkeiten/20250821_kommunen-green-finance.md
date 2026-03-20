@@ -32,14 +32,14 @@ Diese Beispiele zeigen: **Erneuerbare Energien schaffen nicht nur Klimaschutz, s
 
 Natürlich ist der Weg nicht immer einfach. Gerade beim Ausbau der Windkraft ist eine breite Akzeptanz in der Bevölkerung notwendig. Manche Gemeinden haben zudem gar nicht die Flächen, um Wind- oder Solarparks zu errichten, setzen daher stärker auf Wärmenetze und innovative Lösungen wie Großwärmepumpen.
 
-## Was bedeutet das für Bösingen?
+## Was bedeutet das für die Gemeinde Bösingen?
 
-Auch in Bösingen beschäftigen wir uns intensiv mit diesen Fragen. Unsere geplante Bürgerenergiegenossenschaft hat genau das Ziel:
+Auch in Bösingen und Herrenzimmern beschäftigen wir uns intensiv mit diesen Fragen. Unsere geplante Bürgerenergiegenossenschaft hat genau das Ziel:
 - **lokale Wertschöpfung** im Ort halten,
 - **Bürgerinnen und Bürger beteiligen**,
 - und **klimafreundliche Energieprojekte** als Chance nutzen, um langfristig finanzielle und ökologische Vorteile zu schaffen.
 
-Dabei können wir von den Erfahrungen anderer Kommunen lernen – und unsere eigenen Lösungen entwickeln, die zu Bösingen passen.
+Dabei können wir von den Erfahrungen anderer Kommunen lernen – und unsere eigenen Lösungen entwickeln, die zu Bösingen und Herrenzimmern passen.
 
 ---
 

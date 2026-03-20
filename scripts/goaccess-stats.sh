@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# GoAccess Statistics Generator for Bürgerenergie Bösingen
+# GoAccess Statistics Generator for Bürgerenergie Bösingen-Herrenzimmern
 # Basiert auf: https://wiki.hostsharing.net/index.php?title=Goaccess
 #
 # Hostsharing: GoAccess ist vorinstalliert (v1.7 auf Debian Bookworm)
@@ -42,7 +42,7 @@ zcat $LOG_PATTERN | goaccess \
     --ignore-crawler \
     --unknowns-as-crawlers \
     --real-os \
-    --html-report-title="Bürgerenergie Bösingen - Zugriffstatistik" \
+    --html-report-title="Bürgerenergie Bösingen-Herrenzimmern - Zugriffstatistik" \
     -
 
 # Kein .htaccess nötig — /intern/ ist bereits passwortgeschützt

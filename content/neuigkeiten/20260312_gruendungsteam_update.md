@@ -11,7 +11,7 @@ description: "Das Gründungsteam hat Entwürfe für Geschäftsplan und Leitbild 
 featured_image: "/img/AdobeStock_1432620622_Preview.jpeg"
 ---
 
-Das Gründungsteam der Bürgerenergie Bösingen hat sich in vier Arbeitsgruppen organisiert und in den letzten Wochen intensiv gearbeitet. Entwürfe für Geschäftsplan und Leitbild liegen vor, die Satzung ist entworfen und erste Projektideen für kommunale Gebäude werden vorbereitet.
+Das Gründungsteam der Bürgerenergie Bösingen-Herrenzimmern hat sich in vier Arbeitsgruppen organisiert und in den letzten Wochen intensiv gearbeitet. Entwürfe für Geschäftsplan und Leitbild liegen vor, die Satzung ist entworfen und erste Projektideen für kommunale Gebäude werden vorbereitet.
 
 <!--more-->
 

@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a Hugo static site for "Bürgerenergie Bösingen e.V." - a German energy cooperative initiative focused on sustainable energy solutions for the Bösingen community. The site includes news, events, documents, and member areas with search functionality.
+This is a Hugo static site for "Bürgerenergie Bösingen-Herrenzimmern i.G." - a German energy cooperative initiative focused on sustainable energy solutions for the Bösingen community. The site includes news, events, documents, and member areas with search functionality.
 
 ## Architecture
 

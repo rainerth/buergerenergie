@@ -1,5 +1,5 @@
 ---
-title: "Bierdeckel-Werbung für die BEG Bösingen"
+title: "Bierdeckel-Werbung für die BEG Bösingen-Herrenzimmern"
 subtitle: "Rechtzeitig zur Fasnet: Erste Werbematerialien eingetroffen"
 date: 2026-02-15
 draft: false
@@ -19,7 +19,7 @@ featured_image: "/img/artikel/bierdeckelwerbung.jpg"
     caption="Frisch eingetroffen: Ein Karton voller BEG-Bierdeckel"
 >}}
 
-Rechtzeitig zur Fasnet sind die ersten Werbematerialien für die BEG Bösingen eingetroffen: Ein Karton mit Bierdeckeln im neuen Design mit Logo, Slogan und QR-Code.
+Rechtzeitig zur Fasnet sind die ersten Werbematerialien für die BEG Bösingen-Herrenzimmern eingetroffen: Ein Karton mit Bierdeckeln im neuen Design mit Logo, Slogan und QR-Code.
 
 <!--more-->
 
