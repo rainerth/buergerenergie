@@ -2,8 +2,8 @@
 title: "Gründungsteam nimmt Fahrt auf"
 subtitle: "Intensive Vorarbeit für die Bürgerenergiegenossenschaft"
 date: 2026-03-12
-draft: false
-featured: true
+draft: true
+featured: false
 tags: ["Gründungsteam", "Geschäftsplan"]
 categories: ["Neuigkeiten"]
 author: "Gründungsteam"
@@ -21,11 +21,11 @@ Das Gründungsteam der Bürgerenergie Bösingen-Herrenzimmern hat sich in vier A
 
 **Satzungsentwurf erarbeitet.** Auf Basis der Mustersatzung des Baden-Württembergischen Genossenschaftsverbands haben wir einen eigenen Satzungsentwurf erstellt — mit Möglichkeit zur digitalen Mitgliedschaft und hybrider Generalversammlung.
 
-**Eigene Genossenschaft beschlossen.** Das Gründungsteam hat sich einstimmig für die Gründung einer eigenen Genossenschaft entschieden — in gutem Austausch mit der Gemeinde und den umliegenden Bürgerenergiegenossenschaften in Sulz, Rottweil, Deißlingen und den Teckwerken.
+**Eigene Genossenschaft beschlossen.** Das Gründungsteam hat sich einstimmig für die Gründung einer eigenen Genossenschaft entschieden — in gutem Austausch mit der Gemeinde und den umliegenden Bürgerenergiegenossenschaften in Sulz, Rottweil, Deißlingen und den Teckwerken eG.
 
 ## Was steht an?
 
-In den kommenden Wochen stellen wir unser Konzept dem Gemeinderat vor. Erst mit dessen Zustimmung geht es in die konkrete Projektplanung.
+Nach der Vorstellung des aktuellen Stands und der geplanten Projekte im Gemeinderat geht es nun in die konkrete Projektplanung. Wir wollen noch in diesem Jahr mit 2 PV-Anlagen mit je knapp 100 kW (peak) starten. Die Gemeinde unterstützt uns dabei und wird uns auf Basis eines Gemeinderatsbeschlusses geeignete Dachflächen auf der Schule in Bösingen und der Turn- und Festhalle in Herrenzimmern verpachten. 
 
 ## Wie können Sie mitmachen?
 
