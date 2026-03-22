@@ -44,6 +44,12 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Komm
 Diese Gemeinschaft ist aktuell in Gründung. Ansprechpartner und
 Verantwortlicher für diese Webseite ist Rainer Thieringer, Merowingerstraße 6, 78662 Bösingen.
 
+## Das Gründungsteam
+
+Die folgenden Personen bilden das Gründungsteam und bereiten die Gründung der Genossenschaft vor:
+
+Oliver Arnold, Uwe Baier, Peter Banholzer, Timo Bantle, Marius Dettki, Ralf Flaig, Sofia Hezel, Wolfgang Kammerer, Bernhard Müller, Christoph Müller, Bernd Ohnmacht, Maurizio Ragamentu, Armin Rötzer, Klaus Schumacher, Timo Seliger, Sven Semmelrodt, Rainer Thieringer, Andreas Wirth, Karl Ernst Wizemann, Klaus Wizemann
+
 ---
 
-*Stand: Juli 2025*
+*Stand: März 2026*

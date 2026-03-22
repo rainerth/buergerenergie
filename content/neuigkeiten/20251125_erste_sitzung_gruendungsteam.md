@@ -1,6 +1,6 @@
 ---
 title: "Erste Sitzung des Gründungsteams – Arbeitsgruppen gebildet"
-subtitle: "22 engagierte Bürger verteilen sich auf vier Arbeitsgruppen"
+subtitle: "20 engagierte Bürger verteilen sich auf vier Arbeitsgruppen"
 date: 2025-11-25
 draft: false
 tags: ["Genossenschaft", "Gründung", "Team", "Arbeitsgruppen"]
@@ -20,26 +20,25 @@ Das Gründungsteam hat sich in vier thematische Arbeitsgruppen aufgeteilt, die i
 
 Die größte Arbeitsgruppe befasst sich mit der Identifikation und Planung erster Energieprojekte für unsere Genossenschaft:
 
+- Oliver Arnold
+- Uwe Baier
+- Peter Banholzer
+- Timo Bantle
+- Marius Dettki
+- Maurizio Ragamentu
 - Armin Rötzer
 - Klaus Schumacher
-- Marius Dettki
-- Mirko Ohnmacht
-- Oliver Arnold
-- Peter Banholzer
-- Rainer Banholzer
-- Rainer Thieringer
-- Sven Semmelrodt
-- Thomas Fischinger
-- Timo Bantle
 - Timo Seliger
-- Uwe Baier
+- Sven Semmelrodt
+- Rainer Thieringer
 
 ### AG2 – Gründungsvorbereitung
 
 Diese Arbeitsgruppe kümmert sich um die rechtlichen Grundlagen, Satzung und formale Gründungsvoraussetzungen:
 
-- Andreas Wirth
+- Wolfgang Kammerer
 - Christoph Müller
+- Andreas Wirth
 - Karl Ernst Wizemann
 - Klaus Wizemann
 
@@ -47,19 +46,18 @@ Diese Arbeitsgruppe kümmert sich um die rechtlichen Grundlagen, Satzung und for
 
 Für Kommunikation, Mitgliederwerbung und Außendarstellung ist diese Arbeitsgruppe zuständig:
 
-- Bernhard Müller
-- Rainer Thieringer
 - Ralf Flaig
 - Sofia Hezel
+- Bernhard Müller
+- Rainer Thieringer
 
 ### AG4 – Finanzen
 
 Die Arbeitsgruppe Finanzen beschäftigt sich mit Geschäftsmodell, Wirtschaftlichkeit und Finanzierungskonzepten:
 
+- Marius Dettki
 - Bernd Ohnmacht
 - Klaus Wizemann
-- Marius Dettki
-- Wolfram Röhrig
 
 ## Nächste Sitzung am 9. Dezember 2025
 

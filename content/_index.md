@@ -45,7 +45,7 @@ Diese Projekte werden gemeinsam mit der Gemeinde und dem Gemeinderat entwickelt.
 
 # Wer sind wir?
 
-Wir sind ein Projektteam aus 22 engagierten Personen, das die Gründung einer Bürgerenergiegenossenschaft vorbereitet. Die [Infoveranstaltung der Gemeinde Bösingen im April 2025](/neuigkeiten/20250429_buergerinfo) war der Startpunkt. Mit Unterstützung des Gemeinderats und nach den erfolgreichen [Infoveranstaltungen Ende Oktober](/neuigkeiten/20251029_infoveranstaltungen/) mit über 100 Teilnehmenden sind wir jetzt in der Phase der Gründungsvorbereitung.
+Wir sind ein Projektteam aus 20 engagierten Personen, das die Gründung einer Bürgerenergiegenossenschaft vorbereitet. Die [Infoveranstaltung der Gemeinde Bösingen im April 2025](/neuigkeiten/20250429_buergerinfo) war der Startpunkt. Mit Unterstützung des Gemeinderats und nach den erfolgreichen [Infoveranstaltungen Ende Oktober](/neuigkeiten/20251029_infoveranstaltungen/) mit über 100 Teilnehmenden sind wir jetzt in der Phase der Gründungsvorbereitung.
 
 **Die Gründung einer Genossenschaft braucht ihre Zeit** — Genossenschaftsrecht, Satzung, Behördengänge. Aber in dieser Phase ist es besonders wichtig zu zeigen: **Es gibt echtes Interesse in der Gemeinde Bösingen!** Jede weitere Anmeldung demonstriert Politikern und Fördermittelgebern, dass diese Initiative tragfähig ist.
 
@@ -63,7 +63,7 @@ Wir sind ein Projektteam aus 22 engagierten Personen, das die Gründung einer B�
 
 **Melden Sie sich an und werben Sie!** Teilen Sie diese Seite mit Familie, Freunden, Nachbarn, Vereinskollegen. Je mehr Interessenten wir sammeln, desto stärker sind wir bei der Gründung. **Jede Stimme zählt.**
 
-Eine Genossenschaft lebt von der Vielzahl ihrer Mitglieder. Eine Mitgliedschaft wird bereits ab **100 Euro pro Jahr** möglich sein — für jeden erreichbar. Das ist der Sinn: Viele kleine Investitionen statt wenige große.
+Eine Genossenschaft lebt von der Vielzahl ihrer Mitglieder. Mitglied wird man durch eine **einmalige Einlage ab 100 Euro** (ein Geschäftsanteil) — für jeden erreichbar. Das ist der Sinn: Viele kleine Investitionen statt wenige große.
 
 ---
 

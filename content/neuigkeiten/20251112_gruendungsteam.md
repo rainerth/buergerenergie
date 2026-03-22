@@ -1,44 +1,42 @@
 ---
 title: "Das Gründungsteam steht – die Arbeit beginnt"
-subtitle: "22 engagierte Bürgerinnen und Bürger bilden die AG0"
+subtitle: "20 engagierte Bürgerinnen und Bürger bilden die AG0"
 date: 2025-11-12
 draft: false
 tags: ["Genossenschaft", "Gründung", "Team"]
 ---
 
-Ein wichtiger Meilenstein ist erreicht: Das Gründungsteam der Bürgerenergie Bösingen-Herrenzimmern i.G.hat sich formiert! 24 engagierte Bürgerinnen und Bürger aus Bösingen, Herrenzimmern und Epfendorf haben sich bereit erklärt, aktiv an der Gründung der Energiegenossenschaft mitzuwirken.
+Ein wichtiger Meilenstein ist erreicht: Das Gründungsteam der Bürgerenergie Bösingen-Herrenzimmern i.G. hat sich formiert! 20 engagierte Bürgerinnen und Bürger aus Bösingen, Herrenzimmern und der Region haben sich bereit erklärt, aktiv an der Gründung der Energiegenossenschaft mitzuwirken.
 
 ## Das Gründungsteam (AG0)
 
 Die folgenden Personen bilden das Gründungsteam und treiben die Initiative voran:
 
 **Aus Bösingen:**
-- Rainer Thieringer
 - Uwe Baier
-- Armin Rötzer
-- Mirko Ohnmacht
-- Sven Semmelrodt
-- Christoph Müller
-- Bernhard Müller
-- Rainer Banholzer
 - Peter Banholzer
-- Sofia Hezel
-- Klaus Schumacher
 - Ralf Flaig
-- Timo Seliger
+- Sofia Hezel
+- Bernhard Müller
+- Christoph Müller
 - Bernd Ohnmacht
+- Armin Rötzer
+- Klaus Schumacher
+- Timo Seliger
+- Sven Semmelrodt
+- Rainer Thieringer
 
 **Aus Herrenzimmern:**
-- Klaus Wizemann
+- Oliver Arnold
+- Timo Bantle
+- Wolfgang Kammerer
 - Andreas Wirth
 - Karl Ernst Wizemann
-- Oliver Arnold
-- Thomas Fischinger
-- Timo Bantle
-- Wolfram Röhrig
+- Klaus Wizemann
 
-**Aus Epfendorf:**
+**Aus der Region:**
 - Marius Dettki
+- Maurizio Ragamentu
 
 ## Die nächsten Schritte
 

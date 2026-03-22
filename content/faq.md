@@ -34,11 +34,11 @@ Beides ist möglich: eine eigenständige Genossenschaft gründen oder als Bösin
 
 ### Wie viel kostet eine Mitgliedschaft?
 
-Eine Mitgliedschaft wird ab **100 Euro pro Jahr** möglich sein. Das ist bewusst niedrig — damit Bürger aus allen Einkommensschichten mitgestalten können. Eine Genossenschaft lebt von der Vielzahl ihrer Mitglieder, nicht von wenigen reichen Investoren.
+Mitglied wird man durch den Erwerb mindestens eines **Geschäftsanteils** — das ist eine **einmalige Einlage**, kein Jahresbeitrag. Die genaue Höhe wird in der Satzung festgelegt. Wir planen einen Geschäftsanteil ab **100 Euro**, damit Bürger aus allen Einkommensschichten mitgestalten können. Eine Genossenschaft lebt von der Vielzahl ihrer Mitglieder, nicht von wenigen reichen Investoren.
 
 ### Kann ich mehr investieren?
 
-Ja. Je nach Satzung sind Investitionen bis zu mehreren hundert oder tausend Euro möglich. Das ist freiwillig. Beispiel: Bei unserer Partnerin in Sulz können Mitglieder zwischen 100 und 20.000 Euro investieren.
+Ja. Mit Zustimmung des Vorstands können Sie sich mit **weiteren Geschäftsanteilen** beteiligen — sobald der erste voll eingezahlt ist. Das ist freiwillig. Beispiel: Bei unserer Partnerin in Sulz können Mitglieder zwischen 100 und 20.000 Euro investieren.
 
 ### Kann ich meine Einlage jederzeit zurückbekommen?
 
