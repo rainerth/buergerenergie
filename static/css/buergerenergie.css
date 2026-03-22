@@ -1049,27 +1049,13 @@ a:hover {
   color: var(--nature-light-green);
 }
 
-/* Pager: Überlappung bei langen Titeln verhindern */
-.pager {
-  display: flex !important;
+/* Post-Navigation: Prev/Next untereinander */
+.post-pager {
+  display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
-  list-style: none;
-  padding-left: 0;
+  gap: 8px;
 }
 
-.pager li {
-  display: block !important;
-  float: none !important;
-  max-width: 48%;
-}
-
-.pager .previous > a,
-.pager .next > a {
-  float: none !important;
-}
-
-.pager .next {
+.post-pager .post-pager-next {
   margin-left: auto;
-  text-align: right;
 }
