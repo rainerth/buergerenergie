@@ -17,6 +17,7 @@ Die folgenden Personen bilden das Gründungsteam und treiben die Initiative vora
 - Peter Banholzer
 - Ralf Flaig
 - Sofia Hezel
+- Wolfgang Kammerer
 - Bernhard Müller
 - Christoph Müller
 - Bernd Ohnmacht
@@ -29,7 +30,6 @@ Die folgenden Personen bilden das Gründungsteam und treiben die Initiative vora
 **Aus Herrenzimmern:**
 - Oliver Arnold
 - Timo Bantle
-- Wolfgang Kammerer
 - Andreas Wirth
 - Karl Ernst Wizemann
 - Klaus Wizemann
