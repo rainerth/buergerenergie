@@ -37,9 +37,9 @@ Der Schulkomplex bietet ideale Voraussetzungen: große Dachflächen, hoher Strom
 
 Das Konzept sieht einen stufenweisen Ausbau vor. Denkbar sind unter anderem:
 
-* **Beteiligung an Windenergieanlagen** in der Region — damit Einnahmen in der Gemeinde bleiben
 * **Weitere PV-Anlagen** auf kommunalen Gebäuden und Vereinsheimen
 * **Energy Sharing** — Strom direkt an Bürgerinnen und Bürger in Bösingen liefern
+* **Beteiligung an Windenergieanlagen** in der Region — damit auch im Winter genügend günstiger, regionaler Strom für Wärmepumpen bereitgestellt werden kann
 
 Diese Projekte werden gemeinsam mit der Gemeinde und dem Gemeinderat entwickelt. Mehr dazu in unseren [häufig gestellten Fragen](/faq/#projekte-in-bösingen).
 
