@@ -85,12 +85,13 @@ Sie erhalten regelmäßige Mails zu Fortschritten, Gründungsterminen und Mögli
 
 ## Helfen Sie, die Botschaft zu verbreiten!
 
-Kennen Sie jemanden, der Interesse an erneuerbaren Energien hat? **Teilen Sie diese Seite:**
+Kennen Sie jemanden, der Interesse an erneuerbaren Energien hat? **Verbreiten Sie die Botschaft:**
 
-- Per Messenger/WhatsApp: https://www.buergerenergie-boesingen.de
-- Per E-Mail: Leiten Sie diese Seite einfach weiter
-- Im Verein: Sprechen Sie beim nächsten Treffen davon
-- Mit Nachbarn: Persönliches Gespräch über den Gartenzaun
+- **Per WhatsApp/Messenger:** Teilen Sie diesen Link: [www.buergerenergie-boesingen.de](https://www.buergerenergie-boesingen.de)
+- **Per E-Mail:** [Empfehlen Sie uns weiter](mailto:?subject=Bürgerenergie%20Bösingen-Herrenzimmern&body=Hallo%2C%0A%0Aschau%20dir%20mal%20diese%20Initiative%20an%20–%20eine%20Bürgerenergiegenossenschaft%20für%20Bösingen%20und%20Herrenzimmern%3A%0A%0Ahttps%3A%2F%2Fwww.buergerenergie-boesingen.de%0A%0AViele%20Grüße) — ein Klick genügt
+- **Im Verein:** Sprechen Sie beim nächsten Treffen davon
+- **Mit Nachbarn:** Persönliches Gespräch über den Gartenzaun
+- **Auf Instagram:** Folgen Sie uns auf [@buergerenergie_boesingen](https://www.instagram.com/buergerenergie_boesingen/)
 
 **200 Interessenten = Starkes Signal.** Heute sind es über 100. Mit Ihrer Hilfe erreichen wir das Ziel!
 
