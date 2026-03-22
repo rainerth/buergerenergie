@@ -1048,3 +1048,16 @@ a:hover {
 .pdf-viewer-desktop iframe p a:hover {
   color: var(--nature-light-green);
 }
+
+/* Pager: Next-Link bei Überlappung umbrechen */
+.pager {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  list-style: none;
+  padding-left: 0;
+}
+
+.pager .next {
+  margin-left: auto;
+}
