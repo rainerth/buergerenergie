@@ -1049,15 +1049,27 @@ a:hover {
   color: var(--nature-light-green);
 }
 
-/* Pager: Next-Link bei Überlappung umbrechen */
+/* Pager: Überlappung bei langen Titeln verhindern */
 .pager {
-  display: flex;
+  display: flex !important;
   flex-wrap: wrap;
   justify-content: space-between;
   list-style: none;
   padding-left: 0;
 }
 
+.pager li {
+  display: block !important;
+  float: none !important;
+  max-width: 48%;
+}
+
+.pager .previous > a,
+.pager .next > a {
+  float: none !important;
+}
+
 .pager .next {
   margin-left: auto;
+  text-align: right;
 }
