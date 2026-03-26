@@ -21,7 +21,7 @@ Unsere Vision: **PV-Anlagen auf kommunalen Dächern**, die Gemeindegebäude mit 
 
 ## Geschäftsplan und Leitbild
 
-Der Geschäftsplan-Entwurf umfasst eine Wirtschaftlichkeitsberechnung, ein Finanzierungskonzept und eine 5-Jahres-Prognose. Unser Leitbild-Entwurf bringt es auf den Punkt: **Gemeinwohl vor Rendite**. In den Gründungs- und Aufbaujahren investieren wir in Anlagen, die der Gemeinde sofort nutzen — niedrigere Energiekosten, stabilere Haushalte, offene Einrichtungen. Die Rendite für Mitglieder wächst mit der Genossenschaft. Beides wird jetzt in der AG2 (Gründungsvorbereitung) finalisiert.
+Der Geschäftsplan-Entwurf umfasst eine Wirtschaftlichkeitsberechnung, ein Finanzierungskonzept und eine 5-Jahres-Prognose. In den Gründungs- und Aufbaujahren investieren wir in Anlagen, die der Gemeinde sofort nutzen — niedrigere Energiekosten, stabilere Haushalte, offene Einrichtungen. Die Rendite für Mitglieder wächst mit der Genossenschaft. Beides wird jetzt in der AG2 (Gründungsvorbereitung) finalisiert.
 
 ## Unsere Projektideen im Überblick
 

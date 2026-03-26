@@ -17,7 +17,7 @@ Das Gründungsteam der Bürgerenergie Bösingen-Herrenzimmern hat sich in vier A
 
 ## Was ist passiert?
 
-**Entwürfe für Geschäftsplan und Leitbild liegen vor.** Das Gründungsteam hat einen Geschäftsplan-Entwurf erarbeitet — mit Wirtschaftlichkeitsberechnung, Finanzierungskonzept und einer 5-Jahres-Prognose. Unser Leitbild-Entwurf bringt es auf den Punkt: **Gemeinwohl vor Rendite**. Beides wird jetzt in der AG2 (Gründungsvorbereitung) finalisiert.
+**Entwürfe für Geschäftsplan und Leitbild liegen vor.** Das Gründungsteam hat einen Geschäftsplan-Entwurf erarbeitet — mit Wirtschaftlichkeitsberechnung, Finanzierungskonzept und einer 5-Jahres-Prognose. Beides wird jetzt in der AG2 (Gründungsvorbereitung) finalisiert.
 
 **Satzungsentwurf erarbeitet.** Auf Basis der Mustersatzung des Baden-Württembergischen Genossenschaftsverbands haben wir einen eigenen Satzungsentwurf erstellt — mit Möglichkeit zur digitalen Mitgliedschaft und hybrider Generalversammlung.
 
