@@ -15,14 +15,14 @@
     <meta property="og:type" content="article">
 
     {{ if .Params.thumbnail }}
-    <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.thumbnail }}">
-    <meta property="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.thumbnail }}" />
+    <meta property="og:image" content="{{ .Params.thumbnail | absURL }}">
+    <meta property="twitter:image" content="{{ .Params.thumbnail | absURL }}" />
     {{ else if .Params.image}}
     <meta property="og:image" content="{{ .Params.image }}">
     <meta property="twitter:image" content="{{ .Params.image }}" />
     {{ else }}
-    <meta property="og:image" content="{{ .Site.BaseURL }}/{{ .Site.Params.header_image }}">
-    <meta property="twitter:image" content="{{ .Site.BaseURL }}/{{ .Site.Params.header_image }}" />
+    <meta property="og:image" content="{{ .Site.Params.header_image | absURL }}">
+    <meta property="twitter:image" content="{{ .Site.Params.header_image | absURL }}" />
     {{ end }}
 
     {{ if .Params.title }}
@@ -45,11 +45,7 @@
     <meta property="twitter:description" content="{{ .Site.Params.description }}" />
     {{ end }}
 
-    {{ if .Params.summary }}
-    <meta property="twitter:card" content="{{ .Params.summary }}" />
-    {{ else }}
-    <meta property="twitter:card" content="summary" />
-    {{ end }}
+    <meta property="twitter:card" content="summary_large_image" />
     <!-- end ogp -->
 
     <meta name="keyword"  content="{{ .Site.Params.keyword }}">
