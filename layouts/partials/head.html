@@ -21,8 +21,8 @@
     <meta property="og:image" content="{{ .Params.image }}">
     <meta property="twitter:image" content="{{ .Params.image }}" />
     {{ else }}
-    <meta property="og:image" content="{{ .Site.Params.header_image | absURL }}">
-    <meta property="twitter:image" content="{{ .Site.Params.header_image | absURL }}" />
+    <meta property="og:image" content="{{ "img/og-default.webp" | absURL }}">
+    <meta property="twitter:image" content="{{ "img/og-default.webp" | absURL }}" />
     {{ end }}
 
     {{ if .Params.title }}
