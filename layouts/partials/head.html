@@ -20,19 +20,13 @@
         {{ $resized := $img.Fit "1200x630 jpg" }}
         <meta property="og:image" content="{{ $resized.Permalink }}">
         <meta property="twitter:image" content="{{ $resized.Permalink }}" />
-      {{ else }}
-        <meta property="og:image" content="{{ "img/og-default.jpg" | absURL }}">
-        <meta property="twitter:image" content="{{ "img/og-default.jpg" | absURL }}" />
       {{ end }}
     {{ else if .Params.thumbnail }}
     <meta property="og:image" content="{{ .Params.thumbnail | absURL }}">
     <meta property="twitter:image" content="{{ .Params.thumbnail | absURL }}" />
-    {{ else if .Params.image}}
+    {{ else if .Params.image }}
     <meta property="og:image" content="{{ .Params.image }}">
     <meta property="twitter:image" content="{{ .Params.image }}" />
-    {{ else }}
-    <meta property="og:image" content="{{ "img/og-default.jpg" | absURL }}">
-    <meta property="twitter:image" content="{{ "img/og-default.jpg" | absURL }}" />
     {{ end }}
 
     {{ if .Params.title }}
