@@ -3,6 +3,7 @@ title: "Gründungsunterlagen beim BWGV eingereicht — ein Meilenstein!"
 subtitle: "Satzung, Geschäftsplan und Planungsrechnungen sind auf dem Weg zur Vorprüfung"
 date: 2026-04-15
 draft: false
+featured: true
 tags: ["Gründung", "BWGV", "Satzung", "Geschäftsplan", "Meilenstein"]
 categories: ["Neuigkeiten"]
 author: "AG2 Gründungsvorbereitung"
