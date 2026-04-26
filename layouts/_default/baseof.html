@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
+<html lang="{{ .Site.LanguageCode }}"{{ if .Params.unlisted }} data-pagefind-ignore="all"{{ end }}>
 {{ partial "head.html" . }}
 {{ partial "nav.html" . }}
 <!-- Page Header -->

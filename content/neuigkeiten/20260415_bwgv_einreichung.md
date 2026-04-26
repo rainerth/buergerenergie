@@ -3,11 +3,12 @@ title: "Gründungsunterlagen beim BWGV eingereicht — ein Meilenstein!"
 subtitle: "Satzung, Geschäftsplan und Planungsrechnungen sind auf dem Weg zur Vorprüfung"
 date: 2026-04-15
 draft: false
-featured: true
+featured: false
 tags: ["Gründung", "BWGV", "Satzung", "Geschäftsplan", "Meilenstein"]
 categories: ["Neuigkeiten"]
 author: "AG2 Gründungsvorbereitung"
 description: "Die Bürgerenergie Bösingen-Herrenzimmern i.G. hat die vollständigen Gründungsunterlagen beim Baden-Württembergischen Genossenschaftsverband (BWGV) zur Vorprüfung eingereicht."
+featured_image: "/img/artikel/20260415_bwgv_einreichung.jpg"
 ---
 
 Heute ist ein großer Tag für die Bürgerenergie Bösingen-Herrenzimmern i.G.: Wir haben unsere vollständigen Gründungsunterlagen beim **Baden-Württembergischen Genossenschaftsverband (BWGV)** zur Vorprüfung eingereicht. Damit gehen wir den entscheidenden Schritt vom Gründungsvorhaben zur eingetragenen Genossenschaft.

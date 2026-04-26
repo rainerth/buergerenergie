@@ -10,7 +10,7 @@
                 
                 <hr>
                 
-                {{ range .Pages }}
+                {{ range where .Pages "Params.unlisted" "ne" true }}
                 <div style="margin-bottom: 20px;">
                     <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
                     <p class="text-muted">{{ .Date.Format "02.01.2006" }}</p>

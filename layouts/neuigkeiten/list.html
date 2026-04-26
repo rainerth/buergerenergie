@@ -10,7 +10,7 @@
                 <hr>
                 
                 {{/* Neuigkeiten: Nur vergangene und heutige Artikel anzeigen, _index.md ausschließen */}}
-                {{ $filteredPages := where (where .Pages "Kind" "page") "Date" "le" now }}
+                {{ $filteredPages := where (where (where .Pages "Kind" "page") "Date" "le" now) "Params.unlisted" "ne" true }}
                 {{ range sort $filteredPages "Date" "desc" }}
                 <div style="margin-bottom: 30px; border-left: 4px solid #2c5530; padding-left: 15px;">
                     <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>

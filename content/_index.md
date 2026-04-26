@@ -3,14 +3,14 @@ layout: page
 show_sidebar: true
 tags: [Bürgerenergiegenossenschaft, Bösingen, Herrenzimmern, Genossenschaft, Erneuerbare Energien, Klimaschutz]
 title: Bürgerenergie Bösingen-Herrenzimmern i.G.
-subtitle: "Sind Sie dabei?"
+subtitle: "Energie in Bürgerhand — sind Sie dabei?"
 description: Bürgerenergiegenossenschaft Bösingen-Herrenzimmern
 draft: false
 ---
 
 [Direkt zum Kontaktformular](#kontaktformular)
 
-# Gemeinsam die Energie&shy;zukunft gestalten!
+# Gemeinsam die Energie&shy;zukunft gestalten
 
 {{< optimized-image
   name="AdobeStock_1432620622.jpeg"
@@ -19,61 +19,60 @@ draft: false
   class="float-left mr-3 mb-3"
 >}}
 
-Die *Bürgerenergie Bösingen-Herrenzimmern* ist derzeit eine Initiative, die zur Gründung einer Genossenschaft führen kann. Wir wollen Energieprojekte fördern und aktiv mitgestalten – zum Nutzen der Bösinger Bürger. **Bei Projekten, die uns direkt betreffen, wollen wir mit starker Stimme mitreden.**
+Die *Bürgerenergie Bösingen-Herrenzimmern i.G.* steht kurz vor der Gründung. Ein 20-köpfiges Gründungsteam bereitet die Genossenschaft vor — gemeinsam mit der Gemeinde und gestützt von inzwischen über **150 Interessentinnen und Interessenten**.
 
-Die Genossenschaft soll dabei eine Schlüsselrolle übernehmen: Sie treibt die Energiewende zu erneuerbaren Quellen voran und bindet alle Einwohner ein. **Energieversorgung betrifft uns alle.**
-
-
+Unser Ziel: **Energieprojekte vor Ort, finanziert von den Bürgerinnen und Bürgern, mit Nutzen für die Gemeinde.**
 
 <div class="clearfix"></div>
 
-## Erstes Projekt: Schulkomplex Bösingen
+## Wo wir heute stehen
 
-Das Gründungsteam arbeitet an einem Konzept für den **Schulkomplex in Bösingen** als erstes Projekt. Die Idee: Eine Photovoltaikanlage auf dem Schuldach, die den Schulkomplex — also Grundschule, Mehrzweckhalle und Lehrschwimmbecken — mit lokal erzeugtem Strom versorgt. Ergänzend wird geprüft, ob ein **Batteriespeicher** und eine **Wärmepumpe** sinnvoll integriert werden können.
+- **19. März 2026 — Gemeinderatsbeschluss:** Die BEG i.G. darf auf dem **Schulkomplex Bösingen** und der **Turn- und Festhalle Herrenzimmern** je eine **PV-Anlage mit rund 99 kWp** errichten.
+- **15. April 2026 — Einreichung beim BWGV:** Satzung, Geschäftsplan und Planungsrechnungen sind beim Baden-Württembergischen Genossenschaftsverband zur Vorprüfung.
+- **Gründungsversammlung:** angestrebt im **Sommer 2026** — der genaue Zeitpunkt hängt von BWGV-Vorprüfung und Eintragung beim Genossenschaftsregister ab und liegt nicht in unserer Hand.
 
-Der Schulkomplex bietet ideale Voraussetzungen: große Dachflächen, hoher Stromverbrauch und ein Projekt, das die Bürgerinnen und Bürger jeden Tag sehen. Die Gemeinde könnte von **günstigeren Energiekosten** profitieren und der Schulkomplex würde schrittweise unabhängiger von fossilen Energieträgern.
+## Stufe 1: PV auf zwei kommunalen Dächern
 
-### Weitere Ideen für die Zukunft
+Den Anfang machen die beiden vom Gemeinderat zugesagten Dächer — Schulkomplex Bösingen und T&F-Halle Herrenzimmern. Das Investitionsvolumen liegt **in der Größenordnung einer Dreiviertelmillion Euro** und wird durch **Bürger-Einlagen und ergänzende Darlehen** getragen — **ohne Investition der Gemeinde**. Strom wird zuerst lokal in den Liegenschaften verbraucht, der Rest fließt ins Netz.
 
-Das Konzept sieht einen stufenweisen Ausbau vor. Denkbar sind unter anderem:
+**Gate-Prinzip:** Jede weitere Stufe wird erst angegangen, wenn die vorhergehende erfolgreich umgesetzt ist. So bleibt das Risiko für Genossenschaft und Gemeinde überschaubar.
 
-* **Weitere PV-Anlagen** auf kommunalen Gebäuden und Vereinsheimen
-* **Energy Sharing** — Strom direkt an Bürgerinnen und Bürger in Bösingen liefern
-* **Beteiligung an Windenergieanlagen** in der Region — damit auch im Winter genügend günstiger, regionaler Strom für Wärmepumpen bereitgestellt werden kann
+> **Stufe 1 ist zugesagt, alles Weitere ist Projektidee in Prüfung.**
 
-Diese Projekte werden gemeinsam mit der Gemeinde und dem Gemeinderat entwickelt. Mehr dazu in unseren [häufig gestellten Fragen](/faq/#projekte-in-bösingen).
+## Was später dazu kommen kann
 
-# Wer sind wir?
+* **Weitere PV-Anlagen** auf kommunalen Gebäuden, Vereinsheimen, Kirchendächern
+* **Wärmeversorgung** des Schulkomplexes (z.B. Wärmepumpe, ggf. mit Abwasser- oder Erdwärmequelle)
+* **Energy Sharing** — günstigerer Strom direkt für Mitglieder, sobald die deutsche Umsetzung der EU-Richtlinie steht
+* **Beteiligung an Windenergie** in der Region — auch im Winter günstiger Bürgerstrom für Wärmepumpen
 
-Wir sind ein Projektteam aus 20 engagierten Personen, das die Gründung einer Bürgerenergiegenossenschaft vorbereitet. Die [Infoveranstaltung der Gemeinde Bösingen im April 2025](/neuigkeiten/20250429_buergerinfo) war der Startpunkt. Mit Unterstützung des Gemeinderats und nach den erfolgreichen [Infoveranstaltungen Ende Oktober](/neuigkeiten/20251029_infoveranstaltungen/) mit über 100 Teilnehmenden sind wir jetzt in der Phase der Gründungsvorbereitung.
+Mehr Hintergrund in unseren [häufig gestellten Fragen](/faq/#projekte-in-bösingen).
 
-**Die Gründung einer Genossenschaft braucht ihre Zeit** — Genossenschaftsrecht, Satzung, Behördengänge. Aber in dieser Phase ist es besonders wichtig zu zeigen: **Es gibt echtes Interesse in der Gemeinde Bösingen!** Jede weitere Anmeldung demonstriert Politikern und Fördermittelgebern, dass diese Initiative tragfähig ist.
+## Mitglied werden — ab 100 €
 
-# Jetzt ist der richtige Zeitpunkt!
+Eine Genossenschaft lebt von vielen Schultern. Eine **einmalige Einlage ab 100 €** (ein Geschäftsanteil) genügt — Mitglied werden ist für alle erreichbar.
 
-{{< admonition type="tip" title="Wir brauchen SIE (und Ihre Freunde)!" >}}
-**Der Stand heute:**
+Was Sie davon haben:
 
-- Über 100 Interessenten haben sich bereits angemeldet
-- Regelmäßige Updates per Mail — immer im Bilde bleiben
-- Ziel: 200 Interessenten — das zeigt Politikern und Behörden, dass wir es ernst meinen!
+* **1 Mitglied = 1 Stimme** — unabhängig von der Höhe der Einlage
+* **Keine Nachschusspflicht** — Risiko begrenzt auf die Einlage
+* **Rendite bleibt im Ort** — nach den Aufbaujahren Dividende, wie bei anderen Energiegenossenschaften üblich
+* **Demokratisch und transparent** — Sie entscheiden mit, was Ihre Genossenschaft tut
 
-**Genossenschaftsrecht braucht Zeit.** Aber jede Anmeldung zählt — sie ist ein Signal: *"Ja, wir wollen das!"*
+# Jetzt ist der richtige Zeitpunkt
+
+{{< admonition type="tip" title="Wir brauchen SIE — und Ihre Freunde!" >}}
+**Stand heute:** über **150 Interessenten** sind eingetragen.
+**Ziel:** **200 Interessenten** bis zur Gründungsversammlung — das zeigt Politik, Behörden und Förderern, dass die Initiative breit getragen wird.
+
+Eine Eintragung ist **unverbindlich und kostenlos**. Sie erhalten regelmäßige Mails zu Fortschritten und werden rechtzeitig vor der Gründungsversammlung informiert.
 {{< /admonition >}}
-
-**Melden Sie sich an und werben Sie!** Teilen Sie diese Seite mit Familie, Freunden, Nachbarn, Vereinskollegen. Je mehr Interessenten wir sammeln, desto stärker sind wir bei der Gründung. **Jede Stimme zählt.**
-
-Eine Genossenschaft lebt von der Vielzahl ihrer Mitglieder. Mitglied wird man durch eine **einmalige Einlage ab 100 Euro** (ein Geschäftsanteil) — für jeden erreichbar. Das ist der Sinn: Viele kleine Investitionen statt wenige große.
 
 ---
 
-## Interessent werden – in 2 Minuten
+## Interessent werden — in 2 Minuten {#kontaktformular}
 
-**Keine Verpflichtung.** Nur Name, Mail und optional: Wie können Sie uns helfen? (Ideen, Zeit, Kontakte)
-
-Sie erhalten regelmäßige Mails zu Fortschritten, Gründungsterminen und Möglichkeiten, wie Sie sich einbringen können.
-
-# Kontaktformular
+**Keine Verpflichtung.** Nur Name, Mail und optional ein Hinweis, wie Sie sich einbringen können (Ideen, Zeit, Kontakte).
 
 {{< tally
     src="https://tally.so/embed/3NOzjO?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1"
@@ -83,20 +82,15 @@ Sie erhalten regelmäßige Mails zu Fortschritten, Gründungsterminen und Mögli
 
 ---
 
-## Helfen Sie, die Botschaft zu verbreiten!
+## Helfen Sie, die Botschaft zu verbreiten
 
-Kennen Sie jemanden, der Interesse an erneuerbaren Energien hat? **Verbreiten Sie die Botschaft:**
+Kennen Sie jemanden, der Interesse an erneuerbaren Energien hat? **Sprechen Sie uns weiter:**
 
-- **Per WhatsApp/Messenger:** Teilen Sie diesen Link: [www.buergerenergie-boesingen.de](https://www.buergerenergie-boesingen.de)
-- **Per E-Mail:** [Empfehlen Sie uns weiter](mailto:?subject=Bürgerenergie%20Bösingen-Herrenzimmern&body=Hallo%2C%0A%0Aschau%20dir%20mal%20diese%20Initiative%20an%20–%20eine%20Bürgerenergiegenossenschaft%20für%20Bösingen%20und%20Herrenzimmern%3A%0A%0Ahttps%3A%2F%2Fwww.buergerenergie-boesingen.de%0A%0AViele%20Grüße) — ein Klick genügt
-- **Im Verein:** Sprechen Sie beim nächsten Treffen davon
-- **Mit Nachbarn:** Persönliches Gespräch über den Gartenzaun
-- **Auf Instagram:** Folgen Sie uns auf [@buergerenergie_boesingen](https://www.instagram.com/buergerenergie_boesingen/)
-
-**200 Interessenten = Starkes Signal.** Heute sind es über 100. Mit Ihrer Hilfe erreichen wir das Ziel!
+- **Per WhatsApp/Messenger:** Link teilen — [www.buergerenergie-boesingen.de](https://www.buergerenergie-boesingen.de)
+- **Per E-Mail:** [Empfehlung mit einem Klick](mailto:?subject=Bürgerenergie%20Bösingen-Herrenzimmern&body=Hallo%2C%0A%0Aschau%20dir%20mal%20diese%20Initiative%20an%20–%20eine%20Bürgerenergiegenossenschaft%20für%20Bösingen%20und%20Herrenzimmern%3A%0A%0Ahttps%3A%2F%2Fwww.buergerenergie-boesingen.de%0A%0AViele%20Grüße)
+- **Im Verein und mit den Nachbarn:** beim nächsten Treffen oder über den Gartenzaun
+- **Auf Instagram:** [@buergerenergie_boesingen](https://www.instagram.com/buergerenergie_boesingen/) — folgen und teilen
 
 ---
 
-*Hinweis: Die hier beschriebenen Projektideen basieren auf den aktuellen Überlegungen des Gründungsteams. Konkrete Projekte und Beteiligungsmodelle werden in Abstimmung mit der Gemeinde und gemeinsam mit interessierten Bürgerinnen und Bürgern entwickelt.*
-
----
+*Hinweis: Außer den vom Gemeinderat zugesagten beiden PV-Anlagen sind alle weiteren Vorhaben Projektideen in Prüfung. Konkrete Schritte stimmen wir mit der Gemeinde, dem BWGV und unseren Mitgliedern ab.*

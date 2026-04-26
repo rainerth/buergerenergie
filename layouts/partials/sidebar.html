@@ -35,7 +35,7 @@
         <h5><a href="/neuigkeiten/">NEUIGKEITEN</a></h5>
         <ul class="list-unstyled">
             {{/* Nur Posts mit Datum <= heute anzeigen, _index.md ausschließen */}}
-            {{ $posts := where (where (where .Site.Pages "Section" "neuigkeiten") "Kind" "page") "Date" "le" now }}
+            {{ $posts := where (where (where (where .Site.Pages "Section" "neuigkeiten") "Kind" "page") "Date" "le" now) "Params.unlisted" "ne" true }}
             {{ range first 3 (sort $posts "Date" "desc") }}
             <li style="margin-bottom: 10px;">
                 <a href="{{ .Permalink }}">{{ .Title }}</a>
@@ -54,7 +54,7 @@
             {{/* Grenzdatum berechnen - 4 Tage zurück ab Build-Zeit */}}
             {{ $cutoff := now.AddDate 0 0 -4 }}
             {{/* Termine ab Cutoff filtern, _index.md ausschließen */}}
-            {{ $events := where (where (where site.RegularPages "Section" "termine") "Kind" "page") "Date" "ge" $cutoff }}
+            {{ $events := where (where (where (where site.RegularPages "Section" "termine") "Kind" "page") "Date" "ge" $cutoff) "Params.unlisted" "ne" true }}
             {{/* Sortieren nach Datum aufsteigend und erste 3 nehmen */}}
             {{ range first 3 (sort $events "Date" "asc") }}
             <li style="margin-bottom: 10px;">

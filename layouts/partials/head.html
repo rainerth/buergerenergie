@@ -3,6 +3,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    {{ if .Params.unlisted }}<meta name="robots" content="noindex,nofollow">{{ end }}
+
     <!-- Hero Image Preload für bessere Performance -->
     {{ if .IsHome }}
     <link rel="preload" as="image" href="{{ .Site.Params.header_image | relURL }}" type="image/webp">

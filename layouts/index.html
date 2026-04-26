@@ -2,7 +2,7 @@
 <article>
     <div class="container">
         <!-- Featured News Section -->
-        {{ $featuredNews := where (where site.RegularPages "Section" "neuigkeiten") "Params.featured" true }}
+        {{ $featuredNews := where (where (where site.RegularPages "Section" "neuigkeiten") "Params.featured" true) "Params.unlisted" "ne" true }}
         {{ if $featuredNews }}
         <div class="row">
             <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12">
@@ -52,7 +52,7 @@
         {{ end }}
 
         <!-- Featured Termine Section -->
-        {{ $featuredEvents := where (where site.RegularPages "Section" "termine") "Params.featured" true }}
+        {{ $featuredEvents := where (where (where site.RegularPages "Section" "termine") "Params.featured" true) "Params.unlisted" "ne" true }}
         {{ if $featuredEvents }}
         <div class="row">
             <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12">
