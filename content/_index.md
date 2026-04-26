@@ -44,7 +44,6 @@ Den Anfang machen die beiden vom Gemeinderat zugesagten Dächer — Schulkomplex
 * **Weitere PV-Anlagen** auf kommunalen Gebäuden, Vereinsheimen, Kirchendächern
 * **Wärmeversorgung** des Schulkomplexes (z.B. Wärmepumpe, ggf. mit Abwasser- oder Erdwärmequelle)
 * **Energy Sharing** — günstigerer Strom direkt für Mitglieder, sobald die deutsche Umsetzung der EU-Richtlinie steht
-* **Beteiligung an Windenergie** in der Region — auch im Winter günstiger Bürgerstrom für Wärmepumpen
 
 Mehr Hintergrund in unseren [häufig gestellten Fragen](/faq/#projekte-in-bösingen).
 
