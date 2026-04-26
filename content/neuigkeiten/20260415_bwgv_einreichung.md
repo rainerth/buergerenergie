@@ -20,8 +20,8 @@ Heute ist ein großer Tag für die Bürgerenergie Bösingen-Herrenzimmern i.G.: 
 Nach monatelanger Detailarbeit in der AG2 Gründungsvorbereitung liegen dem BWGV nun alle Unterlagen vor, die für die Vorprüfung erforderlich sind:
 
 - **Satzungsentwurf** auf Basis der BWGV-Mustersatzung für Energiegenossenschaften
-- **Geschäftsplan (v2.1)** mit Projektbeschreibung, Geschäftsmodell und mittelfristiger Perspektive
-- **Planungsrechnungen (v2.1)** — Plan-GuV, Plan-Bilanz, Abschreibungs- und Tilgungsplan, Sensitivitätsanalysen
+- **Geschäftsplan (v2.2)** mit Projektbeschreibung, Geschäftsmodell und mittelfristiger Perspektive
+- **Planungsrechnungen (v2.2)** — Plan-GuV, Plan-Bilanz, Abschreibungs- und Tilgungsplan, Sensitivitätsanalysen
 - **Begleitdokument** mit allen Annahmen und Herleitungen
 - **Leitbild** der Bürgerenergiegenossenschaft
 
@@ -32,7 +32,7 @@ Dieser Meilenstein ist das Ergebnis eines knappen Jahres intensiver Arbeit — g
 - **August 2025** — Erster Kontakt zum BWGV, Informationen zu Förderprogrammen und Gründungsablauf.
 - **Oktober 2025** — Drei Infoveranstaltungen in Bösingen und Herrenzimmern; daraus entsteht unser Gründungsteam mit 20 engagierten Mitgliedern und ein Interessentenverteiler von rund 110 Personen.
 - **März 2026** — Der Gemeinderat beschließt: Die BEG i.G. darf auf den Dächern des **Schulkomplexes Bösingen** und der **Turn- und Festhalle Herrenzimmern** je eine PV-Anlage mit **99 kWp** errichten.
-- **April 2026** — Finaler Review der Unterlagen durch einen erfahrenen Genossenschaftsprüfer, Einarbeitung aller Anmerkungen in die Version 2.1.
+- **April 2026** — Finaler Review der Unterlagen durch einen erfahrenen Genossenschaftsprüfer, Einarbeitung aller Anmerkungen in die Version 2.2.
 - **15.04.2026** — **Einreichung beim BWGV zur Vorprüfung.**
 
 ## Wie geht es jetzt weiter?
