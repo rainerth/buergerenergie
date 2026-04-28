@@ -30,7 +30,7 @@ So entstand für das Publikum ein zusammenhängendes Bild: Wo investiert die Gem
 
 Im BEG-Block stellte das Gründungsteam den aktuellen Stand vor:
 
-* **Gründungsversammlung der Bürgerenergie Bösingen-Herrenzimmern eG** wird für den **Sommer 2026** angestrebt. Wann die Genossenschaft tatsächlich eingetragen ist, hängt von der Vorprüfung durch den BWGV und der anschließenden Eintragung beim Genossenschaftsregister ab — beides liegt nicht in unserer Hand. Die Unterlagen sind seit dem 15. April 2026 zur Prüfung eingereicht.
+* **Zeichnungsversammlung der Bürgerenergie Bösingen-Herrenzimmern eG** — der offizielle Beitritt mit Anteilszeichnung — wird für **Juli 2026** (Fallback September) angestrebt, **nach Eintragung beim Genossenschaftsregister**. Wann die Genossenschaft tatsächlich eingetragen ist, hängt von der BWGV-Vorprüfung und der anschließenden Eintragung beim Registergericht ab — beides liegt nicht in unserer Hand. Die Unterlagen sind seit dem 15. April 2026 zur Prüfung eingereicht.
 * Aktuell **140 Interessentinnen und Interessenten** sind eingetragen.
 * Mitglied werden kann man **ab 100 € einmaliger Einlage**.
 * **Stufe 1** ist bereits zugesagt: PV-Anlagen auf dem **Schulkomplex Bösingen** und der **Turn- und Festhalle Herrenzimmern** (je rund 99 kWp), nachdem der Gemeinderat am 19. März 2026 grünes Licht gegeben hat.
@@ -61,7 +61,9 @@ Großen Wert legten Gemeinde und Gründungsteam auf **Transparenz und umfassende
 ## Wie geht es weiter?
 
 * **Aktuell:** Vorprüfung der Gründungsunterlagen durch den BWGV — die Dauer der Prüfung liegt nicht in unserer Hand.
-* **Im Anschluss:** Einarbeitung etwaiger Hinweise, Einladung zur **Gründungsversammlung** — angestrebt im Sommer 2026.
+* **Anfang Mai 2026:** Gründungsversammlung im kleinen Kreis — formaler Beschluss von Satzung und Geschäftsplan, Wahl von Vorstand und Aufsichtsrat.
+* **Anschließend:** Eintragung beim Genossenschaftsregister (rund 4–6 Wochen).
+* **Juli 2026 (Fallback September):** **Zeichnungsversammlung** — alle Interessierten sind eingeladen, der eingetragenen Genossenschaft beizutreten und Anteile zu zeichnen.
 * **Danach:** Eintragung beim Genossenschaftsregister (Zeitpunkt ebenfalls vom Registergericht abhängig) und Start der Umsetzung von Stufe 1 (PV Schulkomplex Bösingen + T&F-Halle Herrenzimmern).
 
 Es handelt sich bei diesen Etappen um einen **Plan, der vom Fortschritt der externen Prüfungen abhängt** — wir kommunizieren konkrete Termine, sobald sie verbindlich sind.

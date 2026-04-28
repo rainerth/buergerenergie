@@ -29,7 +29,7 @@ Unser Ziel: **Energieprojekte vor Ort, finanziert von den Bürgerinnen und Bürg
 
 - **19. März 2026 — Gemeinderatsbeschluss:** Die BEG i.G. darf auf dem **Schulkomplex Bösingen** und der **Turn- und Festhalle Herrenzimmern** je eine **PV-Anlage mit rund 99 kWp** errichten.
 - **15. April 2026 — Einreichung beim BWGV:** Satzung, Geschäftsplan und Planungsrechnungen sind beim Baden-Württembergischen Genossenschaftsverband zur Vorprüfung.
-- **Gründungsversammlung:** angestrebt im **Sommer 2026** — der genaue Zeitpunkt hängt von BWGV-Vorprüfung und Eintragung beim Genossenschaftsregister ab und liegt nicht in unserer Hand.
+- **Zeichnungsversammlung:** angestrebt für **Juli 2026** (Fallback September), **nach Eintragung beim Genossenschaftsregister** — dort treten Sie als Mitglied bei und zeichnen Ihre Anteile. Der genaue Zeitpunkt hängt von BWGV-Vorprüfung und Eintragung ab und liegt nicht in unserer Hand.
 
 ## Stufe 1: PV auf zwei kommunalen Dächern
 
@@ -62,9 +62,9 @@ Was Sie davon haben:
 
 {{< admonition type="tip" title="Wir brauchen SIE — und Ihre Freunde!" >}}
 **Stand heute:** über **150 Interessenten** sind eingetragen.
-**Ziel:** **200 Interessenten** bis zur Gründungsversammlung — das zeigt Politik, Behörden und Förderern, dass die Initiative breit getragen wird.
+**Ziel:** **200 Interessenten** bis zur Zeichnungsversammlung — das zeigt Politik, Behörden und Förderern, dass die Initiative breit getragen wird.
 
-Eine Eintragung ist **unverbindlich und kostenlos**. Sie erhalten regelmäßige Mails zu Fortschritten und werden rechtzeitig vor der Gründungsversammlung informiert.
+Eine Eintragung ist **unverbindlich und kostenlos**. Sie erhalten regelmäßige Mails zu Fortschritten und werden rechtzeitig vor der Zeichnungsversammlung informiert.
 {{< /admonition >}}
 
 ---
