@@ -3,7 +3,7 @@ title: "Bürgerinformationsveranstaltung in Bösingen"
 subtitle: "Rund 150 Bürgerinnen und Bürger informieren sich über BEG, Ortskernsanierung und Energieeinsparung"
 date: 2026-04-23
 draft: false
-featured: true
+featured: false
 tags: ["Bürgerinformation", "Genossenschaft", "Gründung", "Schulkomplex", "Öffentlichkeitsarbeit"]
 categories: ["Neuigkeiten"]
 author: "AG Öffentlichkeitsarbeit"
