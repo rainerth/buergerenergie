@@ -85,8 +85,8 @@ Eine Eintragung ist **unverbindlich und kostenlos**. Sie erhalten regelmäßige 
 
 Kennen Sie jemanden, der Interesse an erneuerbaren Energien hat? **Sprechen Sie uns weiter:**
 
-- **Per WhatsApp/Messenger:** Link teilen — [www.buergerenergie-boesingen.de](https://www.buergerenergie-boesingen.de)
-- **Per E-Mail:** [Empfehlung mit einem Klick](mailto:?subject=Bürgerenergie%20Bösingen-Herrenzimmern&body=Hallo%2C%0A%0Aschau%20dir%20mal%20diese%20Initiative%20an%20–%20eine%20Bürgerenergiegenossenschaft%20für%20Bösingen%20und%20Herrenzimmern%3A%0A%0Ahttps%3A%2F%2Fwww.buergerenergie-boesingen.de%0A%0AViele%20Grüße)
+- **Per WhatsApp/Messenger:** Link teilen — [www.buergerenergie-bhz.de](https://www.buergerenergie-bhz.de)
+- **Per E-Mail:** [Empfehlung mit einem Klick](mailto:?subject=Bürgerenergie%20Bösingen-Herrenzimmern&body=Hallo%2C%0A%0Aschau%20dir%20mal%20diese%20Initiative%20an%20–%20eine%20Bürgerenergiegenossenschaft%20für%20Bösingen%20und%20Herrenzimmern%3A%0A%0Ahttps%3A%2F%2Fwww.buergerenergie-bhz.de%0A%0AViele%20Grüße)
 - **Im Verein und mit den Nachbarn:** beim nächsten Treffen oder über den Gartenzaun
 - **Auf Instagram:** [@buergerenergie_boesingen](https://www.instagram.com/buergerenergie_boesingen/) — folgen und teilen
 

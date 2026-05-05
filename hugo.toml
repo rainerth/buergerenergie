@@ -1,4 +1,4 @@
-baseURL = 'https://www.buergerenergie-boesingen.de'
+baseURL = 'https://www.buergerenergie-bhz.de'
 languageCode = 'de'
 title = 'Bürgerenergie Bösingen-Herrenzimmern i.G.'
 theme = 'hugo-theme-cleanwhite'
