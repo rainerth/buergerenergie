@@ -15,7 +15,7 @@ layout: "page"
 
 Rainer Thieringer<br>
 Klaus Wizemann<br>
-E-Mail: info@buergerenergie-boesingen.de
+E-Mail: info@buergerenergie-bhz.de
 
 
 

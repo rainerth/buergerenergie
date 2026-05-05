@@ -78,7 +78,7 @@ home = ["HTML", "RSS"]
 
 	[params.social]
 	rss = true
-	email = "info@buergerenergie-boesingen.de"
+	email = "info@buergerenergie-bhz.de"
 	mastodon = "https://geno.social/@buergerenergie_bhz"
 	instagram = "https://www.instagram.com/buergerenergie_boesingen/"
 
