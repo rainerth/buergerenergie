@@ -108,6 +108,7 @@ if [ "$FORCE_BUILD" = true ] || [ "$LOCAL" = "$BASE" ]; then
     ls -1t | tail -n +11 | xargs -r rm -rf
 
     log "🎉 Deployment completed successfully!"
+    exit 0
 fi
 
 if [ "$REMOTE" = "$BASE" ]; then
