@@ -33,7 +33,13 @@ Hilfreiche Dokumente und Vorlagen von bereits etablierten Energiegenossenschafte
 
 # Dokumente
 
-Hier finden Sie, sobald verfügbar, Dokumente zur Genossenschaft.
+## Leitbild
+
+Vision, Mission und Werte der Genossenschaft.
+
+**[📄 Leitbild lesen](/dokumente/leitbild/)**
+
+Hier finden Sie, sobald verfügbar, weitere Dokumente zur Genossenschaft.
 
 
 
