@@ -25,6 +25,14 @@ Unser Ziel: **Energieprojekte vor Ort, finanziert von den Bürgerinnen und Bürg
 
 <div class="clearfix"></div>
 
+{{< admonition type="important" title="Unsere Gründungsdokumente" >}}
+**[📖 Leitbild](/dokumente/leitbild/)** ([PDF](/dokumente/leitbild-beg.pdf)) · **[📄 Satzung (PDF)](/dokumente/satzung-beg.pdf)** · **[📄 Absichtserklärung (PDF)](/absicht/Absichtserklaerung.pdf)**
+
+Damit Sie wissen, wofür wir stehen — bevor Sie sich eintragen.
+
+*Hinweis zur Satzung:* Abweichungen gegenüber der [BWGV-Mustersatzung](/dokumente/mustersatzung-energiegenossenschaften.pdf) sind im Dokument **gelb hervorgehoben** — so sehen Sie auf einen Blick, was wir an unsere lokalen Bedürfnisse angepasst haben. Über diese Fassung wird die Gründungsversammlung am 19.05.2026 abstimmen.
+{{< /admonition >}}
+
 ## Wo wir heute stehen
 
 - **19. März 2026 — Gemeinderatsbeschluss:** Die BEG i.G. darf auf dem **Schulkomplex Bösingen** und der **Turn- und Festhalle Herrenzimmern** je eine **PV-Anlage mit rund 99 kWp** errichten.
@@ -72,8 +80,6 @@ Eine Eintragung ist **unverbindlich und kostenlos**. Sie erhalten regelmäßige 
 ## Interessent werden — in 2 Minuten {#kontaktformular}
 
 **Keine Verpflichtung.** Nur Name, Mail und optional ein Hinweis, wie Sie sich einbringen können (Ideen, Zeit, Kontakte).
-
-Vor der Eintragung möchten Sie wissen, wofür wir stehen? Schauen Sie ins **[Leitbild](/dokumente/leitbild/)** ([PDF](/dokumente/leitbild-beg.pdf)) und in die **[Satzung](/dokumente/satzung-beg.pdf)** (PDF, Stand 19.05.2026).
 
 {{< tally
     src="https://tally.so/embed/3NOzjO?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1"

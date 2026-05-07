@@ -7,7 +7,7 @@ draft: false
 layout: "page"
 ---
 
-**[📄 Leitbild als PDF herunterladen](leitbild-beg.pdf)**
+**[📄 Leitbild als PDF herunterladen](/dokumente/leitbild-beg.pdf)**
 
 > Die Genossenschaft firmiert als **Bürgerenergie Bösingen-Herrenzimmern eG** - online erreichbar unter [buergerenergie-bhz.de](https://buergerenergie-bhz.de). Im Folgenden auch kurz als „BEG" bezeichnet.
 
