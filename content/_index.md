@@ -73,6 +73,8 @@ Eine Eintragung ist **unverbindlich und kostenlos**. Sie erhalten regelmäßige 
 
 **Keine Verpflichtung.** Nur Name, Mail und optional ein Hinweis, wie Sie sich einbringen können (Ideen, Zeit, Kontakte).
 
+Vor der Eintragung möchten Sie wissen, wofür wir stehen? Schauen Sie ins **[Leitbild](/dokumente/leitbild/)** ([PDF](/dokumente/leitbild-beg.pdf)) und in die **[Satzung](/dokumente/satzung-beg.pdf)** (PDF, Stand 19.05.2026).
+
 {{< tally
     src="https://tally.so/embed/3NOzjO?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1"
     height="400"

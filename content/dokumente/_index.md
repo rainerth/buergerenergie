@@ -31,17 +31,22 @@ Hilfreiche Dokumente und Vorlagen von bereits etablierten Energiegenossenschafte
     title="Infoveranstaltung zur Bürgerenergiegenossenschaft Bösingen-Herrenzimmern"
 >}}
 
-# Dokumente
+# Unsere Gründungsdokumente
+
+Diese Dokumente sind die Grundlage unserer Genossenschaft. Wer eine **Absichtserklärung** abgeben oder Mitglied werden möchte, sollte sie kennen.
 
 ## Leitbild
 
-Vision, Mission und Werte der Genossenschaft.
+Vision, Mission und Werte der Bürgerenergie Bösingen-Herrenzimmern eG.
 
-**[📄 Leitbild lesen](/dokumente/leitbild/)**
+- **[📖 Leitbild online lesen](/dokumente/leitbild/)**
+- **[📄 Leitbild als PDF herunterladen](leitbild-beg.pdf)**
 
-Hier finden Sie, sobald verfügbar, weitere Dokumente zur Genossenschaft.
+## Satzung
 
+Die Satzung in der Fassung, über die in der Gründungsversammlung am 19.05.2026 abgestimmt wird. Die gegenüber der BWGV-Mustersatzung vorgenommenen Anpassungen sind im Dokument gelb hervorgehoben.
 
+- **[📄 Satzung als PDF herunterladen](satzung-beg.pdf)**
 
 ---
 
