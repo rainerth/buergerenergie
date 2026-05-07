@@ -26,7 +26,7 @@ Unser Ziel: **Energieprojekte vor Ort, finanziert von den Bürgerinnen und Bürg
 <div class="clearfix"></div>
 
 {{< admonition type="important" title="Unsere Gründungsdokumente" >}}
-**[📖 Leitbild](/dokumente/leitbild/)** ([PDF](/dokumente/leitbild-beg.pdf)) · **[📄 Satzung (PDF)](/dokumente/satzung-beg.pdf)** · **[📄 Absichtserklärung (PDF)](/absicht/Absichtserklaerung.pdf)**
+**[📖 Leitbild](/dokumente/leitbild/)** ([PDF](/dokumente/leitbild-beg.pdf)) · **[📄 Satzung (PDF)](/dokumente/satzung-beg.pdf)** · **[📄 Geschäftsplan kompakt (PDF)](/dokumente/geschaeftsplan-kompakt-beg.pdf)** · **[📄 Absichtserklärung (PDF)](/absicht/Absichtserklaerung.pdf)**
 
 Damit Sie wissen, wofür wir stehen — bevor Sie sich eintragen.
 
