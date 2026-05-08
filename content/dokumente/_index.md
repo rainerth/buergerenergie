@@ -30,6 +30,12 @@ Was die BEG vorhat, was es kostet, was Sie davon haben — auf einer Seite zusam
 
 - **[📖 Geschäftsplan kompakt online lesen](/dokumente/geschaeftsplan-kompakt/)**
 
+## Absichtserklärung
+
+Mit der Absichtserklärung signalisieren Sie unverbindlich Ihre Beitrittsabsicht und nennen den Betrag, mit dem Sie sich an der Genossenschaft beteiligen möchten. Diese Angaben sind für unseren Eigenkapital-Nachweis gegenüber dem BWGV erforderlich — Voraussetzung dafür, dass die Gründung überhaupt zustande kommt.
+
+- **[📄 Absichtserklärung als PDF herunterladen](/absicht/Absichtserklaerung.pdf)**
+
 
 # Informationen rund um die Genossenschaft
 
