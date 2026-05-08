@@ -50,9 +50,9 @@ Die Satzung in der Fassung, über die in der Gründungsversammlung am 19.05.2026
 
 ## Geschäftsplan kompakt
 
-Was die BEG vorhat, was es kostet, was Sie davon haben — auf zwei Seiten zusammengefasst. Der vollständige Geschäftsplan (für BWGV, Gemeinderat und Banken) wird zur Gründungsversammlung am 19.05.2026 finalisiert.
+Was die BEG vorhat, was es kostet, was Sie davon haben — auf einer Seite zusammengefasst. Der vollständige Geschäftsplan (für BWGV, Gemeinderat und Banken) wird zur Gründungsversammlung am 19.05.2026 finalisiert.
 
-- **[📄 Geschäftsplan kompakt als PDF herunterladen](geschaeftsplan-kompakt-beg.pdf)**
+- **[📖 Geschäftsplan kompakt online lesen](/dokumente/geschaeftsplan-kompakt/)**
 
 ---
 
