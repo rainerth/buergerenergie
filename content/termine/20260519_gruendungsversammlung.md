@@ -10,6 +10,6 @@ Die **Gründungsversammlung** ist die formale Konstituierung der Bürgerenergie 
 
 In der Versammlung werden die **Satzung** und der **Geschäftsplan** beschlossen sowie **Vorstand** und **Aufsichtsrat** gewählt. Anschließend werden die Gründungsunterlagen beim BWGV zur abschließenden Prüfung eingereicht und die Eintragung im Genossenschaftsregister beantragt.
 
-Diese Versammlung ist eine **interne Veranstaltung des Gründungsteams** — sie dient der formalen Konstituierung der Genossenschaft und ist daher nicht als öffentliche Bürger-Veranstaltung angelegt. Der offizielle Beitritt für alle Interessenten erfolgt anschließend bei der **Zeichnungsversammlung** im Sommer 2026, sobald die Genossenschaft im Genossenschaftsregister eingetragen ist — dazu erhalten alle Interessenten eine persönliche Einladung per Mail.
+Diese Versammlung ist eine **Veranstaltung des Gründungsteams im engeren Kreis** — sie dient der formalen Konstituierung der Genossenschaft. **Bürgermeister Peter Schuster** ist als Vertreter der Gemeinde eingeladen. Eine breitere Bürger-Einladung ist hier nicht vorgesehen — der offizielle Beitritt für alle Interessenten erfolgt anschließend bei der **Zeichnungsversammlung** im Sommer 2026, sobald die Genossenschaft im Genossenschaftsregister eingetragen ist; dazu erhalten alle Interessenten eine persönliche Einladung per Mail.
 
 Wer noch nicht in unserer Interessentenliste steht, kann sich jederzeit über das [Kontaktformular auf der Startseite](/#kontaktformular) eintragen.
