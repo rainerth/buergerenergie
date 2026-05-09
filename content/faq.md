@@ -77,7 +77,7 @@ Die Gemeinde könnte als Abnehmerin des vor Ort erzeugten Stroms von **günstige
 Ja. Das Konzept sieht einen **stufenweisen Ausbau über mehrere Phasen** vor. Denkbar sind unter anderem:
 
 - **Weitere PV-Anlagen** auf kommunalen Gebäuden
-- **Beteiligung an Windenergieanlagen** in der Region
+- **Wärmeversorgung** kommunaler Gebäude (z.B. Wärmepumpen)
 - **Energy Sharing** — Strom direkt an Bürgerinnen und Bürger in Bösingen und Herrenzimmern liefern
 
 Das sind Visionen für die Zukunft. Zunächst konzentrieren wir uns auf das erste Projekt.

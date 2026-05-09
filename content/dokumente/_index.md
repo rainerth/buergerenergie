@@ -52,7 +52,7 @@ Hilfreiche Dokumente und Vorlagen von bereits etablierten Energiegenossenschafte
 - Broschüren und Infomaterial zu Energiegenossenschaften
 - Mitgliedsanträge und Satzungen als Mustervorlagen
 - Informationen zu Beteiligungsmöglichkeiten
-- Präsentationen zu PV-Anlagen und Windenergie-Projekten
+- Präsentationen zu PV-Anlagen
 
 ## Video: KEA-BW Infoveranstaltung zur Bürgerenergiegenossenschaft
 

@@ -48,8 +48,8 @@ Verantwortlicher für diese Webseite ist Rainer Thieringer, Merowingerstraße 6,
 
 Die folgenden Personen bilden das Gründungsteam und bereiten die Gründung der Genossenschaft vor:
 
-Oliver Arnold, Uwe Baier, Peter Banholzer, Timo Bantle, Marius Dettki, Ralf Flaig, Sofia Hezel, Wolfgang Kammerer, Bernhard Müller, Christoph Müller, Bernd Ohnmacht, Maurizio Ragamentu, Armin Rötzer, Klaus Schumacher, Timo Seliger, Sven Semmelrodt, Rainer Thieringer, Andreas Wirth, Karl Ernst Wizemann, Klaus Wizemann
+Oliver Arnold, Uwe Baier, Peter Banholzer, Timo Bantle, Björn Claussen, Marius Dettki, Ralf Flaig, Sofia Hezel, Thomas Hezel, Wolfgang Kammerer, Bernhard Müller, Christoph Müller, Bernd Ohnmacht, Maurizio Ragamentu, Armin Rötzer, Klaus Schumacher, Sven Semmelrodt, Timo Seliger, Rainer Thieringer, Andreas Wirth, Karl Ernst Wizemann, Klaus Wizemann
 
 ---
 
-*Stand: März 2026*
+*Stand: Mai 2026*

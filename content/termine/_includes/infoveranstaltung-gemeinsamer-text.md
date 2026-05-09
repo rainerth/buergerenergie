@@ -10,7 +10,7 @@ build:
 
 Liebe Mitbürgerinnen und Mitbürger,
 
-Die Gemeinde Bösingen steht vor Herausforderungen: In den kommenden Jahren werden wichtige Entscheidungen über die Energieversorgung unserer Gemeinde getroffen. Windkraftanlagen, Photovoltaik-Projekte, die energetische Optimierung unserer Kläranlage und innovative Speicherlösungen – all das sind konkrete Vorhaben, die nicht nur das Klima schützen, sondern auch Chancen für unsere Gemeinde und ihre Bürgerinnen und Bürger bieten.
+Die Gemeinde Bösingen steht vor Herausforderungen: In den kommenden Jahren werden wichtige Entscheidungen über die Energieversorgung unserer Gemeinde getroffen. Photovoltaik-Projekte, die energetische Optimierung unserer Kläranlage und innovative Speicherlösungen – all das sind konkrete Vorhaben, die nicht nur das Klima schützen, sondern auch Chancen für unsere Gemeinde und ihre Bürgerinnen und Bürger bieten.
 
 ### Warum eine Bürgerenergiegenossenschaft?
 
@@ -28,7 +28,6 @@ Im kleinen Kreis sind grundlegende Informationen zusammengetragen worden, es ist
 
 #### Mögliche Projekte in Bösingen und Herrenzimmern
 
-- Windenergie: Aktueller Planungsstand und Beteiligungsmöglichkeiten
 - Photovoltaik: Dächer von Mehrzweckhalle, Schule und weiteren kommunalen Gebäuden oder auch Freilandflächen
 - Kläranlage: Energetische Optimierung und Potenziale
 - Speicher und innovative Konzepte
@@ -54,7 +53,6 @@ Wir sind nicht die ersten und können auf viele Beispiele erfolgreicher Genossen
 - [Steyerberg](/neuigkeiten/20250908_klimastark_steyerberg/): Klimastark auf allen Linien.
 - [Unterhaching: Bürgerenergie](https://www.beu-unterhaching.de/) mit "Luxusproblem" - zu viele Interessenten
 - [3-Täler Bürgerenergie Sulz](https://buergerenergie-sulz.de/): Eigenständige Genossenschaft in der Region
-- [Mörsdorf](https://energie-kommunen.unendlich-viel-energie.de/energie-kommunen/moersdorf/): Wie Windkraft eine Gemeinde transformiert hat
 
 ##### Ortsgruppen-Modell
 
@@ -91,7 +89,7 @@ Erfolgreiche Bürgerenergiegenossenschaften zeigen: Wenn Kommunikation stimmt un
 
 ### Was wir NICHT sind
 
-Wir sind keine Investmentfirma, die schnelle Renditen verspricht. Wir sind keine Lobbyorganisation für oder gegen Windkraft. Wir sind Bürgerinnen und Bürger wie Sie, die glauben, dass wir gemeinsam mehr erreichen können als allein.
+Wir sind keine Investmentfirma, die schnelle Renditen verspricht. Wir sind Bürgerinnen und Bürger wie Sie, die glauben, dass wir gemeinsam mehr erreichen können als allein.
 
 
 ---
