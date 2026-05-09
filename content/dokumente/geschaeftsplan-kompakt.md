@@ -17,7 +17,6 @@ Die BEG baut, finanziert und betreibt Anlagen zur erneuerbaren Energieerzeugung 
 
 - PV-Anlage rund 99 kWp auf dem Schulkomplex Bösingen
 - PV-Anlage rund 99 kWp auf der Turn- und Festhalle Herrenzimmern
-- Batteriespeicher optional (je nach Höhe der erreichten Einlagen der Mitglieder)
 
 Investitionsvolumen rund **200.000 €**.
 
@@ -28,6 +27,16 @@ Investitionsvolumen rund **200.000 €**.
 - Energy Sharing — günstigerer Strom direkt für Mitglieder
 
 **Gate-Prinzip:** Jede weitere Stufe wird erst angegangen, wenn die vorhergehende erfolgreich umgesetzt ist um mögliche Risiken zu vermeiden.
+
+## Was zusätzlich möglich wird
+
+Schon mit den beiden zugesagten PV-Anlagen rechnet sich Stufe 1. Bei ausreichendem Eigenkapital aus der Zeichnung können wir bereits in Stufe 1 weitere Bausteine realisieren — ohne dafür mehr Bank-Darlehen aufzunehmen:
+
+- **PV-Anlage rund 30 kWp** auf einem weiteren kommunalen Gebäude, dessen Dach ohnehin saniert werden muss — Sanierung und PV-Aufbau in einem Zug.
+- **Anbindung von Rathaus und Schule Herrenzimmern** an die PV-Anlage auf dem Dach der Turn- und Festhalle — der dort erzeugte Strom versorgt direkt zwei weitere Liegenschaften.
+- **Batteriespeicher** für die Eigenversorgung der kommunalen Gebäude, zur Stabilisierung des Stromnetzes (Netzdienlichkeit) und als Notstrom bei Stromausfall oder in Krisensituationen.
+
+Welche dieser Erweiterungen wir angehen, entscheiden Vorstand und Aufsichtsrat nach der Zeichnungsversammlung gemeinsam — abhängig vom tatsächlich gezeichneten Eigenkapital. Jeder zusätzlich gezeichnete Anteil zählt.
 
 ## Wie die BEG Geld verdient
 
