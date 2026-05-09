@@ -34,6 +34,14 @@ Empfehlenswerte Termine bei der **Klimaschutz- und Energieagentur Baden-Württem
 
 Eine vollständige Übersicht aller KEA-Veranstaltungen finden Sie unter [www.kea-bw.de/veranstaltungen](https://www.kea-bw.de/veranstaltungen).
 
+Aus dem Programm der **Klimaschutz- und Energieagentur Schwarzwald-Baar-Heuberg (KLEA-SBH)** — regional zugängliche Online-Veranstaltung:
+
+- **16.06.2026, 16:00–17:30 Uhr — PV in Kommunen: Photovoltaik und Biodiversität**
+  Online-Veranstaltung der KLEA-SBH zu praxisnahen Lösungen für eine naturverträgliche Energiewende auf kommunaler Ebene.
+  [Mehr Info und Anmeldung](https://klea-sbh.de/termin/pv-in-kommunen-photovoltaik-und-biodiversitaet/)
+
+Eine vollständige Übersicht der KLEA-SBH-Termine finden Sie unter [klea-sbh.de/termine/](https://klea-sbh.de/termine/).
+
 ---
 
-*Hinweis: Die KEA-Termine sind Informationsangebote Dritter. Wir verlinken sie als Service für unsere Mitglieder und Interessenten — für Inhalt und Anmeldung ist die KEA-BW zuständig.*
+*Hinweis: Die hier verlinkten Termine sind Informationsangebote Dritter. Wir verlinken sie als Service für unsere Mitglieder und Interessenten — für Inhalt und Anmeldung sind die jeweiligen Veranstalter (KEA-BW, KLEA-SBH) zuständig.*
