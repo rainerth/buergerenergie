@@ -42,6 +42,18 @@ Aus dem Programm der **Klimaschutz- und Energieagentur Schwarzwald-Baar-Heuberg 
 
 Eine vollständige Übersicht der KLEA-SBH-Termine finden Sie unter [klea-sbh.de/termine/](https://klea-sbh.de/termine/).
 
+Aus dem Programm des **Photovoltaik-Netzwerks Baden-Württemberg**:
+
+- **18.06.2026, 18:00–20:00 Uhr — Energy Sharing: Was muss die Energieberatungs-Branche wissen?**
+  Online-Praxisdialog mit Zukunft Altbau, Einordnung des neuen § 42c EnWG (Teilversorgung). Die Veranstaltung richtet sich primär an Fachleute der Energieberatung — als Hintergrund­information aber auch für Mitglieder und Aktive interessant, die das Energy-Sharing-Modell für die BEG nachvollziehen möchten.
+  [Mehr Info und Anmeldung](https://www.photovoltaik-bw.de/pv-netzwerk/veranstaltungen/energy-sharing-was-muss-die-energieberatungs-branche-wissen)
+
+- **03.11.2026 — Batterien und Speichersysteme**
+  Online-Übersicht zu Speicheroptionen mit Vor- und Nachteilen — passt zum Batteriespeicher-Baustein, den wir bei ausreichend gezeichnetem Eigenkapital schon in Stufe 1 realisieren möchten.
+  [Veranstaltungs-Übersicht](https://www.photovoltaik-bw.de/pv-netzwerk/veranstaltungen)
+
+Eine vollständige Übersicht der PV-Netzwerk-Termine finden Sie unter [photovoltaik-bw.de/pv-netzwerk/veranstaltungen](https://www.photovoltaik-bw.de/pv-netzwerk/veranstaltungen).
+
 ---
 
-*Hinweis: Die hier verlinkten Termine sind Informationsangebote Dritter. Wir verlinken sie als Service für unsere Mitglieder und Interessenten — für Inhalt und Anmeldung sind die jeweiligen Veranstalter (KEA-BW, KLEA-SBH) zuständig.*
+*Hinweis: Die hier verlinkten Termine sind Informationsangebote Dritter. Wir verlinken sie als Service für unsere Mitglieder und Interessenten — für Inhalt und Anmeldung sind die jeweiligen Veranstalter (KEA-BW, KLEA-SBH, Photovoltaik-Netzwerk BW) zuständig.*
