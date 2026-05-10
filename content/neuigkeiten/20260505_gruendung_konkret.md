@@ -3,7 +3,7 @@ title: "Die Gründungsphase läuft an"
 subtitle: "Termin der Gründungsversammlung steht — neue Internet-Adresse buergerenergie-bhz.de live"
 date: 2026-05-05
 draft: false
-featured: true
+featured: false
 tags: ["Gründung", "Genossenschaft", "Domain", "Absichtserklärung", "Mitgliedschaft"]
 categories: ["Neuigkeiten"]
 author: "AG Öffentlichkeitsarbeit"
