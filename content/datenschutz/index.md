@@ -67,16 +67,23 @@ Wenn Sie uns per E-Mail kontaktieren oder sich für regelmäßige Informationen 
 
 ## 8. Absichtserklärung und Beitritt
 
-Wenn Sie eine Absichtserklärung zur späteren Mitgliedschaft abgeben, verarbeiten wir zusätzlich:
+Wenn Sie eine Absichtserklärung zur späteren Mitgliedschaft abgeben oder der Genossenschaft beitreten, verarbeiten wir zusätzlich:
 
-- Anrede, Vor- und Nachname, Anschrift
+- Anrede, Vor- und Nachname, ggf. Titel, Anschrift
 - Geburtsdatum
 - E-Mail-Adresse, ggf. Telefonnummer
-- gewünschte Höhe der späteren Geschäftseinlage
+- gewünschte Höhe der Geschäftseinlage / Anzahl der Geschäftsanteile
+- Bankverbindung (Kontoinhaber:in, IBAN, BIC) und ggf. SEPA-Lastschriftmandat
+- Steuerliche Identifikationsnummer (Steuer-ID nach § 139b AO), soweit Sie diese angeben
 - ggf. Beruf / fachliche Hintergrunddaten, soweit Sie diese freiwillig angeben
 
-**Zweck:** Vorbereitung der späteren Mitgliedschaft, Planung der Gründungsfinanzierung, Einladung zur Zeichnungs- bzw. Gründungsversammlung.
-**Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO (vorvertragliche Maßnahmen). Nach Beitritt: Art. 6 Abs. 1 lit. b DSGVO (Mitgliedschaftsvertrag) sowie lit. c (genossenschafts-, handels- und steuerrechtliche Aufbewahrungspflichten).
+**Zweck:** Vorbereitung und Begründung der Mitgliedschaft, Planung der Gründungsfinanzierung, Einladung zur Zeichnungs- bzw. Gründungsversammlung, Einzug der Geschäftseinlage, ordnungsgemäße Mitgliederverwaltung sowie — bei späteren Dividendenausschüttungen — die gesetzlich vorgeschriebene Meldung der Kapitalertragsteuer.
+
+**Rechtsgrundlagen:**
+
+- Vor Beitritt: Art. 6 Abs. 1 lit. b DSGVO (vorvertragliche Maßnahmen).
+- Nach Beitritt: Art. 6 Abs. 1 lit. b DSGVO (Mitgliedschaftsvertrag) sowie lit. c (genossenschafts-, handels- und steuerrechtliche Pflichten, insbesondere §§ 30, 31 GenG, §§ 140 ff. AO).
+- Steuer-ID: Art. 6 Abs. 1 lit. c DSGVO i. V. m. § 45a Abs. 2 EStG (Pflicht zur Übermittlung bei Kapitalertragsteuerbescheinigung). Die Angabe der Steuer-ID ist bei Beitritt **freiwillig**; sie ist spätestens zur ersten Dividendenauszahlung erforderlich und kann jederzeit nachgereicht werden.
 
 Die Daten werden ausschließlich im engsten zur Aufgabenerledigung erforderlichen Kreis (Gründungsteam bzw. später Vorstand und Aufsichtsrat) eingesehen. Die Höhe der Einlage ist vertraulich.
 
