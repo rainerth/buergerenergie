@@ -72,10 +72,6 @@ home = ["HTML", "RSS"]
 	title = "FAQ"
 	href = "/faq"
 
-	[[params.additional_menus]]
-	title = "Impressum"
-	href = "/impressum"
-
 	[params.social]
 	rss = true
 	email = "info@buergerenergie-bhz.de"
