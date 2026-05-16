@@ -19,7 +19,7 @@ draft: false
   class="float-left mr-3 mb-3"
 >}}
 
-Die *Bürgerenergie Bösingen-Herrenzimmern i.G.* steht kurz vor der Gründung. Ein 20-köpfiges Gründungsteam bereitet die Genossenschaft vor — gemeinsam mit der Gemeinde und gestützt von inzwischen über **150 Interessentinnen und Interessenten**.
+Die *Bürgerenergie Bösingen-Herrenzimmern i.G.* steht kurz vor der Gründung. Ein 20-köpfiges Gründungsteam bereitet die Genossenschaft vor — gemeinsam mit der Gemeinde und gestützt von inzwischen über **170 Interessentinnen und Interessenten**.
 
 Unser Ziel: **Energieprojekte vor Ort, finanziert von den Bürgerinnen und Bürgern, mit Nutzen für die Gemeinde.**
 
@@ -69,7 +69,7 @@ Was Sie davon haben:
 # Jetzt ist der richtige Zeitpunkt
 
 {{< admonition type="tip" title="Wir brauchen SIE — und Ihre Freunde!" >}}
-**Stand heute:** über **150 Interessenten** sind eingetragen.
+**Stand heute:** über **170 Interessenten** sind eingetragen.
 **Ziel:** **200 Interessenten** bis zur Zeichnungsversammlung — das zeigt Politik, Behörden und Förderern, dass die Initiative breit getragen wird.
 
 Eine Eintragung ist **unverbindlich und kostenlos**. Sie erhalten regelmäßige Mails zu Fortschritten und werden rechtzeitig vor der Zeichnungsversammlung informiert.
