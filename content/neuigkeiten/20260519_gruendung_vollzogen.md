@@ -44,7 +44,7 @@ Der Aufsichtsrat hat noch am selben Abend den dreiköpfigen **Vorstand** bestell
 - **Dr. Sven Semmelrodt**
 - **Rainer Thieringer**
 
-Den Vorstand begleitet ein vorläufiger **Beirat Finanzen**: **Wolfgang Kammerer**, Diplom-Bankbetriebswirt, langjährig in Vorstands- und Geschäftsführungsfunktionen bei der Volksbank Schwarzwald-Neckar eG. Mit seiner Erfahrung aus der Genossenschaftsbank steht er dem Vorstand in Finanzfragen aktiv zur Seite. Ein **Beirat Technik** soll zu einem späteren Zeitpunkt hinzukommen.
+Den Vorstand begleitet ein **Beirat Finanzen**: **Wolfgang Kammerer**, Diplom-Bankbetriebswirt, langjährig in Vorstands- und Geschäftsführungsfunktionen bei der Volksbank Schwarzwald-Neckar eG. Mit seiner Erfahrung aus der Genossenschaftsbank steht er dem Vorstand in Finanzfragen aktiv zur Seite. Ein **Beirat Technik** soll zu einem späteren Zeitpunkt hinzukommen.
 
 Alle Funktionen sind **ehrenamtlich**.
 
