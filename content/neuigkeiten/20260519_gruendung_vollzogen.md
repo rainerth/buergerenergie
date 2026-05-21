@@ -1,12 +1,14 @@
 ---
 title: "Bürgerenergie Bösingen-Herrenzimmern eG i.G. ist gegründet"
 subtitle: "Vorstand und Aufsichtsrat gewählt — Finanzierung der ersten PV-Projekte gesichert"
-date: 2026-05-21
+date: 2026-05-19
 draft: false
 featured: true
 tags: ["Gründung", "Genossenschaft", "Vorstand", "Aufsichtsrat", "Mitgliedschaft"]
 categories: ["Neuigkeiten"]
 author: "AG Öffentlichkeitsarbeit"
+aliases:
+  - /neuigkeiten/20260521_gruendung_vollzogen/
 description: "Am 19. Mai 2026 wurde die Bürgerenergie Bösingen-Herrenzimmern eG i.G. im Sitzungssaal des Rathauses gegründet. 23 Gründerinnen und Gründer haben die Satzung unterzeichnet — mit Bürgermeister Peter Schuster im Aufsichtsrat. Die breite Resonanz aus der Bürgerschaft sichert die Finanzierung der ersten PV-Projekte in Bösingen und Herrenzimmern."
 featured_image: "/img/2026-05-19_gruendungsteam_01.jpg"
 ---
