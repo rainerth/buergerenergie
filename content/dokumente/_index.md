@@ -36,7 +36,7 @@ Mit der Absichtserklärung signalisieren Sie unverbindlich Ihre Beitrittsabsicht
 
 - **[📄 Absichtserklärung als PDF herunterladen](/absicht/Absichtserklaerung.pdf)**
 
-Wenn Sie keinen Drucker haben, schicken wir Ihnen auch gerne ein gedrucktes Exemplar zu — eine kurze Mail an [info@buergerenergie-bhz.de](mailto:info@buergerenergie-bhz.de) genügt.
+Wenn Sie keinen Drucker haben, schicken wir Ihnen auch gerne ein gedrucktes Exemplar zu — eine kurze Mail an {{< obf-mail user="info" domain="buergerenergie-bhz.de" >}} genügt.
 
 
 # Informationen rund um die Genossenschaft

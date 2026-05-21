@@ -1,8 +1,8 @@
 baseURL = 'https://www.buergerenergie-bhz.de'
 languageCode = 'de'
-title = 'Bürgerenergie Bösingen-Herrenzimmern i.G.'
+title = 'Bürgerenergie Bösingen-Herrenzimmern eG i.G.'
 theme = 'hugo-theme-cleanwhite'
-copyright = 'Bürgerenergie Bösingen-Herrenzimmern i.G.'
+copyright = 'Bürgerenergie Bösingen-Herrenzimmern eG i.G.'
 
 #frontpage pagination
 [pagination]
@@ -27,11 +27,11 @@ home = ["HTML", "RSS"]
 	header_image_fallback = "img/buergerenergie-boesingen-106063041-hero.png"
 
 	slogan = "Energie in Bürgerhand"
-	SEOTitle = "Bürgerenergie Bösingen-Herrenzimmern i.G."
+	SEOTitle = "Bürgerenergie Bösingen-Herrenzimmern eG i.G."
 	SEODescription = "Bürgerenergie 78662 Bösingen - Bürgerenergiegenossenschaft in Gründung"
 	SEOKeywords = "Bürgerenergie, Energie, Klimaschutz, 78662 Bösingen"
 	description = "Bürgerenergiegenossenschaft in Gründung"
-	author = "Bürgerenergie Bösingen-Herrenzimmern i.G."
+	author = "Bürgerenergie Bösingen-Herrenzimmern eG i.G."
 	keywords = "Bürgerenergie, Energie, Genossenschaft"
 
 	logo = "img/buergerenergie-boesingen-logo.svg"
@@ -43,7 +43,7 @@ home = ["HTML", "RSS"]
 	omit_categories = true
 
 	# Sidebar settings
-	sidebar_about_description = "Bürgerenergie Bösingen-Herrenzimmern i.G."
+	sidebar_about_description = "Bürgerenergie Bösingen-Herrenzimmern eG i.G."
 	sidebar_avatar = "img/buergerenergie-boesingen-logo.svg"
 
 	featured_tags = false

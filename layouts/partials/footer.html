@@ -11,8 +11,9 @@
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <ul class="list-inline text-center">
                     {{ with .Site.Params.social.email }}
+                    {{/* Mail-Icon linkt auf /impressum/#kontakt — die Mail dort ist crawler-resistent. */}}
                     <li>
-                        <a href="mailto:{{ . }}">
+                        <a href="/impressum/#kontakt" title="Kontakt im Impressum">
                             <span class="fa-stack fa-lg">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>

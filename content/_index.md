@@ -2,7 +2,7 @@
 layout: page
 show_sidebar: true
 tags: [Bürgerenergiegenossenschaft, Bösingen, Herrenzimmern, Genossenschaft, Erneuerbare Energien, Klimaschutz]
-title: Bürgerenergie Bösingen-Herrenzimmern i.G.
+title: Bürgerenergie Bösingen-Herrenzimmern eG i.G.
 subtitle: "Energie in Bürgerhand — sind Sie dabei?"
 description: Bürgerenergiegenossenschaft Bösingen-Herrenzimmern
 draft: false
@@ -19,7 +19,7 @@ draft: false
   class="float-left mr-3 mb-3"
 >}}
 
-Die *Bürgerenergie Bösingen-Herrenzimmern i.G.* steht kurz vor der Gründung. Ein 20-köpfiges Gründungsteam bereitet die Genossenschaft vor — gemeinsam mit der Gemeinde und gestützt von inzwischen über **170 Interessentinnen und Interessenten**.
+Die *Bürgerenergie Bösingen-Herrenzimmern eG i.G.* ist am **19. Mai 2026** gegründet worden — 23 Gründerinnen und Gründer haben die Satzung einstimmig angenommen, darunter Bürgermeister Peter Schuster im Aufsichtsrat. Bis zur Eintragung ins Genossenschaftsregister läuft die Genossenschaft als „eG in Gründung". Über **170 Interessentinnen und Interessenten** stehen hinter dem Vorhaben.
 
 Unser Ziel: **Energieprojekte vor Ort, finanziert von den Bürgerinnen und Bürgern, mit Nutzen für die Gemeinde.**
 
@@ -35,9 +35,11 @@ Damit Sie wissen, wofür wir stehen — bevor Sie sich eintragen.
 
 ## Wo wir heute stehen
 
-- **19. März 2026 — Gemeinderatsbeschluss:** Die BEG i.G. darf auf dem **Schulkomplex Bösingen** und der **Turn- und Festhalle Herrenzimmern** je eine **PV-Anlage mit rund 99 kWp** errichten.
+- **19. März 2026 — Gemeinderatsbeschluss:** Die BEG darf auf dem **Schulkomplex Bösingen** und der **Turn- und Festhalle Herrenzimmern** je eine **PV-Anlage mit rund 99 kWp** errichten.
 - **15. April 2026 — Einreichung beim BWGV:** Satzung, Geschäftsplan und Planungsrechnungen sind beim Baden-Württembergischen Genossenschaftsverband zur Vorprüfung.
-- **Zeichnungsversammlung:** angestrebt für **Juli 2026** (Fallback September), **nach Eintragung beim Genossenschaftsregister** — dort treten Sie als Mitglied bei und zeichnen Ihre Anteile. Der genaue Zeitpunkt hängt von BWGV-Vorprüfung und Eintragung ab und liegt nicht in unserer Hand.
+- **19. Mai 2026 — Gründungsversammlung:** 23 Gründerinnen und Gründer haben die Satzung einstimmig beschlossen, Vorstand und Aufsichtsrat sind gewählt. Mit Bürgermeister Peter Schuster sitzt die Gemeinde im Aufsichtsrat. ([Nachbericht](/neuigkeiten/20260521_gruendung_vollzogen/))
+- **Aktuell — Gründungsprüfung beim BWGV:** Nach Abschluss der Prüfung wird die Genossenschaft beim Registergericht zur Eintragung angemeldet.
+- **Zeichnungsphase:** angestrebt **drittes Quartal 2026**, **nach Eintragung im Genossenschaftsregister** — dann werden die bisher abgegebenen Absichtserklärungen in Geschäftsanteile umgewandelt. Der genaue Zeitpunkt hängt von BWGV-Prüfung und Registergericht ab und liegt nicht in unserer Hand.
 
 ## Stufe 1: PV auf zwei kommunalen Dächern
 
@@ -70,9 +72,9 @@ Was Sie davon haben:
 
 {{< admonition type="tip" title="Wir brauchen SIE — und Ihre Freunde!" >}}
 **Stand heute:** über **170 Interessenten** sind eingetragen.
-**Ziel:** **200 Interessenten** bis zur Zeichnungsversammlung — das zeigt Politik, Behörden und Förderern, dass die Initiative breit getragen wird.
+**Ziel:** **200 Interessenten** bis zur Zeichnungsphase — das zeigt Politik, Behörden und Förderern, dass die Initiative breit getragen wird.
 
-Eine Eintragung ist **unverbindlich und kostenlos**. Sie erhalten regelmäßige Mails zu Fortschritten und werden rechtzeitig vor der Zeichnungsversammlung informiert.
+Eine Eintragung ist **unverbindlich und kostenlos**. Sie erhalten regelmäßige Mails zu Fortschritten und werden rechtzeitig vor der Zeichnungsphase informiert, sobald die Eintragung ins Genossenschaftsregister erfolgt ist.
 {{< /admonition >}}
 
 ---

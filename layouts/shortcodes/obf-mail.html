@@ -1,0 +1,22 @@
+{{- /*
+  Crawler-resistente Mail-Adresse.
+
+  Verwendung:
+    {{< obf-mail user="info" domain="buergerenergie-bhz.de" >}}
+    {{< obf-mail user="rainer.thieringer" domain="buergerenergie-bhz.de" label="Rainer Thieringer" >}}
+
+  Rendert einen klickbaren mailto:-Link, bei dem sowohl das Schema „mailto:"
+  als auch das @-Zeichen im HTML-Quelltext als numerische HTML-Entities
+  geschrieben werden. Browser dekodieren das beim Parsen normal — einfache
+  Regex-Crawler, die nach „mailto:" oder einem rohen @ suchen, finden nichts.
+
+  Im sichtbaren Text wird das @ ebenfalls entity-encoded, wenn die Adresse
+  als Label dient (also kein eigenes label-Argument gesetzt wurde).
+*/ -}}
+{{- $user := .Get "user" -}}
+{{- $domain := .Get "domain" -}}
+{{- $hasLabel := .Get "label" -}}
+{{- $label := default (printf "%s@%s" $user $domain) $hasLabel -}}
+{{- $hrefEntity := printf "&#109;&#97;&#105;&#108;&#116;&#111;&#58;%s&#64;%s" $user $domain -}}
+{{- $textEntity := replace $label "@" "&#64;" -}}
+{{- printf `<a href="%s">%s</a>` $hrefEntity $textEntity | safeHTML -}}

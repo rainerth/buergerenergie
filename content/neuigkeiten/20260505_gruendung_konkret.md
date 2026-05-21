@@ -30,7 +30,7 @@ Damit ist der formale Startschuss gegeben — die Genossenschaft existiert ab de
 
 Mit der bisherigen Adresse `buergerenergie-boesingen.de` war ein Ortsteil im Namen vertreten — und einer nicht. Mit dem **Kürzel BHZ** für Bösingen-Herrenzimmern haben wir jetzt eine Adresse, die beide Ortsteile gleichberechtigt enthält und gleichzeitig deutlich kürzer ist.
 
-> **Beide Adressen funktionieren parallel weiter.** Wer ein altes Lesezeichen hat, eine ältere Visitenkarte oder einen QR-Code aus früheren Materialien, landet weiterhin am Ziel. Auch die E-Mail-Adresse `info@buergerenergie-boesingen.de` bleibt erhalten — Sie können uns aber ab sofort genauso gut unter `info@buergerenergie-bhz.de` erreichen.
+> **Beide Adressen funktionieren parallel weiter.** Wer ein altes Lesezeichen hat, eine ältere Visitenkarte oder einen QR-Code aus früheren Materialien, landet weiterhin am Ziel. Auch die E-Mail-Adresse {{< obf-mail user="info" domain="buergerenergie-boesingen.de" >}} bleibt erhalten — Sie können uns aber ab sofort genauso gut unter {{< obf-mail user="info" domain="buergerenergie-bhz.de" >}} erreichen.
 
 ## Stand der Beteiligung — 155 Interessentinnen und Interessenten
 
@@ -40,7 +40,7 @@ Seit der Bürgerinformationsveranstaltung am 21. April haben sich **155 Interess
 
 Wer noch nicht in der Liste steht oder seine **Absichtserklärung** ausfüllen möchte, findet das Formular auf unserer Webseite. Sie nennen uns die Größenordnung Ihrer geplanten Einlage — ab **100 € Mindestanteil**, nach oben offen. Die Erklärung ist nicht rechtlich bindend; sie ist ein Signal: „Ich bin dabei, mit Betrag X."
 
-Das Formular gibt es als PDF zum Herunterladen, Ausfüllen und Zurücksenden — per Post oder Mail an `info@buergerenergie-bhz.de`.
+Das Formular gibt es als PDF zum Herunterladen, Ausfüllen und Zurücksenden — per Post oder Mail an {{< obf-mail user="info" domain="buergerenergie-bhz.de" >}}.
 
 ## Wie es nach dem 19. Mai weitergeht
 

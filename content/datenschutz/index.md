@@ -9,12 +9,12 @@ layout: "page"
 
 ## 1. Verantwortliche Stelle
 
-Verantwortlich für die Datenverarbeitung im Zusammenhang mit dieser Webseite und dem Beitritts- bzw. Interessentenprozess der Bürgerenergie Bösingen-Herrenzimmern i.G. ist während der Gründungsphase:
+Verantwortlich für die Datenverarbeitung im Zusammenhang mit dieser Webseite und dem Beitritts- bzw. Interessentenprozess der Bürgerenergie Bösingen-Herrenzimmern eG i.G. ist während der Gründungsphase:
 
-**Rainer Thieringer** (für die Bürgerenergie Bösingen-Herrenzimmern i.G.)
+**Rainer Thieringer** (für die Bürgerenergie Bösingen-Herrenzimmern eG i.G.)
 Merowingerstraße 6
 78662 Bösingen
-E-Mail: info@buergerenergie-bhz.de
+E-Mail: {{< obf-mail user="info" domain="buergerenergie-bhz.de" >}}
 
 Mit Eintragung der Genossenschaft im Genossenschaftsregister tritt diese als verantwortliche Stelle an unsere Stelle; eine aktualisierte Fassung dieser Erklärung wird dann veröffentlicht.
 
@@ -63,7 +63,7 @@ Wenn Sie uns per E-Mail kontaktieren oder sich für regelmäßige Informationen 
 
 - **Rechtsgrundlage:** Art. 6 Abs. 1 lit. a DSGVO (Einwilligung) bzw. lit. b (vorvertragliche Maßnahmen, Mitgliedschaftsvorbereitung).
 - **Auftragsverarbeiter:** Hostsharing eG (Mailserver).
-- **Speicherdauer:** bis zum Widerruf bzw. solange die Verarbeitung zur Erfüllung des Zwecks erforderlich ist. Sie können dem weiteren Mailversand jederzeit formlos widersprechen (z. B. per Antwort-Mail an info@buergerenergie-bhz.de).
+- **Speicherdauer:** bis zum Widerruf bzw. solange die Verarbeitung zur Erfüllung des Zwecks erforderlich ist. Sie können dem weiteren Mailversand jederzeit formlos widersprechen (z. B. per Antwort-Mail an {{< obf-mail user="info" domain="buergerenergie-bhz.de" >}}).
 
 ## 8. Absichtserklärung und Beitritt
 
@@ -126,7 +126,7 @@ Sie haben das Recht,
 - Ihre Daten in einem strukturierten, gängigen Format zu erhalten (Art. 20 DSGVO),
 - sich bei einer Aufsichtsbehörde zu beschweren (Art. 77 DSGVO). Für uns zuständig ist der Landesbeauftragte für den Datenschutz und die Informationsfreiheit Baden-Württemberg, Lautenschlagerstraße 20, 70173 Stuttgart, <https://www.baden-wuerttemberg.datenschutz.de>.
 
-Anfragen richten Sie bitte formlos an info@buergerenergie-bhz.de.
+Anfragen richten Sie bitte formlos an {{< obf-mail user="info" domain="buergerenergie-bhz.de" >}}.
 
 ## 13. Änderungen dieser Erklärung
 
