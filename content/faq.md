@@ -190,11 +190,11 @@ Beim reinen Strompreis aus dem Netz können wir nicht mit den großen Konzernen 
 Direkt auf der Startseite verlinkt:
 
 - **[Leitbild](/dokumente/leitbild/)** ([PDF](/dokumente/leitbild-beg.pdf))
-- **[Satzung (PDF)](/dokumente/satzung-beg.pdf)** — Abweichungen gegenüber der [BWGV-Mustersatzung](/dokumente/mustersatzung-energiegenossenschaften.pdf) sind im Dokument gelb hervorgehoben
+- **[Satzung (PDF)](/dokumente/satzung-beg.pdf)** — am 19. Mai 2026 von der Gründungsversammlung beschlossen
 - **[Geschäftsplan kompakt](/dokumente/geschaeftsplan-kompakt/)**
 - **[Absichtserklärung (PDF)](/absicht/Absichtserklaerung.pdf)** — unverbindliche Vorab-Bekundung Ihrer geplanten Einlage
 
-Über die Satzung wird die Gründungsversammlung am 19. Mai 2026 abstimmen.
+Die Satzung wurde von der Gründungsversammlung am 19. Mai 2026 einstimmig beschlossen.
 
 ---
 

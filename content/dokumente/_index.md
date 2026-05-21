@@ -20,7 +20,7 @@ Vision, Mission und Werte der Bürgerenergie Bösingen-Herrenzimmern eG.
 
 ## Satzung
 
-Die Satzung in der Fassung, über die in der Gründungsversammlung am 19.05.2026 abgestimmt wird. Die gegenüber der BWGV-Mustersatzung vorgenommenen Anpassungen sind im Dokument gelb hervorgehoben.
+Die Satzung in der von der Gründungsversammlung am 19. Mai 2026 einstimmig beschlossenen Fassung.
 
 - **[📄 Satzung als PDF herunterladen](satzung-beg.pdf)**
 
@@ -40,12 +40,6 @@ Wenn Sie keinen Drucker haben, schicken wir Ihnen auch gerne ein gedrucktes Exem
 
 
 # Informationen rund um die Genossenschaft
-
-## Mustersatzung für Energiegenossenschaften
-
-Die Mustersatzung des Baden-Württembergischen Genossenschaftsverbands e.V. bietet eine Orientierungshilfe für die Gründung und Organisation von Energiegenossenschaften.
-
-**[📄 Mustersatzung herunterladen (PDF)](mustersatzung-energiegenossenschaften.pdf)**
 
 ## Weitere Informationen und Vorlagen
 

@@ -30,7 +30,7 @@ Unser Ziel: **Energieprojekte vor Ort, finanziert von den Bürgerinnen und Bürg
 
 Damit Sie wissen, wofür wir stehen — bevor Sie sich eintragen.
 
-*Hinweis zur Satzung:* Abweichungen gegenüber der [BWGV-Mustersatzung](/dokumente/mustersatzung-energiegenossenschaften.pdf) sind im Dokument **gelb hervorgehoben** — so sehen Sie auf einen Blick, was wir an unsere lokalen Bedürfnisse angepasst haben. Über diese Fassung wird die Gründungsversammlung am 19.05.2026 abstimmen.
+*Die Satzung wurde von der Gründungsversammlung am 19. Mai 2026 einstimmig beschlossen.*
 {{< /admonition >}}
 
 ## Wo wir heute stehen
