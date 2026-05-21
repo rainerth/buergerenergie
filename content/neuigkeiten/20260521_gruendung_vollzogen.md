@@ -15,7 +15,7 @@ Am Dienstagabend, **19. Mai 2026**, hat sich im Sitzungssaal des Rathauses die *
 
 <!--more-->
 
-![Das Gründungsteam mit Bürgermeister Peter Schuster vor dem Rathaus Bösingen](/img/2026-05-19_gruendungsteam_01.jpg "Das Gründungsteam der Bürgerenergie Bösingen-Herrenzimmern eG mit Bürgermeister Peter Schuster.")
+![Das Gründungsteam mit Bürgermeister Peter Schuster vor dem Rathaus](/img/2026-05-19_gruendungsteam_01.jpg "Das Gründungsteam der Bürgerenergie Bösingen-Herrenzimmern eG mit Bürgermeister Peter Schuster.")
 
 *Von links nach rechts: Marius Dettki, Bernhard Müller, Armin Rötzer, Klaus Schumacher, Timo Bantle, Timo Seliger, Ralf Flaig, Uwe Baier, Peter Banholzer, Bernd Ohnmacht, Karl Ernst Wizemann, Dr. Christoph A. Müller, Rainer Thieringer, Oliver Arnold, Maurizio Ragamentu, Thomas Hezel, Klaus Wizemann, Peter Schuster, Wolfgang Kammerer. Nicht auf dem Foto: Sofia Hezel, Dr. Sven Semmelrodt und Andreas Wirth. Foto: Jasmin Müller.*
 
@@ -23,9 +23,9 @@ Am Dienstagabend, **19. Mai 2026**, hat sich im Sitzungssaal des Rathauses die *
 
 Die Versammlung wurde von Dr. Christoph A. Müller geleitet, Rainer Thieringer führte das Protokoll. Die Satzung in der mit dem Baden-Württembergischen Genossenschaftsverband (BWGV) abgestimmten Fassung wurde einstimmig angenommen. Weitere Beschlüsse: Sitz der Genossenschaft ist die Gemeinde Bösingen, und der Vorstand ist ermächtigt, die Geschäftstätigkeit bereits vor der Registereintragung aufzunehmen. Alle Wahlen erfolgten einstimmig mit 23 von 23 Stimmen.
 
-![Blick in die Gründungsversammlung im Sitzungssaal des Rathauses](/img/2026-05-19_versammlung_02.jpg "Blick in die Gründungsversammlung im Sitzungssaal des Rathauses Bösingen.")
+![Blick in die Gründungsversammlung im Sitzungssaal des Rathauses](/img/2026-05-19_versammlung_02.jpg "Blick in die Gründungsversammlung im Sitzungssaal des Rathauses.")
 
-*Blick in die Gründungsversammlung im Sitzungssaal des Rathauses Bösingen am 19. Mai 2026. Foto: Jasmin Müller.*
+*Blick in die Gründungsversammlung im Sitzungssaal des Rathauses am 19. Mai 2026. Foto: Jasmin Müller.*
 
 ## Wer die Genossenschaft führt
 
