@@ -1,0 +1,69 @@
+{{- /*
+  Markdown-Image-Render-Hook.
+
+  Wandelt jeden Markdown-Bildtag ![alt](path "title") in ein optimiertes
+  <picture>-Element um, sobald das referenzierte Bild als Hugo-Resource
+  (Page-Bundle oder global `assets/`) auffindbar ist.
+
+  Ausgabe-Stack:
+    - Bis zu 3 Varianten in WebP (800w / 1200w / 2400w), aber nur soweit das
+      Original groß genug ist (kein Upscaling).
+    - 1200w-JPEG als Fallback fuer Browser ohne WebP-Unterstuetzung.
+    - srcset + sizes, loading="lazy", decoding="async".
+    - width/height aus der Mittelvariante, damit kein Layout-Shift.
+
+  Wenn das Bild nicht als Resource gefunden wird (z.B. externe URL oder
+  unter static/), fallen wir auf ein einfaches <img>-Tag zurueck.
+*/ -}}
+{{- $dest := .Destination -}}
+{{- $alt  := .PlainText | default "" -}}
+{{- $title := .Title -}}
+
+{{- /* Resource-Lookup: zuerst Page-Bundle (.Page.Resources), dann globaler assets-Folder */ -}}
+{{- $img := "" -}}
+{{- with .Page.Resources.GetMatch (strings.TrimPrefix "/" $dest) -}}
+  {{- $img = . -}}
+{{- else -}}
+  {{- with resources.Get (strings.TrimPrefix "/" $dest) -}}
+    {{- $img = . -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if and $img (eq $img.ResourceType "image") -}}
+  {{- $w := $img.Width -}}
+  {{- $widths := slice -}}
+  {{- range slice 800 1200 2400 -}}
+    {{- if le . $w -}}
+      {{- $widths = $widths | append . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- /* Mindestens eine Variante; wenn Original kleiner als 800px, nimm die Originalbreite */ -}}
+  {{- if not $widths -}}
+    {{- $widths = $widths | append $w -}}
+  {{- end -}}
+
+  {{- /* WebP-srcset bauen */ -}}
+  {{- $webpSrcset := slice -}}
+  {{- range $widths -}}
+    {{- $v := $img.Resize (printf "%dx webp" .) -}}
+    {{- $webpSrcset = $webpSrcset | append (printf "%s %dw" $v.RelPermalink .) -}}
+  {{- end -}}
+
+  {{- /* JPEG-Fallback: 1200px (oder kleiner, falls Original kleiner) */ -}}
+  {{- $fallbackW := cond (le 1200 $w) 1200 $w -}}
+  {{- $jpgFallback := $img.Resize (printf "%dx jpg" $fallbackW) -}}
+
+  <picture>
+    <source type="image/webp" srcset="{{ delimit $webpSrcset ", " }}" sizes="(max-width: 768px) 100vw, 800px">
+    <img src="{{ $jpgFallback.RelPermalink }}"
+         alt="{{ $alt }}"
+         {{- with $title }} title="{{ . }}"{{ end }}
+         width="{{ $jpgFallback.Width }}"
+         height="{{ $jpgFallback.Height }}"
+         loading="lazy"
+         decoding="async">
+  </picture>
+{{- else -}}
+  {{- /* Fallback: kein Resource gefunden — externes Bild oder static/-Asset */ -}}
+  <img src="{{ $dest | safeURL }}" alt="{{ $alt }}"{{ with $title }} title="{{ . }}"{{ end }} loading="lazy" decoding="async">
+{{- end -}}

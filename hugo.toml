@@ -16,6 +16,14 @@ buildFuture = true
     [markup.goldmark.renderer]
       unsafe = true
 
+# Image-Processing-Defaults (greift bei Resource.Resize / .Fit / .Fill / .Process)
+[imaging]
+  quality = 85
+  resampleFilter = "Lanczos"
+  anchor = "Smart"
+  hint = "photo"
+  bgColor = "#ffffff"
+
 [outputs]
 home = ["HTML", "RSS"]
 
