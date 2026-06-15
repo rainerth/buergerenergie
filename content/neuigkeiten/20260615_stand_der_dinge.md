@@ -1,13 +1,13 @@
 ---
 title: "Vier Wochen nach der Gründung — Stand der Dinge"
-subtitle: "Über 200 Interessenten · Hausbank gewählt · Beirat Technik komplett"
+subtitle: "Über 200 Interessenten · Beirat Technik komplett"
 date: 2026-06-15
 draft: false
 featured: true
-tags: ["Interessenten", "Volksbank Deisslingen", "Beirat Technik"]
+tags: ["Interessenten", "Beirat Technik"]
 categories: ["Neuigkeiten"]
 author: "AG Öffentlichkeitsarbeit"
-description: "Vier Wochen nach der Gründung am 19. Mai 2026 ist viel passiert: Über 200 Bürgerinnen und Bürger sind eingetragen, der Eigenkapital-Sockel für die ersten Projekte steht. Die Volksbank Deißlingen eG ist als Hausbank gewählt, der Beirat Technik ist komplett."
+description: "Vier Wochen nach der Gründung am 19. Mai 2026 ist viel passiert: Über 200 Bürgerinnen und Bürger sind eingetragen, der Eigenkapital-Sockel für die ersten Projekte steht. Der Beirat Technik ist komplett."
 ---
 
 Vier Wochen nach der Gründung am **19. Mai 2026** ist die **Bürgerenergie Bösingen-Herrenzimmern eG i.G.** sichtbar in Bewegung — in der Bürgerschaft, finanziell auf der Bank und personell im Beirat. Wir fassen zusammen, was seit der Gründungsversammlung passiert ist.
@@ -19,10 +19,6 @@ Vier Wochen nach der Gründung am **19. Mai 2026** ist die **Bürgerenergie Bös
 Inzwischen sind **über 200 Interessentinnen und Interessenten** eingetragen — die Marke, die wir uns selbst gesetzt hatten, ist überschritten. Viele davon haben ihre Absichtserklärung bereits zurückgeschickt und damit den **Eigenkapital-Sockel** für die ersten PV-Projekte gelegt.
 
 Wer noch nicht im Verteiler steht, kann sich weiterhin über das **[Kontaktformular auf der Startseite](/#kontaktformular)** unverbindlich eintragen. Wer direkt eine Absichtserklärung beilegen möchte, findet das leere Formular auf unserer **[Dokumente-Seite](/dokumente/)**.
-
-## Hausbank gewählt: Volksbank Deißlingen eG
-
-Die **Volksbank Deißlingen eG** — eine eigenständige Genossenschaftsbank vor Ort — ist die Hausbank der BEG. Das Geschäftskonto ist eingerichtet, der elektronische Zahlungsverkehr produktiv. Die Bank hat zudem eine erste Kreditzusage zur Ergänzung des Bürger-Eigenkapitals signalisiert.
 
 ## Beirat Technik komplett
 
