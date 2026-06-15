@@ -12,11 +12,6 @@ Die nächste **öffentliche Veranstaltung** ist die **Zeichnungsversammlung im S
 
 Den genauen Termin geben wir bekannt, sobald er feststeht — alle in unserer Interessentenliste erhalten dazu eine **persönliche Einladung** per Mail. Wer noch nicht eingetragen ist: über das [Kontaktformular auf der Startseite](/#kontaktformular).
 
-## Gemeindepolitischer Termin
-
-- **02.07.2026 — Öffentliche Gemeinderatssitzung Gemeinde Bösingen**
-  Auf der Tagesordnung stehen die BEG-Beschlüsse zu Dachpacht, Anschluss-Pfad und Verwaltungs-Mandat für die Stufe-1-Projekte (Schulkomplex Bösingen und Turn- und Festhalle Herrenzimmern).
-
 ## Externe Webinare und Veranstaltungen
 
 Empfehlenswerte Termine bei der **Klimaschutz- und Energieagentur Baden-Württemberg (KEA-BW)** — kostenlose Online-Sprechstunden, offen für alle:

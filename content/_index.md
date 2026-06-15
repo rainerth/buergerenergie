@@ -41,7 +41,6 @@ Damit Sie wissen, wofür wir stehen — bevor Sie sich eintragen.
 - **11. Juni 2026 — Kirchengemeinderat:** Der Kirchengemeinderat Bösingen hat grünes Licht für eine PV-Anlage auf dem Kirchendach gegeben. Damit ist die Kirche das dritte Stufe-1-Projekt. ([Stand der Dinge](/neuigkeiten/20260615_stand_der_dinge/))
 - **15. Juni 2026 — Ausschreibungsphase startet:** Die Ausschreibungen für die drei PV-Anlagen sind heute an die Bieter herausgegangen — Abgabefrist 07.07.2026.
 - **Aktuell — Gründungsprüfung beim BWGV:** Nach Abschluss der Prüfung wird die Genossenschaft beim Registergericht zur Eintragung angemeldet.
-- **02. Juli 2026 — Öffentliche Gemeinderatssitzung:** Beschlüsse zu Dachpacht, Anschluss-Pfad und Verwaltungs-Mandat für die kommunalen Stufe-1-Anlagen.
 - **Zeichnungsphase:** angestrebt **drittes Quartal 2026**, **nach Eintragung im Genossenschaftsregister** — dann werden die bisher abgegebenen Absichtserklärungen in Geschäftsanteile umgewandelt. Der genaue Zeitpunkt hängt von BWGV-Prüfung und Registergericht ab und liegt nicht in unserer Hand.
 
 ## Stufe 1: PV auf drei Dächern
