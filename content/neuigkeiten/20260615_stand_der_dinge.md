@@ -3,7 +3,7 @@ title: "Vier Wochen nach der Gründung — Stand der Dinge"
 subtitle: "Über 200 Interessenten · Vorbereitungen für die ersten Projekte laufen"
 date: 2026-06-15
 draft: false
-featured: true
+featured: false
 tags: ["Interessenten", "BWGV"]
 categories: ["Neuigkeiten"]
 author: "AG Öffentlichkeitsarbeit"
