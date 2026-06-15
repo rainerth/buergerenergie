@@ -96,7 +96,7 @@ Nach dem clearfix beginnt das normale Layout wieder.
 ```html
 <div class="contact-info">
   <h4>Kontakt</h4>
-  <p>Email: info@buergerenergie-boesingen.de</p>
+  <p>Email: info@buergerenergie-bhz.de</p>
 </div>
 ```
 

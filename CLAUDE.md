@@ -73,7 +73,7 @@ The `build.sh` script handles the complete build process:
 
 ## Site Configuration
 
-- **Base URL**: https://www.buergerenergie-boesingen.de
+- **Base URL**: https://www.buergerenergie-bhz.de (Alias: www.buergerenergie-boesingen.de — gleicher Hugo-public/-Output via Symlink)
 - **Language**: German (de)
 - **Theme**: Clean White with custom energy/nature CSS (`/static/css/buergerenergie.css`)
 - **Search**: PageFind with German language support

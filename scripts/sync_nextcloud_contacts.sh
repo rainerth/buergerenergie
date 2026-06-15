@@ -7,7 +7,7 @@
 set -e
 
 # Konfiguration
-NEXTCLOUD_URL="https://nextcloud.buergerenergie-boesingen.de/remote.php/dav/addressbooks/users/rainerthieringer/BEG%20Interessenten/"
+NEXTCLOUD_URL="https://nextcloud.buergerenergie-bhz.de/remote.php/dav/addressbooks/users/rainerthieringer/BEG%20Interessenten/"
 CSV_FILE="assets/data/interessenten.csv"
 
 # Prüfe ob Credentials gesetzt sind
@@ -19,7 +19,7 @@ if [ -z "$NEXTCLOUD_USER" ] || [ -z "$NEXTCLOUD_PASSWORD" ]; then
     echo "  export NEXTCLOUD_PASSWORD='ihr-app-passwort'"
     echo ""
     echo "App-Passwort erstellen:"
-    echo "  https://nextcloud.buergerenergie-boesingen.de/settings/user/security"
+    echo "  https://nextcloud.buergerenergie-bhz.de/settings/user/security"
     exit 1
 fi
 
