@@ -19,7 +19,7 @@ draft: false
   class="float-left mr-3 mb-3"
 >}}
 
-Die *Bürgerenergie Bösingen-Herrenzimmern eG i.G.* ist am **19. Mai 2026** gegründet worden — 23 Gründerinnen und Gründer haben die Satzung einstimmig angenommen, darunter Bürgermeister Peter Schuster im Aufsichtsrat. Bis zur Eintragung ins Genossenschaftsregister läuft die Genossenschaft als „eG in Gründung". Über **170 Interessentinnen und Interessenten** stehen hinter dem Vorhaben.
+Die *Bürgerenergie Bösingen-Herrenzimmern eG i.G.* ist am **19. Mai 2026** gegründet worden — 23 Gründerinnen und Gründer haben die Satzung einstimmig angenommen, darunter Bürgermeister Peter Schuster im Aufsichtsrat. Bis zur Eintragung ins Genossenschaftsregister läuft die Genossenschaft als „eG in Gründung". Über **200 Interessentinnen und Interessenten** stehen hinter dem Vorhaben.
 
 Unser Ziel: **Energieprojekte vor Ort, finanziert von den Bürgerinnen und Bürgern, mit Nutzen für die Gemeinde.**
 
@@ -37,21 +37,24 @@ Damit Sie wissen, wofür wir stehen — bevor Sie sich eintragen.
 
 - **19. März 2026 — Gemeinderatsbeschluss:** Die BEG darf auf dem **Schulkomplex Bösingen** und der **Turn- und Festhalle Herrenzimmern** je eine **PV-Anlage mit rund 99 kWp** errichten.
 - **15. April 2026 — Einreichung beim BWGV:** Satzung, Geschäftsplan und Planungsrechnungen sind beim Baden-Württembergischen Genossenschaftsverband zur Vorprüfung.
-- **19. Mai 2026 — Gründungsversammlung:** 23 Gründerinnen und Gründer haben die Satzung einstimmig beschlossen, Vorstand und Aufsichtsrat sind gewählt. Mit Bürgermeister Peter Schuster sitzt die Gemeinde im Aufsichtsrat. ([Nachbericht](/neuigkeiten/20260521_gruendung_vollzogen/))
+- **19. Mai 2026 — Gründungsversammlung:** 23 Gründerinnen und Gründer haben die Satzung einstimmig beschlossen, Vorstand und Aufsichtsrat sind gewählt. Mit Bürgermeister Peter Schuster sitzt die Gemeinde im Aufsichtsrat. ([Nachbericht](/neuigkeiten/20260519_gruendung_vollzogen/))
+- **11. Juni 2026 — Bauausschuss und Kirchengemeinderat:** Im Bauausschuss Bösingen hat die BEG ihr Konzept für die PV-Anlagen auf Schulkomplex Bösingen und Turn- und Festhalle Herrenzimmern vorgestellt. Am selben Abend hat der Kirchengemeinderat Bösingen grünes Licht für eine PV-Anlage auf dem Kirchendach gegeben. ([Stand der Dinge](/neuigkeiten/20260615_stand_der_dinge/))
+- **15. Juni 2026 — Ausschreibungsphase startet:** Die Ausschreibungen für die drei PV-Anlagen sind heute an die Bieter herausgegangen — Abgabefrist 30.06.2026.
 - **Aktuell — Gründungsprüfung beim BWGV:** Nach Abschluss der Prüfung wird die Genossenschaft beim Registergericht zur Eintragung angemeldet.
+- **02. Juli 2026 — Öffentliche Gemeinderatssitzung:** Beschlüsse zu Dachpacht, Anschluss-Pfad und Verwaltungs-Mandat für die kommunalen Stufe-1-Anlagen.
 - **Zeichnungsphase:** angestrebt **drittes Quartal 2026**, **nach Eintragung im Genossenschaftsregister** — dann werden die bisher abgegebenen Absichtserklärungen in Geschäftsanteile umgewandelt. Der genaue Zeitpunkt hängt von BWGV-Prüfung und Registergericht ab und liegt nicht in unserer Hand.
 
-## Stufe 1: PV auf zwei kommunalen Dächern
+## Stufe 1: PV auf drei Dächern
 
-Den Anfang machen die beiden vom Gemeinderat zugesagten Dächer — Schulkomplex Bösingen und T&F-Halle Herrenzimmern. Das Investitionsvolumen liegt **in der Größenordnung einer Dreiviertelmillion Euro** und wird durch **Bürger-Einlagen und ergänzende Darlehen** getragen — **ohne Investition der Gemeinde**. Strom wird zuerst lokal in den Liegenschaften verbraucht, der Rest fließt ins Netz.
+Den Anfang machen drei zugesagte Dächer — **Schulkomplex Bösingen** und **Turn- und Festhalle Herrenzimmern** (vom Gemeinderat zugesagt) sowie die **Kirche Bösingen** (vom Kirchengemeinderat zugesagt). Die Investition wird durch **Bürger-Einlagen und ergänzende Darlehen** getragen — **ohne Investition der Gemeinde und ohne Investition der Kirchengemeinde**. Strom wird zuerst lokal in den Liegenschaften verbraucht, der Rest fließt ins Netz.
 
-**Gate-Prinzip:** Jede weitere Stufe wird erst angegangen, wenn die vorhergehende erfolgreich umgesetzt ist. So bleibt das Risiko für Genossenschaft und Gemeinde überschaubar.
+**Schritt für Schritt:** Jede weitere Stufe baut auf den Erfahrungen und Erfolgen der vorhergehenden auf — so wächst die Genossenschaft solide und mit Augenmaß.
 
 > **Stufe 1 ist zugesagt, alles Weitere ist Projektidee in Prüfung.**
 
 ## Was später dazu kommen kann
 
-* **Weitere PV-Anlagen** auf kommunalen Gebäuden, Vereinsheimen, Kirchendächern
+* **Weitere PV-Anlagen** auf kommunalen Gebäuden und Vereinsheimen
 * **Wärmeversorgung** des Schulkomplexes (z.B. Wärmepumpe, ggf. mit Abwasser- oder Erdwärmequelle)
 * **Energy Sharing** — günstigerer Strom direkt für Mitglieder, sobald die deutsche Umsetzung der EU-Richtlinie steht
 
@@ -71,8 +74,8 @@ Was Sie davon haben:
 # Jetzt ist der richtige Zeitpunkt
 
 {{< admonition type="tip" title="Wir brauchen SIE — und Ihre Freunde!" >}}
-**Stand heute:** über **170 Interessenten** sind eingetragen.
-**Ziel:** **200 Interessenten** bis zur Zeichnungsphase — das zeigt Politik, Behörden und Förderern, dass die Initiative breit getragen wird.
+**Stand heute:** über **200 Interessenten** sind eingetragen — die selbst gesetzte Marke ist überschritten.
+**Neues Ziel:** **250 Interessenten** bis zur Zeichnungsphase — das zeigt Politik, Behörden und Förderern, dass die Initiative breit getragen wird.
 
 Eine Eintragung ist **unverbindlich und kostenlos**. Sie erhalten regelmäßige Mails zu Fortschritten und werden rechtzeitig vor der Zeichnungsphase informiert, sobald die Eintragung ins Genossenschaftsregister erfolgt ist.
 {{< /admonition >}}
@@ -102,4 +105,4 @@ Kennen Sie jemanden, der Interesse an erneuerbaren Energien hat? **Sprechen Sie 
 
 ---
 
-*Hinweis: Außer den vom Gemeinderat zugesagten beiden PV-Anlagen sind alle weiteren Vorhaben Projektideen in Prüfung. Konkrete Schritte stimmen wir mit der Gemeinde, dem BWGV und unseren Mitgliedern ab.*
+*Hinweis: Außer den drei zugesagten PV-Anlagen (Schulkomplex Bösingen, Turn- und Festhalle Herrenzimmern, Kirche Bösingen) sind alle weiteren Vorhaben Projektideen in Prüfung. Konkrete Schritte stimmen wir mit der Gemeinde, der Kirchengemeinde, dem BWGV und unseren Mitgliedern ab.*

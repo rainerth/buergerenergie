@@ -17,22 +17,20 @@ Die BEG baut, finanziert und betreibt Anlagen zur erneuerbaren Energieerzeugung 
 
 - PV-Anlage rund 99 kWp auf dem Schulkomplex Bösingen
 - PV-Anlage rund 99 kWp auf der Turn- und Festhalle Herrenzimmern
-
-Investitionsvolumen rund **200.000 €**.
+- PV-Anlage auf der Kirche Bösingen — vom Kirchengemeinderat zugesagt
 
 **Mögliche weitere Stufen (ab 2027, bei Erfolg von Stufe 1):**
 
-- PV auf weiteren kommunalen Dächern (Bereich Mehrzweckhalle, Kirche Bösingen, Schule und Rathaus Herrenzimmern, …)
-- Nutzung der PV durch lokale Wärmepumpen, wo möglich.
+- PV auf weiteren kommunalen Dächern und Vereinsheimen
+- Nutzung der PV durch lokale Wärmepumpen, wo möglich
 - Energy Sharing — günstigerer Strom direkt für Mitglieder
 
-**Gate-Prinzip:** Jede weitere Stufe wird erst angegangen, wenn die vorhergehende erfolgreich umgesetzt ist um mögliche Risiken zu vermeiden.
+**Schritt für Schritt:** Jede weitere Stufe baut auf den Erfahrungen und Erfolgen der vorhergehenden auf — so wächst die Genossenschaft solide und mit Augenmaß.
 
 ## Was zusätzlich möglich wird
 
-Schon mit den beiden zugesagten PV-Anlagen rechnet sich Stufe 1. Bei ausreichendem Eigenkapital aus der Zeichnung können wir bereits in Stufe 1 weitere Bausteine realisieren — ohne dafür mehr Bank-Darlehen aufzunehmen:
+Bei ausreichendem Eigenkapital aus der Zeichnung können wir in Stufe 1 weitere Bausteine realisieren — ohne dafür mehr Bank-Darlehen aufzunehmen:
 
-- **PV-Anlage rund 30 kWp** auf einem weiteren kommunalen Gebäude, dessen Dach ohnehin saniert werden muss — Sanierung und PV-Aufbau in einem Zug.
 - **Anbindung von Rathaus und Schule Herrenzimmern** an die PV-Anlage auf dem Dach der Turn- und Festhalle — der dort erzeugte Strom versorgt direkt zwei weitere Liegenschaften.
 - **Batteriespeicher** für die Eigenversorgung der kommunalen Gebäude, zur Stabilisierung des Stromnetzes (Netzdienlichkeit) und als Notstrom bei Stromausfall oder in Krisensituationen.
 
@@ -40,16 +38,15 @@ Welche dieser Erweiterungen wir angehen, entscheiden Vorstand und Aufsichtsrat n
 
 ## Wie die BEG Geld verdient
 
-Die Gemeinde zahlt der BEG einen zu vereinbarenden Preis pro Kilowattstunde — spürbar unter dem aktuellen Netzstrompreis. Die Gemeinde senkt damit ihre Energiekosten, die BEG erzielt verlässliche Einnahmen, die Wertschöpfung bleibt im Ort. Überschüssiger Strom wird ins Netz verkauft.
+Die Gemeinde zahlt der BEG einen zu vereinbarenden Preis pro Kilowattstunde — spürbar unter dem aktuellen Netzstrompreis. Die Gemeinde senkt damit ihre Energiekosten, die BEG erzielt verlässliche Einnahmen, die Wertschöpfung bleibt im Ort. Überschüssiger Strom wird ins Netz oder, sobald gesetzlich möglich, per Energy Sharing an die Mitglieder der BEG verkauft.
 
 ## Finanzieller Rahmen
 
 | | |
 |---|---|
-| Investitionsvolumen Stufe 1 | ca. 200.000 € |
 | Finanzierung | mindestens 60 % Einlagen der Mitglieder, max. 40 % Bankdarlehen |
 | Anteile | ab 100 € (1 Geschäftsanteil), beliebig viele können gezeichnet werden |
-| Risiko | In eingetragenen Genossenschaften begrenzt auf die Einlage (keine Nachschusspflicht) |
+| Haftung | In eingetragenen Genossenschaften begrenzt auf die Einlage (keine Nachschusspflicht) |
 
 ## Was Mitglieder davon haben
 

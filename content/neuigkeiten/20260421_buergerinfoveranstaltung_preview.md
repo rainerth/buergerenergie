@@ -44,7 +44,7 @@ Im BEG-Block stellte das Gründungsteam den aktuellen Stand vor:
 * Aktuell **140 Interessentinnen und Interessenten** sind eingetragen.
 * Mitglied werden kann man **ab 100 € einmaliger Einlage**.
 * **Stufe 1** ist bereits zugesagt: PV-Anlagen auf dem **Schulkomplex Bösingen** und der **Turn- und Festhalle Herrenzimmern** (je rund 99 kWp), nachdem der Gemeinderat am 19. März 2026 grünes Licht gegeben hat.
-* **Investitionsvolumen** für das Energiepaket der Gemeinde: in der Größenordnung einer Dreiviertelmillion Euro — getragen von Bürger-Einlagen und ergänzenden Darlehen.
+* **Investitionsvolumen** für das Energiepaket der Gemeinde: getragen von Bürger-Einlagen und ergänzenden Darlehen — ohne Investition der Gemeinde.
 
 Begleitet wird der Gründungsprozess vom **Baden-Württembergischen Genossenschaftsverband (BWGV)** und der **Klima- und Energieagentur Schwarzwald-Baar-Heuberg**.
 
