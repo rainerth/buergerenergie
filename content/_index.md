@@ -35,16 +35,15 @@ Damit Sie wissen, wofür wir stehen — bevor Sie sich eintragen.
 
 ## Wo wir heute stehen
 
-- **19. März 2026 — Gemeinderatsbeschluss:** Die BEG darf auf dem **Schulkomplex Bösingen** und der **Turn- und Festhalle Herrenzimmern** je eine **PV-Anlage mit rund 99 kWp** errichten.
 - **15. April 2026 — Einreichung beim BWGV:** Satzung, Geschäftsplan und Planungsrechnungen sind beim Baden-Württembergischen Genossenschaftsverband zur Vorprüfung.
 - **19. Mai 2026 — Gründungsversammlung:** 23 Gründerinnen und Gründer haben die Satzung einstimmig beschlossen, Vorstand und Aufsichtsrat sind gewählt. Mit Bürgermeister Peter Schuster sitzt die Gemeinde im Aufsichtsrat. ([Nachbericht](/neuigkeiten/20260519_gruendung_vollzogen/))
 - **15. Juni 2026 — Ausschreibungsphase startet:** Die Ausschreibungen für die zugesagten PV-Anlagen sind an die Bieter herausgegangen — Abgabefrist 07.07.2026.
 - **Aktuell — Gründungsprüfung beim BWGV:** Nach Abschluss der Prüfung wird die Genossenschaft beim Registergericht zur Eintragung angemeldet.
 - **Zeichnungsphase:** angestrebt **drittes Quartal 2026**, **nach Eintragung im Genossenschaftsregister** — dann werden die bisher abgegebenen Absichtserklärungen in Geschäftsanteile umgewandelt. Der genaue Zeitpunkt hängt von BWGV-Prüfung und Registergericht ab und liegt nicht in unserer Hand.
 
-## Stufe 1: PV auf zwei kommunalen Dächern
+## Stufe 1: PV auf kommunalen Dächern
 
-Den Anfang machen die beiden vom Gemeinderat zugesagten Dächer — **Schulkomplex Bösingen** und **Turn- und Festhalle Herrenzimmern**. Die Investition wird durch **Bürger-Einlagen und ergänzende Darlehen** getragen — **ohne Investition der Gemeinde**. Strom wird zuerst lokal in den Liegenschaften verbraucht, der Rest fließt ins Netz.
+Die ersten PV-Anlagen werden auf kommunalen Dächern in unserer Gemeinde geplant. Die Investition wird durch **Bürger-Einlagen und ergänzende Darlehen** getragen — **ohne Investition der Gemeinde**. Strom wird zuerst lokal in den Liegenschaften verbraucht, der Rest fließt ins Netz.
 
 **Schritt für Schritt:** Jede weitere Stufe baut auf den Erfahrungen und Erfolgen der vorhergehenden auf — so wächst die Genossenschaft solide und mit Augenmaß.
 
@@ -103,4 +102,4 @@ Kennen Sie jemanden, der Interesse an erneuerbaren Energien hat? **Sprechen Sie 
 
 ---
 
-*Hinweis: Außer den beiden vom Gemeinderat zugesagten PV-Anlagen (Schulkomplex Bösingen, Turn- und Festhalle Herrenzimmern) sind alle weiteren Vorhaben Projektideen in Prüfung. Konkrete Schritte stimmen wir mit der Gemeinde, dem BWGV und unseren Mitgliedern ab.*
+*Hinweis: Konkrete Schritte und Standorte stimmen wir mit der Gemeinde, dem BWGV und unseren Mitgliedern ab.*
