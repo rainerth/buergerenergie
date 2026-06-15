@@ -31,7 +31,7 @@ Dieser Meilenstein ist das Ergebnis eines knappen Jahres intensiver Arbeit — g
 
 - **August 2025** — Erster Kontakt zum BWGV, Informationen zu Förderprogrammen und Gründungsablauf.
 - **Oktober 2025** — Drei Infoveranstaltungen in Bösingen und Herrenzimmern; daraus entsteht unser Gründungsteam mit 20 engagierten Mitgliedern und ein Interessentenverteiler von rund 110 Personen.
-- **März 2026** — Der Gemeinderat beschließt: Die BEG i.G. darf auf den Dächern des **Schulkomplexes Bösingen** und der **Turn- und Festhalle Herrenzimmern** je eine PV-Anlage mit **99 kWp** errichten.
+- **März 2026** — Die Gemeinde stellt der BEG i.G. erste kommunale Dachflächen für PV-Anlagen in Aussicht.
 - **April 2026** — Finaler Review der Unterlagen durch einen erfahrenen Genossenschaftsprüfer, Einarbeitung aller Anmerkungen in die Version 2.2.
 - **15.04.2026** — **Einreichung beim BWGV zur Vorprüfung.**
 
@@ -39,7 +39,7 @@ Dieser Meilenstein ist das Ergebnis eines knappen Jahres intensiver Arbeit — g
 
 Der BWGV wird in den kommenden Wochen unsere Unterlagen prüfen und uns Rückmeldung geben. Im Anschluss findet die **Gründungsversammlung im kleinen Kreis** statt (Anfang Mai 2026), gefolgt von der Eintragung beim Genossenschaftsregister. Parallel bereiten wir die **Zeichnungsversammlung** für Juli 2026 (Fallback September) vor — eine feierliche Veranstaltung in der Mehrzweckhalle Bösingen, zu der alle Interessierten eingeladen sind, um als Mitglied beizutreten und Anteile zu zeichnen.
 
-Unser Ziel: Die ersten beiden PV-Anlagen mit 99 kWp noch in 2026 in Betrieb nehmen, um die aktuelle EEG-Vergütung zu sichern. Voraussetzung ist, dass wir genügend Investoren finden. Bei bisher bereits 140 gemeldete Interessenten sind wir hier guter Dinge.
+Unser Ziel: Die ersten PV-Anlagen noch in 2026 in Betrieb nehmen, um die aktuelle EEG-Vergütung zu sichern. Voraussetzung ist, dass wir genügend Investoren finden. Bei bisher bereits 140 gemeldete Interessenten sind wir hier guter Dinge.
 
 ## Danke!
 

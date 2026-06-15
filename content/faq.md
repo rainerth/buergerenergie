@@ -100,33 +100,33 @@ Die Dividende einer Genossenschaft ist ein **Kapitalertrag** (§ 20 EStG) und wi
 
 ### Was ist das erste geplante Projekt?
 
-**Stufe 1 ist vom Gemeinderat am 19. März 2026 zugesagt:** PV-Anlagen auf dem **Schulkomplex Bösingen** und auf der **Turn- und Festhalle Herrenzimmern** — je rund **99 kWp**. Damit speist die BEG zuerst dort ein, wo der Strom auch direkt gebraucht wird: Grundschule, Mehrzweckhalle und Lehrschwimmbecken in Bösingen, T&F-Halle in Herrenzimmern. Ergänzend wird in einer späteren Stufe geprüft, ob ein **Batteriespeicher** und eine **Wärmepumpe** für den Schulkomplex sinnvoll integriert werden können.
+**Stufe 1**: PV-Anlagen auf kommunalen Dächern in unserer Gemeinde. Die BEG speist zuerst dort ein, wo der Strom auch direkt gebraucht wird — in den jeweiligen Liegenschaften. Ergänzend wird in einer späteren Stufe geprüft, ob **Batteriespeicher** und **Wärmepumpen** für kommunale Gebäude sinnvoll integriert werden können.
 
-### Warum gerade Schulkomplex und T&F-Halle?
+### Warum diese Dächer?
 
-Beide Dächer bringen gute Voraussetzungen mit:
+Geeignete Dächer bringen gute Voraussetzungen mit:
 
 - **Große, gut ausgerichtete Dachflächen** für PV-Anlagen
-- **Hoher Eigenverbrauch** vor Ort — in Bösingen durch Schule, Mehrzweckhalle und Schwimmbad, in Herrenzimmern durch die T&F-Halle. Vor Ort erzeugter Strom kann unmittelbar genutzt werden.
-- **Sichtbarkeit in beiden Ortsteilen** — Projekte, die Bürgerinnen und Bürger jeden Tag sehen und die zeigen: Bösingen und Herrenzimmern setzen die Energiewende gemeinsam um.
+- **Hoher Eigenverbrauch** vor Ort — der erzeugte Strom kann unmittelbar in der jeweiligen Liegenschaft genutzt werden.
+- **Sichtbarkeit in der Gemeinde** — Projekte, die Bürgerinnen und Bürger jeden Tag sehen und die zeigen: Bösingen und Herrenzimmern setzen die Energiewende gemeinsam um.
 
 ### Was hat die Gemeinde davon?
 
-Die Gemeinde profitiert als Stromabnehmerin von **günstigeren Energiekosten** auf ihren eigenen Liegenschaften — **ohne selbst investieren zu müssen**. Die Genossenschaft trägt das Investitionsvolumen über Bürger-Einlagen und ergänzende Darlehen. Gleichzeitig werden Schulkomplex und T&F-Halle schrittweise unabhängiger von fossilen Energieträgern. Bürgermeister Schuster hat es auf der Bürgerinformationsveranstaltung am 21. April 2026 so zusammengefasst: *„Wer Energiekosten spart, schafft Spielraum für den Erhalt öffentlicher Einrichtungen."*
+Die Gemeinde profitiert als Stromabnehmerin von **günstigeren Energiekosten** auf ihren eigenen Liegenschaften — **ohne selbst investieren zu müssen**. Die Genossenschaft trägt das Investitionsvolumen über Bürger-Einlagen und ergänzende Darlehen. Gleichzeitig werden die ausgewählten kommunalen Gebäude schrittweise unabhängiger von fossilen Energieträgern. Bürgermeister Schuster hat es auf der Bürgerinformationsveranstaltung am 21. April 2026 so zusammengefasst: *„Wer Energiekosten spart, schafft Spielraum für den Erhalt öffentlicher Einrichtungen."*
 
 ### Gibt es darüber hinaus weitere Ideen?
 
 Ja. Der Geschäftsplan sieht einen **stufenweisen Ausbau über mehrere Phasen** vor — nach dem **Gate-Prinzip**: Jede weitere Stufe wird erst angegangen, wenn die vorhergehende erfolgreich umgesetzt ist. Denkbar sind unter anderem:
 
-- **Weitere PV-Anlagen** auf kommunalen Gebäuden, Vereinsheimen und Kirchendächern
-- **Wärmeversorgung** kommunaler Gebäude (z.B. Wärmepumpe, ggf. mit Abwasser- oder Erdwärmequelle für den Schulkomplex)
+- **Weitere PV-Anlagen** auf kommunalen Gebäuden und Vereinsheimen
+- **Wärmeversorgung** kommunaler Gebäude (z.B. Wärmepumpe, ggf. mit Abwasser- oder Erdwärmequelle)
 - **Energy Sharing** — günstigerer Strom direkt für Mitglieder, sobald die deutsche Umsetzung der EU-Richtlinie verfügbar ist
 
 **Stufe 1 ist zugesagt, alles Weitere ist Projektidee in Prüfung.**
 
 ### Sind weitere Projekte schon festgelegt?
 
-Nein. Festgelegt — durch Gemeinderatsbeschluss vom 19. März 2026 — ist **Stufe 1** (PV Schulkomplex Bösingen + T&F-Halle Herrenzimmern). Alle weiteren Stufen sind **Projektideen in Prüfung**. Sie werden mit der Gemeinde, dem BWGV und den Mitgliedern der Genossenschaft schrittweise abgestimmt — und als Mitglied **stimmen Sie bei wichtigen Fragen in der Generalversammlung mit**.
+Nein. Festgelegt ist **Stufe 1** mit PV-Anlagen auf kommunalen Dächern. Alle weiteren Stufen sind **Projektideen in Prüfung**. Sie werden mit der Gemeinde, dem BWGV und den Mitgliedern der Genossenschaft schrittweise abgestimmt — und als Mitglied **stimmen Sie bei wichtigen Fragen in der Generalversammlung mit**.
 
 ---
 

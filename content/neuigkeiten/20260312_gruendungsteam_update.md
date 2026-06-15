@@ -25,7 +25,7 @@ Das Gründungsteam der Bürgerenergie Bösingen-Herrenzimmern hat sich in vier A
 
 ## Was steht an?
 
-Nach der Vorstellung des aktuellen Stands und der geplanten Projekte im Gemeinderat geht es nun in die konkrete Projektplanung. Wir wollen noch in diesem Jahr mit 2 PV-Anlagen mit je knapp 100 kW (peak) starten. Die Gemeinde unterstützt uns dabei und wird uns auf Basis eines Gemeinderatsbeschlusses geeignete Dachflächen auf der Schule in Bösingen und der Turn- und Festhalle in Herrenzimmern verpachten. 
+Nach intensiver Vorarbeit geht es nun in die konkrete Projektplanung. Wir wollen noch in diesem Jahr mit den ersten PV-Anlagen auf kommunalen Dächern starten. Die Gemeinde unterstützt uns dabei als Partner. 
 
 ## Wie können Sie mitmachen?
 
