@@ -60,7 +60,7 @@ Im Genossenschaftsrecht hat jedes Mitglied, **unabhängig von der Kapitalbeteili
 
 ### Mögliche Projekte in Bösingen und Herrenzimmern
 
-* **PV-Anlagen auf Vereinsheimen oder öffentlichen Gebäuden**: Gemeinsam nutzen wir Sonnenenergie.
+* **PV-Anlagen auf öffentlichen Gebäuden**: Gemeinsam nutzen wir Sonnenenergie.
 
 * **Beteiligung an den geplanten Windparks**: Die Genossenschaft beteiligt sich an Windkraftanlagen.
 

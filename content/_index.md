@@ -51,7 +51,7 @@ Die ersten PV-Anlagen werden auf kommunalen Dächern in unserer Gemeinde geplant
 
 ## Was später dazu kommen kann
 
-* **Weitere PV-Anlagen** auf kommunalen Gebäuden und Vereinsheimen
+* **Weitere PV-Anlagen** auf kommunalen Gebäuden
 * **Wärmeversorgung** des Schulkomplexes (z.B. Wärmepumpe, ggf. mit Abwasser- oder Erdwärmequelle)
 * **Energy Sharing** — günstigerer Strom direkt für Mitglieder, sobald die deutsche Umsetzung der EU-Richtlinie steht
 

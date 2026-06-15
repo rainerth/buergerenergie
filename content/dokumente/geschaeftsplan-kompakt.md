@@ -19,7 +19,7 @@ Die BEG baut, finanziert und betreibt Anlagen zur erneuerbaren Energieerzeugung 
 
 **Mögliche weitere Stufen (ab 2027, bei Erfolg von Stufe 1):**
 
-- PV auf weiteren kommunalen Dächern und Vereinsheimen
+- PV auf weiteren kommunalen Dächern
 - Nutzung der PV durch lokale Wärmepumpen, wo möglich
 - Energy Sharing — günstigerer Strom direkt für Mitglieder
 

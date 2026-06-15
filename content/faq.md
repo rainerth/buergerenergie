@@ -118,7 +118,7 @@ Die Gemeinde profitiert als Stromabnehmerin von **günstigeren Energiekosten** a
 
 Ja. Der Geschäftsplan sieht einen **stufenweisen Ausbau über mehrere Phasen** vor — nach dem **Gate-Prinzip**: Jede weitere Stufe wird erst angegangen, wenn die vorhergehende erfolgreich umgesetzt ist. Denkbar sind unter anderem:
 
-- **Weitere PV-Anlagen** auf kommunalen Gebäuden und Vereinsheimen
+- **Weitere PV-Anlagen** auf kommunalen Gebäuden
 - **Wärmeversorgung** kommunaler Gebäude (z.B. Wärmepumpe, ggf. mit Abwasser- oder Erdwärmequelle)
 - **Energy Sharing** — günstigerer Strom direkt für Mitglieder, sobald die deutsche Umsetzung der EU-Richtlinie verfügbar ist
 

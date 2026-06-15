@@ -49,7 +49,7 @@ Aus dem Programm des **Photovoltaik-Netzwerks Baden-Württemberg**:
   [Mehr Info und Anmeldung](https://www.photovoltaik-bw.de/pv-netzwerk/veranstaltungen/energy-sharing-was-muss-die-energieberatungs-branche-wissen)
 
 - **11.08.2026 — PV in Kommunen: Die 10 Gebote der Freiflächen-PV**
-  Online-Webinar des PV-Netzwerks BW. Auch wenn die BEG-Stufe 1 nur Dächer betrifft: für spätere Stufen (PV auf kommunalen Flächen, Vereinsheimen) eine sinnvolle Hintergrund-Veranstaltung.
+  Online-Webinar des PV-Netzwerks BW. Auch wenn die BEG-Stufe 1 nur Dächer betrifft: für spätere Stufen (PV auf kommunalen Flächen) eine sinnvolle Hintergrund-Veranstaltung.
   [Mehr Info und Anmeldung](https://www.photovoltaik-bw.de/pv-netzwerk/veranstaltungen/pv-in-kommunen-die-10-gebote-der-freiflaechen-pv)
 
 - **03.11.2026 — Batterien und Speichersysteme**
