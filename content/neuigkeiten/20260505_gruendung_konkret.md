@@ -48,7 +48,7 @@ Nach der Gründungsversammlung folgt die offizielle **Gründungsprüfung durch d
 
 ## Was die Gemeinde davon hat
 
-Eine Kommune kann erneuerbare Energien auf verschiedenen Wegen finanzieren — von der Eigenregie bis zu Contracting mit einem Energieversorger. Mit der BEG bekommt die Gemeinde Bösingen einen zusätzlichen Contracting-Partner — in Bürgerhand, lokal verwurzelt. Welcher Weg im Einzelfall der beste ist, entscheidet die Gemeinde frei auf Basis des besten Angebots. Bei den ersten drei Dächern (Schulkomplex, Turn- und Festhalle Herrenzimmern, Kirche Bösingen) fließt keine kommunale Investition — dafür entstehen regionale Wertschöpfung und ein sichtbarer Beitrag zur kommunalen Klimabilanz.
+Eine Kommune kann erneuerbare Energien auf verschiedenen Wegen finanzieren — von der Eigenregie bis zu Contracting mit einem Energieversorger. Mit der BEG bekommt die Gemeinde Bösingen einen zusätzlichen Contracting-Partner — in Bürgerhand, lokal verwurzelt. Welcher Weg im Einzelfall der beste ist, entscheidet die Gemeinde frei auf Basis des besten Angebots. Bei den ersten beiden zugesagten Dächern (Schulkomplex Bösingen und Turn- und Festhalle Herrenzimmern) fließt keine kommunale Investition — dafür entstehen regionale Wertschöpfung und ein sichtbarer Beitrag zur kommunalen Klimabilanz.
 
 ---
 

@@ -1,24 +1,18 @@
 ---
 title: "Vier Wochen nach der Gründung — Stand der Dinge"
-subtitle: "Kirche im Blick · über 200 Interessenten · Hausbank gewählt · Beirat Technik komplett"
+subtitle: "Über 200 Interessenten · Hausbank gewählt · Beirat Technik komplett"
 date: 2026-06-15
 draft: false
 featured: true
-tags: ["Gemeinderat", "Interessenten", "Volksbank Deisslingen", "Beirat Technik", "Kirche"]
+tags: ["Interessenten", "Volksbank Deisslingen", "Beirat Technik"]
 categories: ["Neuigkeiten"]
 author: "AG Öffentlichkeitsarbeit"
-description: "Vier Wochen nach der Gründung am 19. Mai 2026 ist viel passiert: Der Kirchengemeinderat Bösingen hat grünes Licht für eine PV-Anlage auf dem Kirchendach gegeben. Über 200 Bürgerinnen und Bürger sind eingetragen, der Eigenkapital-Sockel für die ersten Projekte steht. Die Volksbank Deißlingen eG ist als Hausbank gewählt, der Beirat Technik ist komplett."
+description: "Vier Wochen nach der Gründung am 19. Mai 2026 ist viel passiert: Über 200 Bürgerinnen und Bürger sind eingetragen, der Eigenkapital-Sockel für die ersten Projekte steht. Die Volksbank Deißlingen eG ist als Hausbank gewählt, der Beirat Technik ist komplett."
 ---
 
-Vier Wochen nach der Gründung am **19. Mai 2026** ist die **Bürgerenergie Bösingen-Herrenzimmern eG i.G.** sichtbar in Bewegung — in der Kirchengemeinde, finanziell auf der Bank und personell im Beirat. Wir fassen zusammen, was seit der Gründungsversammlung passiert ist.
+Vier Wochen nach der Gründung am **19. Mai 2026** ist die **Bürgerenergie Bösingen-Herrenzimmern eG i.G.** sichtbar in Bewegung — in der Bürgerschaft, finanziell auf der Bank und personell im Beirat. Wir fassen zusammen, was seit der Gründungsversammlung passiert ist.
 
 <!--more-->
-
-## Grünes Licht vom Kirchengemeinderat
-
-Am **11. Juni 2026** hat der **Kirchengemeinderat Bösingen** grünes Licht gegeben: Die BEG darf eine **Photovoltaik-Anlage auf dem Kirchendach** in den Blick nehmen. Der Hintergrund: Die Kirche wird elektrisch beheizt, und die Stromkosten drücken seit Jahren auf den Kirchengemeinde-Haushalt. Mit einer eigenen PV-Anlage kann die Kirchengemeinde einen Teil ihres Strombedarfs selbst decken — und die BEG kann sie dabei unterstützen, ohne dass die Kirchengemeinde selbst investieren muss.
-
-Die Anlage ist deutlich kleiner als die beiden kommunalen Dächer und kommt ohne Speicher und ohne Tiefbau aus — der Bestandsanschluss der Kirche reicht aus. Damit wird die Kirche zu einem **dritten Stufe-1-Projekt** neben Schulkomplex und Turn- und Festhalle.
 
 ## Über 200 Bürgerinnen und Bürger sind dabei
 

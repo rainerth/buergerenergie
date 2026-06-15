@@ -60,17 +60,6 @@ Die Dachflächen der Mehrzweckhalle und des Lehrschwimmbeckens könnten großes 
 
 Als mögliches Zusatzfeature wird eine Notstromfähigkeit für die Feuerwehr untersucht.
 
-### Kirche Bösingen (~65 kWp)
-
-{{< optimized-image
-    name="artikel/pv_kirche_boesingen.png"
-    width="700"
-    alt="PV-Modulbelegung Kirche Bösingen mit 65 kWp"
-    caption="PV-Modulbelegung Kirche Bösingen"
->}}
-
-Mögliche PV-Anlage auf dem Kirchendach — in Abstimmung mit der Kirchengemeinde.
-
 ### Weitere Projekte
 
 Zusätzlich untersuchen wir weitere Gebäude wie **Kindergarten & Feuerwehr** (~100 kWp) und andere Objekte in beiden Ortsteilen.

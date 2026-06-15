@@ -17,7 +17,6 @@ Die BEG baut, finanziert und betreibt Anlagen zur erneuerbaren Energieerzeugung 
 
 - PV-Anlage rund 99 kWp auf dem Schulkomplex Bösingen
 - PV-Anlage rund 99 kWp auf der Turn- und Festhalle Herrenzimmern
-- PV-Anlage auf der Kirche Bösingen — vom Kirchengemeinderat zugesagt
 
 **Mögliche weitere Stufen (ab 2027, bei Erfolg von Stufe 1):**
 
