@@ -2,7 +2,7 @@
 title: "Die Gründung nimmt Fahrt auf"
 subtitle: "Entwürfe für Geschäftsplan und Leitbild, Steckbriefe für Projektideen"
 date: 2026-03-20
-draft: false
+draft: true
 featured: false
 tags: ["Gründungsteam", "Geschäftsplan", "Projekte"]
 categories: ["Neuigkeiten"]

@@ -54,7 +54,7 @@ Alle Funktionen sind **ehrenamtlich**.
 
 ## Großes Echo aus der Bürgerschaft
 
-Im Vorfeld der Gründung sind aus **Bösingen und Herrenzimmern** zahlreiche Absichtserklärungen eingegangen. Die Resonanz aus beiden Ortsteilen ist so breit, dass die **Finanzierung der ersten Photovoltaik-Projekte in der Gemeinde gesichert ist** — Schulkomplex Bösingen und Turn- und Festhalle Herrenzimmern stehen als erste Dächer in der Planung.
+Im Vorfeld der Gründung sind aus **Bösingen und Herrenzimmern** zahlreiche Absichtserklärungen eingegangen. Die Resonanz aus beiden Ortsteilen ist so breit, dass die **Finanzierung der ersten Photovoltaik-Projekte gesichert ist** — die Vorbereitungen für die ersten Anlagen auf kommunalen Dächern laufen.
 
 Diese Absichtserklärungen sind noch keine formelle Mitgliedschaft. Sie sind ein Signal — gegenüber dem Genossenschaftsverband, gegenüber der Gemeinde und gegenüber den finanzierenden Banken — dass das Vorhaben in der Bürgerschaft verankert ist.
 
