@@ -54,7 +54,7 @@ Im Genossenschaftsrecht hat jedes Mitglied, **unabhängig von der Kapitalbeteili
 * **Finanzielle Chancen**: Beteiligen Sie sich an zukunftssicheren Projekten und profitieren Sie von Dividenden.
 * **Stärkung der lokalen Wirtschaft**: Günstige Erneuerbare Energien sind ein wichtiger Standortfaktor für unsere Betriebe.
 * **Gemeinschaftliches Handeln**: Werden Sie Teil einer starken Gemeinschaft, die Verantwortung für eine nachhaltige Zukunft übernimmt.
-* **Vielfältige Projekte**: Beteiligen Sie sich an Photovoltaikanlagen, Windkraftanlagen,  Wärmerückgewinnung, Speicherlösungen, der Unterstützung von Bürgern und Vereinen bei der Nutzung erneuerbarer Energien, Initiativen zur Reduktion des Energieverbrauchs in unserer Gemeinde und vielem mehr.
+* **Vielfältige Projekte**: Beteiligen Sie sich an Photovoltaikanlagen, Wärmerückgewinnung, Speicherlösungen, der Unterstützung von Bürgern und Vereinen bei der Nutzung erneuerbarer Energien, Initiativen zur Reduktion des Energieverbrauchs in unserer Gemeinde und vielem mehr.
 
 
 
@@ -62,15 +62,13 @@ Im Genossenschaftsrecht hat jedes Mitglied, **unabhängig von der Kapitalbeteili
 
 * **PV-Anlagen auf öffentlichen Gebäuden**: Gemeinsam nutzen wir Sonnenenergie.
 
-* **Beteiligung an den geplanten Windparks**: Die Genossenschaft beteiligt sich an Windkraftanlagen.
-
 * **Unterstützung von Vereinen, Bürgern und Bürgerinnen** bei der Nutzung erneuerbarer Energien: Wir helfen dabei, nachhaltiger zu werden.
 
 * **Bürgerprojekte zur Energieeffizienz**: Wir initiieren Maßnahmen zur Senkung des Energieverbrauchs in unserer Gemeinde.
 
 * **Energetische Nutzung** der neuen Kläranlage: So senken wir die Betriebskosten.
 
-* **Finanzierung von Batteriespeichern**: Wir nutzen überschüssigen Strom aus PV und Windkraft.
+* **Finanzierung von Batteriespeichern**: Wir nutzen überschüssigen Strom aus unseren PV-Anlagen.
 
 * ...
 
