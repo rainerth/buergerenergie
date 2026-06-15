@@ -15,8 +15,7 @@ Die BEG baut, finanziert und betreibt Anlagen zur erneuerbaren Energieerzeugung 
 
 **Stufe 1 (2026):**
 
-- PV-Anlage rund 99 kWp auf dem Schulkomplex Bösingen
-- PV-Anlage rund 99 kWp auf der Turn- und Festhalle Herrenzimmern
+- Photovoltaik-Anlagen auf kommunalen Dächern in unserer Gemeinde
 
 **Mögliche weitere Stufen (ab 2027, bei Erfolg von Stufe 1):**
 
@@ -30,7 +29,7 @@ Die BEG baut, finanziert und betreibt Anlagen zur erneuerbaren Energieerzeugung 
 
 Bei ausreichendem Eigenkapital aus der Zeichnung können wir in Stufe 1 weitere Bausteine realisieren — ohne dafür mehr Bank-Darlehen aufzunehmen:
 
-- **Anbindung von Rathaus und Schule Herrenzimmern** an die PV-Anlage auf dem Dach der Turn- und Festhalle — der dort erzeugte Strom versorgt direkt zwei weitere Liegenschaften.
+- **Anbindung weiterer kommunaler Liegenschaften** an die zentral erzeugte PV-Energie, sodass der Strom direkt vor Ort verbraucht werden kann.
 - **Batteriespeicher** für die Eigenversorgung der kommunalen Gebäude, zur Stabilisierung des Stromnetzes (Netzdienlichkeit) und als Notstrom bei Stromausfall oder in Krisensituationen.
 
 Welche dieser Erweiterungen wir angehen, entscheiden Vorstand und Aufsichtsrat nach der Zeichnungsversammlung gemeinsam — abhängig vom tatsächlich gezeichneten Eigenkapital. Jeder zusätzlich gezeichnete Anteil zählt.
@@ -67,7 +66,7 @@ Die Gemeinde zahlt der BEG einen zu vereinbarenden Preis pro Kilowattstunde — 
 
 ## Warum jetzt?
 
-- Die Gemeinde hat zugesagt — Stufe 1 ist startklar.
+- Die Gemeinde ist als Partner an Bord — Stufe 1 ist auf dem Weg.
 - Die BWGV-Vorprüfung der Gründungsunterlagen läuft.
 - Je größer der Kreis der Beteiligten, desto klarer können wir Stufe 1 dimensionieren — und desto schneller folgen die nächsten Stufen.
 
