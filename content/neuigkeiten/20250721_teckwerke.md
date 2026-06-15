@@ -17,9 +17,9 @@ Die Regionalgruppen berichteten von ihren vielfältigen Aktionen, einige davon d
 
 
 {{< figure
-  src="/img/20250429_buergerenergie-boesingen.webp"
+  src="/img/20250429_buergerenergie-bhz.webp"
   alt="Flyer zur Bürgerinfoveranstaltung"
-  link="/img/20250429_buergerenergie-boesingen.webp"
+  link="/img/20250429_buergerenergie-bhz.webp"
   class="ma0 w-75"
   width="300px"
 >}}

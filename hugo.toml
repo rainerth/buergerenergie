@@ -30,9 +30,9 @@ home = ["HTML", "RSS"]
 
 [params]
 	# Hero Image Configuration - WebP optimiert
-	header_image = "img/buergerenergie-boesingen-106063041-hero.webp"
+	header_image = "img/buergerenergie-bhz-106063041-hero.webp"
 	# Fallback für ältere Browser (optional)
-	header_image_fallback = "img/buergerenergie-boesingen-106063041-hero.png"
+	header_image_fallback = "img/buergerenergie-bhz-106063041-hero.png"
 
 	slogan = "Energie in Bürgerhand"
 	SEOTitle = "Bürgerenergie Bösingen-Herrenzimmern eG i.G."
@@ -42,7 +42,7 @@ home = ["HTML", "RSS"]
 	author = "Bürgerenergie Bösingen-Herrenzimmern eG i.G."
 	keywords = "Bürgerenergie, Energie, Genossenschaft"
 
-	logo = "img/buergerenergie-boesingen-logo.svg"
+	logo = "img/buergerenergie-bhz-logo.svg"
 	favicon = "favicon-256x256.png"
 
 	custom_css = ["css/buergerenergie.css"]
@@ -52,7 +52,7 @@ home = ["HTML", "RSS"]
 
 	# Sidebar settings
 	sidebar_about_description = "Bürgerenergie Bösingen-Herrenzimmern eG i.G."
-	sidebar_avatar = "img/buergerenergie-boesingen-logo.svg"
+	sidebar_avatar = "img/buergerenergie-bhz-logo.svg"
 
 	featured_tags = false
 	featured_condition_size = 1

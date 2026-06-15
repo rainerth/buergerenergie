@@ -14,7 +14,7 @@ Wir freuen uns, Ihnen unser neues Logo und unseren Slogan **„Energie in Bürge
 
 <!--more-->
 
-![Logo Bürgerenergie Bösingen-Herrenzimmern](/img/buergerenergie-boesingen-logo.svg)
+![Logo Bürgerenergie Bösingen-Herrenzimmern](/img/buergerenergie-bhz-logo.svg)
 
 ## Der Auswahlprozess
 
