@@ -1,16 +1,16 @@
 ---
 title: "Vier Wochen nach der Gründung — Stand der Dinge"
-subtitle: "Über 200 Interessenten · Beirat Technik komplett"
+subtitle: "Über 200 Interessenten · Vorbereitungen laufen"
 date: 2026-06-15
 draft: false
 featured: true
-tags: ["Interessenten", "Beirat Technik"]
+tags: ["Interessenten", "BWGV"]
 categories: ["Neuigkeiten"]
 author: "AG Öffentlichkeitsarbeit"
-description: "Vier Wochen nach der Gründung am 19. Mai 2026 ist viel passiert: Über 200 Bürgerinnen und Bürger sind eingetragen, der Eigenkapital-Sockel für die ersten Projekte steht. Der Beirat Technik ist komplett."
+description: "Vier Wochen nach der Gründung am 19. Mai 2026 ist viel passiert: Über 200 Bürgerinnen und Bürger sind eingetragen, der Eigenkapital-Sockel für die ersten Projekte steht. Parallel läuft die Gründungsprüfung beim BWGV."
 ---
 
-Vier Wochen nach der Gründung am **19. Mai 2026** ist die **Bürgerenergie Bösingen-Herrenzimmern eG i.G.** sichtbar in Bewegung — in der Bürgerschaft, finanziell auf der Bank und personell im Beirat. Wir fassen zusammen, was seit der Gründungsversammlung passiert ist.
+Vier Wochen nach der Gründung am **19. Mai 2026** ist die **Bürgerenergie Bösingen-Herrenzimmern eG i.G.** sichtbar in Bewegung — in der Bürgerschaft und in den laufenden Vorbereitungen für die ersten Projekte. Wir fassen zusammen, was seit der Gründungsversammlung passiert ist.
 
 <!--more-->
 
@@ -19,17 +19,6 @@ Vier Wochen nach der Gründung am **19. Mai 2026** ist die **Bürgerenergie Bös
 Inzwischen sind **über 200 Interessentinnen und Interessenten** eingetragen — die Marke, die wir uns selbst gesetzt hatten, ist überschritten. Viele davon haben ihre Absichtserklärung bereits zurückgeschickt und damit den **Eigenkapital-Sockel** für die ersten PV-Projekte gelegt.
 
 Wer noch nicht im Verteiler steht, kann sich weiterhin über das **[Kontaktformular auf der Startseite](/#kontaktformular)** unverbindlich eintragen. Wer direkt eine Absichtserklärung beilegen möchte, findet das leere Formular auf unserer **[Dokumente-Seite](/dokumente/)**.
-
-## Beirat Technik komplett
-
-Der Vorstand wird seit Gründung von **Wolfgang Kammerer** als Beirat Finanzen begleitet — Diplom-Bankbetriebswirt mit langjähriger Erfahrung in Vorstands- und Geschäftsführungsfunktionen einer Genossenschaftsbank.
-
-Inzwischen ist auch der **Beirat Technik** benannt:
-
-- **Oliver Arnold** (Herrenzimmern) — 25 Jahre Berufserfahrung in der Energieversorgung
-- **Björn Claussen** (Bösingen) — Architekt mit langjähriger Erfahrung in der Realisierung kommunaler Bauprojekte; Schwerpunkt bauliche Ausführung, Dachkonstruktion und Tiefbau
-
-Die beiden begleiten Planung, Auftragsvergabe und Inbetriebnahme der Stufe-1-Anlagen — ehrenamtlich, wie alle Funktionen in der Genossenschaft.
 
 ## Wie es weitergeht
 
