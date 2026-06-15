@@ -12,21 +12,26 @@ Die nächste **öffentliche Veranstaltung** ist die **Zeichnungsversammlung im S
 
 Den genauen Termin geben wir bekannt, sobald er feststeht — alle in unserer Interessentenliste erhalten dazu eine **persönliche Einladung** per Mail. Wer noch nicht eingetragen ist: über das [Kontaktformular auf der Startseite](/#kontaktformular).
 
+## Gemeindepolitischer Termin
+
+- **02.07.2026 — Öffentliche Gemeinderatssitzung Gemeinde Bösingen**
+  Auf der Tagesordnung stehen die BEG-Beschlüsse zu Dachpacht, Anschluss-Pfad und Verwaltungs-Mandat für die Stufe-1-Projekte (Schulkomplex Bösingen und Turn- und Festhalle Herrenzimmern).
+
 ## Externe Webinare und Veranstaltungen
 
 Empfehlenswerte Termine bei der **Klimaschutz- und Energieagentur Baden-Württemberg (KEA-BW)** — kostenlose Online-Sprechstunden, offen für alle:
 
-- **01.06.2026 — Nachgefragt! Bürgerenergie**
-  Online-Sprechstunde der KEA-BW.
-  [Mehr Info und Anmeldung](https://www.kea-bw.de/veranstaltung/nachgefragt-online-sprechstunde-zu-erneuerbaren-energien-buergerenergie-0626)
-
-- **15.06.2026 — Nachgefragt! Windenergie**
-  Online-Sprechstunde der KEA-BW.
-  [Veranstaltungs-Übersicht](https://www.kea-bw.de/veranstaltungen)
-
 - **29.06.2026 — Nachgefragt! Freiflächen-Photovoltaik**
   Online-Sprechstunde der KEA-BW.
   [Veranstaltungs-Übersicht](https://www.kea-bw.de/veranstaltungen)
+
+- **30.06.2026 — Kommunale Wärmeplanung – Aus der Praxis für die Praxis**
+  Präsenz-Veranstaltung im Regierungspräsidium Stuttgart. Erfahrungsaustausch zur kommunalen Wärmeplanung (KlimaG BW § 27 ff.) — relevant für die BEG-Schiene Wärme im Schulkomplex.
+  [Mehr Info und Anmeldung](https://www.kea-bw.de/veranstaltung/kommunale-waermeplanung-aus-der-praxis-fuer-die-praxis)
+
+- **22.09.2026 — XXVI. Forum kommunales Energiemanagement Baden-Württemberg 2026**
+  Online-Forum der KEA-BW zum kommunalen Energiemanagement. Direkt auf der Achse, an der die BEG mit der Gemeinde arbeitet (Eigenverbrauchs-Konzepte, Lieferpreis-Modelle).
+  [Mehr Info und Anmeldung](https://www.kea-bw.de/veranstaltung/kem-forum2026)
 
 - **18.11.2026 — Energiewende kompakt: Strom und Wärme**
   Präsenz-Workshop in der Sparkassenakademie Stuttgart, organisiert von KEA-BW und Zukunft Altbau.
@@ -47,6 +52,10 @@ Aus dem Programm des **Photovoltaik-Netzwerks Baden-Württemberg**:
 - **18.06.2026, 18:00–20:00 Uhr — Energy Sharing: Was muss die Energieberatungs-Branche wissen?**
   Online-Praxisdialog mit Zukunft Altbau, Einordnung des neuen § 42c EnWG (Teilversorgung). Die Veranstaltung richtet sich primär an Fachleute der Energieberatung — als Hintergrund­information aber auch für Mitglieder und Aktive interessant, die das Energy-Sharing-Modell für die BEG nachvollziehen möchten.
   [Mehr Info und Anmeldung](https://www.photovoltaik-bw.de/pv-netzwerk/veranstaltungen/energy-sharing-was-muss-die-energieberatungs-branche-wissen)
+
+- **11.08.2026 — PV in Kommunen: Die 10 Gebote der Freiflächen-PV**
+  Online-Webinar des PV-Netzwerks BW. Auch wenn die BEG-Stufe 1 nur Dächer betrifft: für spätere Stufen (PV auf kommunalen Flächen, Vereinsheimen) eine sinnvolle Hintergrund-Veranstaltung.
+  [Mehr Info und Anmeldung](https://www.photovoltaik-bw.de/pv-netzwerk/veranstaltungen/pv-in-kommunen-die-10-gebote-der-freiflaechen-pv)
 
 - **03.11.2026 — Batterien und Speichersysteme**
   Online-Übersicht zu Speicheroptionen mit Vor- und Nachteilen — passt zum Batteriespeicher-Baustein, den wir bei ausreichend gezeichnetem Eigenkapital schon in Stufe 1 realisieren möchten.
