@@ -22,9 +22,9 @@ Wir möchten nicht nur zuschauen, sondern aktiv mitgestalten. Eine Bürgerenergi
 - **Verantwortung zu übernehmen:** Für uns, unsere Kinder und kommende Generationen
 - **Die Gemeinde zu stärken:** Zusätzliche Einnahmen für kommunale Projekte
 
-Im kleinen Kreis sind grundlegende Informationen zusammengetragen worden, es ist nun an der Zeit diese im Rahmen einer Infoveranstaltung mit Ihnen zu teilen um dann "in die Breite" zu gehen.
+Im kleinen Kreis sind grundlegende Informationen zusammengetragen worden, es ist nun an der Zeit diese im Rahmen einer Infoveranstaltung mit dir zu teilen um dann "in die Breite" zu gehen.
 
-### Was erwartet Sie bei der Informationsveranstaltung?
+### Was erwartet dich bei der Informationsveranstaltung?
 
 #### Mögliche Projekte in Bösingen und Herrenzimmern
 
@@ -46,7 +46,7 @@ Im kleinen Kreis sind grundlegende Informationen zusammengetragen worden, es ist
 
 #### Erfolgsbeispiele und Organisationsmodelle
 
-Wir sind nicht die ersten und können auf viele Beispiele erfolgreicher Genossenschaften zurückgreifen. Lesen Sie sich gerne vorher ein:
+Wir sind nicht die ersten und können auf viele Beispiele erfolgreicher Genossenschaften zurückgreifen. Lies dich gerne vorher ein:
 
 ##### Eigenständige Genossenschaften
 
@@ -67,7 +67,7 @@ Diese Frage werden wir gemeinsam diskutieren und entscheiden.
 
 #### Offene Fragerunde
 
-Stellen Sie Ihre Fragen! Wir nehmen Ihre Bedenken ernst und diskutieren ehrlich über Chancen und Herausforderungen.
+Stell deine Fragen! Wir nehmen deine Bedenken ernst und diskutieren ehrlich über Chancen und Herausforderungen.
 
 ### Mitmachen im Gründungsteam
 
@@ -89,14 +89,14 @@ Erfolgreiche Bürgerenergiegenossenschaften zeigen: Wenn Kommunikation stimmt un
 
 ### Was wir NICHT sind
 
-Wir sind keine Investmentfirma, die schnelle Renditen verspricht. Wir sind Bürgerinnen und Bürger wie Sie, die glauben, dass wir gemeinsam mehr erreichen können als allein.
+Wir sind keine Investmentfirma, die schnelle Renditen verspricht. Wir sind Bürgerinnen und Bürger wie du, die glauben, dass wir gemeinsam mehr erreichen können als allein.
 
 
 ---
 
-**Das könnte der Anfang einer erfolgreichen Bürgerenergiegenossenschaft in Bösingen und Herrenzimmern sein. Sind Sie dabei?**
+**Das könnte der Anfang einer erfolgreichen Bürgerenergiegenossenschaft in Bösingen und Herrenzimmern sein. Bist du dabei?**
 
-Wir freuen uns auf Sie!
+Wir freuen uns auf dich!
 
 Rainer Thieringer <br>
 Klaus Wizemann

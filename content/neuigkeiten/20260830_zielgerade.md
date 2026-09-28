@@ -3,7 +3,7 @@ title: "Auf der Zielgeraden zur Genossenschaft"
 subtitle: "Wir warten auf das Prüfungsgutachten des BWGV · Gemeinderat sagt einstimmig ja zur Dachpacht · rund eine Viertel-Million Euro Zusagen aus der Bürgerschaft"
 date: 2026-08-30
 draft: false
-featured: true
+featured: false
 tags: ["BWGV", "Eintragung", "Gemeinderat", "Interessenten"]
 categories: ["Neuigkeiten"]
 author: "AG Öffentlichkeitsarbeit"

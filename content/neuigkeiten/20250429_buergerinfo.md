@@ -45,16 +45,16 @@ Eine (Bürgerenergie-)Genossenschaft vereint Bürger, Bürgerinnen und lokale Un
 Im Genossenschaftsrecht hat jedes Mitglied, **unabhängig von der Kapitalbeteiligung**, die gleichen Rechte und nur eine Stimme.
 
 
-## Ihre Vorteile und Möglichkeiten als Mitglied einer Genossenschaft – Mitmachen lohnt sich!
+## Deine Vorteile und Möglichkeiten als Mitglied einer Genossenschaft – Mitmachen lohnt sich!
 
 
-* **Gestalten Sie aktiv mit**: Bringen Sie Ihre Ideen ein und treiben Sie die Energiewende vor Ort voran.
+* **Gestalte aktiv mit**: Bring deine Ideen ein und treib die Energiewende vor Ort voran.
 * **Bürgerbeteiligung schafft Akzeptanz**: Gemeinsam umgesetzte Projekte finden meist breitere Unterstützung in der Bevölkerung.
-* **Transparenz und Kontrolle**: Als Mitglied erhalten Sie Einblick in die Projekte und Entscheidungen der Genossenschaft.
-* **Finanzielle Chancen**: Beteiligen Sie sich an zukunftssicheren Projekten und profitieren Sie von Dividenden.
+* **Transparenz und Kontrolle**: Als Mitglied bekommst du Einblick in die Projekte und Entscheidungen der Genossenschaft.
+* **Finanzielle Chancen**: Beteilige dich an zukunftssicheren Projekten und profitiere von Dividenden.
 * **Stärkung der lokalen Wirtschaft**: Günstige Erneuerbare Energien sind ein wichtiger Standortfaktor für unsere Betriebe.
-* **Gemeinschaftliches Handeln**: Werden Sie Teil einer starken Gemeinschaft, die Verantwortung für eine nachhaltige Zukunft übernimmt.
-* **Vielfältige Projekte**: Beteiligen Sie sich an Photovoltaikanlagen, Wärmerückgewinnung, Speicherlösungen, der Unterstützung von Bürgern und Vereinen bei der Nutzung erneuerbarer Energien, Initiativen zur Reduktion des Energieverbrauchs in unserer Gemeinde und vielem mehr.
+* **Gemeinschaftliches Handeln**: Werde Teil einer starken Gemeinschaft, die Verantwortung für eine nachhaltige Zukunft übernimmt.
+* **Vielfältige Projekte**: Beteilige dich an Photovoltaikanlagen, Wärmerückgewinnung, Speicherlösungen, der Unterstützung von Bürgern und Vereinen bei der Nutzung erneuerbarer Energien, Initiativen zur Reduktion des Energieverbrauchs in unserer Gemeinde und vielem mehr.
 
 
 
@@ -77,10 +77,10 @@ Im Genossenschaftsrecht hat jedes Mitglied, **unabhängig von der Kapitalbeteili
 
 Die Gründung einer Bürgerenergiegenossenschaft eröffnet uns die Chance, unsere Energiezukunft selbst zu gestalten und gemeinsam Projekte zu verwirklichen.
 
-* Wollen Sie aktiv unsere lokale Energieversorgung mitgestalten?
-* Haben Sie Ideen für eine nachhaltige Zukunft unserer Gemeinde?
+* Willst du aktiv unsere lokale Energieversorgung mitgestalten?
+* Hast du Ideen für eine nachhaltige Zukunft unserer Gemeinde?
 
-**Dann machen Sie mit und nutzen Sie die neuen Möglichkeiten.**
+**Dann mach mit und nutz die neuen Möglichkeiten.**
 
 Bislang existiert die Genossenschaft nur als Idee. Zeigt sich genügend Interesse, starten wir in die nächste Phase. Das Genossenschaftsrecht mag kompliziert erscheinen, doch wir schaffen das! In unserer Umgebung gibt es bereits viele erfolgreiche Genossenschaften.
 
@@ -101,11 +101,11 @@ Bislang existiert die Genossenschaft nur als Idee. Zeigt sich genügend Interess
 {{< /admonition >}}
 
 
-# Kommen Sie mit uns ins Gespräch!
+# Komm mit uns ins Gespräch!
 
-Ihre Ansprechpartner für die mögliche Gründung einer Bürgerenergiegenossenschaft in Bösingen sind
+Deine Ansprechpartner für die mögliche Gründung einer Bürgerenergiegenossenschaft in Bösingen sind
 
 * Rainer Thieringer
 * Klaus Wizemann
 
-Wir freuen uns sehr auf den Austausch mit Ihnen! Bitte sprechen Sie uns an oder nutzen Sie das [Kontaktformular](/#kontaktformular).
+Wir freuen uns sehr auf den Austausch mit dir! Bitte sprich uns an oder nutze das [Kontaktformular](/#kontaktformular).

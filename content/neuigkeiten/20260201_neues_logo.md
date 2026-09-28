@@ -10,7 +10,7 @@ author: "AG Öffentlichkeitsarbeit"
 description: 'Das Gründungsteam hat ein neues Logo und den Slogan „Energie in Bürgerhand" gewählt. Unser Ziel: Photovoltaik auf kommunale Dächer und eine klimaneutrale Gemeinde.'
 ---
 
-Wir freuen uns, Ihnen unser neues Logo und unseren Slogan **„Energie in Bürgerhand"** präsentieren zu können! In einem internen Wettbewerb hat das Gründungsteam aus verschiedenen Entwürfen den Favoriten ausgewählt.
+Wir freuen uns, dir unser neues Logo und unseren Slogan **„Energie in Bürgerhand"** präsentieren zu können! In einem internen Wettbewerb hat das Gründungsteam aus verschiedenen Entwürfen den Favoriten ausgewählt.
 
 <!--more-->
 
@@ -46,5 +46,5 @@ Mit Logo und Slogan ausgestattet, werden wir unser Vorhaben durch weitere Aktion
 Das neue Erscheinungsbild begleitet uns auf Website, [Instagram](https://www.instagram.com/buergerenergie_boesingen/), Informationsmaterialien und Veranstaltungen – und macht unsere Initiative in der Region sichtbar.
 
 {{< admonition type="tip" title="Gemeinsam für die Energiewende">}}
-Sie möchten Teil unserer Initiative werden? Informieren Sie sich über unsere [Arbeitsgruppen](/neuigkeiten/20251125_erste_sitzung_gruendungsteam/) oder nutzen Sie unser [Kontaktformular](/#kontaktformular).
+Du möchtest Teil unserer Initiative werden? Informier dich über unsere [Arbeitsgruppen](/neuigkeiten/20251125_erste_sitzung_gruendungsteam/) oder nutze unser [Kontaktformular](/#kontaktformular).
 {{< /admonition >}}

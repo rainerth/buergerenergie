@@ -25,12 +25,12 @@ Um möglichst viele Bürgerinnen und Bürger anzusprechen, haben wir einen Insta
 
 ## Folgen, Teilen, Mitmachen!
 
-Folgen Sie uns auf Instagram unter [@buergerenergie_boesingen](https://www.instagram.com/buergerenergie_boesingen/) und helfen Sie uns, die Idee der Bürgerenergie in Bösingen und Herrenzimmern zu verbreiten:
+Folg uns auf Instagram unter [@buergerenergie_boesingen](https://www.instagram.com/buergerenergie_boesingen/) und hilf uns, die Idee der Bürgerenergie in Bösingen und Herrenzimmern zu verbreiten:
 
-- **Liken** Sie unsere Beiträge
-- **Teilen** Sie Inhalte in Ihren Stories
-- **Markieren** Sie Freunde und Bekannte, die sich für Energiethemen interessieren
-- **Kommentieren** Sie und bringen Sie sich ein
+- **Like** unsere Beiträge
+- **Teile** Inhalte in deinen Stories
+- **Markiere** Freunde und Bekannte, die sich für Energiethemen interessieren
+- **Kommentiere** und bring dich ein
 
 Je mehr Menschen wir erreichen, desto stärker wird unsere Gemeinschaft!
 
@@ -44,8 +44,8 @@ Die AG Öffentlichkeitsarbeit ist eine von mehreren Arbeitsgruppen, die sich akt
 - Informationsmaterialien
 - Veranstaltungsorganisation
 
-**Sie möchten mitmachen?** Die Arbeitsgruppe freut sich über weitere engagierte Mitstreiterinnen und Mitstreiter. Nutzen Sie einfach unser [Kontaktformular](/#kontaktformular) und teilen Sie uns Ihr Interesse mit!
+**Du möchtest mitmachen?** Die Arbeitsgruppe freut sich über weitere engagierte Mitstreiterinnen und Mitstreiter. Nutze einfach unser [Kontaktformular](/#kontaktformular) und teil uns dein Interesse mit!
 
 ---
 
-**Folgen Sie uns jetzt:** [@buergerenergie_boesingen](https://www.instagram.com/buergerenergie_boesingen/)
+**Folg uns jetzt:** [@buergerenergie_boesingen](https://www.instagram.com/buergerenergie_boesingen/)

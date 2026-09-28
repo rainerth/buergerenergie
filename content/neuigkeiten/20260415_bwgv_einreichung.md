@@ -45,4 +45,4 @@ Unser Ziel: Die ersten PV-Anlagen noch in 2026 in Betrieb nehmen, um die aktuell
 
 Ein herzliches Dankeschön an alle, die diesen Meilenstein möglich gemacht haben: das gesamte Gründungsteam, die Arbeitsgruppen AG1 (Projektentwicklung), AG2 (Gründungsvorbereitung) und AG3 (Öffentlichkeitsarbeit), Bürgermeister Peter Schuster, den Gemeinderat Bösingen sowie alle Interessentinnen und Interessenten, die uns über die Monate ermutigt und begleitet haben.
 
-**Sie möchten Mitglied werden?** Tragen Sie sich unverbindlich in unsere [Interessentenliste](/#kontaktformular) ein — wir informieren Sie rechtzeitig vor der Zeichnungsversammlung.
+**Du möchtest Mitglied werden?** Trag dich unverbindlich in unsere [Interessentenliste](/#kontaktformular) ein — wir informieren dich rechtzeitig vor der Zeichnungsversammlung.

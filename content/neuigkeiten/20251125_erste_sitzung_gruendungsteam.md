@@ -65,8 +65,8 @@ Die nächste Sitzung des Gründungsteams findet am **9. Dezember 2025** im **alt
 
 ## Gemeinsam für Bösingen
 
-Mit dieser Struktur ist das Gründungsteam nun gut aufgestellt, um die vielfältigen Aufgaben bei der Gründung einer Energiegenossenschaft systematisch anzugehen. Wir freuen uns auf die kommenden Wochen und halten Sie über unsere Fortschritte auf dem Laufenden!
+Mit dieser Struktur ist das Gründungsteam nun gut aufgestellt, um die vielfältigen Aufgaben bei der Gründung einer Energiegenossenschaft systematisch anzugehen. Wir freuen uns auf die kommenden Wochen und halten dich über unsere Fortschritte auf dem Laufenden!
 
-{{< admonition type="tip" title="Sie möchten mitmachen?">}}
-Wenn Sie Interesse haben, sich in einer der Arbeitsgruppen zu engagieren, melden Sie sich gerne über unser [Kontaktformular](/#kontaktformular).
+{{< admonition type="tip" title="Du möchtest mitmachen?">}}
+Wenn du Interesse hast, dich in einer der Arbeitsgruppen zu engagieren, meld dich gerne über unser [Kontaktformular](/#kontaktformular).
 {{< /admonition >}}

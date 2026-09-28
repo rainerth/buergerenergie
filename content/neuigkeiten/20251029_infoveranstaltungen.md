@@ -36,7 +36,7 @@ Ein besonderer Erfolg: **22 Personen** meldeten sich spontan zum **Projektteam G
 
 ## Die Präsentation zum Nachlesen
 
-Die vollständige Präsentation der Infoveranstaltungen können Sie direkt hier einsehen [oder herunterladen](/slides/20251029_Infoveranstaltung_Buergerenergie.pdf):
+Die vollständige Präsentation der Infoveranstaltungen kannst du direkt hier einsehen [oder herunterladen](/slides/20251029_Infoveranstaltung_Buergerenergie.pdf):
 
 {{< pdf-slides src="/slides/20251029_Infoveranstaltung_Buergerenergie.pdf" height="700px" >}}
 
@@ -48,9 +48,9 @@ Die Arbeitsgruppen nehmen in den kommenden Wochen ihre Arbeit auf. Interessierte
 
 {{< admonition type="tip" title="Interesse an der Gründung?">}}
 
-Wenn Sie sich am Gründungsprozess beteiligen möchten oder Fragen haben, nutzen Sie gerne unser [Kontaktformular](/#kontaktformular) oder sprechen Sie uns direkt an.
+Wenn du dich am Gründungsprozess beteiligen möchtest oder Fragen hast, nutze gerne unser [Kontaktformular](/#kontaktformular) oder sprich uns direkt an.
 
-**Ihre Ansprechpartner:**
+**Deine Ansprechpartner:**
 * Rainer Thieringer
 * Klaus Wizemann
 

@@ -27,9 +27,9 @@ Das Gründungsteam der Bürgerenergie Bösingen-Herrenzimmern hat sich in vier A
 
 Nach intensiver Vorarbeit geht es nun in die konkrete Projektplanung. Wir wollen noch in diesem Jahr mit den ersten PV-Anlagen auf kommunalen Dächern starten. Die Gemeinde unterstützt uns dabei als Partner. 
 
-## Wie können Sie mitmachen?
+## Wie kannst du mitmachen?
 
-**Erzählen Sie es weiter!** Je mehr Mitglieder wir zur Gründung haben, desto schneller können wir loslegen — in der Familie, im Freundeskreis, in der Nachbarschaft. Eine Einlage in die Genossenschaft ist **keine Spende**, sondern eine Investition in unsere Gemeinde, die nach den Anfangsjahren auch Rendite bringt. Mitglied kann man bereits **ab 100 € einmaliger Einlage** werden.
+**Erzähl es weiter!** Je mehr Mitglieder wir zur Gründung haben, desto schneller können wir loslegen — in der Familie, im Freundeskreis, in der Nachbarschaft. Eine Einlage in die Genossenschaft ist **keine Spende**, sondern eine Investition in unsere Gemeinde, die nach den Anfangsjahren auch Rendite bringt. Mitglied kann man bereits **ab 100 € einmaliger Einlage** werden.
 
 {{< admonition type="tip" title="Gründungsmitglied werden?">}}
 Wer als Gründungsmitglied dabei sein möchte, sollte sich bald über unser [Kontaktformular](/#kontaktformular) eintragen!

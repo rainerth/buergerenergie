@@ -26,24 +26,24 @@ Die Satzung in der von der Gründungsversammlung am 19. Mai 2026 einstimmig besc
 
 ## Geschäftsplan kompakt
 
-Was die BEG vorhat, was es kostet, was Sie davon haben — auf einer Seite zusammengefasst. Der vollständige Geschäftsplan (für BWGV, Gemeinderat und Banken) wird zur Gründungsversammlung am 19.05.2026 finalisiert.
+Was die BEG vorhat, was es kostet, was du davon hast — auf einer Seite zusammengefasst. Der vollständige Geschäftsplan (für BWGV, Gemeinderat und Banken) wird zur Gründungsversammlung am 19.05.2026 finalisiert.
 
 - **[📖 Geschäftsplan kompakt online lesen](/dokumente/geschaeftsplan-kompakt/)**
 
 ## Absichtserklärung
 
-Mit der Absichtserklärung signalisieren Sie unverbindlich Ihre Beitrittsabsicht und nennen den Betrag, mit dem Sie sich an der Genossenschaft beteiligen möchten. Diese Angaben sind für unseren Eigenkapital-Nachweis gegenüber dem BWGV erforderlich — Voraussetzung dafür, dass die Gründung überhaupt zustande kommt.
+Mit der Absichtserklärung signalisierst du unverbindlich deine Beitrittsabsicht und nennst den Betrag, mit dem du dich an der Genossenschaft beteiligen möchtest. Diese Angaben sind für unseren Eigenkapital-Nachweis gegenüber dem BWGV erforderlich — Voraussetzung dafür, dass die Gründung überhaupt zustande kommt.
 
 - **[📄 Absichtserklärung als PDF herunterladen](/absicht/Absichtserklaerung.pdf)**
 
-Wenn Sie keinen Drucker haben, schicken wir Ihnen auch gerne ein gedrucktes Exemplar zu — eine kurze Mail an {{< obf-mail user="info" domain="buergerenergie-bhz.de" >}} genügt.
+Wenn du keinen Drucker hast, schicken wir dir auch gerne ein gedrucktes Exemplar zu — eine kurze Mail an {{< obf-mail user="info" domain="buergerenergie-bhz.de" >}} genügt.
 
 
 # Informationen rund um die Genossenschaft
 
 ## Weitere Informationen und Vorlagen
 
-Hilfreiche Dokumente und Vorlagen von bereits etablierten Energiegenossenschaften finden Sie auf der Download-Seite der **[Teckwerke Bürgerenergie eG](https://teckwerke-buergerenergie.de/downloads/)** (extern). Dort sind unter anderem verfügbar:
+Hilfreiche Dokumente und Vorlagen von bereits etablierten Energiegenossenschaften findest du auf der Download-Seite der **[Teckwerke Bürgerenergie eG](https://teckwerke-buergerenergie.de/downloads/)** (extern). Dort sind unter anderem verfügbar:
 
 - Broschüren und Infomaterial zu Energiegenossenschaften
 - Mitgliedsanträge und Satzungen als Mustervorlagen

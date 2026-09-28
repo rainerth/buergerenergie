@@ -4,7 +4,7 @@ date: 2026-05-09
 draft: false
 ---
 
-Hier finden Sie unsere eigenen Veranstaltungen sowie ausgewählte externe Webinare und Termine rund um Bürgerenergie und Energiewende, die für unsere Mitglieder und Interessenten relevant sind.
+Hier findest du unsere eigenen Veranstaltungen sowie ausgewählte externe Webinare und Termine rund um Bürgerenergie und Energiewende, die für unsere Mitglieder und Interessenten relevant sind.
 
 ## Unsere kommenden Veranstaltungen
 
@@ -32,7 +32,7 @@ Empfehlenswerte Termine bei der **Klimaschutz- und Energieagentur Baden-Württem
   Präsenz-Workshop in der Sparkassenakademie Stuttgart, organisiert von KEA-BW und Zukunft Altbau.
   [Veranstaltungs-Übersicht](https://www.kea-bw.de/veranstaltungen)
 
-Eine vollständige Übersicht aller KEA-Veranstaltungen finden Sie unter [www.kea-bw.de/veranstaltungen](https://www.kea-bw.de/veranstaltungen).
+Eine vollständige Übersicht aller KEA-Veranstaltungen findest du unter [www.kea-bw.de/veranstaltungen](https://www.kea-bw.de/veranstaltungen).
 
 Aus dem Programm der **Klimaschutz- und Energieagentur Schwarzwald-Baar-Heuberg (KLEA-SBH)** — regional zugängliche Online-Veranstaltung:
 
@@ -40,7 +40,7 @@ Aus dem Programm der **Klimaschutz- und Energieagentur Schwarzwald-Baar-Heuberg 
   Online-Veranstaltung der KLEA-SBH zu praxisnahen Lösungen für eine naturverträgliche Energiewende auf kommunaler Ebene.
   [Mehr Info und Anmeldung](https://klea-sbh.de/termin/pv-in-kommunen-photovoltaik-und-biodiversitaet/)
 
-Eine vollständige Übersicht der KLEA-SBH-Termine finden Sie unter [klea-sbh.de/termine/](https://klea-sbh.de/termine/).
+Eine vollständige Übersicht der KLEA-SBH-Termine findest du unter [klea-sbh.de/termine/](https://klea-sbh.de/termine/).
 
 Aus dem Programm des **Photovoltaik-Netzwerks Baden-Württemberg**:
 
@@ -56,7 +56,7 @@ Aus dem Programm des **Photovoltaik-Netzwerks Baden-Württemberg**:
   Online-Übersicht zu Speicheroptionen mit Vor- und Nachteilen — passt zum Batteriespeicher-Baustein, den wir bei ausreichend gezeichnetem Eigenkapital schon in Stufe 1 realisieren möchten.
   [Veranstaltungs-Übersicht](https://www.photovoltaik-bw.de/pv-netzwerk/veranstaltungen)
 
-Eine vollständige Übersicht der PV-Netzwerk-Termine finden Sie unter [photovoltaik-bw.de/pv-netzwerk/veranstaltungen](https://www.photovoltaik-bw.de/pv-netzwerk/veranstaltungen).
+Eine vollständige Übersicht der PV-Netzwerk-Termine findest du unter [photovoltaik-bw.de/pv-netzwerk/veranstaltungen](https://www.photovoltaik-bw.de/pv-netzwerk/veranstaltungen).
 
 ---
 

@@ -8,5 +8,5 @@ location: ""
 recurring: false
 ---
 
-Nach unseren Infoveranstaltungen und der Verbreiterung des Teams geht es auch in die Planung einer Gründungsveranstaltung mit Rahmenprogramm. Wir freuen uns natürlich auch vorab über Interessenten und Ideengeber. Bitte nutzen Sie das [Kontaktformular](/#kontaktformular).
+Nach unseren Infoveranstaltungen und der Verbreiterung des Teams geht es auch in die Planung einer Gründungsveranstaltung mit Rahmenprogramm. Wir freuen uns natürlich auch vorab über Interessenten und Ideengeber. Bitte nutze das [Kontaktformular](/#kontaktformular).
 

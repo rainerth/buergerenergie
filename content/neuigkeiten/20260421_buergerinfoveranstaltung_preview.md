@@ -80,10 +80,10 @@ Es handelt sich bei diesen Etappen um einen **Plan, der vom Fortschritt der exte
 
 Wer noch nicht auf der Interessentenliste steht, kann sich jederzeit eintragen — kostenlos und unverbindlich.
 
-{{< admonition type="tip" title="Mitmachen — werden Sie Mitglied!">}}
-Schon ab **100 € Einlage** sind Sie dabei. Tragen Sie sich über unser [Kontaktformular](/#kontaktformular) ein oder sprechen Sie uns direkt an.
+{{< admonition type="tip" title="Mitmachen — werde Mitglied!">}}
+Schon ab **100 € Einlage** bist du dabei. Trag dich über unser [Kontaktformular](/#kontaktformular) ein oder sprich uns direkt an.
 
-**Ihre Ansprechpartner:**
+**Deine Ansprechpartner:**
 * Rainer Thieringer
 * Klaus Wizemann
 {{< /admonition >}}

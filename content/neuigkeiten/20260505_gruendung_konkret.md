@@ -30,15 +30,15 @@ Damit ist der formale Startschuss gegeben — die Genossenschaft existiert ab de
 
 Mit der bisherigen Adresse `buergerenergie-boesingen.de` war ein Ortsteil im Namen vertreten — und einer nicht. Mit dem **Kürzel BHZ** für Bösingen-Herrenzimmern haben wir jetzt eine Adresse, die beide Ortsteile gleichberechtigt enthält und gleichzeitig deutlich kürzer ist.
 
-> **Beide Adressen funktionieren parallel weiter.** Wer ein altes Lesezeichen hat, eine ältere Visitenkarte oder einen QR-Code aus früheren Materialien, landet weiterhin am Ziel. Auch die E-Mail-Adresse {{< obf-mail user="info" domain="buergerenergie-boesingen.de" >}} bleibt erhalten — Sie können uns aber ab sofort genauso gut unter {{< obf-mail user="info" domain="buergerenergie-bhz.de" >}} erreichen.
+> **Beide Adressen funktionieren parallel weiter.** Wer ein altes Lesezeichen hat, eine ältere Visitenkarte oder einen QR-Code aus früheren Materialien, landet weiterhin am Ziel. Auch die E-Mail-Adresse {{< obf-mail user="info" domain="buergerenergie-boesingen.de" >}} bleibt erhalten — du kannst uns aber ab sofort genauso gut unter {{< obf-mail user="info" domain="buergerenergie-bhz.de" >}} erreichen.
 
 ## Stand der Beteiligung — 155 Interessentinnen und Interessenten
 
 Seit der Bürgerinformationsveranstaltung am 21. April haben sich **155 Interessentinnen und Interessenten** in unsere Liste eingetragen. Das ist eine sehr gute Basis für die kommenden Schritte: Die Mitgliederliste ist ein wichtiges Signal an den Genossenschaftsverband und die finanzierenden Banken, dass das Vorhaben in der Gemeinde verankert ist.
 
-## Was Sie jetzt tun können — Absichtserklärung
+## Was du jetzt tun kannst — Absichtserklärung
 
-Wer noch nicht in der Liste steht oder seine **Absichtserklärung** ausfüllen möchte, findet das Formular auf unserer Webseite. Sie nennen uns die Größenordnung Ihrer geplanten Einlage — ab **100 € Mindestanteil**, nach oben offen. Die Erklärung ist nicht rechtlich bindend; sie ist ein Signal: „Ich bin dabei, mit Betrag X."
+Wer noch nicht in der Liste steht oder seine **Absichtserklärung** ausfüllen möchte, findet das Formular auf unserer Webseite. Du nennst uns die Größenordnung deiner geplanten Einlage — ab **100 € Mindestanteil**, nach oben offen. Die Erklärung ist nicht rechtlich bindend; sie ist ein Signal: „Ich bin dabei, mit Betrag X."
 
 Das Formular gibt es als PDF zum Herunterladen, Ausfüllen und Zurücksenden — per Post oder Mail an {{< obf-mail user="info" domain="buergerenergie-bhz.de" >}}.
 
