@@ -22,9 +22,9 @@ Notar Mauch geht davon aus, dass die **Eintragung nun recht schnell** erfolgt.
 
 ## Was das für dich bedeutet
 
-Bis zur Eintragung firmieren wir weiterhin als **Bürgerenergie Bösingen-Herrenzimmern eG i.G.** — eine Vor-Genossenschaft, in der die drei Vorstände nach § 54 BGB persönlich haften. Neue verbindliche Anteilszeichnungen sind bis dahin nicht möglich; deine Absichtserklärung bleibt unverbindlich und ohne Zahlungspflicht.
+Wir sind seit der Gründungsversammlung im Mai bereits die **Bürgerenergie Bösingen-Herrenzimmern eG i.G.** — eine Vor-Genossenschaft, in der die drei Vorstände nach § 54 BGB persönlich haften. Mit der Eintragung fällt das „i.G." weg. Erst dann können wir rechtlich neue Mitglieder aufnehmen und Einlagen entgegennehmen. Bis dahin bleibt deine Absichtserklärung unverbindlich und ohne Zahlungspflicht.
 
-Sobald die Eintragung erfolgt ist, kommen wir aktiv auf alle Interessierten zu — mit dem Ablauf der Anteilszeichnung, der Einzahlung und der Einladung zur **ersten Generalversammlung als eingetragene Genossenschaft**.
+Sobald die Eintragung erfolgt ist, **öffnen wir die Möglichkeit zur Zeichnung von Genossenschaftsanteilen** und stellen dazu kurzfristig eine passende Veranstaltung auf die Beine — dort erklären wir den Ablauf der Anteilszeichnung und Einzahlung.
 
 ## Wie es jetzt weitergeht
 
