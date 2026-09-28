@@ -31,7 +31,7 @@ Sobald die Eintragung erfolgt ist, **öffnen wir die Möglichkeit zur Zeichnung 
 Parallel zur Registeranmeldung laufen die Vorbereitungen für unser erstes PV-Projekt am Schulkomplex Bösingen. Details zu Auftragsvergabe und Baustart geben wir bekannt, sobald die Verträge unterschrieben sind.
 
 {{< admonition type="tip" title="Danke für die Geduld" >}}
-Rund **200 Menschen aus Bösingen, Herrenzimmern und Umgebung** stehen hinter der Bürgerenergiegenossenschaft. Danke, dass du uns die Treue gehalten hast. Sobald die Eintragung im Register erfolgt ist, hörst du wieder von uns.
+Rund **200 Bürger aus Bösingen, Herrenzimmern und Umgebung** stehen hinter der Bürgerenergiegenossenschaft. Danke, dass du uns die Treue gehalten hast. Sobald die Eintragung im Register erfolgt ist, hörst du wieder von uns.
 {{< /admonition >}}
 
 ## Mitmachen
