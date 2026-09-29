@@ -39,7 +39,7 @@ Damit du weißt, wofür wir stehen — bevor du dich einträgst.
 - **19. Mai 2026 — Gründungsversammlung:** 23 Gründerinnen und Gründer haben die Satzung einstimmig beschlossen, Vorstand und Aufsichtsrat sind gewählt. Mit Bürgermeister Peter Schuster sitzt die Gemeinde im Aufsichtsrat. ([Nachbericht](/neuigkeiten/20260519_gruendung_vollzogen/))
 - **15. Juni 2026 — Ausschreibungsphase startet:** Die Ausschreibungen für die zugesagten PV-Anlagen sind an die Bieter herausgegangen — Abgabefrist 07.07.2026.
 - **30. Juli 2026 — Gemeinderat sagt Ja:** Der Gemeinderat Bösingen genehmigt einstimmig die Verpachtung des Dachs am Schulkomplex an die BEG.
-- **25. September 2026 — Antrag auf Eintragung eingereicht:** Der Vorstand hat beim Notar Tobias Mauch in Rottweil den Antrag auf Eintragung ins Genossenschaftsregister unterschrieben und beim Registergericht eingereicht — mit dem positiven Prüfungsgutachten des BWGV und allen weiteren Unterlagen. ([Details](/neuigkeiten/20260925_antrag_eintragung/))
+- **25. September 2026 — Antrag auf Eintragung eingereicht:** Der Vorstand hat den Antrag auf Eintragung ins Genossenschaftsregister über einen Notar beim Registergericht eingereicht — mit dem positiven Prüfungsgutachten des BWGV und allen weiteren Unterlagen. ([Details](/neuigkeiten/20260925_antrag_eintragung/))
 - **Zeichnungsphase:** unmittelbar nach der Eintragung ins Genossenschaftsregister — der Antrag ist gestellt, die Eintragung ist absehbar. Erst dann werden die Absichtserklärungen in Geschäftsanteile umgewandelt.
 
 ## Stufe 1: PV auf kommunalen Dächern

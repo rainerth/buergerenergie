@@ -1,24 +1,24 @@
 ---
 title: "Antrag auf Eintragung ist eingereicht"
-subtitle: "Notar Tobias Mauch: Eintragung ins Genossenschaftsregister nun recht schnell zu erwarten"
+subtitle: "Eintragung ins Genossenschaftsregister nun recht schnell zu erwarten"
 date: 2026-09-25
 draft: false
 featured: true
 tags: ["BWGV", "Eintragung", "Notar", "Gründung"]
 categories: ["Neuigkeiten"]
 author: "AG Öffentlichkeitsarbeit"
-description: "Der Vorstand hat am 25. September 2026 beim Notar Tobias Mauch in Rottweil den Antrag auf Eintragung der Bürgerenergie Bösingen-Herrenzimmern ins Genossenschaftsregister unterschrieben. Notar Mauch geht davon aus, dass die Eintragung nun recht schnell erfolgt."
+description: "Der Vorstand hat am 25. September 2026 den Antrag auf Eintragung der Bürgerenergie Bösingen-Herrenzimmern ins Genossenschaftsregister über einen Notar beim Registergericht eingereicht. Der Notar geht davon aus, dass die Eintragung nun recht schnell erfolgt."
 ---
 
-Am **Freitag, 25. September 2026**, waren die drei Vorstände beim Notar **Tobias Mauch** in Rottweil und haben den **Antrag auf Eintragung** der Bürgerenergie Bösingen-Herrenzimmern ins Genossenschaftsregister unterschrieben. Damit ist einer der wichtigsten Meilensteine der Gründungsphase geschafft.
+Am **Freitag, 25. September 2026**, haben die drei Vorstände den **Antrag auf Eintragung** der Bürgerenergie Bösingen-Herrenzimmern ins Genossenschaftsregister über einen Notar beim Registergericht eingereicht. Damit ist einer der wichtigsten Meilensteine der Gründungsphase geschafft.
 
 <!--more-->
 
 ## Was am 25. September passiert ist
 
-Rainer Thieringer, Dr. Sven Semmelrodt und Dr. Christoph A. Müller haben in der Kanzlei von Notar Mauch die notariell zu beglaubigende Anmeldung zum Genossenschaftsregister unterschrieben. Zusammen mit dem **positiven Prüfungsgutachten des Baden-Württembergischen Genossenschaftsverbands (BWGV)** und allen weiteren Unterlagen ist der Antrag danach beim Registergericht eingereicht worden.
+Rainer Thieringer, Dr. Sven Semmelrodt und Dr. Christoph A. Müller haben beim Notar die notariell zu beglaubigende Anmeldung zum Genossenschaftsregister unterschrieben. Zusammen mit dem **positiven Prüfungsgutachten des Baden-Württembergischen Genossenschaftsverbands (BWGV)** und allen weiteren Unterlagen ist der Antrag danach beim Registergericht eingereicht worden.
 
-Notar Mauch geht davon aus, dass die **Eintragung nun recht schnell** erfolgt.
+Der Notar geht davon aus, dass die **Eintragung nun recht schnell** erfolgt.
 
 ## Was das für dich bedeutet
 
