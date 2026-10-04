@@ -42,7 +42,11 @@ Für dich als Mitglied bedeutet das: Dein Geld bleibt im Dorf und wird in sichtb
 
 ## Was folgt nach dem Schulkomplex?
 
-Der Schulkomplex ist der Anfang. In Abstimmung mit der Gemeinde prüfen wir weitere kommunale Dachflächen (Turn- und Festhalle Herrenzimmern, Verwaltung, Kläranlage) sowie — als neues Geschäftsfeld — den Ersatz der bestehenden Wärmeerzeugung am Schulkomplex durch eine Wärmepumpe im Rahmen eines Energie-Contractings an die Gemeinde.
+Der Schulkomplex ist der Anfang. Wir prüfen laufend weitere Investitionsmöglichkeiten in Erneuerbare Energien in Bösingen und Herrenzimmern — und bereiten uns darauf vor, mit den neuen Regeln des **EEG 2027** direkt an den Start zu gehen. Dann werden zusätzliche Wege attraktiv und praktikabel, Bürgerstrom lokal zu nutzen:
+
+- **Energy Sharing (§ 42c EnWG):** Erzeugung und Verbrauch von Mitgliedern werden innerhalb des Verteilnetzgebiets bilanziell zusammengeführt — der eigene Strom kann auch von anderen Mitgliedern genutzt werden, ohne eigene Lieferanten-Pflichten.
+- **Mieterstrom:** Direktversorgung von Mieterinnen und Mietern aus PV-Anlagen auf dem eigenen Gebäude — insbesondere interessant für Mehrparteien-Objekte in der Gemeinde.
+- **Direktvermarktung:** Vermarktung des Stroms über spezialisierte Dienstleister mit dem EEG-2027-Direktvermarktungs-Zuschlag — als Fallback-Option, wenn direkte Abnahme vor Ort nicht ausreicht.
 
 Welche Projekte als nächstes umgesetzt werden, hängt auch von euch ab: Je mehr Bürgerkapital zusammenkommt, desto mehr Vorhaben lassen sich finanzieren.
 
