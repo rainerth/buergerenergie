@@ -17,6 +17,13 @@ draft: false
 
 **Unser erstes konkretes Projekt:** Eine Photovoltaik-Anlage mit rund **99 kWp Leistung** und einem **Batteriespeicher** auf dem Dach des Schulkomplexes Bösingen (Haslenstraße). Finanziert von den Bürgerinnen und Bürgern aus Bösingen und Herrenzimmern, nutzbar für die Gemeinde.
 
+{{< optimized-image
+  name="2026-10_SKB_Boesingen_PV_Visualisierung.png"
+  width="900"
+  alt="Visualisierung der geplanten PV-Anlage auf dem Schulkomplex Bösingen (Luftbild)"
+  caption="Visualisierung der geplanten PV-Anlage auf den Dachflächen des Schulkomplexes Bösingen."
+>}}
+
 ## Die Fakten im Überblick
 
 | | |
@@ -24,18 +31,16 @@ draft: false
 | **Standort** | Schulkomplex Bösingen (Haslenstraße) — Dach der Grundschule und der angrenzenden Mehrzweckhalle |
 | **Leistung** | ca. 99 kWp (knapp unter der 100-kWp-Schwelle, bewusst gewählt wegen der günstigeren regulatorischen Rahmenbedingungen) |
 | **Speicher** | Batteriespeicher zur Erhöhung des Eigenverbrauchs und als Flexibilitätsreserve |
-| **Ausführendes Unternehmen** | [DA-Elektro e.K.](https://www.da-elektro.de/), Meßstetten — regionaler Elektrofachbetrieb |
 | **Baubeginn** | Oktober 2026 |
-| **Statik** | Zusage des Statikers für die Dachflächen liegt vor |
-| **Netzanschluss** | NetzeBW; Zählersetzung und Inbetriebsetzungsanzeige sind terminlich abgestimmt |
 | **Vermarktung in Phase 1** | Volleinspeisung nach EEG — ab 2027 wollen wir den Strom vorrangig an die Gemeinde liefern |
 | **Investition** | im sechsstelligen Bereich, finanziert durch Bürgerkapital und einen Fremdkredit |
+| **Erwartete Rendite** | ca. 3 % pro Jahr für die Mitglieder |
 
 ## Warum dieses Projekt?
 
 Das Dach des Schulkomplexes ist eine der größten zusammenhängenden kommunalen Dachflächen in Bösingen — und sie wird derzeit nicht genutzt. Die Gemeinde selbst müsste die Anlage über Fremdmittel finanzieren und zusätzliche Verwaltungslast schultern. Mit der Bürgerenergie geht beides zusammen: **Die Bürgerinnen und Bürger finanzieren das Projekt, die Gemeinde profitiert von günstiger lokaler Energie**, ohne eigene Investition.
 
-Für dich als Mitglied bedeutet das: Dein Geld bleibt im Dorf, wird in sichtbare Infrastruktur vor Ort investiert und wirft eine moderate, kalkulierbare Rendite ab — nach heutigen Planwerten ca. **3 % pro Jahr**.
+Für dich als Mitglied bedeutet das: Dein Geld bleibt im Dorf, wird in sichtbare Infrastruktur vor Ort investiert und wirft eine moderate, kalkulierbare Rendite ab.
 
 ## Was folgt nach dem Schulkomplex?
 
