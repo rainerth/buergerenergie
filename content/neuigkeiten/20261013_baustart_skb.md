@@ -1,24 +1,30 @@
 ---
 title: "Baustart Schulkomplex Bösingen — die BEG geht los"
-subtitle: "Zwei Wochen Montage auf dem Dach der Grundschule — Finanzierung bis zur Eintragung ist gesichert"
+subtitle: "Rund vier Wochen Bauzeit — und: der Strom vom Dach geht direkt an die Schule"
 date: 2026-10-13
 draft: false
 featured: true
 tags: ["SKB", "Baubeginn", "Projekt", "Eintragung", "Finanzierung"]
 categories: ["Neuigkeiten"]
 author: "AG Öffentlichkeitsarbeit"
-description: "Diese Woche beginnt die Montage der PV-Anlage auf dem Schulkomplex Bösingen. Die Finanzierung bis zur Eintragung ins Genossenschaftsregister ist gesichert."
+description: "Diese Woche beginnt die Montage der PV-Anlage auf dem Schulkomplex Bösingen. Der Strom vom Dach geht direkt an die Schule — die Gemeinde hat die vergaberechtlichen Voraussetzungen geklärt."
 ---
 
-**Diese Woche beginnt der Bau unserer PV-Anlage auf dem Schulkomplex Bösingen.** In rund zwei Wochen entsteht auf dem Dach der Grundschule eine 99-kWp-Anlage mit Batteriespeicher.
+**Diese Woche beginnt der Bau unserer PV-Anlage auf dem Schulkomplex Bösingen.** Auf dem Dach der Grundschule entsteht eine 99-kWp-Anlage mit Batteriespeicher — und: der Strom vom Dach geht vom ersten Tag an direkt an die Schule.
 
 <!--more-->
 
 ## Baustart ab Dienstag, 13.10.2026
 
-Die Montagearbeiten starten auf dem Dach der Grundschule (Nordseite, teils mit Gerüst). Anschließend folgen Wechselrichter und Batteriespeicher an der Nordseite sowie die Elektroinstallation im Technikraum der Schule und am Zählerschrank in der Mehrzweckhalle. Rund zwei Wochen sind veranschlagt, bis die Anlage betriebsbereit ist.
+Die Montagearbeiten starten auf dem Dach der Grundschule (Nordseite, teils mit Gerüst). Anschließend folgen Wechselrichter und Batteriespeicher an der Nordseite sowie die Elektroinstallation im Technikraum der Schule und am Zählerschrank in der Mehrzweckhalle. **Bis zur Anmeldung der Anlage beim Netzbetreiber rechnen wir mit rund vier Wochen Bauzeit.**
 
 Mehr zum Projekt findest du unter [**www.buergerenergie-bhz.de/aktuell**](/aktuell/).
+
+## Gute Nachricht: Strom direkt an die Schule ab Inbetriebnahme
+
+Die Gemeinde hat die **vergaberechtlichen Voraussetzungen für einen direkten Strombezug der Schule** aus unserer Anlage inzwischen geklärt. Damit kann der Strom vom Dach bereits ab Inbetriebnahme direkt in den Schulkomplex geliefert werden. Die Anlage wird deshalb als **Überschusseinspeisungsanlage** umgesetzt: Was die Schule nicht selbst verbraucht, geht ins öffentliche Netz.
+
+Das Ziel, **Bürgerstrom lokal zu nutzen**, ist damit vom ersten Tag an erreicht — eine tolle Nachricht für alle Beteiligten.
 
 ## Eintragung ins Genossenschaftsregister — Stand
 
