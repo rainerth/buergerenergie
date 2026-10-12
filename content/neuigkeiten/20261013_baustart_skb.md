@@ -1,16 +1,16 @@
 ---
 title: "Baustart Schulkomplex Bösingen — die BEG geht los"
-subtitle: "Rund vier Wochen Bauzeit — und: der Strom vom Dach soll von Anfang an direkt an die Schule gehen"
+subtitle: "Rund vier Wochen Bauzeit — und: der Strom vom Dach soll von Anfang an direkt an Schule, Hallen und Lehrschwimmbecken gehen"
 date: 2026-10-13
 draft: false
 featured: true
 tags: ["SKB", "Baubeginn", "Projekt", "Eintragung", "Finanzierung"]
 categories: ["Neuigkeiten"]
 author: "AG Öffentlichkeitsarbeit"
-description: "Diese Woche beginnt die Montage der PV-Anlage auf dem Schulkomplex Bösingen. Der Strom vom Dach soll direkt an die Schule gehen — die Gemeinde hat die vergaberechtlichen Voraussetzungen weitestgehend geklärt."
+description: "Diese Woche beginnt die Montage der PV-Anlage auf dem Schulkomplex Bösingen. Der Strom vom Dach soll direkt an Schule, Hallen und Lehrschwimmbecken gehen — die Gemeinde hat die vergaberechtlichen Voraussetzungen weitestgehend geklärt."
 ---
 
-**Diese Woche beginnt der Bau unserer PV-Anlage auf dem Schulkomplex Bösingen.** Auf dem Dach der Grundschule entsteht eine 99-kWp-Anlage mit Batteriespeicher — und: der Strom vom Dach soll von Anfang an direkt an die Schule gehen.
+**Diese Woche beginnt der Bau unserer PV-Anlage auf dem Schulkomplex Bösingen.** Auf dem Dach der Grundschule entsteht eine 99-kWp-Anlage mit Batteriespeicher — und: der Strom vom Dach soll von Anfang an direkt an Schule, Hallen und Lehrschwimmbecken gehen.
 
 <!--more-->
 
@@ -20,9 +20,9 @@ Die Montagearbeiten starten auf dem Dach der Grundschule (Nordseite, teils mit G
 
 Mehr zum Projekt findest du unter [**www.buergerenergie-bhz.de/aktuell**](/aktuell/).
 
-## Gute Nachricht: Strom direkt an die Schule
+## Gute Nachricht: Strom direkt an Schule, Hallen und Lehrschwimmbecken
 
-Die Gemeinde hat die **vergaberechtlichen Voraussetzungen für einen direkten Strombezug der Schule** aus unserer Anlage **weitestgehend geklärt**. Damit streben wir an, den Strom vom Dach **von Anfang an direkt in den Schulkomplex** zu liefern. Die Anlage wird deshalb als **Überschusseinspeisungsanlage** umgesetzt: Was die Schule nicht selbst verbraucht, geht ins öffentliche Netz.
+Die Gemeinde hat die **vergaberechtlichen Voraussetzungen für einen direkten Strombezug von Schule, Hallen und Lehrschwimmbecken** aus unserer Anlage **weitestgehend geklärt**. Damit streben wir an, den Strom vom Dach **von Anfang an direkt in den Schulkomplex** zu liefern. Die Anlage wird deshalb als **Überschusseinspeisungsanlage** umgesetzt: Was der Schulkomplex nicht selbst verbraucht, geht ins öffentliche Netz.
 
 Das Ziel, **Bürgerstrom lokal zu nutzen**, rückt damit in greifbare Nähe — eine tolle Nachricht für alle Beteiligten.
 
