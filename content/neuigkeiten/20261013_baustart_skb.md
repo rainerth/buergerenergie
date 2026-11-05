@@ -3,7 +3,7 @@ title: "Baustart Schulkomplex Bösingen — die BEG geht los"
 subtitle: "Rund vier Wochen Bauzeit — und: der Strom vom Dach soll von Anfang an direkt an Schule, Hallen und Lehrschwimmbecken gehen"
 date: 2026-10-13
 draft: false
-featured: true
+featured: false
 tags: ["SKB", "Baubeginn", "Projekt", "Eintragung", "Finanzierung"]
 categories: ["Neuigkeiten"]
 author: "AG Öffentlichkeitsarbeit"

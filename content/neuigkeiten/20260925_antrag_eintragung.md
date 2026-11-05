@@ -3,7 +3,7 @@ title: "Antrag auf Eintragung ist eingereicht"
 subtitle: "Eintragung ins Genossenschaftsregister nun recht schnell zu erwarten"
 date: 2026-09-25
 draft: false
-featured: true
+featured: false
 tags: ["BWGV", "Eintragung", "Notar", "Gründung"]
 categories: ["Neuigkeiten"]
 author: "AG Öffentlichkeitsarbeit"
