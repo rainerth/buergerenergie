@@ -51,11 +51,11 @@ Der Strom vom Dach geht **direkt an Schule, Hallen und Lehrschwimmbecken**, nich
 
 **Schritt für Schritt:** Jedes weitere Vorhaben baut auf den Erfahrungen des Schulkomplexes auf, so wächst die Genossenschaft solide und mit Augenmaß.
 
-> **Das Schulkomplex-Projekt ist in Umsetzung. Alles Weitere ist Vision.**
+> **Das Schulkomplex-Projekt ist in Umsetzung. Weitere Projekte sind in Vorbereitung.**
 
-## Vision für die nächsten Jahre
+## In Vorbereitung
 
-Was nach dem Schulkomplex kommen kann, in Prüfung und Abstimmung mit der Gemeinde:
+Nach dem Schulkomplex bereitet die Genossenschaft weitere Vorhaben vor, in Abstimmung mit Gemeinde und Kirchengemeinde:
 
 * **Weitere PV-Anlagen** auf kommunalen und kirchlichen Dächern
 * **Wärmeversorgung** kommunaler Gebäude (z.B. Wärmepumpe)
