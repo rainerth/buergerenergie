@@ -9,14 +9,14 @@ draft: false
 
 # Unsere Projekte
 
-Die Bürgerenergie Bösingen-Herrenzimmern bündelt Bürgerkapital und bringt es gezielt in **Energieprojekte vor Ort** — in Vorhaben, die ohne diesen Hebel nicht oder nur deutlich verzögert umgesetzt würden.
+Die Bürgerenergie Bösingen-Herrenzimmern bündelt Bürgerkapital und bringt es gezielt in **Energieprojekte vor Ort** — in Vorhaben, die ohne diesen Hebel nicht oder nur deutlich verzögert umgesetzt würden. Der aktuelle Fokus liegt auf dem **Schulkomplex Bösingen**.
 
-## Aktuell
+## Aktuelles Projekt
 
-- **[PV auf dem Schulkomplex Bösingen](/projekte/skb-boesingen/)** — 99 kWp Photovoltaik mit Batteriespeicher auf dem Dach des Schulkomplexes. Baubeginn Oktober 2026.
+- **[PV auf dem Schulkomplex Bösingen](/projekte/skb-boesingen/)** — rund 99 kWp Photovoltaik mit Batteriespeicher auf dem Dach des Schulkomplexes. Die Module liegen auf dem Dach, am 22. November 2026 geht es mit der Elektronik weiter.
 
-## In Vorbereitung
+## Vision
 
-Weitere kommunale PV-Projekte (Turn- und Festhalle Herrenzimmern, Verwaltung, Kläranlage) sind in Abstimmung mit der Gemeinde. Perspektivisch denken wir auch Wärme-Contracting für den Schulkomplex (Ablösung des bestehenden BHKW durch eine Wärmepumpe).
+Nach dem Schulkomplex sind weitere Projekte in Abstimmung mit der Gemeinde denkbar: zusätzliche PV-Anlagen auf kommunalen und kirchlichen Dächern sowie perspektivisch die Wärmeversorgung kommunaler Gebäude. Konkretes verabschieden die Gremien jeweils einzeln, nach dem Vorbild Schulkomplex.
 
-Du möchtest wissen, welches Projekt als nächstes kommt oder dich mit einer Einlage daran beteiligen? Schreib uns über das [Kontaktformular](/#kontaktformular) — wir halten dich auf dem Laufenden.
+Du möchtest wissen, welches Projekt als nächstes kommt? Schreib uns über das [Kontaktformular](/#kontaktformular) — wir halten dich auf dem Laufenden.

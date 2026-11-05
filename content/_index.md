@@ -39,24 +39,29 @@ Damit du weißt, wofür wir stehen — bevor du dich einträgst.
 - **19. Mai 2026 — Gründungsversammlung:** 23 Gründerinnen und Gründer haben die Satzung einstimmig beschlossen, Vorstand und Aufsichtsrat sind gewählt. Mit Bürgermeister Peter Schuster sitzt die Gemeinde im Aufsichtsrat. ([Nachbericht](/neuigkeiten/20260519_gruendung_vollzogen/))
 - **15. Juni 2026 — Ausschreibungsphase startet:** Die Ausschreibungen für die zugesagten PV-Anlagen sind an die Bieter herausgegangen — Abgabefrist 07.07.2026.
 - **30. Juli 2026 — Gemeinderat sagt Ja:** Der Gemeinderat Bösingen genehmigt einstimmig die Verpachtung des Dachs am Schulkomplex an die BEG.
-- **25. September 2026 — Antrag auf Eintragung eingereicht:** Der Vorstand hat den Antrag auf Eintragung ins Genossenschaftsregister über einen Notar beim Registergericht eingereicht — mit dem positiven Prüfungsgutachten des BWGV und allen weiteren Unterlagen. ([Details](/neuigkeiten/20260925_antrag_eintragung/))
-- **Zeichnungsphase:** unmittelbar nach der Eintragung ins Genossenschaftsregister — der Antrag ist gestellt, die Eintragung ist absehbar. Erst dann werden die Absichtserklärungen in Geschäftsanteile umgewandelt.
+- **25. September 2026 — Antrag auf Eintragung eingereicht:** Der Vorstand hat den Antrag auf Eintragung ins Genossenschaftsregister über einen Notar beim Registergericht eingereicht, mit dem positiven Prüfungsgutachten des BWGV und allen weiteren Unterlagen. ([Details](/neuigkeiten/20260925_antrag_eintragung/))
+- **13. Oktober 2026 — Baubeginn Schulkomplex Bösingen:** Die Montage der PV-Anlage auf dem Schulkomplex startet. ([Details](/neuigkeiten/20261013_baustart_skb/))
+- **15. Oktober 2026 — Eintragung ins Genossenschaftsregister:** Registergericht Stuttgart, GnR 720329. Das „i.G." entfällt. ([Details](/neuigkeiten/20261105_eintragung_erfolgt/))
 
-## Stufe 1: PV auf kommunalen Dächern
+## Unser erstes Projekt: PV am Schulkomplex Bösingen
 
-Die ersten PV-Anlagen werden auf kommunalen Dächern in unserer Gemeinde geplant. Die Investition wird durch **Bürger-Einlagen und ergänzende Darlehen** getragen — **ohne Investition der Gemeinde**. Strom wird zuerst lokal in den Liegenschaften verbraucht, der Rest fließt ins Netz.
+Auf dem Dach des Schulkomplexes Bösingen entsteht die erste PV-Anlage der Genossenschaft: **rund 99 kWp Photovoltaik mit Batteriespeicher**, finanziert durch **Bürger-Einlagen und ergänzende Darlehen** — **ohne Investition der Gemeinde**. Die **Module liegen vollständig auf dem Dach**, am **22. November 2026** geht es mit der Elektronik weiter.
 
-**Schritt für Schritt:** Jede weitere Stufe baut auf den Erfahrungen und Erfolgen der vorhergehenden auf — so wächst die Genossenschaft solide und mit Augenmaß.
+Der Strom vom Dach geht **direkt an Schule, Hallen und Lehrschwimmbecken**, nicht benötigte Mengen fließen ins öffentliche Netz.
 
-> **Stufe 1 ist zugesagt, alles Weitere ist Projektidee in Prüfung.**
+**Schritt für Schritt:** Jedes weitere Vorhaben baut auf den Erfahrungen des Schulkomplexes auf, so wächst die Genossenschaft solide und mit Augenmaß.
 
-## Was später dazu kommen kann
+> **Das Schulkomplex-Projekt ist in Umsetzung. Alles Weitere ist Vision.**
 
-* **Weitere PV-Anlagen** auf kommunalen Gebäuden
-* **Wärmeversorgung** des Schulkomplexes (z.B. Wärmepumpe, ggf. mit Abwasser- oder Erdwärmequelle)
+## Vision für die nächsten Jahre
+
+Was nach dem Schulkomplex kommen kann, in Prüfung und Abstimmung mit der Gemeinde:
+
+* **Weitere PV-Anlagen** auf kommunalen und kirchlichen Dächern
+* **Wärmeversorgung** kommunaler Gebäude (z.B. Wärmepumpe)
 * **Energy Sharing** — günstigerer Strom direkt für Mitglieder, sobald die deutsche Umsetzung der EU-Richtlinie steht
 
-Mehr Hintergrund in unseren [häufig gestellten Fragen](/faq/#projekte-in-bösingen).
+Jedes dieser Vorhaben wird einzeln beschlossen, sobald der Schulkomplex rund läuft. Mehr Hintergrund in unseren [häufig gestellten Fragen](/faq/#projekte-in-bösingen).
 
 ## Mitglied werden — ab 100 € Geschäftsanteilen
 
@@ -73,9 +78,9 @@ Was du davon hast:
 
 {{< admonition type="tip" title="Wir brauchen DICH — und deine Freunde!" >}}
 **Stand heute:** über **200 Interessenten** sind eingetragen — die selbst gesetzte Marke ist überschritten.
-**Neues Ziel:** **250 Interessenten** bis zur Zeichnungsphase — das zeigt Politik, Behörden und Förderern, dass die Initiative breit getragen wird.
+**Neues Ziel:** **250 Interessenten** — das zeigt Politik, Behörden und Förderern, dass die Initiative breit getragen wird.
 
-Eine Eintragung ist **unverbindlich und kostenlos**. Du bekommst regelmäßige Mails zu Fortschritten und wirst rechtzeitig vor der Zeichnungsphase informiert, sobald die Eintragung ins Genossenschaftsregister erfolgt ist.
+Eine Eintragung ist **unverbindlich und kostenlos**. Du bekommst regelmäßige Mails zum Projekt am Schulkomplex und zu allen weiteren Fortschritten.
 {{< /admonition >}}
 
 ---
