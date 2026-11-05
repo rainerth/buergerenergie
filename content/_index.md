@@ -2,7 +2,7 @@
 layout: page
 show_sidebar: true
 tags: [Bürgerenergiegenossenschaft, Bösingen, Herrenzimmern, Genossenschaft, Erneuerbare Energien, Klimaschutz]
-title: Bürgerenergie Bösingen-Herrenzimmern eG i.G.
+title: Bürgerenergie Bösingen-Herrenzimmern eG
 subtitle: "Energie in Bürgerhand — bist du dabei?"
 description: Bürgerenergiegenossenschaft Bösingen-Herrenzimmern
 draft: false
@@ -19,7 +19,7 @@ draft: false
   class="float-left mr-3 mb-3"
 >}}
 
-Die *Bürgerenergie Bösingen-Herrenzimmern eG i.G.* ist am **19. Mai 2026** gegründet worden — 23 Gründerinnen und Gründer haben die Satzung einstimmig angenommen, darunter Bürgermeister Peter Schuster im Aufsichtsrat. Bis zur Eintragung ins Genossenschaftsregister läuft die Genossenschaft als „eG in Gründung". Über **200 Interessentinnen und Interessenten** stehen hinter dem Vorhaben.
+Die *Bürgerenergie Bösingen-Herrenzimmern eG* ist am **19. Mai 2026** gegründet worden. 23 Gründerinnen und Gründer haben die Satzung einstimmig angenommen, darunter Bürgermeister Peter Schuster im Aufsichtsrat. Seit **15. Oktober 2026** ist die Genossenschaft im Genossenschaftsregister des Registergerichts Stuttgart unter **GnR 720329** eingetragen. Über **200 Interessentinnen und Interessenten** stehen hinter dem Vorhaben.
 
 Unser Ziel: **Energieprojekte vor Ort, finanziert von den Bürgerinnen und Bürgern, mit Nutzen für die Gemeinde.**
 

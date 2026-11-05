@@ -9,14 +9,15 @@ layout: "page"
 
 ## 1. Verantwortliche Stelle
 
-Verantwortlich für die Datenverarbeitung im Zusammenhang mit dieser Webseite und dem Beitritts- bzw. Interessentenprozess der Bürgerenergie Bösingen-Herrenzimmern eG i.G. ist während der Gründungsphase:
+Verantwortlich für die Datenverarbeitung im Zusammenhang mit dieser Webseite und dem Beitritts- bzw. Interessentenprozess ist:
 
-**Rainer Thieringer** (für die Bürgerenergie Bösingen-Herrenzimmern eG i.G.)
+**Bürgerenergie Bösingen-Herrenzimmern eG**
+c/o Rainer Thieringer (Vorstand)
 Merowingerstraße 6
 78662 Bösingen
 E-Mail: {{< obf-mail user="info" domain="buergerenergie-bhz.de" >}}
 
-Mit Eintragung der Genossenschaft im Genossenschaftsregister tritt diese als verantwortliche Stelle an unsere Stelle; eine aktualisierte Fassung dieser Erklärung wird dann veröffentlicht.
+Registergericht Stuttgart, GnR 720329, eingetragen am 15. Oktober 2026.
 
 ## 2. Geltungsbereich
 

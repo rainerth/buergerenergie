@@ -14,10 +14,6 @@ draft: false
 
 Eine Genossenschaft ist ein Zusammenschluss mehrerer Personen mit dem Ziel, durch gemeinschaftlichen Geschäftsbetrieb ihre wirtschaftlichen Interessen zu fördern. Das Besondere: Alle Mitglieder haben **eine Stimme** — unabhängig davon, wie viel Geld sie investiert haben. Es zählt nicht der Geldbeutel, sondern die Beteiligung.
 
-### Was bedeutet "i.G." hinter dem Namen?
-
-"i.G." steht für **"in Gründung"**. Die Bürgerenergie Bösingen-Herrenzimmern befindet sich derzeit in der formalen Gründungsphase: Die Unterlagen sind seit dem 15. April 2026 beim BWGV in Vorprüfung, die **Gründungsversammlung im kleinen Kreis** ist für den **19. Mai 2026** angesetzt. Nach Beschluss von Satzung und Geschäftsplan, Wahl von Vorstand und Aufsichtsrat folgt die Eintragung beim Genossenschaftsregister — danach entfällt das "i.G." und es heißt nur noch **"eG"**. Viele erfolgreiche Energiegenossenschaften haben genau so angefangen.
-
 ### Wird eine eigene Genossenschaft gegründet oder schließt sich Bösingen einer bestehenden an?
 
 **Wir gründen eine eigene Genossenschaft** mit Sitz in Bösingen — die **Bürgerenergie Bösingen-Herrenzimmern eG**. Das ist eine bewusste Entscheidung des Gründungsteams im Einvernehmen mit den inzwischen über 170 Interessenten: lokale Verankerung, lokale Mitsprache, lokale Wertschöpfung.

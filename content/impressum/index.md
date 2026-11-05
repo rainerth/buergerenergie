@@ -9,7 +9,7 @@ layout: "page"
 
 ## Anbieter
 
-**Bürgerenergie Bösingen-Herrenzimmern eG i.G.** (eingetragene Genossenschaft in Gründung)
+**Bürgerenergie Bösingen-Herrenzimmern eG** (eingetragene Genossenschaft)
 
 c/o Rainer Thieringer (Vorstand)
 Merowingerstraße 6
@@ -37,11 +37,11 @@ Die Genossenschaft wird durch den Vorstand vertreten. Mitglieder des Vorstands s
 
 ## Registereintragung
 
-Die Genossenschaft befindet sich in Gründung. Eine Eintragung in das Genossenschaftsregister wird nach Abschluss der Gründungsprüfung durch den Prüfungsverband beantragt. Die Registernummer wird hier nachgetragen, sobald sie vorliegt.
+Registergericht Stuttgart, Genossenschaftsregister **GnR 720329**. Eingetragen am **15. Oktober 2026**.
 
 ## Prüfungsverband
 
-Die Bürgerenergie Bösingen-Herrenzimmern eG i.G. ist Mitglied im
+Die Bürgerenergie Bösingen-Herrenzimmern eG ist Mitglied im
 
 **Baden-Württembergischen Genossenschaftsverband e.V. (BWGV)**
 Heilbronner Straße 41
@@ -58,7 +58,7 @@ Rainer Thieringer (Anschrift wie oben).
 
 ## Verbraucherstreitbeilegung
 
-Die Bürgerenergie Bösingen-Herrenzimmern eG i.G. ist nicht bereit und nicht verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen (§ 36 VSBG).
+Die Bürgerenergie Bösingen-Herrenzimmern eG ist nicht bereit und nicht verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen (§ 36 VSBG).
 
 Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung bereit: [ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr/). Unsere E-Mail-Adresse finden Sie oben.
 
@@ -80,4 +80,4 @@ Hinweise zur Verarbeitung personenbezogener Daten finden Sie in unserer separate
 
 ---
 
-*Stand: 21. Mai 2026*
+*Stand: 5. November 2026*
