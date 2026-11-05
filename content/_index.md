@@ -66,7 +66,7 @@ Was du davon hast:
 
 * **1 Mitglied = 1 Stimme** — unabhängig von der Höhe der Einlage
 * **Keine Nachschusspflicht** — Risiko begrenzt auf die Einlage
-* **Rendite bleibt im Ort** — nach den Aufbaujahren Dividende, wie bei anderen Energiegenossenschaften üblich
+* **Rendite bleibt im Ort** — Dividende aus dem Ertrag, wie bei anderen Energiegenossenschaften üblich
 * **Demokratisch und transparent** — du entscheidest mit, was deine Genossenschaft tut
 
 # Jetzt ist der richtige Zeitpunkt
