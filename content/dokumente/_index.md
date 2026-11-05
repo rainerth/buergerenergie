@@ -24,12 +24,6 @@ Die Satzung in der von der Gründungsversammlung am 19. Mai 2026 einstimmig besc
 
 - **[📄 Satzung als PDF herunterladen](satzung-beg.pdf)**
 
-## Geschäftsplan kompakt
-
-Was die BEG vorhat, was es kostet, was du davon hast — auf einer Seite zusammengefasst. Der vollständige Geschäftsplan (für BWGV, Gemeinderat und Banken) wird zur Gründungsversammlung am 19.05.2026 finalisiert.
-
-- **[📖 Geschäftsplan kompakt online lesen](/dokumente/geschaeftsplan-kompakt/)**
-
 ## Absichtserklärung
 
 Mit der Absichtserklärung signalisierst du unverbindlich deine Beitrittsabsicht und nennst den Betrag, mit dem du dich an der Genossenschaft beteiligen möchtest. Diese Angaben sind für unseren Eigenkapital-Nachweis gegenüber dem BWGV erforderlich — Voraussetzung dafür, dass die Gründung überhaupt zustande kommt.

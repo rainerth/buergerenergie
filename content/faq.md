@@ -112,13 +112,13 @@ Die Gemeinde profitiert als Stromabnehmerin von **günstigeren Energiekosten** a
 
 ### Gibt es darüber hinaus weitere Ideen?
 
-Ja. Der Geschäftsplan sieht einen **stufenweisen Ausbau über mehrere Phasen** vor — nach dem **Gate-Prinzip**: Jede weitere Stufe wird erst angegangen, wenn die vorhergehende erfolgreich umgesetzt ist. Denkbar sind unter anderem:
+Ja. Der Vorstand geht nach dem **Gate-Prinzip** vor: Jede weitere Anlage wird erst angegangen, wenn das Vorgängerprojekt erfolgreich umgesetzt ist. In Vorbereitung sind unter anderem:
 
-- **Weitere PV-Anlagen** auf kommunalen Gebäuden
-- **Wärmeversorgung** kommunaler Gebäude (z.B. Wärmepumpe, ggf. mit Abwasser- oder Erdwärmequelle)
+- **Weitere PV-Anlagen** auf kommunalen und kirchlichen Gebäuden
+- **Wärmeversorgung** kommunaler Gebäude (z.B. Wärmepumpe)
 - **Energy Sharing** — günstigerer Strom direkt für Mitglieder, sobald die deutsche Umsetzung der EU-Richtlinie verfügbar ist
 
-**Stufe 1 ist zugesagt, alles Weitere ist Projektidee in Prüfung.**
+**Der Schulkomplex ist in Umsetzung, weitere Projekte sind in Vorbereitung.**
 
 ### Sind weitere Projekte schon festgelegt?
 
@@ -181,13 +181,12 @@ Beim reinen Strompreis aus dem Netz können wir nicht mit den großen Konzernen 
 - **Energy Sharing in Aussicht** — sobald die deutsche Umsetzung der EU-Richtlinie verfügbar ist, kann lokal erzeugter Strom direkt günstiger an Mitglieder geliefert werden
 - **Schrittweise Unabhängigkeit** von Preis- und Politikrisiken der großen Konzerne
 
-### Wo finde ich Satzung, Geschäftsplan und Leitbild?
+### Wo finde ich Satzung und Leitbild?
 
 Direkt auf der Startseite verlinkt:
 
 - **[Leitbild](/dokumente/leitbild/)** ([PDF](/dokumente/leitbild-beg.pdf))
 - **[Satzung (PDF)](/dokumente/satzung-beg.pdf)** — am 19. Mai 2026 von der Gründungsversammlung beschlossen
-- **[Geschäftsplan kompakt](/dokumente/geschaeftsplan-kompakt/)**
 - **[Absichtserklärung (PDF)](/absicht/Absichtserklaerung.pdf)** — unverbindliche Vorab-Bekundung deiner geplanten Einlage
 
 Die Satzung wurde von der Gründungsversammlung am 19. Mai 2026 einstimmig beschlossen.

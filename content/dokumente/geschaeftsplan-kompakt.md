@@ -1,9 +1,9 @@
 ---
 title: "Geschäftsplan kompakt"
 subtitle: "Bürgerenergie Bösingen-Herrenzimmern eG — was wir vorhaben, auf einer Seite"
-hidden: false
+hidden: true
 date: 2026-05-08
-draft: false
+draft: true
 layout: "page"
 ---
 
