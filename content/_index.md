@@ -58,7 +58,7 @@ Die ersten PV-Anlagen werden auf kommunalen Dächern in unserer Gemeinde geplant
 
 Mehr Hintergrund in unseren [häufig gestellten Fragen](/faq/#projekte-in-bösingen).
 
-## Mitglied werden — ab 100 €
+## Mitglied werden — ab 100 € Geschäftsanteilen
 
 Eine Genossenschaft lebt von vielen Schultern. Eine **einmalige Einlage ab 100 €** (ein Geschäftsanteil) genügt — Mitglied werden ist für alle erreichbar.
 
