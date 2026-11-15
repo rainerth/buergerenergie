@@ -1,97 +1,124 @@
 ---
 title: "So zeichnest du Anteile an der BEG"
 subtitle: "Schritt-für-Schritt-Anleitung für den digitalen Beitritt über CoopX"
-date: 2026-10-13
+date: 2026-11-15
 draft: false
-unlisted: true
-slug: "zeichnung-anleitung-9abff418"
-url: "/mitmachen/zeichnung-9abff418/"
+unlisted: false
+slug: "zeichnung-anleitung"
+url: "/mitmachen/zeichnung/"
 featured: false
 tags: ["CoopX", "Zeichnung", "Mitgliedschaft", "Beitritt"]
 categories: ["Mitmachen"]
 author: "Vorstand"
-description: "Entwurfs-Anleitung zum digitalen Beitritt zur Bürgerenergie Bösingen-Herrenzimmern über das CoopX-Portal. Vorerst nur über direkten Link erreichbar — nicht in der Navigation."
+description: "Anleitung zum digitalen Beitritt zur Bürgerenergie Bösingen-Herrenzimmern eG über das CoopX-Portal. Vorerst nur über direkten Link erreichbar — nicht in der Navigation."
 sitemap:
-  disable: true
+  disable: false
 robotsNoIndex: true
 ---
 
-{{< admonition type="note" title="Entwurf — nicht öffentlich verlinkt" >}}
-Diese Seite ist über einen direkten Link erreichbar, aber nicht in der Navigation und nicht in der Suche sichtbar. Wir redigieren den Inhalt gemeinsam, bis er passt. Ob und wann wir mit Anträgen über CoopX wirklich starten, hängt vom Eintragungsstand ab.
-{{< /admonition >}}
+_Wir haben uns im Vorstand für die Anrede mit „Du" entschieden. Das soll das unkomplizierte Miteinander unter den Mitgliedern unterstreichen. In der direkten Ansprache verwenden wir Du oder Sie gemäß den gesellschaftlich etablierten Gepflogenheiten. Wir hoffen, damit allzeit den richtigen Ton zu treffen._
+
 
 # So zeichnest du Anteile an der BEG
 
-Die Zeichnung von Genossenschaftsanteilen an der **Bürgerenergie Bösingen-Herrenzimmern eG** läuft über unser Mitgliederportal **CoopX**. Der komplette Prozess ist digital — vom Antrag bis zur SEPA-Einzugsermächtigung.
+Die Zeichnung von Geschäftsanteilen an der **Bürgerenergie Bösingen-Herrenzimmern eG** läuft über unser Mitgliederportal bei **CoopX**. Der Antrag ist komplett digital — vom Ausfüllen über die Satzungs-Bestätigung bis zum SEPA-Mandat. Diese Anleitung führt dich Schritt für Schritt durch den Beitritt.
 
-Diese Anleitung führt dich Schritt für Schritt durch den Beitritt.
+## Wie viele Anteile kannst du zeichnen?
+
+Aktuell benötigen wir Anteile zu Finanzierung unseres ersten Projekts: die **PV-Anlage mit Batteriespeicher auf der Schule** im Ortsteil Bösingen. Die erfreulichen Zusagen im Rahmen der schriftlichen **Absichtserklärungen** zeigen, dass viele Bürger der jungen Genossenschaft beitreten möchten und die Anlage durch ihren Anteil finanzieren möchten. Aus den Erträgen werden nach einer Startphase auch Dividenden ausbezahlt werden. Wir haben alles vorbereitet  und jetzt wird es konkret: jeder, der von Anfang an dabei sein möchte, kann ab sofort Anteile zeichnen! Wir benötigen für dieses erste Projekt mit Nebenkosten und Mehrwertsteuer - die wir wieder zurückerstattet bekommen werden - 135.000€ an Kapital. 
+
+- **Ein Geschäftsanteil beträgt 100 €** (§ 37 Abs. 1 unserer Satzung).
+- Du kannst mehrere Anteile auf einmal zeichnen. Später lassen sich jederzeit weitere Anteile dazu zeichnen.
+- Für die **erste Zeichnungsrunde unter den Gründungsmitgliedern** hat der Vorstand einen Deckel von **1.500 € je Mitglied** (= 15 Anteile) beschlossen. So kommen in dieser Phase möglichst viele Gründungsmitglieder zum Zug. Falls die Zielsumme nicht erreicht wird, öffnen wir den Deckel in einer zweiten Phase auf bis zu 5.000 €.
+- Die satzungsmäßige Höchstbeteiligung nach § 37 Abs. 3 ist unabhängig davon und wird von Vorstand und Aufsichtsrat gesondert festgelegt.
 
 ## Was du vorab bereithalten solltest
 
 - Eine **gültige E-Mail-Adresse** (für die Kontoerstellung und spätere Bestätigungen)
 - Deine **Anschrift** und dein **Geburtsdatum**
-- Die **IBAN** des Kontos, von dem die Einlagen eingezogen werden sollen
-- Eine Vorstellung, wie viele Anteile du zeichnen möchtest (siehe unten „Wie viele Anteile?")
+- Die **IBAN** des Kontos, von dem die Einlage per SEPA-Lastschrift eingezogen werden darf
+- Die **Steuernummer**, so dass wir alle Meldungen zu Einnahmen effizient an die amtlichen Stellen melden können. Wenn nicht zur Hand, kann diese jederzeit nachgereicht werden. 
+- Die Anzahl Anteile, die du zeichnen möchtest (1 Anteil = 100 €, Phase 1 bis maximal 15 Anteile)
 
-## Schritt 1 — Konto im CoopX-Portal anlegen
+## Schritt 1 — Zeichnungs-Portal öffnen
 
-Rufe das CoopX-Portal der BEG auf: **`[URL einfügen, z. B. https://buergerenergie-bhz.coopx.com]`**
+Rufe das Zeichnungs-Portal der BEG direkt auf:
 
-Klicke auf „Konto anlegen" und gib deine E-Mail-Adresse sowie ein Passwort ein. Du erhältst eine Verifikations-Mail, in der du deine Mail-Adresse per Klick bestätigst.
+**[app.coopx.org/coops/Vl4zbqZRdprO/register](https://app.coopx.org/coops/Vl4zbqZRdprO/register)**
 
-> `[LÜCKE: genauer Button-Text und ob die BEG CoopX unter einer eigenen Subdomain hostet — bitte beim Durchklicken ergänzen]`
+Oder scanne diesen QR-Code mit deinem Handy:
 
-## Schritt 2 — Gründungsunterlagen einsehen
+{{< figure src="/img/QR_Code_Link_zum_Beitrittsformular.svg" alt="QR-Code zum Beitrittsformular" width="180" >}}
 
-Vor dem Ausfüllen des Antragsformulars werden dir die wesentlichen Dokumente der Genossenschaft zur Verfügung gestellt:
+Die Seite unseres Partners **CoopX** erscheint. 
 
-- **Satzung** der BEG
-- **Datenschutzhinweise**
-- Hinweis auf **weitere Zahlungspflichten** (Nachschusspflicht ist in unserer Satzung ausgeschlossen) und **Kündigungsfristen**
+{{< figure src="/img/coopx/01-anmeldung.png" alt="CoopX-Startseite für den Beitritt zur BEG" >}}
 
-Du bestätigst mit Setzen eines Hakens, dass du diese Dokumente zur Kenntnis genommen hast.
+## Schritt 2 — Satzung und Datenschutzhinweise lesen
 
-## Schritt 3 — Antragsformular ausfüllen
+Im Antrag bekommst du die wichtigsten Dokumente als Link angezeigt:
+
+- **[Satzung der Bürgerenergiegenossenschaft Bösingen-Herrenzimmern eG](https://www.buergerenergie-bhz.de/dokumente/satzung-beg.pdf)** (als PDF einsehbar und herunterladbar)
+- **[Datenschutzhinweise](https://www.buergerenergie-bhz.de/datenschutz/)**
+- Hinweise auf Kündigungsfristen und darauf, dass **keine Nachschusspflicht** besteht
+
+Du bestätigst mit einem Haken, dass du die Dokumente zur Kenntnis genommen hast.
+
+{{< figure src="/img/coopx/02-dokumente.png" alt="CoopX-Ansicht Satzung und Datenschutz bestätigen" caption="Satzung und Datenschutzhinweise werden dir vor dem Antrag angezeigt." >}}
+
+## Schritt 3 — Beitrittsformular ausfüllen
 
 Trage deine Daten ein:
 
 - Vor- und Nachname
 - Anschrift (Straße, PLZ, Ort)
 - Geburtsdatum
-- Telefonnummer (optional)
-- **Anzahl der Geschäftsanteile**, die du zeichnen möchtest (siehe unten)
-- Bankverbindung (IBAN) für den SEPA-Lastschrift-Einzug
+- E-Mail-Adresse und Telefon
+- **Anzahl der Geschäftsanteile**, die du zeichnen möchtest
+- IBAN für den SEPA-Lastschrift-Einzug
+- die Steuernummer
 
-> `[LÜCKE: exakte Datenfelder bitte beim Durchklicken ergänzen]`
+Die letzten beiden Punkte helfen uns sehr die genossenschaftlichen Pflichten im Rahmen der Mitgliederverwaltung mit vertretbarem Aufwand durchzuführen.  
+{{< figure src="/img/coopx/03-antrag.png" alt="CoopX-Beitrittsformular ausgefüllt" caption="Das Beitrittsformular im CoopX-Portal." >}}
 
-## Schritt 4 — Antrag absenden
+## Schritt 4 — Antrag abschicken
 
-Wenn du alle Felder ausgefüllt und die Pflicht-Haken gesetzt hast, klickst du auf **„Mitgliedschaft kostenpflichtig beantragen"**. Mit diesem Klick stellst du einen verbindlichen Antrag auf Aufnahme in die Genossenschaft.
+Wenn alle Felder ausgefüllt, die zum Schutz leider unvermeidliche "Ich bin ein Mensch"-Prüfung bestanden und die Pflicht-Haken gesetzt sind, klickst du auf **„Mitgliedschaft kostenpflichtig beantragen"**. Mit diesem Klick stellst du einen verbindlichen Antrag auf Aufnahme in die Genossenschaft.
 
-Du erhältst eine automatische Bestätigungs-Mail, dass dein Antrag eingegangen ist.
+{{< figure src="/img/coopx/04-absenden.png" alt="Button Mitgliedschaft kostenpflichtig beantragen" >}}
 
-## Schritt 5 — Vorstandsprüfung
+## Schritt 5 — Prüfung durch den Vorstand
 
-Der Vorstand der BEG prüft deinen Antrag und entscheidet über die Aufnahme. Du erhältst eine Mail mit der Entscheidung — Annahme oder (im Ausnahmefall) Ablehnung. Bei Ablehnung werden deine Daten im System gelöscht.
+Dein Antrag läuft nun durch unseren Freigabe-Ablauf:
 
-> `[LÜCKE: realistische Prüfdauer bitte ergänzen, Richtwert z. B. „in der Regel innerhalb von zwei Wochen"]`
+1. **Eingang** im CoopX-Portal
+2. **Vorprüfung** der Angaben
+3. **Beschluss des Vorstands** über deine Aufnahme
+4. **Einzug der Einlage** per SEPA-Lastschrift von dem von dir angegebenen Konto
+5. **Eintragung** ins Mitgliederverzeichnis
 
-## Schritt 6 — Einzug der Einlage
+In der Regel erfolgt die Vorstandsentscheidung innerhalb weniger Tage. Du bekommst eine Mail mit der Entscheidung — Annahme oder (im Ausnahmefall) Ablehnung. Bei Ablehnung werden deine Daten im CoopX-System automatisch gelöscht.
 
-Nach positiver Prüfung wird der Einlagebetrag per SEPA-Lastschrift von dem von dir angegebenen Konto eingezogen. Dein Mitgliedschaftskonto im CoopX-Portal wird entsprechend aktualisiert.
 
-## Wie viele Anteile?
+## Schritt 6 — Nach der Aufnahme
 
-- **Ein Geschäftsanteil beträgt `[XX] €`** (laut Satzung § `[XX]`).
-- Du kannst **mehrere Anteile** zeichnen. Das Höchstmaß an Anteilen pro Person ist in der Satzung geregelt.
-- **In der Startphase** (bis zur Eintragung bzw. während der Vorab-Zeichnung) begrenzen wir die Zeichnung freiwillig auf **ca. 1.000–1.500 €**, damit möglichst viele Bürgerinnen und Bürger Platz haben, Mitglied zu werden.
+- Dein Mitgliedsstatus im CoopX-Portal wird auf „aktives Mitglied" gestellt, sobald deine Einlage bei uns eingegangen ist.
+- Du erhältst nach dem Einzug eine Bestätigung mit deiner Mitgliedsnummer.
 
-> `[LÜCKE: finaler Deckel-Wert aus Vorstandsbeschluss ergänzen, aktuell Verhandlungsstand]`
+# Weitere Anteile zeichnen
 
-## Weitere Anteile später zeichnen
+Wenn du bereits Anteile gezeichnet hast und nun oder später zusätzliche Geschäftsanteile zeichnen möchtest, geht das mit der registrierten Mitgliedsnummer und Mailadresse direkt über CoopX — deine Adresse und Bankdaten sind dann schon hinterlegt, der Ablauf (Antrag → Vorstandsprüfung → Einzug) ist identisch.
 
-Wenn du zu einem späteren Zeitpunkt weitere Anteile zeichnen möchtest, geht das über ein separates Formular in CoopX. Deine bereits hinterlegten Daten (Adresse, Bank) werden dann automatisch übernommen; der Ablauf ist identisch (Antrag → Vorstandsprüfung → Einzug).
+**Formular für weitere Anteile**: [app.coopx.org/coops/Vl4zbqZRdprO/add-shares](https://app.coopx.org/coops/Vl4zbqZRdprO/add-shares)
+
+... oder über den QR-Code:
+
+{{< figure src="/img/QR_Code_Link_weitere_Anteile_zeichnen.svg" alt="QR-Code für weitere Anteile" width="180" >}}
+
+# Lieber auf Papier?
+
+Wenn du den Beitritt oder eine Nachzeichnung lieber schriftlich auf Papier erklären möchtest, fordere das Druckformular per Mail an `info@buergerenergie-bhz.de` an oder [lade die Vorlage direkt hier herunter](https://app.coopx.org/coops/Vl4zbqZRdprO/documents/print-forms/registration/person). Schicke es ausgefüllt zurück und wir tragen deinen Antrag im Portal ein. Der weitere Ablauf (Vorstandsprüfung, Einzug, Verzeichnis) ist identisch zum digitalen Weg.
 
 ## Fragen?
 
-Melde dich jederzeit beim Vorstand — am einfachsten über das [Kontaktformular](/#kontaktformular) oder direkt an `info@buergerenergie-bhz.de`.
+Melde dich jederzeit beim Vorstand über eine Mail an `info@buergerenergie-bhz.de`, per Anruf oder auf ein persönliches Gespräch. 
