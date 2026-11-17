@@ -98,7 +98,7 @@ Die Mitgliedschaft entsteht durch Beitritt und die Zeichnung von Anteilen (ab 10
 
 ## Hilf uns, die Botschaft zu verbreiten
 
-Kennst du jemanden, der Interesse an erneuerbaren Energien hat? **Sprich uns weiter:**
+Kennst du jemanden, der Interesse an erneuerbaren Energien hat? **Sag es weiter:**
 
 - **Per WhatsApp/Messenger:** Link teilen — [www.buergerenergie-bhz.de](https://www.buergerenergie-bhz.de)
 - **Per E-Mail:** [Empfehlung mit einem Klick](mailto:?subject=Bürgerenergie%20Bösingen-Herrenzimmern&body=Hallo%2C%0A%0Aschau%20dir%20mal%20diese%20Initiative%20an%20–%20eine%20Bürgerenergiegenossenschaft%20für%20Bösingen%20und%20Herrenzimmern%3A%0A%0Ahttps%3A%2F%2Fwww.buergerenergie-bhz.de%0A%0AViele%20Grüße)
