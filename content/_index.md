@@ -8,7 +8,7 @@ description: Bürgerenergiegenossenschaft Bösingen-Herrenzimmern
 draft: false
 ---
 
-[Direkt zum Kontaktformular](#kontaktformular)
+[Direkt zu Mitglied werden](#mitglied-werden)
 
 # Gemeinsam die Energie&shy;zukunft gestalten
 
@@ -19,16 +19,16 @@ draft: false
   class="float-left mr-3 mb-3"
 >}}
 
-Die *Bürgerenergie Bösingen-Herrenzimmern eG* ist am **19. Mai 2026** gegründet worden. 23 Gründerinnen und Gründer haben die Satzung einstimmig angenommen, darunter Bürgermeister Peter Schuster im Aufsichtsrat. Seit **15. Oktober 2026** ist die Genossenschaft im Genossenschaftsregister des Registergerichts Stuttgart unter **GnR 720329** eingetragen. Über **200 Interessentinnen und Interessenten** stehen hinter dem Vorhaben.
+Die *Bürgerenergie Bösingen-Herrenzimmern eG* ist am **19. Mai 2026** gegründet worden. 23 Gründerinnen und Gründer haben die Satzung einstimmig angenommen, darunter Bürgermeister Peter Schuster im Aufsichtsrat. Seit **15. Oktober 2026** ist die Genossenschaft im Genossenschaftsregister des Registergerichts Stuttgart unter **GnR 720329** eingetragen. Über **165 Gründungsmitglieder** tragen die Genossenschaft und zeichnen in Phase 1 die ersten Anteile.
 
 Unser Ziel: **Energieprojekte vor Ort, finanziert von den Bürgerinnen und Bürgern, mit Nutzen für die Gemeinde.**
 
 <div class="clearfix"></div>
 
 {{< admonition type="important" title="Unsere Gründungsdokumente" >}}
-**[📖 Leitbild](/dokumente/leitbild/)** ([PDF](/dokumente/leitbild-beg.pdf)) · **[📄 Satzung (PDF)](/dokumente/satzung-beg.pdf)** · **[📄 Absichtserklärung (PDF)](/absicht/Absichtserklaerung.pdf)**
+**[📖 Leitbild](/dokumente/leitbild/)** ([PDF](/dokumente/leitbild-beg.pdf)) · **[📄 Satzung (PDF)](/dokumente/satzung-beg.pdf)**
 
-Damit du weißt, wofür wir stehen — bevor du dich einträgst.
+Damit du weißt, wofür wir stehen — bevor du beitrittst.
 
 *Die Satzung wurde von der Gründungsversammlung am 19. Mai 2026 einstimmig beschlossen.*
 {{< /admonition >}}
@@ -76,24 +76,23 @@ Was du davon hast:
 
 # Jetzt ist der richtige Zeitpunkt
 
-{{< admonition type="tip" title="Wir brauchen DICH — und deine Freunde!" >}}
-**Stand heute:** über **200 Interessenten** sind eingetragen — die selbst gesetzte Marke ist überschritten.
-**Neues Ziel:** **250 Interessenten** — das zeigt Politik, Behörden und Förderern, dass die Initiative breit getragen wird.
+{{< admonition type="tip" title="Jetzt Mitglied werden" >}}
+**Die Zeichnung von Anteilen hat begonnen** — zunächst für die **165 Gründungsmitglieder**: alle, die uns parallel zur Gründungsarbeit per Absichtserklärung ihren Wunsch mitgeteilt haben, dabei zu sein. Sie haben ihren persönlichen Zugang zum Zeichnungs-Portal per Mail bekommen und können **bis Ende November 2026** zeichnen (bis zu 1.500 € bzw. 15 Anteile à 100 €).
 
-Eine Eintragung ist **unverbindlich und kostenlos**. Du bekommst regelmäßige Mails zum Projekt am Schulkomplex und zu allen weiteren Fortschritten.
+**Ab Anfang Dezember 2026** öffnet sich die Zeichnung für alle weiteren Interessierten — der Zugang wird dann hier auf dieser Seite freigeschaltet.
 {{< /admonition >}}
 
 ---
 
-## Interessent werden — in 2 Minuten {#kontaktformular}
+## Mitglied werden {#mitglied-werden}
 
-**Keine Verpflichtung.** Nur Name, Mail und optional ein Hinweis, wie du dich einbringen kannst (Ideen, Zeit, Kontakte).
+Die Mitgliedschaft entsteht durch Beitritt und die Zeichnung von Anteilen (ab 100 € je Anteil). Das läuft in drei Phasen:
 
-{{< tally
-    src="https://tally.so/embed/3NOzjO?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1"
-    height="400"
-    title="Kontaktformular"
->}}
+- **Phase 1 — bis 30. November 2026:** Zeichnung für die **165 Gründungsmitglieder**. Als Gründungsmitglied zählt, wer uns in der Zeit vor der Eintragung per Absichtserklärung seinen Wunsch mitgeteilt hat, dabei zu sein. Diese Personen haben ihren persönlichen Zugang zum Zeichnungs-Portal per Mail bekommen.
+- **Phase 2 — ab Anfang Dezember 2026:** Öffnung der Zeichnung für alle weiteren Interessierten, Deckel 5.000 € je Mitglied. Der Zugang wird dann hier auf dieser Seite freigeschaltet.
+- **Phase 3:** Danach bleibt die Zeichnungsmöglichkeit mit einem Anteil je Neumitglied offen.
+
+**Du möchtest in Phase 2 dabei sein?** Schreib uns an [info@buergerenergie-bhz.de](mailto:info@buergerenergie-bhz.de) oder ruf an unter **07404 910385** — wir melden uns, sobald das Portal für alle offen ist.
 
 ---
 

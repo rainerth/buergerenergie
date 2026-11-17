@@ -3,7 +3,7 @@ title: "Wir sind eine Genossenschaft"
 subtitle: "Eintragung im Genossenschaftsregister am 15. Oktober 2026 erfolgt"
 date: 2026-11-05
 draft: false
-featured: true
+featured: false
 tags: ["Eintragung", "Gründung", "Meilenstein"]
 categories: ["Neuigkeiten"]
 author: "AG Öffentlichkeitsarbeit"

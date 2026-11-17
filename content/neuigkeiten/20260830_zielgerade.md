@@ -36,7 +36,7 @@ Details zur Auslegung, Auftragsvergabe und zum konkreten Bauzeitplan geben wir n
 
 ## Wer noch mitmachen möchte
 
-Wer die Bürgerenergie Bösingen-Herrenzimmern unterstützen möchte, kann sich unverbindlich über das **[Kontaktformular auf der Startseite](/#kontaktformular)** eintragen oder direkt melden bei [info@buergerenergie-bhz.de](mailto:info@buergerenergie-bhz.de).
+Wer die Bürgerenergie Bösingen-Herrenzimmern unterstützen möchte, kann sich unverbindlich über das **[Kontaktformular auf der Startseite](/#mitglied-werden)** eintragen oder direkt melden bei [info@buergerenergie-bhz.de](mailto:info@buergerenergie-bhz.de).
 
 {{< admonition type="tip" title="Energie in Bürgerhand" >}}
 Die Genossenschaft ist auf einem guten Weg. Sobald das Prüfungsgutachten vorliegt und die Eintragung erfolgt ist, kommen wir aktiv auf alle Interessierten zu. Bis dahin danken wir für die Geduld und den Rückhalt.

@@ -76,7 +76,7 @@ Oder besuch direkt unser Profil: [geno.social/@buergerenergie_bhz](https://geno.
 
 Je mehr Menschen uns auf Mastodon folgen, desto besser können wir unsere Ideen verbreiten. Und das Beste: **Du unterstützt damit gleichzeitig ein offenes, werbefreies Internet** — ganz im genossenschaftlichen Sinne.
 
-Erzähl gerne Freunden und Bekannten davon. Wer Fragen zur Anmeldung hat, kann sich jederzeit über unser [Kontaktformular](/#kontaktformular) an uns wenden — wir helfen gerne!
+Erzähl gerne Freunden und Bekannten davon. Wer Fragen zur Anmeldung hat, kann sich jederzeit über unser [Kontaktformular](/#mitglied-werden) an uns wenden — wir helfen gerne!
 
 ---
 

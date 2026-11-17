@@ -9,7 +9,7 @@ layout: "page"
 
 # Unsere Gründungsdokumente
 
-Diese Dokumente sind die Grundlage unserer Genossenschaft. Wer eine **Absichtserklärung** abgeben oder Mitglied werden möchte, sollte sie kennen.
+Diese Dokumente sind die Grundlage unserer Genossenschaft. Wer **Mitglied werden** möchte, sollte sie kennen.
 
 ## Leitbild
 
@@ -23,15 +23,6 @@ Vision, Mission und Werte der Bürgerenergie Bösingen-Herrenzimmern eG.
 Die Satzung in der von der Gründungsversammlung am 19. Mai 2026 einstimmig beschlossenen Fassung.
 
 - **[📄 Satzung als PDF herunterladen](satzung-beg.pdf)**
-
-## Absichtserklärung
-
-Mit der Absichtserklärung signalisierst du unverbindlich deine Beitrittsabsicht und nennst den Betrag, mit dem du dich an der Genossenschaft beteiligen möchtest. Diese Angaben sind für unseren Eigenkapital-Nachweis gegenüber dem BWGV erforderlich — Voraussetzung dafür, dass die Gründung überhaupt zustande kommt.
-
-- **[📄 Absichtserklärung als PDF herunterladen](/absicht/Absichtserklaerung.pdf)**
-
-Wenn du keinen Drucker hast, schicken wir dir auch gerne ein gedrucktes Exemplar zu — eine kurze Mail an {{< obf-mail user="info" domain="buergerenergie-bhz.de" >}} genügt.
-
 
 # Informationen rund um die Genossenschaft
 

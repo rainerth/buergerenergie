@@ -1,6 +1,6 @@
 ---
 title: "Datenschutzerklärung"
-date: 2026-05-12
+date: 2026-11-17
 draft: false
 layout: "page"
 ---
@@ -9,7 +9,7 @@ layout: "page"
 
 ## 1. Verantwortliche Stelle
 
-Verantwortlich für die Datenverarbeitung im Zusammenhang mit dieser Webseite und dem Beitritts- bzw. Interessentenprozess ist:
+Verantwortlich für die Datenverarbeitung im Zusammenhang mit dieser Webseite und dem Beitritt zur Genossenschaft ist:
 
 **Bürgerenergie Bösingen-Herrenzimmern eG**
 c/o Rainer Thieringer (Vorstand)
@@ -21,7 +21,7 @@ Registergericht Stuttgart, GnR 720329, eingetragen am 15. Oktober 2026.
 
 ## 2. Geltungsbereich
 
-Diese Erklärung beschreibt, welche personenbezogenen Daten wir bei Besuch unserer Webseite www.buergerenergie-bhz.de, bei Kontaktaufnahme, beim Eintrag als Interessent:in, beim Beitritt zur Genossenschaft sowie bei laufender Mitgliedschaft erheben und verarbeiten.
+Diese Erklärung beschreibt, welche personenbezogenen Daten wir bei Besuch unserer Webseite www.buergerenergie-bhz.de, bei Kontaktaufnahme, beim Beitritt zur Genossenschaft sowie bei laufender Mitgliedschaft erheben und verarbeiten.
 
 Rechtsgrundlagen ergeben sich aus der DSGVO, insbesondere Art. 6 Abs. 1 lit. a (Einwilligung), lit. b (Vertrag bzw. vorvertragliche Maßnahmen), lit. c (rechtliche Verpflichtung) sowie lit. f (berechtigtes Interesse).
 
@@ -47,16 +47,15 @@ Diese Webseite wird ausschließlich über HTTPS ausgeliefert. Die Verbindung zwi
 
 Wir setzen **keine** Tracking-Cookies, kein Webanalyse-Tool und keine Werbe-Pixel ein. Die Volltextsuche auf der Webseite (Pagefind) läuft vollständig im Browser; es werden keine Suchanfragen an unseren Server übertragen.
 
-## 6. Kontaktformular (Tally)
+## 6. Kontaktaufnahme per E-Mail
 
-Das Kontakt- und Interessentenformular auf der Startseite wird über den Dienst **Tally** bereitgestellt (Tally BV, August Van Lokerenstraat 71, 9050 Gent, Belgien). Die von Ihnen eingegebenen Daten (z. B. Name, E-Mail-Adresse, Wohnort, Geburtsdatum, Angabe zu Mitgliedschaftsinteresse und Einlage) werden über Tally an uns übermittelt.
+Für Rückfragen, Beitrittsinteresse oder Anregungen erreichen Sie uns direkt per E-Mail an {{< obf-mail user="info" domain="buergerenergie-bhz.de" >}}. Wir verarbeiten die uns dabei übermittelten Daten (Absenderadresse, Betreff, Inhalt der Nachricht) ausschließlich zur Beantwortung und, soweit einschlägig, zur Vorbereitung einer Mitgliedschaft.
 
-- **Zweck:** Erfassung Ihres Interesses an der Genossenschaft, Versand von Updates zum Gründungsfortschritt, Vorbereitung einer späteren Mitgliedschaft.
-- **Rechtsgrundlage:** Art. 6 Abs. 1 lit. a DSGVO (Einwilligung mit Absenden des Formulars) bzw. lit. b (vorvertragliche Maßnahmen).
-- **Empfänger:** Tally als Auftragsverarbeiter, danach die verantwortliche Stelle (s. o.).
-- **Speicherdauer:** bis zum Widerruf oder bis Ihr Interesse erkennbar entfallen ist, längstens bis 24 Monate nach letztem Kontakt.
+- **Zweck:** Kommunikation mit Interessierten, Mitgliedern und Dritten.
+- **Rechtsgrundlage:** Art. 6 Abs. 1 lit. a DSGVO (Einwilligung mit Absenden der Mail) bzw. lit. b (vorvertragliche Maßnahmen).
+- **Speicherdauer:** solange die Verarbeitung zur Erfüllung des Zwecks erforderlich ist; Löschung auf Wunsch jederzeit.
 
-Tally speichert und verarbeitet die Formulardaten innerhalb der EU (Subprozessoren u. a. Google Cloud Belgien, Cloudflare EU); die Übertragung ist verschlüsselt. Details: <https://tally.so/help/gdpr>.
+Ein Kontaktformular auf der Webseite wird seit der Registereintragung der Genossenschaft am 15. Oktober 2026 nicht mehr angeboten.
 
 ## 7. E-Mail-Kommunikation und Newsletter
 
@@ -66,9 +65,9 @@ Wenn Sie uns per E-Mail kontaktieren oder sich für regelmäßige Informationen 
 - **Auftragsverarbeiter:** Hostsharing eG (Mailserver).
 - **Speicherdauer:** bis zum Widerruf bzw. solange die Verarbeitung zur Erfüllung des Zwecks erforderlich ist. Sie können dem weiteren Mailversand jederzeit formlos widersprechen (z. B. per Antwort-Mail an {{< obf-mail user="info" domain="buergerenergie-bhz.de" >}}).
 
-## 8. Absichtserklärung und Beitritt
+## 8. Beitritt zur Genossenschaft
 
-Wenn Sie eine Absichtserklärung zur späteren Mitgliedschaft abgeben oder der Genossenschaft beitreten, verarbeiten wir zusätzlich:
+Wenn Sie der Genossenschaft beitreten, verarbeiten wir die zum Vollzug der Mitgliedschaft notwendigen Daten. Die Erfassung erfolgt über das Mitglieder-Portal **CoopX** (Ziffer 9); auf Wunsch stellen wir ein Druckformular zur Verfügung. Erhoben werden:
 
 - Anrede, Vor- und Nachname, ggf. Titel, Anschrift
 - Geburtsdatum
@@ -76,23 +75,22 @@ Wenn Sie eine Absichtserklärung zur späteren Mitgliedschaft abgeben oder der G
 - gewünschte Höhe der Geschäftseinlage / Anzahl der Geschäftsanteile
 - Bankverbindung (Kontoinhaber:in, IBAN, BIC) und ggf. SEPA-Lastschriftmandat
 - Steuerliche Identifikationsnummer (Steuer-ID nach § 139b AO), soweit Sie diese angeben
-- ggf. Beruf / fachliche Hintergrunddaten, soweit Sie diese freiwillig angeben
 
-**Zweck:** Vorbereitung und Begründung der Mitgliedschaft, Planung der Gründungsfinanzierung, Einladung zur Zeichnungs- bzw. Gründungsversammlung, Einzug der Geschäftseinlage, ordnungsgemäße Mitgliederverwaltung sowie — bei späteren Dividendenausschüttungen — die gesetzlich vorgeschriebene Meldung der Kapitalertragsteuer.
+**Zweck:** Begründung und Vollzug der Mitgliedschaft, Einzug der Geschäftseinlage, ordnungsgemäße Mitgliederverwaltung sowie — bei Dividendenausschüttungen — die gesetzlich vorgeschriebene Meldung der Kapitalertragsteuer.
 
 **Rechtsgrundlagen:**
 
-- Vor Beitritt: Art. 6 Abs. 1 lit. b DSGVO (vorvertragliche Maßnahmen).
-- Nach Beitritt: Art. 6 Abs. 1 lit. b DSGVO (Mitgliedschaftsvertrag) sowie lit. c (genossenschafts-, handels- und steuerrechtliche Pflichten, insbesondere §§ 30, 31 GenG, §§ 140 ff. AO).
-- Steuer-ID: Art. 6 Abs. 1 lit. c DSGVO i. V. m. § 45a Abs. 2 EStG (Pflicht zur Übermittlung bei Kapitalertragsteuerbescheinigung). Die Angabe der Steuer-ID ist bei Beitritt **freiwillig**; sie ist spätestens zur ersten Dividendenauszahlung erforderlich und kann jederzeit nachgereicht werden.
+- Art. 6 Abs. 1 lit. b DSGVO (Mitgliedschaftsvertrag und vorvertragliche Maßnahmen).
+- Art. 6 Abs. 1 lit. c DSGVO (genossenschafts-, handels- und steuerrechtliche Pflichten, insbesondere §§ 30, 31 GenG, §§ 140 ff. AO).
+- Steuer-ID: Art. 6 Abs. 1 lit. c DSGVO i. V. m. § 45a Abs. 2 EStG. Die Angabe ist bei Beitritt **freiwillig**; sie ist spätestens zur ersten Dividendenauszahlung erforderlich und kann jederzeit nachgereicht werden.
 
-Die Daten werden ausschließlich im engsten zur Aufgabenerledigung erforderlichen Kreis (Gründungsteam bzw. später Vorstand und Aufsichtsrat) eingesehen. Die Höhe der Einlage ist vertraulich.
+Die Daten werden ausschließlich im engsten zur Aufgabenerledigung erforderlichen Kreis (Vorstand und Aufsichtsrat) eingesehen. Die Höhe der Einlage ist vertraulich.
 
-**Aufbewahrung:** Daten von Interessent:innen werden nach Widerruf gelöscht. Daten von Mitgliedern werden gemäß den gesetzlichen Aufbewahrungspflichten (i. d. R. 10 Jahre nach Ausscheiden) aufbewahrt.
+**Aufbewahrung:** Daten von Mitgliedern werden gemäß den gesetzlichen Aufbewahrungspflichten (i. d. R. 10 Jahre nach Ausscheiden) aufbewahrt.
 
 ## 9. Mitgliederverwaltung (CoopX)
 
-Mit Eintragung der Genossenschaft setzen wir für die Mitgliederverwaltung die Software **CoopX** ein (CoopX UG, Deutschland). CoopX verarbeitet die Stammdaten der Mitglieder, Geschäftsanteile, Zahlungen sowie zugehörige Korrespondenz auf in der EU gehosteten Servern. Ein Auftragsverarbeitungsvertrag (AVV) nach Art. 28 DSGVO liegt vor bzw. wird mit Aufnahme des Wirkbetriebs geschlossen.
+Seit Eintragung der Genossenschaft am 15. Oktober 2026 betreiben wir die Mitgliederverwaltung über die Software **CoopX** (CoopX UG, Deutschland). CoopX verarbeitet die Stammdaten der Mitglieder, Geschäftsanteile, Zahlungen sowie zugehörige Korrespondenz auf in der EU gehosteten Servern. Ein Auftragsverarbeitungsvertrag (AVV) nach Art. 28 DSGVO ist geschlossen.
 
 ## 10. Soziale Medien
 
@@ -107,7 +105,7 @@ Wir empfehlen, soziale Medien nur in Kenntnis der jeweiligen Datenschutzbedingun
 
 Eine Weitergabe Ihrer personenbezogenen Daten erfolgt nicht, außer
 
-- an die unter Ziffer 3, 6, 7 und 9 genannten Auftragsverarbeiter,
+- an die unter Ziffer 3, 7 und 9 genannten Auftragsverarbeiter,
 - an die genossenschaftliche Prüfungsstelle (Baden-Württembergischer Genossenschaftsverband — BWGV), soweit dies für die gesetzliche Pflichtprüfung erforderlich ist,
 - an Banken im Rahmen der Zahlungsabwicklung (insbesondere SEPA-Lastschriftmandate),
 - soweit Sie ausdrücklich eingewilligt haben oder eine gesetzliche Verpflichtung besteht.
@@ -131,8 +129,8 @@ Anfragen richten Sie bitte formlos an {{< obf-mail user="info" domain="buergeren
 
 ## 13. Änderungen dieser Erklärung
 
-Wir passen diese Datenschutzerklärung an, wenn sich Änderungen an den Verarbeitungsvorgängen ergeben — insbesondere mit der Registereintragung der Genossenschaft und der Aufnahme des Wirkbetriebs in CoopX.
+Wir passen diese Datenschutzerklärung an, wenn sich Änderungen an den Verarbeitungsvorgängen ergeben. Zuletzt überarbeitet am 17. November 2026 anlässlich der Registereintragung der Genossenschaft am 15. Oktober 2026 und der Umstellung der Mitgliederverwaltung auf CoopX.
 
 ---
 
-*Stand: 12. Mai 2026*
+*Stand: 17. November 2026*

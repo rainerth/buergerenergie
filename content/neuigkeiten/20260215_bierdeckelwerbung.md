@@ -36,5 +36,5 @@ Die erste Phase des Projekts „PV auf dem Schuldach" kann nur starten, wenn mö
 Wer informiert bleiben möchte, findet alle Details auf dem Bierdeckel – und natürlich einen Link auf das Anmeldeformular.
 
 {{< admonition type="tip" title="Interesse geweckt?">}}
-Du möchtest Teil unserer Initiative werden? Nutze unser [Kontaktformular](/#kontaktformular) oder sprich uns direkt an!
+Du möchtest Teil unserer Initiative werden? Nutze unser [Kontaktformular](/#mitglied-werden) oder sprich uns direkt an!
 {{< /admonition >}}

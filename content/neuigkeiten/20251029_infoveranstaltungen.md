@@ -48,7 +48,7 @@ Die Arbeitsgruppen nehmen in den kommenden Wochen ihre Arbeit auf. Interessierte
 
 {{< admonition type="tip" title="Interesse an der Gründung?">}}
 
-Wenn du dich am Gründungsprozess beteiligen möchtest oder Fragen hast, nutze gerne unser [Kontaktformular](/#kontaktformular) oder sprich uns direkt an.
+Wenn du dich am Gründungsprozess beteiligen möchtest oder Fragen hast, nutze gerne unser [Kontaktformular](/#mitglied-werden) oder sprich uns direkt an.
 
 **Deine Ansprechpartner:**
 * Rainer Thieringer

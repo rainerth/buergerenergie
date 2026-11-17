@@ -81,7 +81,7 @@ Es handelt sich bei diesen Etappen um einen **Plan, der vom Fortschritt der exte
 Wer noch nicht auf der Interessentenliste steht, kann sich jederzeit eintragen — kostenlos und unverbindlich.
 
 {{< admonition type="tip" title="Mitmachen — werde Mitglied!">}}
-Schon ab **100 € Einlage** bist du dabei. Trag dich über unser [Kontaktformular](/#kontaktformular) ein oder sprich uns direkt an.
+Schon ab **100 € Einlage** bist du dabei. Trag dich über unser [Kontaktformular](/#mitglied-werden) ein oder sprich uns direkt an.
 
 **Deine Ansprechpartner:**
 * Rainer Thieringer

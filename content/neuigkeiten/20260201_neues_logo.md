@@ -46,5 +46,5 @@ Mit Logo und Slogan ausgestattet, werden wir unser Vorhaben durch weitere Aktion
 Das neue Erscheinungsbild begleitet uns auf Website, [Instagram](https://www.instagram.com/buergerenergie_boesingen/), Informationsmaterialien und Veranstaltungen – und macht unsere Initiative in der Region sichtbar.
 
 {{< admonition type="tip" title="Gemeinsam für die Energiewende">}}
-Du möchtest Teil unserer Initiative werden? Informier dich über unsere [Arbeitsgruppen](/neuigkeiten/20251125_erste_sitzung_gruendungsteam/) oder nutze unser [Kontaktformular](/#kontaktformular).
+Du möchtest Teil unserer Initiative werden? Informier dich über unsere [Arbeitsgruppen](/neuigkeiten/20251125_erste_sitzung_gruendungsteam/) oder nutze unser [Kontaktformular](/#mitglied-werden).
 {{< /admonition >}}

@@ -11,7 +11,7 @@ aliases:
 draft: false
 ---
 
-[Direkt zum Kontaktformular](#kontaktformular)
+[Direkt zu Mitglied werden](/#mitglied-werden)
 
 # PV auf dem Schulkomplex Bösingen
 
@@ -52,14 +52,4 @@ Welche Projekte als nächstes umgesetzt werden, hängt auch von euch ab: Je mehr
 
 ## Mitmachen
 
-Du willst dabei sein? Schreib uns kurz über das Kontaktformular — wir melden uns bei dir mit allen Infos zur Mitgliedschaft und den nächsten Schritten (Zeichnung von Genossenschaftsanteilen nach Eintragung ins Genossenschaftsregister).
-
-<a id="kontaktformular"></a>
-
-## Kontaktformular
-
-{{< tally
-    src="https://tally.so/embed/3NOzjO?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1"
-    height="400"
-    title="Kontaktformular"
->}}
+Du willst dabei sein? Wie die Mitgliedschaft entsteht und wann die Zeichnung für alle Interessierten offen ist, steht im Abschnitt **[Mitglied werden auf der Startseite](/#mitglied-werden)**.

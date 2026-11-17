@@ -18,7 +18,7 @@ Vier Wochen nach der Gründung am **19. Mai 2026** ist die **Bürgerenergie Bös
 
 Inzwischen sind **über 200 Interessentinnen und Interessenten** eingetragen — die selbst gesetzte 200er-Marke ist überschritten. Viele davon haben mit ihrer Absichtserklärung den **Eigenkapital-Sockel** für die ersten PV-Projekte gelegt.
 
-Wer noch nicht im Verteiler steht, kann sich weiterhin über das **[Kontaktformular auf der Startseite](/#kontaktformular)** unverbindlich eintragen. Wer direkt eine Absichtserklärung beilegen möchte, findet das leere Formular auf unserer **[Dokumente-Seite](/dokumente/)**.
+Wer noch nicht im Verteiler steht, kann sich weiterhin über das **[Kontaktformular auf der Startseite](/#mitglied-werden)** unverbindlich eintragen. Wer direkt eine Absichtserklärung beilegen möchte, findet das leere Formular auf unserer **[Dokumente-Seite](/dokumente/)**.
 
 ## Wie es weitergeht
 

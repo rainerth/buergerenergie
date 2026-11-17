@@ -10,7 +10,7 @@ Hier findest du unsere eigenen Veranstaltungen sowie ausgewählte externe Webina
 
 Die nächste **öffentliche Veranstaltung** ist eine **Veranstaltung zur Öffnung der Anteilszeichnung** — kurzfristig nach der Eintragung ins Genossenschaftsregister. Der Antrag auf Eintragung ist seit dem **25.09.2026 beim Registergericht** eingereicht ([Details](/neuigkeiten/20260925_antrag_eintragung/)), der Notar geht von einer zügigen Eintragung aus. Bei dieser Veranstaltung erklären wir den Ablauf der Anteilszeichnung und der Einzahlung.
 
-Den genauen Termin geben wir bekannt, sobald die Eintragung durch ist — alle in unserer Interessentenliste erhalten dazu eine **persönliche Einladung** per Mail. Wer noch nicht eingetragen ist: über das [Kontaktformular auf der Startseite](/#kontaktformular).
+Den genauen Termin geben wir bekannt, sobald die Eintragung durch ist — alle Mitglieder erhalten dazu eine **persönliche Einladung** per Mail. Wer noch nicht Mitglied ist: [jetzt beitreten](/#mitglied-werden) oder eine kurze Mail an [info@buergerenergie-bhz.de](mailto:info@buergerenergie-bhz.de).
 
 ## Externe Webinare und Veranstaltungen
 

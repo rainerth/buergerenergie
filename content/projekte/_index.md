@@ -19,4 +19,4 @@ Die Bürgerenergie Bösingen-Herrenzimmern bündelt Bürgerkapital und bringt es
 
 Nach dem Schulkomplex bereitet die Genossenschaft weitere PV-Anlagen auf kommunalen und kirchlichen Dächern in Bösingen und Herrenzimmern vor, in Abstimmung mit Gemeinde und Kirchengemeinde. Perspektivisch kommt die Wärmeversorgung kommunaler Gebäude hinzu. Konkretes verabschieden die Gremien jeweils einzeln, nach dem Vorbild Schulkomplex.
 
-Du möchtest wissen, welches Projekt als nächstes kommt? Schreib uns über das [Kontaktformular](/#kontaktformular) — wir halten dich auf dem Laufenden.
+Du möchtest wissen, welches Projekt als nächstes kommt? Schreib uns an [info@buergerenergie-bhz.de](mailto:info@buergerenergie-bhz.de) — wir halten dich auf dem Laufenden.

@@ -187,7 +187,6 @@ Direkt auf der Startseite verlinkt:
 
 - **[Leitbild](/dokumente/leitbild/)** ([PDF](/dokumente/leitbild-beg.pdf))
 - **[Satzung (PDF)](/dokumente/satzung-beg.pdf)** — am 19. Mai 2026 von der Gründungsversammlung beschlossen
-- **[Absichtserklärung (PDF)](/absicht/Absichtserklaerung.pdf)** — unverbindliche Vorab-Bekundung deiner geplanten Einlage
 
 Die Satzung wurde von der Gründungsversammlung am 19. Mai 2026 einstimmig beschlossen.
 
@@ -195,4 +194,4 @@ Die Satzung wurde von der Gründungsversammlung am 19. Mai 2026 einstimmig besch
 
 ## Kontakt bei weiteren Fragen
 
-Hast du eine Frage, die hier nicht beantwortet ist? Schreib uns — nutze das [Kontaktformular](#kontaktformular) auf der Startseite oder meld dich als Interessent an. Wir freuen uns auf deine Fragen!
+Hast du eine Frage, die hier nicht beantwortet ist? Schreib uns an [info@buergerenergie-bhz.de](mailto:info@buergerenergie-bhz.de) — und wenn du wissen willst, wie und wann du Mitglied werden kannst, siehe den Abschnitt [Mitglied werden auf der Startseite](/#mitglied-werden). Wir freuen uns auf deine Fragen!

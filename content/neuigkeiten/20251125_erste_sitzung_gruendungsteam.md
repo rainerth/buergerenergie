@@ -68,5 +68,5 @@ Die nächste Sitzung des Gründungsteams findet am **9. Dezember 2025** im **alt
 Mit dieser Struktur ist das Gründungsteam nun gut aufgestellt, um die vielfältigen Aufgaben bei der Gründung einer Energiegenossenschaft systematisch anzugehen. Wir freuen uns auf die kommenden Wochen und halten dich über unsere Fortschritte auf dem Laufenden!
 
 {{< admonition type="tip" title="Du möchtest mitmachen?">}}
-Wenn du Interesse hast, dich in einer der Arbeitsgruppen zu engagieren, meld dich gerne über unser [Kontaktformular](/#kontaktformular).
+Wenn du Interesse hast, dich in einer der Arbeitsgruppen zu engagieren, meld dich gerne über unser [Kontaktformular](/#mitglied-werden).
 {{< /admonition >}}

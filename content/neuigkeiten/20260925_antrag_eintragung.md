@@ -36,4 +36,4 @@ Rund **200 Bürger aus Bösingen, Herrenzimmern und Umgebung** stehen hinter der
 
 ## Mitmachen
 
-Wer die Bürgerenergie Bösingen-Herrenzimmern unterstützen möchte, kann sich unverbindlich über das **[Kontaktformular auf der Startseite](/#kontaktformular)** eintragen oder direkt schreiben an [info@buergerenergie-bhz.de](mailto:info@buergerenergie-bhz.de).
+Wer die Bürgerenergie Bösingen-Herrenzimmern unterstützen möchte, kann sich unverbindlich über das **[Kontaktformular auf der Startseite](/#mitglied-werden)** eintragen oder direkt schreiben an [info@buergerenergie-bhz.de](mailto:info@buergerenergie-bhz.de).

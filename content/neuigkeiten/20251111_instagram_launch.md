@@ -44,7 +44,7 @@ Die AG Öffentlichkeitsarbeit ist eine von mehreren Arbeitsgruppen, die sich akt
 - Informationsmaterialien
 - Veranstaltungsorganisation
 
-**Du möchtest mitmachen?** Die Arbeitsgruppe freut sich über weitere engagierte Mitstreiterinnen und Mitstreiter. Nutze einfach unser [Kontaktformular](/#kontaktformular) und teil uns dein Interesse mit!
+**Du möchtest mitmachen?** Die Arbeitsgruppe freut sich über weitere engagierte Mitstreiterinnen und Mitstreiter. Nutze einfach unser [Kontaktformular](/#mitglied-werden) und teil uns dein Interesse mit!
 
 ---
 

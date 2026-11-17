@@ -108,4 +108,4 @@ Deine Ansprechpartner für die mögliche Gründung einer Bürgerenergiegenossens
 * Rainer Thieringer
 * Klaus Wizemann
 
-Wir freuen uns sehr auf den Austausch mit dir! Bitte sprich uns an oder nutze das [Kontaktformular](/#kontaktformular).
+Wir freuen uns sehr auf den Austausch mit dir! Bitte sprich uns an oder nutze das [Kontaktformular](/#mitglied-werden).

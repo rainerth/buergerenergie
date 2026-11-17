@@ -32,5 +32,5 @@ Nach intensiver Vorarbeit geht es nun in die konkrete Projektplanung. Wir wollen
 **Erzähl es weiter!** Je mehr Mitglieder wir zur Gründung haben, desto schneller können wir loslegen — in der Familie, im Freundeskreis, in der Nachbarschaft. Eine Einlage in die Genossenschaft ist **keine Spende**, sondern eine Investition in unsere Gemeinde, die nach den Anfangsjahren auch Rendite bringt. Mitglied kann man bereits **ab 100 € einmaliger Einlage** werden.
 
 {{< admonition type="tip" title="Gründungsmitglied werden?">}}
-Wer als Gründungsmitglied dabei sein möchte, sollte sich bald über unser [Kontaktformular](/#kontaktformular) eintragen!
+Wer als Gründungsmitglied dabei sein möchte, sollte sich bald über unser [Kontaktformular](/#mitglied-werden) eintragen!
 {{< /admonition >}}
