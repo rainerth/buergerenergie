@@ -48,9 +48,8 @@ Ja. Mit Zustimmung des Vorstands kannst du dich mit **weiteren Geschäftsanteile
 
 Ja. Die Satzung kennt keine Altersgrenze, und weil es **keine Nachschusspflicht** gibt (§ 40 der Satzung), ist das Risiko auf die Einlage begrenzt — der Beitritt eines Kindes ist damit haftungsrechtlich unkritisch. So geht's:
 
-- **Unterschrift**: Für Kinder unterschreiben die **gesetzlichen Vertreter** — bei gemeinsamer Sorge **beide Eltern**. Ab 7 Jahren unterschreibt das Kind zusätzlich selbst.
-- **Formular**: Das Online-Portal ist auf einen volljährigen Zeichner zugeschnitten. Für Kinder nutzen wir deshalb das **Papier-Beitrittsformular** — schick uns kurz eine Mail an {{< obf-mail user="info" domain="buergerenergie-bhz.de" >}}, wir senden es zu.
-- **Bankverbindung**: Entweder ein auf das Kind laufendes Konto oder das Konto der Eltern (dann die Eltern als Kontoinhaber:in eintragen).
+- **Online melden**: Die Eltern geben die Zeichnung ganz normal über das Online-Portal ein — **das Kind als Mitglied** (Name, Geburtsdatum, Anschrift), als Bankverbindung entweder ein auf das Kind laufendes Konto oder das Konto der Eltern (dann die Eltern als Kontoinhaber:in).
+- **Einwilligungs-Erklärung nachreichen**: Nach der Online-Meldung melden wir uns kurz und schicken euch eine **schriftliche Einwilligungs-Erklärung der gesetzlichen Vertreter** zu. Bei gemeinsamer Sorge unterschreiben **beide Eltern**; ab 7 Jahren unterschreibt das Kind zusätzlich selbst. Erst mit dieser Erklärung wird der Beitritt rechtswirksam.
 - **Stimmrecht**: Solange das Kind minderjährig ist, üben die gesetzlichen Vertreter das Stimmrecht aus (§ 26 Abs. 3 der Satzung).
 - **Steuer**: Das Kind hat einen eigenen Sparerpauschbetrag (1.000 €). Mit einer **NV-Bescheinigung** vom Finanzamt wird die Dividende ohne Kapitalertragsteuer ausgezahlt.
 
