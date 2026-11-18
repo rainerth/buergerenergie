@@ -44,6 +44,18 @@ Mitglied wird man durch den Erwerb mindestens eines **Geschäftsanteils** — da
 
 Ja. Mit Zustimmung des Vorstands kannst du dich mit **weiteren Geschäftsanteilen** beteiligen — sobald der erste voll eingezahlt ist. Das ist freiwillig. Beispiel: Bei unserer Partnerin in Sulz können Mitglieder zwischen 100 und 20.000 Euro investieren.
 
+### Können auch Kinder zeichnen?
+
+Ja. Die Satzung kennt keine Altersgrenze, und weil es **keine Nachschusspflicht** gibt (§ 40 der Satzung), ist das Risiko auf die Einlage begrenzt — der Beitritt eines Kindes ist damit haftungsrechtlich unkritisch. So geht's:
+
+- **Unterschrift**: Für Kinder unterschreiben die **gesetzlichen Vertreter** — bei gemeinsamer Sorge **beide Eltern**. Ab 7 Jahren unterschreibt das Kind zusätzlich selbst.
+- **Formular**: Das Online-Portal ist auf einen volljährigen Zeichner zugeschnitten. Für Kinder nutzen wir deshalb das **Papier-Beitrittsformular** — schick uns kurz eine Mail an {{< obf-mail user="info" domain="buergerenergie-bhz.de" >}}, wir senden es zu.
+- **Bankverbindung**: Entweder ein auf das Kind laufendes Konto oder das Konto der Eltern (dann die Eltern als Kontoinhaber:in eintragen).
+- **Stimmrecht**: Solange das Kind minderjährig ist, üben die gesetzlichen Vertreter das Stimmrecht aus (§ 26 Abs. 3 der Satzung).
+- **Steuer**: Das Kind hat einen eigenen Sparerpauschbetrag (1.000 €). Mit einer **NV-Bescheinigung** vom Finanzamt wird die Dividende ohne Kapitalertragsteuer ausgezahlt.
+
+Eine familiengerichtliche Genehmigung ist für diese Konstellation (Nachschusspflicht ausgeschlossen, Betrag im üblichen Zeichnungsrahmen) nach herrschender Meinung nicht nötig.
+
 ### Kann ich meine Einlage jederzeit zurückbekommen?
 
 Eine Genossenschaft braucht für ihre Investitionen — PV-Anlagen, Wärme, Speicher — verlässlich kalkulierbares Eigenkapital. Deshalb ist die Einlage **nicht jederzeit kündbar**, dafür gibt es aber mehrere geordnete Wege:
