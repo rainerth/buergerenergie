@@ -1,0 +1,12 @@
+# Schutz für /data/mitgliederkarte.geojson (enthält Namen + Adressen).
+# Andere Dateien in /data/ (z.B. öffentliche JSON-Downloads) bleiben offen.
+AuthType Basic
+AuthName "Bürgerenergie Bösingen-Herrenzimmern eG — Interner Bereich"
+AuthUserFile __HTPASSWD_PATH__
+
+<FilesMatch "mitgliederkarte\.geojson$">
+    Require valid-user
+</FilesMatch>
+
+# Kein Verzeichnis-Listing
+Options -Indexes

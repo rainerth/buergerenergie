@@ -194,6 +194,10 @@ public/
 assets/data/interessenten.csv
 static/intern/interessenten.csv
 
+# Mitgliederkarte GeoJSON (Symlink auf ~/data/beg/mitgliederkarte.geojson,
+# erzeugt vom Skill beg-coopx-map auf thlx06)
+static/data/mitgliederkarte.geojson
+
 # Apache authentication files (contain sensitive password hashes)
 .htpasswd
 *.htpasswd
@@ -218,6 +222,7 @@ backup/
 public/statistik/
 static/img/*_Preview.jpeg
 static/intern/.htaccess
+static/data/.htaccess
 resources/_gen/
 content/intern/interessenten.csv
 beg.code-workspace

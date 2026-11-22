@@ -1,9 +1,13 @@
 #!/bin/bash
+# Hugo-Build für buergerenergie-bhz.de
+# Baut den geschützten /intern/-Bereich mit basic-auth und zieht die
+# Mitgliederkarte-GeoJSON aus einem lokalen Daten-Ordner in die Site.
 
-# Build script for Hugo site with environment-specific configuration
+set -e
+
 echo "🏗️  Building Hugo site..."
 
-# Load configuration
+# Config laden (für HTPASSWD_SERVER_PATH und GEOJSON_SOURCE_PATH)
 if [ -f "config.env" ]; then
     echo "📋 Loading configuration from config.env..."
     source config.env
@@ -12,55 +16,52 @@ else
     exit 1
 fi
 
-# Validate CSV source path
-if [ ! -f "$CSV_SOURCE_PATH" ]; then
-    echo "❌ CSV source file not found: $CSV_SOURCE_PATH"
-    echo "💡 Please check config.env and ensure CSV_SOURCE_PATH points to existing file"
-    exit 1
-fi
+# -----------------------------------------------------------------------------
+# Mitgliederkarte: GeoJSON-Symlink
+# -----------------------------------------------------------------------------
+mkdir -p static/data
+GEOJSON_TARGET="static/data/mitgliederkarte.geojson"
+# Bestehenden Symlink/Datei wegräumen (idempotent)
+[ -L "$GEOJSON_TARGET" ] && rm "$GEOJSON_TARGET"
+[ -f "$GEOJSON_TARGET" ] && rm "$GEOJSON_TARGET"
 
-# Create symlinks for CSV data
-echo "🔗 Creating CSV symlinks..."
-
-# Remove existing symlinks/files
-[ -L "$ASSETS_CSV_PATH" ] && rm "$ASSETS_CSV_PATH"
-[ -f "$ASSETS_CSV_PATH" ] && rm "$ASSETS_CSV_PATH"
-[ -L "$STATIC_CSV_PATH" ] && rm "$STATIC_CSV_PATH"
-[ -f "$STATIC_CSV_PATH" ] && rm "$STATIC_CSV_PATH"
-
-# Create directory if needed
-mkdir -p "$(dirname "$ASSETS_CSV_PATH")"
-mkdir -p "$(dirname "$STATIC_CSV_PATH")"
-
-# Create symlinks
-ln -s "$(realpath "$CSV_SOURCE_PATH")" "$ASSETS_CSV_PATH"
-ln -s "$(realpath "$CSV_SOURCE_PATH")" "$STATIC_CSV_PATH"
-
-echo "✅ CSV symlinks created:"
-echo "   📊 Assets: $ASSETS_CSV_PATH -> $CSV_SOURCE_PATH"
-echo "   � Download: $STATIC_CSV_PATH -> $CSV_SOURCE_PATH"
-
-# Configure .htaccess with correct path
-echo "🔐 Configuring Apache authentication..."
-if [ -f "static/intern/.htaccess.template" ]; then
-    # Use the template to generate .htaccess with server path
-    sed "s|__HTPASSWD_PATH__|$HTPASSWD_SERVER_PATH|g" static/intern/.htaccess.template > static/intern/.htaccess
-    echo "✅ .htaccess configured with: $HTPASSWD_SERVER_PATH"
+if [ -n "${GEOJSON_SOURCE_PATH:-}" ] && [ -f "$GEOJSON_SOURCE_PATH" ]; then
+    ln -s "$(realpath "$GEOJSON_SOURCE_PATH")" "$GEOJSON_TARGET"
+    echo "🗺️  Mitgliederkarte-Symlink: $GEOJSON_TARGET -> $GEOJSON_SOURCE_PATH"
 else
-    echo "❌ .htaccess.template not found! Please ensure template exists."
+    echo "⚠️  Keine Mitgliederkarte-GeoJSON gefunden (GEOJSON_SOURCE_PATH=${GEOJSON_SOURCE_PATH:-unset})."
+    echo "    Karte wird leer angezeigt, Build läuft trotzdem durch."
+fi
+
+# -----------------------------------------------------------------------------
+# .htaccess für geschützte Bereiche aus Template rendern
+# -----------------------------------------------------------------------------
+echo "🔐 Rendere .htaccess-Dateien..."
+if [ -f "static/intern/.htaccess.template" ]; then
+    sed "s|__HTPASSWD_PATH__|$HTPASSWD_SERVER_PATH|g" \
+        static/intern/.htaccess.template > static/intern/.htaccess
+    echo "✅ static/intern/.htaccess ($HTPASSWD_SERVER_PATH)"
+else
+    echo "❌ static/intern/.htaccess.template not found!"
     exit 1
 fi
 
-# Build the Hugo site
+if [ -f "static/data/.htaccess.template" ]; then
+    sed "s|__HTPASSWD_PATH__|$HTPASSWD_SERVER_PATH|g" \
+        static/data/.htaccess.template > static/data/.htaccess
+    echo "✅ static/data/.htaccess ($HTPASSWD_SERVER_PATH)"
+fi
+
+# -----------------------------------------------------------------------------
+# Hugo-Build + PageFind
+# -----------------------------------------------------------------------------
 hugo --cleanDestinationDir --buildFuture
 
 if [ $? -eq 0 ]; then
     echo "✅ Hugo build successful!"
-
-    # Run PageFind with exclusion of internal/protected areas
-    # Documentation: See PAGEFIND.md for detailed configuration explanation
     echo "🔍 Generating search index with PageFind (excluding internal areas)..."
-    npx pagefind --site public --output-subdir pagefind --exclude-selectors "[data-pagefind-ignore], .intern-content, #intern"
+    npx pagefind --site public --output-subdir pagefind \
+        --exclude-selectors "[data-pagefind-ignore], .intern-content, #intern"
 
     if [ $? -eq 0 ]; then
         echo "✅ PageFind index generated successfully!"

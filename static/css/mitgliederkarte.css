@@ -1,0 +1,195 @@
+/* BEG-Mitgliederkarte — Leaflet-Styles */
+
+:root {
+    --mk-blau: #2763a5;
+    --mk-gold: #f9b61d;
+    --mk-dark: #1a262e;
+}
+
+#mitgliederkarte {
+    width: 100%;
+    height: 720px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background: #f8f9fa;
+}
+
+@media (max-width: 768px) {
+    #mitgliederkarte {
+        height: calc(100vh - 220px);
+        min-height: 400px;
+    }
+}
+
+.mk-stats {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px 14px;
+    margin-bottom: 10px;
+    font-size: 0.95em;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    align-items: center;
+}
+
+.mk-stats .mk-stat {
+    display: inline-flex;
+    gap: 6px;
+    align-items: baseline;
+}
+
+.mk-stats .mk-stat-value {
+    font-weight: bold;
+    font-size: 1.1em;
+    color: var(--mk-blau);
+}
+
+.mk-stats .mk-generated {
+    margin-left: auto;
+    color: #888;
+    font-size: 0.85em;
+}
+
+/* Marker-Icons (Circle-Marker via divIcon) */
+.mk-marker {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-weight: bold;
+    font-size: 0.75em;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+}
+
+.mk-marker-mitglied {
+    background: var(--mk-blau);
+}
+
+.mk-marker-bewerber {
+    background: var(--mk-gold);
+    color: var(--mk-dark);
+}
+
+/* Popup */
+.leaflet-popup-content {
+    font-size: 0.95em;
+    line-height: 1.5;
+    min-width: 200px;
+}
+
+.leaflet-popup-content h4 {
+    margin: 0 0 6px 0;
+    color: var(--mk-blau);
+    font-size: 1.05em;
+}
+
+.leaflet-popup-content .mk-popup-row {
+    display: flex;
+    gap: 6px;
+}
+
+.leaflet-popup-content .mk-popup-label {
+    color: #666;
+    min-width: 90px;
+}
+
+.leaflet-popup-content .mk-badge {
+    display: inline-block;
+    padding: 1px 8px;
+    border-radius: 10px;
+    font-size: 0.85em;
+    font-weight: bold;
+    color: #fff;
+}
+
+.leaflet-popup-content .mk-badge-mitglied {
+    background: var(--mk-blau);
+}
+
+.leaflet-popup-content .mk-badge-bewerber {
+    background: var(--mk-gold);
+    color: var(--mk-dark);
+}
+
+/* Legende (Filter) */
+.mk-legend {
+    background: #fff;
+    padding: 10px 14px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 0.9em;
+    line-height: 1.6;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+.mk-legend h4 {
+    margin: 0 0 6px 0;
+    font-size: 0.95em;
+    color: var(--mk-dark);
+}
+
+.mk-legend label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    user-select: none;
+    margin-bottom: 2px;
+}
+
+.mk-legend .mk-swatch {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.mk-legend .mk-swatch-mitglied { background: var(--mk-blau); }
+.mk-legend .mk-swatch-bewerber { background: var(--mk-gold); }
+
+.mk-legend button {
+    margin-top: 6px;
+    width: 100%;
+    padding: 4px 8px;
+    background: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 0.85em;
+}
+
+.mk-legend button:hover {
+    background: #e0e0e0;
+}
+
+/* Suche */
+.mk-search {
+    background: #fff;
+    padding: 6px 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+.mk-search input {
+    border: none;
+    outline: none;
+    padding: 4px 6px;
+    font-size: 0.95em;
+    width: 180px;
+}
+
+/* Cluster-Icons an BEG-Farben anpassen */
+.marker-cluster-small div { background-color: rgba(39, 99, 165, 0.6); }
+.marker-cluster-small      { background-color: rgba(39, 99, 165, 0.3); }
+.marker-cluster-medium div { background-color: rgba(39, 99, 165, 0.7); }
+.marker-cluster-medium     { background-color: rgba(39, 99, 165, 0.4); }
+.marker-cluster-large div  { background-color: rgba(39, 99, 165, 0.8); }
+.marker-cluster-large      { background-color: rgba(39, 99, 165, 0.5); }
+.marker-cluster div { color: #fff; }

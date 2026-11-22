@@ -88,9 +88,11 @@ Die Daten werden ausschließlich im engsten zur Aufgabenerledigung erforderliche
 
 **Aufbewahrung:** Daten von Mitgliedern werden gemäß den gesetzlichen Aufbewahrungspflichten (i. d. R. 10 Jahre nach Ausscheiden) aufbewahrt.
 
-## 9. Mitgliederverwaltung (CoopX)
+## 9. Mitgliederverwaltung (CoopX) und interne Übersichten
 
 Seit Eintragung der Genossenschaft am 15. Oktober 2026 betreiben wir die Mitgliederverwaltung über die Software **CoopX** (CoopX UG, Deutschland). CoopX verarbeitet die Stammdaten der Mitglieder, Geschäftsanteile, Zahlungen sowie zugehörige Korrespondenz auf in der EU gehosteten Servern. Ein Auftragsverarbeitungsvertrag (AVV) nach Art. 28 DSGVO ist geschlossen.
+
+Zur Erfüllung seiner gesetzlichen Aufgaben nach § 30 GenG (Führung des Mitgliederverzeichnisses) führt der Vorstand eine **interne räumliche Übersicht** der Mitglieder- und Bewerber:innen-Anschriften. Diese Übersicht ist ausschließlich in einem passwortgeschützten Bereich unserer Website hinterlegt und nur den Vorstandsmitgliedern zugänglich. Rechtsgrundlage ist Art. 6 Abs. 1 lit. c DSGVO i. V. m. § 30 GenG. Für die Umwandlung von Anschriften in Koordinaten übermitteln wir ausschließlich die Adressdaten (Straße, Postleitzahl, Ort, Land) datensparsam an den Geokodierungs­dienst **Nominatim** der OpenStreetMap Foundation (UK). Namen und andere personenbezogene Daten verlassen unser System nicht. Eine Weitergabe der Karte an Dritte findet nicht statt.
 
 ## 10. Soziale Medien
 
@@ -129,8 +131,8 @@ Anfragen richten Sie bitte formlos an {{< obf-mail user="info" domain="buergeren
 
 ## 13. Änderungen dieser Erklärung
 
-Wir passen diese Datenschutzerklärung an, wenn sich Änderungen an den Verarbeitungsvorgängen ergeben. Zuletzt überarbeitet am 17. November 2026 anlässlich der Registereintragung der Genossenschaft am 15. Oktober 2026 und der Umstellung der Mitgliederverwaltung auf CoopX.
+Wir passen diese Datenschutzerklärung an, wenn sich Änderungen an den Verarbeitungsvorgängen ergeben. Zuletzt überarbeitet am 22. November 2026 (Ergänzung zur internen räumlichen Mitglieder-Übersicht in § 9).
 
 ---
 
-*Stand: 17. November 2026*
+*Stand: 22. November 2026*
