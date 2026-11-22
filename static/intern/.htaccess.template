@@ -12,10 +12,12 @@ Require valid-user
     Header always set Referrer-Policy "strict-origin-when-cross-origin"
 </IfModule>
 
-# Kein Verzeichnis-Listing
-Options -Indexes
-
-# .htpasswd + .htaccess selbst nicht ausliefern
-<FilesMatch "^\.(htaccess|htpasswd)$">
-    Require all denied
-</FilesMatch>
+# .htpasswd + .htaccess selbst nicht ausliefern (Apache 2.2-Syntax)
+<Files ".htpasswd">
+    Order deny,allow
+    Deny from all
+</Files>
+<Files ".htaccess">
+    Order deny,allow
+    Deny from all
+</Files>
