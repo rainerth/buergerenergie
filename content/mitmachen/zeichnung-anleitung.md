@@ -37,7 +37,7 @@ Aktuell benötigen wir Anteile zu Finanzierung unseres ersten Projekts: die **PV
 - Eine **gültige E-Mail-Adresse** (für die Kontoerstellung und spätere Bestätigungen)
 - Deine **Anschrift** und dein **Geburtsdatum**
 - Die **IBAN** des Kontos, von dem die Einlage per SEPA-Lastschrift eingezogen werden darf
-- Die **Steuernummer**, so dass wir alle Meldungen zu Einnahmen effizient an die amtlichen Stellen melden können. Wenn nicht zur Hand, kann diese jederzeit nachgereicht werden. 
+- Die **Steueridentifikationsnummer** (Steuer-ID nach § 139b AO, die 11-stellige persönliche Nummer), so dass wir alle Meldungen zu Einnahmen effizient an die amtlichen Stellen melden können. Wenn nicht zur Hand, kann diese jederzeit nachgereicht werden. 
 - Die Anzahl Anteile, die du zeichnen möchtest (1 Anteil = 100 €, Phase 1 bis maximal 15 Anteile)
 
 ## Schritt 1 — Zeichnungs-Portal öffnen
@@ -76,7 +76,7 @@ Trage deine Daten ein:
 - E-Mail-Adresse und Telefon
 - **Anzahl der Geschäftsanteile**, die du zeichnen möchtest
 - IBAN für den SEPA-Lastschrift-Einzug
-- die Steuernummer
+- die Steueridentifikationsnummer
 
 Die letzten beiden Punkte helfen uns sehr die genossenschaftlichen Pflichten im Rahmen der Mitgliederverwaltung mit vertretbarem Aufwand durchzuführen.  
 {{< figure src="/img/coopx/03-antrag.png" alt="CoopX-Beitrittsformular ausgefüllt" caption="Das Beitrittsformular im CoopX-Portal." >}}
