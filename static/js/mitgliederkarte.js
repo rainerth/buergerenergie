@@ -46,6 +46,40 @@
         `;
     }
 
+    /**
+     * Deterministischer Jitter für Features, die auf exakt denselben Koordinaten
+     * sitzen (Familien an einer Adresse). Verteilt sie auf einen Kreis mit
+     * ~15 m Radius, Winkel aus dem Index in der Gruppe.
+     */
+    function applyJitter(features) {
+        const groups = new Map();
+        for (const ft of features) {
+            const [lon, lat] = ft.geometry.coordinates;
+            const key = `${lat.toFixed(6)},${lon.toFixed(6)}`;
+            if (!groups.has(key)) groups.set(key, []);
+            groups.get(key).push(ft);
+        }
+        const R = 0.00015; // ca. 15 m bei lat 48°
+        for (const grp of groups.values()) {
+            if (grp.length < 2) continue;
+            // Sortiert nach Mitgliedsnummer → stabile Reihenfolge
+            grp.sort((a, b) =>
+                parseInt(a.properties.mitgliedsnummer) -
+                parseInt(b.properties.mitgliedsnummer));
+            const n = grp.length;
+            for (let i = 0; i < n; i++) {
+                const angle = (2 * Math.PI * i) / n - Math.PI / 2;
+                const [lon0, lat0] = grp[i].geometry.coordinates;
+                // Längengrad bei lat 48° stauchen (cos(48°) ≈ 0.669)
+                grp[i].geometry.coordinates = [
+                    lon0 + (R * Math.cos(angle)) / Math.cos(lat0 * Math.PI / 180),
+                    lat0 + R * Math.sin(angle),
+                ];
+                grp[i].properties._jittered = true;
+            }
+        }
+    }
+
     function markerFor(feature) {
         const p = feature.properties;
         const isMitglied = p.stadium === 'Mitglied';
@@ -171,6 +205,7 @@
     }
 
     function init(geojson) {
+        applyJitter(geojson.features);
         state.features = geojson.features;
         renderStats(geojson.stats, geojson.generated_at);
 
@@ -181,9 +216,11 @@
         }).addTo(state.map);
 
         state.cluster = L.markerClusterGroup({
-            disableClusteringAtZoom: 15,
+            maxClusterRadius: 40,
             spiderfyOnMaxZoom: true,
             showCoverageOnHover: false,
+            spiderfyDistanceMultiplier: 1.5,
+            disableClusteringAtZoom: 18,
         });
         state.map.addLayer(state.cluster);
 
