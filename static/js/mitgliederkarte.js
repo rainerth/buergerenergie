@@ -84,12 +84,12 @@
         const p = feature.properties;
         const isMitglied = p.stadium === 'Mitglied';
         const [lon, lat] = feature.geometry.coordinates;
-        const size = Math.max(22, Math.min(44, 20 + Math.sqrt(p.anteile || 1) * 4));
+        const size = 28;
         const cls = isMitglied ? 'mk-marker-mitglied' : 'mk-marker-bewerber';
         const icon = L.divIcon({
             className: '',
             html: `<div class="mk-marker ${cls}"
-                        style="width:${size}px;height:${size}px">${p.anteile}</div>`,
+                        style="width:${size}px;height:${size}px"></div>`,
             iconSize: [size, size],
             iconAnchor: [size / 2, size / 2],
         });
@@ -103,12 +103,6 @@
         const badge = p.stadium === 'Mitglied'
             ? '<span class="mk-badge mk-badge-mitglied">Mitglied</span>'
             : '<span class="mk-badge mk-badge-bewerber">Bewerber:in</span>';
-        const seit = p.mitglied_seit
-            ? `<div class="mk-popup-row"><span class="mk-popup-label">Mitglied seit:</span><span>${fmtDate(p.mitglied_seit)}</span></div>`
-            : '';
-        const beantragt = p.beantragt_am
-            ? `<div class="mk-popup-row"><span class="mk-popup-label">Beantragt:</span><span>${fmtDate(p.beantragt_am)}</span></div>`
-            : '';
         const ortsteil = p.ortsteil
             ? ` · ${escape(p.ortsteil)}`
             : '';
@@ -117,12 +111,9 @@
             : '';
         return `
           <h4>Nr. ${escape(p.mitgliedsnummer)} — ${escape(p.name)}</h4>
-          <div class="mk-popup-row">${badge} · <strong>${p.anteile}</strong> Anteile
-            (${fmtEuro(p.anteile * 100)})</div>
+          <div class="mk-popup-row">${badge}</div>
           <div class="mk-popup-row"><span class="mk-popup-label">Anschrift:</span>
             <span>${escape(p.strasse)}<br>${escape(p.plz)} ${escape(p.ort)}${ortsteil}</span></div>
-          ${seit}
-          ${beantragt}
           ${accuracyHint}
         `;
     }
